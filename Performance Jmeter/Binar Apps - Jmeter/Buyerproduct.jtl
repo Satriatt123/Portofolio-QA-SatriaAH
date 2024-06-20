@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695972309747,195,Login,201,Created,Buyer Product 1-1,text,true,,482,277,4,4,https://market-final-project.binaracademy.org/auth/login,194,0,57
+1695972309805,314,Login,201,Created,Buyer Product 1-2,text,true,,482,277,8,8,https://market-final-project.binaracademy.org/auth/login,314,0,61
+1695972309854,357,Login,201,Created,Buyer Product 1-3,text,true,,482,277,10,10,https://market-final-project.binaracademy.org/auth/login,357,0,59
+1695972309907,384,Login,201,Created,Buyer Product 1-4,text,true,,482,277,11,11,https://market-final-project.binaracademy.org/auth/login,384,0,56
+1695972309942,421,Buy product,200,OK,Buyer Product 1-1,text,true,,1197,235,13,13,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,421,0,39
+1695972309948,603,Login,201,Created,Buyer Product 1-5,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,603,0,54
+1695972310005,634,Login,201,Created,Buyer Product 1-6,text,true,,482,277,18,18,https://market-final-project.binaracademy.org/auth/login,634,0,48
+1695972310104,626,Login,201,Created,Buyer Product 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,625,0,50
+1695972310049,752,Login,201,Created,Buyer Product 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,752,0,53
+1695972310212,670,Buy product,200,OK,Buyer Product 1-3,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,669,0,49
+1695972310119,763,Buy product,200,OK,Buyer Product 1-2,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,762,0,52
+1695972310254,628,Login,201,Created,Buyer Product 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,627,0,48
+1695972310363,578,Buy product ID,200,OK,Buyer Product 1-1,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,578,0,0
+1695972310353,728,Login,201,Created,Buyer Product 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,728,0,53
+1695972310305,856,Login,201,Created,Buyer Product 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,856,0,46
+1695972310404,837,Login,201,Created,Buyer Product 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,836,0,59
+1695972310501,820,Login,201,Created,Buyer Product 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,820,0,53
+1695972310292,1029,Buy product,200,OK,Buyer Product 1-4,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1029,0,53
+1695972310552,839,Login,201,Created,Buyer Product 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,839,0,70
+1695972310551,920,Buy product,200,OK,Buyer Product 1-5,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,920,0,56
+1695972310730,761,Buy product,200,OK,Buyer Product 1-8,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,761,0,53
+1695972310882,689,Buy product ID,200,OK,Buyer Product 1-3,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,689,0,0
+1695972310882,689,Buy product ID,200,OK,Buyer Product 1-2,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,689,0,0
+1695972310700,872,Login,201,Created,Buyer Product 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,871,0,63
+1695972310941,698,Login,201,Created,Buyer Product 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,698,0,0
+1695972310156,1525,Login,201,Created,Buyer Product 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1525,0,468
+1695972310802,929,Buy product,200,OK,Buyer Product 1-7,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,929,0,62
+1695972310882,868,Buy product,200,OK,Buyer Product 1-11,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,868,0,60
+1695972311321,450,Buy product ID,200,OK,Buyer Product 1-4,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,450,0,0
+1695972311241,610,Buy product,200,OK,Buyer Product 1-14,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,610,0,52
+1695972310651,1280,Login,201,Created,Buyer Product 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1280,0,492
+1695972311572,439,Login,201,Created,Buyer Product 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,439,0,0
+1695972311471,605,Buy product ID,200,OK,Buyer Product 1-5,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,605,0,0
+1695972311321,755,Buy product,200,OK,Buyer Product 1-16,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,755,0,41
+1695972311572,504,Login,201,Created,Buyer Product 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,504,0,0
+1695972311491,600,Buy product ID,200,OK,Buyer Product 1-8,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,600,0,0
+1695972311391,700,Buy product,200,OK,Buyer Product 1-17,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,700,0,50
+1695972311750,503,Buy product ID,200,OK,Buyer Product 1-11,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,503,0,0
+1695972311731,522,Buy product ID,200,OK,Buyer Product 1-7,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,522,0,0
+1695972311639,692,Buy product,200,OK,Buyer Product 1-1,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,692,0,43
+1695972311851,570,Buy product ID,200,OK,Buyer Product 1-14,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,570,0,0
+1695972311771,650,Login,201,Created,Buyer Product 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,650,0,0
+1695972310204,2247,Login,201,Created,Buyer Product 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,2247,0,1449
+1695972312076,414,Buy product ID,200,OK,Buyer Product 1-16,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,414,0,0
+1695972311681,810,Buy product,200,OK,Buyer Product 1-9,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,810,0,50
+1695972312076,415,Login,201,Created,Buyer Product 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,414,0,0
+1695972312091,410,Buy product ID,200,OK,Buyer Product 1-17,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,410,0,0
+1695972312091,490,Login,201,Created,Buyer Product 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,490,0,0
+1695972312255,405,Login,201,Created,Buyer Product 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,405,0,0
+1695972312331,349,Buy product ID,200,OK,Buyer Product 1-1,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,349,0,0
+1695972312255,486,Login,201,Created,Buyer Product 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,486,0,0
+1695972312421,401,Login,201,Created,Buyer Product 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,401,0,0
+1695972312076,765,Buy product,200,OK,Buyer Product 1-2,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,765,0,55
+1695972312491,510,Buy product ID,200,OK,Buyer Product 1-9,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,510,0,0
+1695972312501,500,Login,201,Created,Buyer Product 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,500,0,0
+1695972311931,1090,Buy product,200,OK,Buyer Product 1-19,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1090,0,450
+1695972312491,590,Login,201,Created,Buyer Product 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,589,0,0
+1695972312421,740,Buy product,200,OK,Buyer Product 1-4,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,740,0,50
+1695972312680,481,Login,201,Created,Buyer Product 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,481,0,0
+1695972312660,722,Buy product,200,OK,Buyer Product 1-11,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,722,0,51
+1695972312841,560,Buy product ID,200,OK,Buyer Product 1-2,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,560,0,0
+1695972312581,820,Buy product,200,OK,Buyer Product 1-8,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,820,0,50
+1695972312741,820,Buy product,200,OK,Buyer Product 1-7,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,820,0,52
+1695972313001,560,Login,201,Created,Buyer Product 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,560,0,0
+1695972313161,440,Buy product ID,200,OK,Buyer Product 1-4,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,440,0,0
+1695972312823,818,Buy product,200,OK,Buyer Product 1-14,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,818,0,48
+1695972313382,280,Buy product ID,200,OK,Buyer Product 1-11,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,280,0,0
+1695972313401,310,Buy product ID,200,OK,Buyer Product 1-8,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,310,0,0
+1695972313021,760,Buy product ID,200,OK,Buyer Product 1-19,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,760,0,0
+1695972312451,1420,Buy product,200,OK,Buyer Product 1-10,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1420,0,450
+1695972313401,470,Login,201,Created,Buyer Product 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,470,0,0
+1695972313161,790,Buy product,200,OK,Buyer Product 1-1,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,790,0,51
+1695972313561,410,Buy product ID,200,OK,Buyer Product 1-7,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,410,0,0
+1695972313641,389,Buy product ID,200,OK,Buyer Product 1-14,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,389,0,0
+1695972313601,510,Login,201,Created,Buyer Product 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,510,0,0
+1695972313662,689,Login,201,Created,Buyer Product 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,689,0,0
+1695972313872,559,Buy product,200,OK,Buyer Product 1-2,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,559,0,49
+1695972313561,870,Buy product,200,OK,Buyer Product 1-9,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,870,0,41
+1695972313712,720,Login,201,Created,Buyer Product 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,719,0,0
+1695972313951,509,Buy product ID,200,OK,Buyer Product 1-1,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,509,0,0
+1695972313971,650,Login,201,Created,Buyer Product 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,649,0,0
+1695972310599,4042,Login,201,Created,Buyer Product 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,4041,0,3094
+1695972314030,662,Login,201,Created,Buyer Product 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,661,0,0
+1695972314111,610,Buy product,200,OK,Buyer Product 1-4,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,610,0,50
+1695972314431,310,Buy product ID,200,OK,Buyer Product 1-9,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,310,0,0
+1695972314431,340,Buy product ID,200,OK,Buyer Product 1-2,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,340,0,0
+1695972311572,3259,Buy product,200,OK,Buyer Product 1-20,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,3259,0,1811
+1695972314351,580,Buy product,200,OK,Buyer Product 1-11,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,580,0,50
+1695972314461,470,Login,201,Created,Buyer Product 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,470,0,0
+1695972314721,240,Buy product ID,200,OK,Buyer Product 1-4,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,240,0,0
+1695972310451,4550,Login,201,Created,Buyer Product 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,4549,0,3032
+1695972314741,372,Login,201,Created,Buyer Product 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,372,0,0
+1695972314692,489,Buy product,200,OK,Buyer Product 1-14,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,489,0,50
+1695972314641,540,Buy product,200,OK,Buyer Product 1-18,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,540,0,51
+1695972314771,410,Login,201,Created,Buyer Product 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,410,0,0
+1695972314931,270,Buy product ID,200,OK,Buyer Product 1-11,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,270,0,0
+1695972313872,1379,Buy product ID,200,OK,Buyer Product 1-10,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,1379,0,0
+1695972314961,399,Login,201,Created,Buyer Product 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,399,0,0
+1695972314831,560,Buy product ID,200,OK,Buyer Product 1-20,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,560,0,0
+1695972315181,320,Buy product ID,200,OK,Buyer Product 1-14,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,320,0,0
+1695972314931,570,Buy product,200,OK,Buyer Product 1-1,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,570,0,50
+1695972315181,342,Buy product ID,200,OK,Buyer Product 1-18,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,342,0,0
+1695972313781,1742,Login,201,Created,Buyer Product 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1742,0,0
+1695972310639,4942,Buy product,200,OK,Buyer Product 1-6,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,4942,0,3473
+1695972315001,660,Buy product,200,OK,Buyer Product 1-15,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,660,0,50
+1695972315114,547,Buy product,200,OK,Buyer Product 1-9,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,547,0,47
+1695972315201,460,Login,201,Created,Buyer Product 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,460,0,0
+1695972311161,4543,Buy product,200,OK,Buyer Product 1-12,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,4543,0,1458
+1695972311081,4640,Buy product,200,OK,Buyer Product 1-13,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,4640,0,2460
+1695972315182,735,Buy product,200,OK,Buyer Product 1-2,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,735,0,49
+1695972312011,3929,Buy product,200,OK,Buyer Product 1-3,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,3929,0,441
+1695972315501,490,Buy product ID,200,OK,Buyer Product 1-1,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,490,0,0
+1695972315361,630,Buy product,200,OK,Buyer Product 1-4,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,630,0,50
+1695972315501,491,Login,201,Created,Buyer Product 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,491,0,0
+1695972314432,1580,Buy product,200,OK,Buyer Product 1-8,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1580,0,459
+1695972315251,762,Login,201,Created,Buyer Product 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,761,0,0
+1695972315662,411,Buy product ID,200,OK,Buyer Product 1-15,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,411,0,0
+1695972315523,549,Login,201,Created,Buyer Product 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,549,0,0
+1695972315662,430,Buy product ID,200,OK,Buyer Product 1-9,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,430,0,0
+1695972315391,720,Login,201,Created,Buyer Product 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,720,0,0
+1695972315582,625,Buy product ID,200,OK,Buyer Product 1-6,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,625,0,0
+1695972315523,683,Buy product,200,OK,Buyer Product 1-19,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,683,0,58
+1695972315918,333,Buy product ID,200,OK,Buyer Product 1-2,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,333,0,0
+1695972315993,349,Buy product ID,200,OK,Buyer Product 1-4,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,349,0,0
+1695972315722,709,Buy product ID,200,OK,Buyer Product 1-13,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,709,0,0
+1695972315663,788,Buy product,200,OK,Buyer Product 1-11,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,788,0,43
+1695972315993,458,Login,201,Created,Buyer Product 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,458,0,0
+1695972315942,549,Buy product ID,200,OK,Buyer Product 1-3,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,549,0,0
+1695972316014,557,Buy product ID,200,OK,Buyer Product 1-8,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,557,0,0
+1695972315993,668,Buy product,200,OK,Buyer Product 1-14,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,668,0,49
+1695972316073,588,Login,201,Created,Buyer Product 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,588,0,0
+1695972313081,3630,Buy product,200,OK,Buyer Product 1-16,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,3630,0,1110
+1695972316014,717,Buy product,200,OK,Buyer Product 1-10,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,717,0,44
+1695972316207,604,Buy product ID,200,OK,Buyer Product 1-19,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,604,0,0
+1695972316092,720,Login,201,Created,Buyer Product 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,719,0,0
+1695972316251,750,Login,201,Created,Buyer Product 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,750,0,0
+1695972316342,739,Login,201,Created,Buyer Product 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,739,0,0
+1695972315706,1435,Buy product ID,200,OK,Buyer Product 1-12,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,1435,0,0
+1695972316074,1088,Buy product,200,OK,Buyer Product 1-18,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1088,0,39
+1695972313001,4199,Buy product,200,OK,Buyer Product 1-17,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,4199,0,2610
+1695972316451,790,Buy product ID,200,OK,Buyer Product 1-11,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,790,0,0
+1695972316207,1160,Login,201,Created,Buyer Product 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1160,0,0
+1695972316452,949,Buy product,200,OK,Buyer Product 1-1,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,949,0,40
+1695972316661,740,Buy product ID,200,OK,Buyer Product 1-14,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,740,0,0
+1695972316731,700,Buy product ID,200,OK,Buyer Product 1-10,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,700,0,0
+1695972316662,799,Buy product,200,OK,Buyer Product 1-15,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,799,0,51
+1695972316491,1010,Login,201,Created,Buyer Product 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1010,0,0
+1695972317162,439,Buy product ID,200,OK,Buyer Product 1-18,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,439,0,0
+1695972316712,889,Buy product ID,200,OK,Buyer Product 1-16,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,889,0,0
+1695972316812,869,Login,201,Created,Buyer Product 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,869,0,0
+1695972317001,750,Buy product,200,OK,Buyer Product 1-2,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,750,0,51
+1695972317241,511,Login,201,Created,Buyer Product 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,510,0,0
+1695972317402,389,Buy product ID,200,OK,Buyer Product 1-1,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,389,0,0
+1695972317141,650,Login,201,Created,Buyer Product 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,650,0,0
+1695972317461,380,Buy product ID,200,OK,Buyer Product 1-15,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,380,0,0
+1695972314621,3342,Buy product,200,OK,Buyer Product 1-7,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,3342,0,1452
+1695972317431,533,Login,201,Created,Buyer Product 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,533,0,0
+1695972317402,629,Login,201,Created,Buyer Product 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,629,0,0
+1695972312491,5581,Buy product,200,OK,Buyer Product 1-5,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,5581,0,3450
+1695972317367,834,Buy product,200,OK,Buyer Product 1-6,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,834,0,35
+1695972317602,599,Login,201,Created,Buyer Product 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,599,0,0
+1695972317752,469,Buy product ID,200,OK,Buyer Product 1-2,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,469,0,0
+1695972317082,1229,Buy product,200,OK,Buyer Product 1-4,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1229,0,440
+1695972317602,709,Login,201,Created,Buyer Product 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,709,0,0
+1695972317792,599,Login,201,Created,Buyer Product 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,599,0,0
+1695972317681,784,Buy product,200,OK,Buyer Product 1-19,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,784,0,51
+1695972317501,964,Buy product,200,OK,Buyer Product 1-3,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,964,0,51
+1695972317841,624,Login,201,Created,Buyer Product 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,624,0,0
+1695972317792,691,Buy product,200,OK,Buyer Product 1-12,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,691,0,50
+1695972318201,310,Buy product ID,200,OK,Buyer Product 1-6,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,310,0,0
+1695972316431,2168,Login,201,Created,Buyer Product 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,2168,0,0
+1695972318465,217,Buy product ID,200,OK,Buyer Product 1-19,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,217,0,0
+1695972318221,461,Login,201,Created,Buyer Product 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,460,0,0
+1695972316571,2111,Login,201,Created,Buyer Product 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,2110,0,0
+1695972318465,236,Buy product ID,200,OK,Buyer Product 1-3,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,236,0,0
+1695972317964,737,Buy product,200,OK,Buyer Product 1-10,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,737,0,47
+1695972318483,238,Buy product ID,200,OK,Buyer Product 1-12,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,238,0,0
+1695972318031,711,Buy product,200,OK,Buyer Product 1-14,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,711,0,43
+1695972316812,1989,Buy product,200,OK,Buyer Product 1-9,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1989,0,449
+1695972317201,1650,Buy product ID,200,OK,Buyer Product 1-17,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,1650,0,0
+1695972318511,340,Login,201,Created,Buyer Product 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,340,0,0
+1695972318311,570,Buy product ID,200,OK,Buyer Product 1-4,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,570,0,0
+1695972318702,229,Buy product ID,200,OK,Buyer Product 1-10,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,229,0,0
+1695972318466,545,Buy product,200,OK,Buyer Product 1-15,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,545,0,46
+1695972318682,329,Login,201,Created,Buyer Product 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,329,0,0
+1695972318721,371,Login,201,Created,Buyer Product 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,370,0,0
+1695972318742,370,Buy product ID,200,OK,Buyer Product 1-14,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,370,0,0
+1695972318682,510,Buy product,200,OK,Buyer Product 1-2,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,510,0,40
+1695972318702,490,Login,201,Created,Buyer Product 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,490,0,0
+1695972318931,610,Login,201,Created,Buyer Product 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,610,0,0
+1695972318882,699,Login,201,Created,Buyer Product 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,699,0,0
+1695972319012,598,Buy product ID,200,OK,Buyer Product 1-15,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,598,0,0
+1695972318852,758,Buy product,200,OK,Buyer Product 1-6,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,758,0,50
+1695972319112,498,Login,201,Created,Buyer Product 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,498,0,0
+1695972317964,1657,Buy product ID,200,OK,Buyer Product 1-7,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,1657,0,0
+1695972319012,609,Buy product,200,OK,Buyer Product 1-19,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,609,0,50
+1695972319192,469,Buy product ID,200,OK,Buyer Product 1-2,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,469,0,0
+1695972319092,779,Buy product,200,OK,Buyer Product 1-12,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,779,0,51
+1695972318202,1827,Buy product,200,OK,Buyer Product 1-18,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1827,0,440
+1695972319192,837,Buy product,200,OK,Buyer Product 1-3,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,837,0,50
+1695972318599,1442,Buy product,200,OK,Buyer Product 1-13,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1442,0,463
+1695972318801,1270,Buy product ID,200,OK,Buyer Product 1-9,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,1270,0,0
+1695972319610,491,Buy product ID,200,OK,Buyer Product 1-6,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,491,0,0
+1695972318073,2049,Buy product ID,200,OK,Buyer Product 1-5,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,2049,0,0
+1695972319622,500,Buy product ID,200,OK,Buyer Product 1-19,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,500,0,0
+1695972319542,659,Buy product,200,OK,Buyer Product 1-10,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,659,0,40
+1695972319610,591,Login,201,Created,Buyer Product 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,591,0,0
+1695972319581,781,Buy product,200,OK,Buyer Product 1-4,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,781,0,41
+1695972319610,752,Buy product,200,OK,Buyer Product 1-14,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,752,0,38
+1695972319661,701,Login,201,Created,Buyer Product 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,701,0,0
+1695972319871,510,Buy product ID,200,OK,Buyer Product 1-12,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,510,0,0
+1695972320029,352,Buy product ID,200,OK,Buyer Product 1-3,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,352,0,0
+1695972320029,562,Buy product ID,200,OK,Buyer Product 1-18,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,562,0,0
+1695972320041,580,Buy product ID,200,OK,Buyer Product 1-13,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,580,0,0
+1695972320101,550,Login,201,Created,Buyer Product 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,550,0,0
+1695972320122,609,Login,201,Created,Buyer Product 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,609,0,0
+1695972320071,690,Login,201,Created,Buyer Product 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,690,0,0
+1695972320201,610,Buy product ID,200,OK,Buyer Product 1-10,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,610,0,0
+1695972320362,479,Buy product ID,200,OK,Buyer Product 1-14,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,479,0,0
+1695972320362,479,Buy product ID,200,OK,Buyer Product 1-4,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,479,0,0
+1695972320381,600,Login,201,Created,Buyer Product 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,600,0,0
+1695972317752,3260,Buy product,200,OK,Buyer Product 1-11,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,3260,0,2490
+1695972318682,2330,Buy product,200,OK,Buyer Product 1-8,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2330,0,1440
+1695972320122,890,Login,201,Created,Buyer Product 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,890,0,0
+1695972320381,680,Login,201,Created,Buyer Product 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,680,0,0
+1695972320202,1029,Buy product,200,OK,Buyer Product 1-15,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1029,0,39
+1695972320362,869,Buy product,200,OK,Buyer Product 1-2,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,869,0,50
+1695972319622,1769,Login,201,Created,Buyer Product 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1769,0,0
+1695972320810,610,Login,201,Created,Buyer Product 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,610,0,0
+1695972320620,800,Login,201,Created,Buyer Product 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,800,0,0
+1695972320841,659,Login,201,Created,Buyer Product 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,659,0,0
+1695972320760,820,Buy product,200,OK,Buyer Product 1-9,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,820,0,51
+1695972320980,600,Buy product,200,OK,Buyer Product 1-12,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,600,0,51
+1695972320841,739,Login,201,Created,Buyer Product 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,739,0,0
+1695972321230,380,Buy product ID,200,OK,Buyer Product 1-2,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,380,0,0
+1695972321011,619,Buy product ID,200,OK,Buyer Product 1-11,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,619,0,0
+1695972321230,400,Buy product ID,200,OK,Buyer Product 1-15,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,400,0,0
+1695972321060,720,Buy product,200,OK,Buyer Product 1-3,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,720,0,51
+1695972318312,3559,Buy product,200,OK,Buyer Product 1-16,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,3559,0,450
+1695972320650,1370,Buy product,200,OK,Buyer Product 1-6,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1370,0,461
+1695972318851,3170,Login,201,Created,Buyer Product 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,3170,0,0
+1695972321580,490,Buy product ID,200,OK,Buyer Product 1-9,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,490,0,0
+1695972321390,700,Buy product,200,OK,Buyer Product 1-7,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,700,0,51
+1695972321580,510,Buy product ID,200,OK,Buyer Product 1-12,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,510,0,0
+1695972321610,730,Login,201,Created,Buyer Product 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,730,0,0
+1695972321011,1373,Buy product,200,OK,Buyer Product 1-5,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1373,0,459
+1695972318391,3994,Buy product,200,OK,Buyer Product 1-1,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,3994,0,2881
+1695972321500,921,Buy product,200,OK,Buyer Product 1-14,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,921,0,51
+1695972321581,840,Buy product,200,OK,Buyer Product 1-4,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,840,0,50
+1695972321630,791,Login,201,Created,Buyer Product 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,791,0,0
+1695972321011,1430,Buy product ID,200,OK,Buyer Product 1-8,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,1430,0,0
+1695972321780,661,Buy product ID,200,OK,Buyer Product 1-3,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,661,0,0
+1695972320590,1851,Login,201,Created,Buyer Product 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1851,0,0
+1695972321630,830,Login,201,Created,Buyer Product 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,830,0,0
+1695972322070,531,Login,201,Created,Buyer Product 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,530,0,0
+1695972322020,631,Buy product ID,200,OK,Buyer Product 1-6,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,631,0,0
+1695972321871,780,Buy product ID,200,OK,Buyer Product 1-16,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,780,0,0
+1695972322090,593,Buy product ID,200,OK,Buyer Product 1-7,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,593,0,0
+1695972322020,663,Buy product,200,OK,Buyer Product 1-17,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,663,0,51
+1695972322090,593,Login,201,Created,Buyer Product 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,593,0,0
+1695972322421,329,Buy product ID,200,OK,Buyer Product 1-4,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,329,0,0
+1695972322421,351,Buy product ID,200,OK,Buyer Product 1-14,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,351,0,0
+1695972316112,6739,Buy product,200,OK,Buyer Product 1-20,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,6739,0,3160
+1695972321420,1450,Buy product,200,OK,Buyer Product 1-10,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1450,0,451
+1695972322384,516,Buy product ID,200,OK,Buyer Product 1-1,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,516,0,0
+1695972322384,536,Buy product ID,200,OK,Buyer Product 1-5,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,536,0,0
+1695972322340,682,Buy product,200,OK,Buyer Product 1-2,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,682,0,45
+1695972322441,581,Login,201,Created,Buyer Product 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,581,0,0
+1695972322441,772,Login,201,Created,Buyer Product 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,772,0,0
+1695972322683,548,Buy product ID,200,OK,Buyer Product 1-17,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,548,0,0
+1695972322441,1180,Buy product,200,OK,Buyer Product 1-18,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1179,0,50
+1695972322683,938,Login,201,Created,Buyer Product 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,938,0,0
+1695972322601,1120,Buy product,200,OK,Buyer Product 1-9,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1120,0,50
+1695972322751,970,Login,201,Created,Buyer Product 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,970,0,0
+1695972322651,1070,Login,201,Created,Buyer Product 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1070,0,0
+1695972322683,1047,Buy product,200,OK,Buyer Product 1-12,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1047,0,48
+1695972322772,958,Login,201,Created,Buyer Product 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,958,0,0
+1695972323022,708,Buy product ID,200,OK,Buyer Product 1-2,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,708,0,0
+1695972322900,860,Login,201,Created,Buyer Product 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,860,0,0
+1695972323231,571,Login,201,Created,Buyer Product 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,571,0,0
+1695972322871,960,Buy product ID,200,OK,Buyer Product 1-10,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,960,0,0
+1695972320730,3190,Buy product,200,OK,Buyer Product 1-19,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,3190,0,1471
+1695972323621,344,Buy product ID,200,OK,Buyer Product 1-18,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,344,0,0
+1695972323213,752,Buy product,200,OK,Buyer Product 1-8,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,752,0,58
+1695972323730,235,Login,201,Created,Buyer Product 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,235,0,0
+1695972323721,247,Buy product ID,200,OK,Buyer Product 1-9,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,247,0,0
+1695972323730,251,Buy product ID,200,OK,Buyer Product 1-12,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,251,0,0
+1695972321420,2751,Buy product,200,OK,Buyer Product 1-13,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2751,0,1795
+1695972323730,456,Buy product,200,OK,Buyer Product 1-14,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,456,0,52
+1695972323722,489,Buy product,200,OK,Buyer Product 1-16,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,489,0,60
+1695972323965,467,Buy product ID,200,OK,Buyer Product 1-8,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,467,0,0
+1695972323968,464,Login,201,Created,Buyer Product 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,464,0,0
+1695972323921,549,Buy product ID,200,OK,Buyer Product 1-19,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,549,0,0
+1695972323965,536,Login,201,Created,Buyer Product 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,535,0,0
+1695972322651,1850,Login,201,Created,Buyer Product 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1849,0,0
+1695972323802,719,Buy product,200,OK,Buyer Product 1-17,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,719,0,49
+1695972323760,761,Buy product,200,OK,Buyer Product 1-1,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,761,0,43
+1695972324186,355,Buy product ID,200,OK,Buyer Product 1-14,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,355,0,0
+1695972324211,359,Buy product ID,200,OK,Buyer Product 1-16,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,359,0,0
+1695972323981,700,Login,201,Created,Buyer Product 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,700,0,0
+1695972322421,2311,Buy product,200,OK,Buyer Product 1-15,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2311,0,450
+1695972324171,561,Buy product ID,200,OK,Buyer Product 1-13,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,561,0,0
+1695972324432,328,Login,201,Created,Buyer Product 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,328,0,0
+1695972322461,2320,Buy product,200,OK,Buyer Product 1-11,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2320,0,1505
+1695972324432,405,Buy product,200,OK,Buyer Product 1-9,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,405,0,39
+1695972322851,1986,Buy product ID,200,OK,Buyer Product 1-20,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,1986,0,0
+1695972324522,315,Buy product ID,200,OK,Buyer Product 1-1,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,315,0,0
+1695972324522,348,Buy product ID,200,OK,Buyer Product 1-17,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,348,0,0
+1695972322920,2051,Login,201,Created,Buyer Product 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,2050,0,0
+1695972324542,449,Login,201,Created,Buyer Product 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,449,0,0
+1695972324471,567,Login,201,Created,Buyer Product 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,567,0,0
+1695972324571,516,Login,201,Created,Buyer Product 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,516,0,0
+1695972324501,653,Buy product,200,OK,Buyer Product 1-6,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,653,0,41
+1695972324501,653,Buy product,200,OK,Buyer Product 1-18,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,653,0,41
+1695972324837,393,Buy product ID,200,OK,Buyer Product 1-9,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,393,0,0
+1695972324732,621,Buy product ID,200,OK,Buyer Product 1-15,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,621,0,0
+1695972324732,621,Login,201,Created,Buyer Product 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,621,0,0
+1695972324837,563,Login,201,Created,Buyer Product 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,563,0,0
+1695972324971,530,Buy product,200,OK,Buyer Product 1-5,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,530,0,50
+1695972324681,820,Buy product,200,OK,Buyer Product 1-12,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,820,0,51
+1695972324870,631,Login,201,Created,Buyer Product 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,631,0,0
+1695972324837,703,Login,201,Created,Buyer Product 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,703,0,0
+1695972323831,1789,Login,201,Created,Buyer Product 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1789,0,0
+1695972325154,580,Buy product ID,200,OK,Buyer Product 1-18,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,580,0,0
+1695972325038,696,Buy product,200,OK,Buyer Product 1-19,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,696,0,57
+1695972324991,743,Buy product,200,OK,Buyer Product 1-14,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,743,0,48
+1695972325154,597,Buy product ID,200,OK,Buyer Product 1-6,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,597,0,0
+1695972325230,681,Login,201,Created,Buyer Product 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,680,0,0
+1695972325088,942,Buy product,200,OK,Buyer Product 1-16,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,942,0,67
+1695972324781,1273,Buy product ID,200,OK,Buyer Product 1-11,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,1273,0,0
+1695972325501,553,Buy product ID,200,OK,Buyer Product 1-5,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,553,0,0
+1695972325501,569,Buy product ID,200,OK,Buyer Product 1-12,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,569,0,0
+1695972325353,847,Buy product,200,OK,Buyer Product 1-13,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,847,0,48
+1695972325353,847,Login,201,Created,Buyer Product 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,847,0,0
+1695972325401,846,Buy product,200,OK,Buyer Product 1-1,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,846,0,61
+1695972325501,820,Buy product,200,OK,Buyer Product 1-17,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,820,0,61
+1695972325735,738,Buy product ID,200,OK,Buyer Product 1-14,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,738,0,0
+1695972325545,927,Buy product,200,OK,Buyer Product 1-20,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,927,0,46
+1695972325735,739,Login,201,Created,Buyer Product 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,738,0,0
+1695972325622,875,Buy product,200,OK,Buyer Product 1-10,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,875,0,50
+1695972325735,762,Buy product ID,200,OK,Buyer Product 1-19,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,762,0,0
+1695972326031,482,Buy product ID,200,OK,Buyer Product 1-16,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,482,0,0
+1695972326202,369,Buy product ID,200,OK,Buyer Product 1-13,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,369,0,0
+1695972325752,929,Login,201,Created,Buyer Product 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,929,0,0
+1695972326071,691,Login,201,Created,Buyer Product 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,691,0,0
+1695972326055,788,Login,201,Created,Buyer Product 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,787,0,0
+1695972323965,2898,Buy product,200,OK,Buyer Product 1-2,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2898,0,1151
+1695972326202,719,Buy product,200,OK,Buyer Product 1-15,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,719,0,47
+1695972326473,448,Buy product ID,200,OK,Buyer Product 1-20,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,448,0,0
+1695972326248,673,Buy product ID,200,OK,Buyer Product 1-1,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,673,0,0
+1695972326322,620,Buy product ID,200,OK,Buyer Product 1-17,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,620,0,0
+1695972326497,496,Buy product ID,200,OK,Buyer Product 1-10,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,496,0,0
+1695972326473,628,Login,201,Created,Buyer Product 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,628,0,0
+1695972326055,1075,Login,201,Created,Buyer Product 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1075,0,0
+1695972323722,3414,Buy product,200,OK,Buyer Product 1-4,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,3414,0,465
+1695972326497,681,Login,201,Created,Buyer Product 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,681,0,0
+1695972323022,4187,Buy product,200,OK,Buyer Product 1-3,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,4187,0,2066
+1695972326513,751,Login,201,Created,Buyer Product 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,751,0,0
+1695972326474,884,Buy product,200,OK,Buyer Product 1-18,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,884,0,67
+1695972326571,787,Login,201,Created,Buyer Product 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,787,0,0
+1695972326762,666,Buy product,200,OK,Buyer Product 1-12,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,666,0,40
+1695972326922,507,Buy product ID,200,OK,Buyer Product 1-15,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,507,0,0
+1695972325912,1619,Buy product,200,OK,Buyer Product 1-9,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1619,0,453
+1695972326865,667,Buy product ID,200,OK,Buyer Product 1-2,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,667,0,0
+1695972326922,610,Login,201,Created,Buyer Product 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,609,0,0
+1695972324761,2819,Buy product,200,OK,Buyer Product 1-8,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2819,0,1460
+1695972326993,618,Login,201,Created,Buyer Product 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,618,0,0
+1695972326922,770,Login,201,Created,Buyer Product 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,770,0,0
+1695972326843,928,Buy product,200,OK,Buyer Product 1-5,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,928,0,59
+1695972326942,830,Login,201,Created,Buyer Product 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,829,0,0
+1695972327101,873,Buy product,200,OK,Buyer Product 1-14,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,873,0,57
+1695972327210,781,Buy product ID,200,OK,Buyer Product 1-3,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,781,0,0
+1695972327137,854,Buy product ID,200,OK,Buyer Product 1-4,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,854,0,0
+1695972327131,913,Buy product,200,OK,Buyer Product 1-11,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,913,0,151
+1695972327358,686,Buy product ID,200,OK,Buyer Product 1-18,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,686,0,0
+1695972327429,772,Login,201,Created,Buyer Product 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,772,0,0
+1695972327428,846,Buy product ID,200,OK,Buyer Product 1-12,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,846,0,0
+1695972327179,1095,Buy product,200,OK,Buyer Product 1-19,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1095,0,157
+1695972327264,1028,Buy product,200,OK,Buyer Product 1-16,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1028,0,123
+1695972327359,1148,Buy product,200,OK,Buyer Product 1-13,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1148,0,136
+1695972327532,975,Buy product ID,200,OK,Buyer Product 1-9,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,975,0,0
+1695972327582,951,Buy product ID,200,OK,Buyer Product 1-8,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,951,0,0
+1695972327532,1001,Buy product,200,OK,Buyer Product 1-1,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1001,0,50
+1695972327772,795,Buy product ID,200,OK,Buyer Product 1-5,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,795,0,0
+1695972327611,1057,Buy product,200,OK,Buyer Product 1-10,text,true,,1197,235,20,20,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1057,0,46
+1695972327974,717,Buy product ID,200,OK,Buyer Product 1-14,text,true,,1020,172,20,20,https://market-final-project.binaracademy.org/buyer/product/91946,717,0,0
+1695972326681,2251,Buy product,200,OK,Buyer Product 1-6,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2251,0,456
+1695972328044,888,Login,201,Created,Buyer Product 1-18,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,888,0,0
+1695972327772,1238,Buy product,200,OK,Buyer Product 1-17,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1238,0,37
+1695972327692,1318,Buy product,200,OK,Buyer Product 1-20,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1318,0,50
+1695972328044,992,Buy product ID,200,OK,Buyer Product 1-11,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,992,0,0
+1695972328292,756,Buy product ID,200,OK,Buyer Product 1-16,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,756,0,0
+1695972328274,774,Buy product ID,200,OK,Buyer Product 1-19,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,774,0,0
+1695972328507,574,Buy product ID,200,OK,Buyer Product 1-13,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,574,0,0
+1695972328274,937,Login,201,Created,Buyer Product 1-12,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,937,0,0
+1695972327991,1220,Login,201,Created,Buyer Product 1-4,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,1220,0,0
+1695972328533,758,Buy product ID,200,OK,Buyer Product 1-1,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,758,0,0
+1695972328567,724,Login,201,Created,Buyer Product 1-5,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,724,0,0
+1695972328932,519,Buy product,200,OK,Buyer Product 1-18,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,519,0,50
+1695972328668,783,Buy product ID,200,OK,Buyer Product 1-10,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,783,0,0
+1695972328201,1250,Buy product,200,OK,Buyer Product 1-15,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1250,0,51
+1695972329010,481,Buy product ID,200,OK,Buyer Product 1-20,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,481,0,0
+1695972329010,481,Buy product ID,200,OK,Buyer Product 1-17,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,481,0,0
+1695972328533,1038,Login,201,Created,Buyer Product 1-8,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,1038,0,0
+1695972328932,719,Buy product ID,200,OK,Buyer Product 1-6,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,719,0,0
+1695972329048,603,Login,201,Created,Buyer Product 1-16,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,603,0,0
+1695972329037,695,Login,201,Created,Buyer Product 1-11,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,694,0,0
+1695972329081,731,Login,201,Created,Buyer Product 1-13,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,730,0,0
+1695972329048,843,Login,201,Created,Buyer Product 1-19,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,843,0,0
+1695972329211,767,Buy product,200,OK,Buyer Product 1-12,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,767,0,60
+1695972329291,687,Buy product,200,OK,Buyer Product 1-5,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,687,0,50
+1695972329291,687,Login,201,Created,Buyer Product 1-1,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,687,0,0
+1695972329451,595,Buy product ID,200,OK,Buyer Product 1-15,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,595,0,0
+1695972329451,595,Login,201,Created,Buyer Product 1-10,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,595,0,0
+1695972329451,596,Buy product ID,200,OK,Buyer Product 1-18,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,596,0,0
+1695972329491,644,Login,201,Created,Buyer Product 1-17,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,644,0,0
+1695972329491,721,Login,201,Created,Buyer Product 1-20,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,721,0,0
+1695972327991,2270,Login,201,Created,Buyer Product 1-3,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,2270,0,0
+1695972323621,6740,Buy product,200,OK,Buyer Product 1-7,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,6740,0,3479
+1695972329732,729,Buy product,200,OK,Buyer Product 1-11,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,729,0,50
+1695972329652,829,Buy product,200,OK,Buyer Product 1-16,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,829,0,51
+1695972329978,533,Buy product ID,200,OK,Buyer Product 1-12,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,533,0,0
+1695972329978,533,Buy product ID,200,OK,Buyer Product 1-5,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,533,0,0
+1695972329652,918,Login,201,Created,Buyer Product 1-6,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,917,0,0
+1695972330047,635,Login,201,Created,Buyer Product 1-18,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,635,0,0
+1695972329892,871,Buy product,200,OK,Buyer Product 1-19,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,871,0,50
+1695972329812,951,Buy product,200,OK,Buyer Product 1-13,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,951,0,51
+1695972330047,716,Login,201,Created,Buyer Product 1-15,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,716,0,0
+1695972329572,1401,Buy product,200,OK,Buyer Product 1-8,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1401,0,475
+1695972327532,3441,Login,201,Created,Buyer Product 1-2,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,3441,0,0
+1695972330047,956,Buy product,200,OK,Buyer Product 1-10,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,956,0,55
+1695972330135,925,Buy product,200,OK,Buyer Product 1-17,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,924,0,57
+1695972330212,886,Buy product,200,OK,Buyer Product 1-20,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,886,0,50
+1695972330461,777,Buy product ID,200,OK,Buyer Product 1-11,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,777,0,0
+1695972330262,976,Buy product,200,OK,Buyer Product 1-3,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,976,0,50
+1695972330481,791,Buy product ID,200,OK,Buyer Product 1-16,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,791,0,0
+1695972330512,893,Login,201,Created,Buyer Product 1-5,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,893,0,0
+1695972330570,917,Buy product,200,OK,Buyer Product 1-6,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,917,0,80
+1695972330763,724,Buy product ID,200,OK,Buyer Product 1-19,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,724,0,0
+1695972330512,975,Login,201,Created,Buyer Product 1-12,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,975,0,0
+1695972330763,755,Buy product ID,200,OK,Buyer Product 1-13,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,755,0,0
+1695972331003,526,Buy product ID,200,OK,Buyer Product 1-10,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,526,0,0
+1695972331060,486,Buy product ID,200,OK,Buyer Product 1-17,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,486,0,0
+1695972331098,475,Buy product ID,200,OK,Buyer Product 1-20,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,475,0,0
+1695972329211,2362,Buy product,200,OK,Buyer Product 1-4,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2362,0,1151
+1695972330973,753,Buy product ID,200,OK,Buyer Product 1-8,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,753,0,0
+1695972331238,490,Buy product ID,200,OK,Buyer Product 1-3,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,490,0,0
+1695972330763,965,Buy product,200,OK,Buyer Product 1-15,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,965,0,48
+1695972331238,490,Login,201,Created,Buyer Product 1-11,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,490,0,0
+1695972330973,755,Buy product,200,OK,Buyer Product 1-2,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,755,0,59
+1695972331487,290,Buy product ID,200,OK,Buyer Product 1-6,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,290,0,0
+1695972331272,652,Login,201,Created,Buyer Product 1-16,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,652,0,0
+1695972330362,1606,Buy product ID,200,OK,Buyer Product 1-7,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,1606,0,0
+1695972331487,503,Login,201,Created,Buyer Product 1-19,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,503,0,0
+1695972331518,547,Login,201,Created,Buyer Product 1-13,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,547,0,0
+1695972331546,603,Login,201,Created,Buyer Product 1-17,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,603,0,0
+1695972331574,666,Login,201,Created,Buyer Product 1-20,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,666,0,0
+1695972331405,905,Buy product,200,OK,Buyer Product 1-5,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,905,0,83
+1695972331487,823,Buy product,200,OK,Buyer Product 1-12,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,823,0,88
+1695972331530,780,Login,201,Created,Buyer Product 1-10,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,780,0,0
+1695972331728,630,Buy product ID,200,OK,Buyer Product 1-15,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,630,0,0
+1695972331728,653,Buy product ID,200,OK,Buyer Product 1-2,text,true,,1020,172,19,19,https://market-final-project.binaracademy.org/buyer/product/91946,653,0,0
+1695972329978,2403,Buy product,200,OK,Buyer Product 1-1,text,true,,1197,235,19,19,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2403,0,464
+1695972331728,859,Login,201,Created,Buyer Product 1-3,text,true,,482,277,18,18,https://market-final-project.binaracademy.org/auth/login,858,0,0
+1695972331777,872,Login,201,Created,Buyer Product 1-6,text,true,,482,277,18,18,https://market-final-project.binaracademy.org/auth/login,872,0,0
+1695972331726,1006,Login,201,Created,Buyer Product 1-8,text,true,,482,277,18,18,https://market-final-project.binaracademy.org/auth/login,1006,0,0
+1695972332310,484,Buy product ID,200,OK,Buyer Product 1-5,text,true,,1020,172,18,18,https://market-final-project.binaracademy.org/buyer/product/91946,484,0,0
+1695972332310,484,Buy product ID,200,OK,Buyer Product 1-12,text,true,,1020,172,18,18,https://market-final-project.binaracademy.org/buyer/product/91946,484,0,0
+1695972332358,512,Login,201,Created,Buyer Product 1-15,text,true,,482,277,18,18,https://market-final-project.binaracademy.org/auth/login,512,0,0
+1695972331728,1283,Buy product,200,OK,Buyer Product 1-11,text,true,,1197,235,18,18,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1283,0,863
+1695972332381,690,Buy product ID,200,OK,Buyer Product 1-1,text,true,,1020,172,18,18,https://market-final-project.binaracademy.org/buyer/product/91946,690,0,0
+1695972332794,380,Login,201,Created,Buyer Product 1-12,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,380,0,0
+1695972331574,1600,Buy product ID,200,OK,Buyer Product 1-4,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,1600,0,0
+1695972330683,2518,Buy product,200,OK,Buyer Product 1-18,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2518,0,1840
+1695972331924,1328,Buy product,200,OK,Buyer Product 1-16,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1328,0,722
+1695972331990,1262,Buy product,200,OK,Buyer Product 1-19,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1262,0,601
+1695972332794,458,Login,201,Created,Buyer Product 1-5,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,458,0,0
+1695972332177,1214,Buy product,200,OK,Buyer Product 1-17,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1214,0,473
+1695972332310,1172,Buy product,200,OK,Buyer Product 1-10,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1172,0,366
+1695972332587,895,Buy product,200,OK,Buyer Product 1-3,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,895,0,112
+1695972332871,841,Buy product,200,OK,Buyer Product 1-15,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,841,0,64
+1695972333011,701,Buy product ID,200,OK,Buyer Product 1-11,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,701,0,0
+1695972332649,1174,Buy product,200,OK,Buyer Product 1-6,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1174,0,286
+1695972332066,1806,Buy product,200,OK,Buyer Product 1-13,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1806,0,764
+1695972332732,1249,Buy product,200,OK,Buyer Product 1-8,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1249,0,213
+1695972333252,751,Buy product ID,200,OK,Buyer Product 1-19,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,751,0,0
+1695972333252,780,Buy product ID,200,OK,Buyer Product 1-16,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,780,0,0
+1695972333391,660,Buy product ID,200,OK,Buyer Product 1-17,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,660,0,0
+1695972333482,599,Buy product ID,200,OK,Buyer Product 1-3,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,599,0,0
+1695972333482,631,Buy product ID,200,OK,Buyer Product 1-10,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,631,0,0
+1695972332240,1941,Buy product,200,OK,Buyer Product 1-20,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1941,0,888
+1695972333202,979,Buy product ID,200,OK,Buyer Product 1-18,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,979,0,0
+1695972328507,5744,Login,201,Created,Buyer Product 1-9,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,5744,0,0
+1695972333823,450,Buy product ID,200,OK,Buyer Product 1-6,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,450,0,0
+1695972333712,561,Buy product ID,200,OK,Buyer Product 1-15,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,561,0,0
+1695972333712,561,Login,201,Created,Buyer Product 1-11,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,561,0,0
+1695972333252,1041,Buy product,200,OK,Buyer Product 1-5,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1041,0,50
+1695972333180,1113,Buy product,200,OK,Buyer Product 1-12,text,true,,1197,235,17,17,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1113,0,53
+1695972333982,329,Buy product ID,200,OK,Buyer Product 1-8,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,329,0,0
+1695972334003,488,Login,201,Created,Buyer Product 1-19,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,488,0,0
+1695972334032,619,Login,201,Created,Buyer Product 1-16,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,619,0,0
+1695972334051,670,Login,201,Created,Buyer Product 1-17,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,670,0,0
+1695972334081,710,Login,201,Created,Buyer Product 1-3,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,710,0,0
+1695972333180,1681,Login,201,Created,Buyer Product 1-4,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,1681,0,0
+1695972334113,769,Login,201,Created,Buyer Product 1-10,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,768,0,0
+1695972334273,689,Login,201,Created,Buyer Product 1-15,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,689,0,0
+1695972334293,749,Buy product ID,200,OK,Buyer Product 1-12,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,749,0,0
+1695972334293,749,Buy product ID,200,OK,Buyer Product 1-5,text,true,,1020,172,17,17,https://market-final-project.binaracademy.org/buyer/product/91946,749,0,0
+1695972334273,769,Login,201,Created,Buyer Product 1-6,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,769,0,0
+1695972334311,811,Login,201,Created,Buyer Product 1-8,text,true,,482,277,16,16,https://market-final-project.binaracademy.org/auth/login,810,0,0
+1695972334792,552,Buy product,200,OK,Buyer Product 1-3,text,true,,1197,235,16,16,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,552,0,50
+1695972334734,657,Buy product,200,OK,Buyer Product 1-17,text,true,,1197,235,16,16,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,657,0,58
+1695972335042,459,Login,201,Created,Buyer Product 1-5,text,true,,482,277,16,16,https://market-final-project.binaracademy.org/auth/login,459,0,0
+1695972334862,709,Buy product,200,OK,Buyer Product 1-4,text,true,,1197,235,16,16,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,709,0,51
+1695972334962,631,Buy product,200,OK,Buyer Product 1-15,text,true,,1197,235,16,16,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,631,0,49
+1695972335042,609,Buy product,200,OK,Buyer Product 1-6,text,true,,1197,235,16,16,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,609,0,50
+1695972335345,336,Buy product ID,200,OK,Buyer Product 1-3,text,true,,1020,172,16,16,https://market-final-project.binaracademy.org/buyer/product/91946,336,0,0
+1695972335391,360,Buy product ID,200,OK,Buyer Product 1-17,text,true,,1020,172,16,16,https://market-final-project.binaracademy.org/buyer/product/91946,360,0,0
+1695972335122,689,Buy product,200,OK,Buyer Product 1-8,text,true,,1197,235,16,16,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,689,0,50
+1695972335571,261,Buy product ID,200,OK,Buyer Product 1-4,text,true,,1020,172,16,16,https://market-final-project.binaracademy.org/buyer/product/91946,261,0,0
+1695972335651,181,Buy product ID,200,OK,Buyer Product 1-6,text,true,,1020,172,16,16,https://market-final-project.binaracademy.org/buyer/product/91946,181,0,0
+1695972335594,238,Buy product ID,200,OK,Buyer Product 1-15,text,true,,1020,172,16,16,https://market-final-project.binaracademy.org/buyer/product/91946,238,0,0
+1695972334181,1740,Buy product ID,200,OK,Buyer Product 1-20,text,true,,1020,172,14,14,https://market-final-project.binaracademy.org/buyer/product/91946,1740,0,0
+1695972335681,310,Login,201,Created,Buyer Product 1-3,text,true,,482,277,14,14,https://market-final-project.binaracademy.org/auth/login,310,0,0
+1695972334882,1129,Buy product,200,OK,Buyer Product 1-10,text,true,,1197,235,14,14,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1129,0,449
+1695972331968,4073,Login,201,Created,Buyer Product 1-7,text,true,,482,277,14,14,https://market-final-project.binaracademy.org/auth/login,4073,0,0
+1695972335811,260,Buy product ID,200,OK,Buyer Product 1-8,text,true,,1020,172,14,14,https://market-final-project.binaracademy.org/buyer/product/91946,260,0,0
+1695972335751,320,Login,201,Created,Buyer Product 1-17,text,true,,482,277,14,14,https://market-final-project.binaracademy.org/auth/login,320,0,0
+1695972333872,2219,Buy product ID,200,OK,Buyer Product 1-13,text,true,,1020,172,14,14,https://market-final-project.binaracademy.org/buyer/product/91946,2219,0,0
+1695972335832,421,Login,201,Created,Buyer Product 1-6,text,true,,482,277,14,14,https://market-final-project.binaracademy.org/auth/login,421,0,0
+1695972336071,440,Login,201,Created,Buyer Product 1-8,text,true,,482,277,14,14,https://market-final-project.binaracademy.org/auth/login,440,0,0
+1695972336011,532,Buy product ID,200,OK,Buyer Product 1-10,text,true,,1020,172,14,14,https://market-final-project.binaracademy.org/buyer/product/91946,532,0,0
+1695972336042,550,Buy product,200,OK,Buyer Product 1-7,text,true,,1197,235,13,13,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,550,0,50
+1695972335991,601,Buy product,200,OK,Buyer Product 1-3,text,true,,1197,235,13,13,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,601,0,51
+1695972336592,55,Buy product ID,200,OK,Buyer Product 1-3,text,true,,1020,172,13,13,https://market-final-project.binaracademy.org/buyer/product/91946,55,0,0
+1695972336592,82,Buy product ID,200,OK,Buyer Product 1-7,text,true,,1020,172,12,12,https://market-final-project.binaracademy.org/buyer/product/91946,82,0,0
+1695972336091,694,Login,201,Created,Buyer Product 1-13,text,true,,482,277,12,12,https://market-final-project.binaracademy.org/auth/login,694,0,0
+1695972336072,800,Buy product,200,OK,Buyer Product 1-17,text,true,,1197,235,12,12,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,800,0,50
+1695972336511,361,Buy product,200,OK,Buyer Product 1-8,text,true,,1197,235,12,12,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,361,0,52
+1695972336675,197,Login,201,Created,Buyer Product 1-7,text,true,,482,277,12,12,https://market-final-project.binaracademy.org/auth/login,197,0,0
+1695972336872,49,Buy product ID,200,OK,Buyer Product 1-17,text,true,,1020,172,12,12,https://market-final-project.binaracademy.org/buyer/product/91946,49,0,0
+1695972336872,49,Buy product ID,200,OK,Buyer Product 1-8,text,true,,1020,172,12,12,https://market-final-project.binaracademy.org/buyer/product/91946,49,0,0
+1695972334251,2720,Buy product,200,OK,Buyer Product 1-9,text,true,,1197,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2720,0,1161
+1695972336785,236,Buy product,200,OK,Buyer Product 1-13,text,true,,1197,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,236,0,57
+1695972337021,40,Buy product ID,200,OK,Buyer Product 1-13,text,true,,1020,172,10,10,https://market-final-project.binaracademy.org/buyer/product/91946,40,0,0
+1695972336254,837,Buy product,200,OK,Buyer Product 1-6,text,true,,1197,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,837,0,468
+1695972335502,1699,Buy product,200,OK,Buyer Product 1-5,text,true,,1197,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1699,0,460
+1695972337061,140,Login,201,Created,Buyer Product 1-13,text,true,,482,277,10,10,https://market-final-project.binaracademy.org/auth/login,140,0,0
+1695972336972,261,Buy product ID,200,OK,Buyer Product 1-9,text,true,,1020,172,10,10,https://market-final-project.binaracademy.org/buyer/product/91946,261,0,0
+1695972337202,228,Buy product,200,OK,Buyer Product 1-13,text,true,,1197,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,228,0,50
+1695972337201,261,Buy product ID,200,OK,Buyer Product 1-5,text,true,,1020,172,10,10,https://market-final-project.binaracademy.org/buyer/product/91946,261,0,0
+1695972335921,1541,Login,201,Created,Buyer Product 1-20,text,true,,482,277,10,10,https://market-final-project.binaracademy.org/auth/login,1541,0,0
+1695972337431,47,Buy product ID,200,OK,Buyer Product 1-13,text,true,,1020,172,10,10,https://market-final-project.binaracademy.org/buyer/product/91946,46,0,0
+1695972334181,3297,Login,201,Created,Buyer Product 1-18,text,true,,482,277,10,10,https://market-final-project.binaracademy.org/auth/login,3296,0,0
+1695972334651,2970,Buy product,200,OK,Buyer Product 1-16,text,true,,1197,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2970,0,2481
+1695972337478,247,Login,201,Created,Buyer Product 1-13,text,true,,482,277,10,10,https://market-final-project.binaracademy.org/auth/login,247,0,0
+1695972337462,522,Buy product,200,OK,Buyer Product 1-20,text,true,,1197,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,522,0,61
+1695972337478,506,Buy product,200,OK,Buyer Product 1-18,text,true,,1197,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,506,0,68
+1695972334491,3494,Buy product,200,OK,Buyer Product 1-19,text,true,,1197,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,3494,0,1471
+1695972337621,364,Buy product ID,200,OK,Buyer Product 1-16,text,true,,1020,172,10,10,https://market-final-project.binaracademy.org/buyer/product/91946,364,0,0
+1695972337725,276,Buy product,200,OK,Buyer Product 1-13,text,true,,1197,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,276,0,103
+1695972337984,50,Buy product ID,200,OK,Buyer Product 1-20,text,true,,1020,172,10,10,https://market-final-project.binaracademy.org/buyer/product/91946,49,0,0
+1695972338001,65,Buy product ID,200,OK,Buyer Product 1-13,text,true,,1020,172,10,10,https://market-final-project.binaracademy.org/buyer/product/91946,65,0,0
+1695972337091,975,Buy product ID,200,OK,Buyer Product 1-6,text,true,,1020,172,10,10,https://market-final-project.binaracademy.org/buyer/product/91946,975,0,0
+1695972337984,115,Buy product ID,200,OK,Buyer Product 1-18,text,true,,1020,172,8,8,https://market-final-project.binaracademy.org/buyer/product/91946,115,0,0
+1695972336872,1227,Buy product,200,OK,Buyer Product 1-7,text,true,,1197,235,8,8,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,1227,0,474
+1695972337985,314,Buy product ID,200,OK,Buyer Product 1-19,text,true,,1020,172,8,8,https://market-final-project.binaracademy.org/buyer/product/91946,314,0,0
+1695972338034,381,Login,201,Created,Buyer Product 1-20,text,true,,482,277,7,7,https://market-final-project.binaracademy.org/auth/login,381,0,0
+1695972338099,359,Buy product ID,200,OK,Buyer Product 1-7,text,true,,1020,172,7,7,https://market-final-project.binaracademy.org/buyer/product/91946,359,0,0
+1695972338099,414,Login,201,Created,Buyer Product 1-18,text,true,,482,277,7,7,https://market-final-project.binaracademy.org/auth/login,413,0,0
+1695972337985,561,Login,201,Created,Buyer Product 1-16,text,true,,482,277,7,7,https://market-final-project.binaracademy.org/auth/login,561,0,0
+1695972337233,1589,Login,201,Created,Buyer Product 1-9,text,true,,482,277,7,7,https://market-final-project.binaracademy.org/auth/login,1589,0,0
+1695972338415,470,Buy product,200,OK,Buyer Product 1-20,text,true,,1197,235,7,7,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,470,0,155
+1695972338885,46,Buy product ID,200,OK,Buyer Product 1-20,text,true,,1020,172,7,7,https://market-final-project.binaracademy.org/buyer/product/91946,46,0,0
+1695972337462,1469,Login,201,Created,Buyer Product 1-5,text,true,,482,277,7,7,https://market-final-project.binaracademy.org/auth/login,1469,0,0
+1695972338513,528,Buy product,200,OK,Buyer Product 1-18,text,true,,1197,235,7,7,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,528,0,109
+1695972334274,4950,Buy product,200,OK,Buyer Product 1-11,text,true,,1197,235,7,7,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,4950,0,1478
+1695972338547,705,Buy product,200,OK,Buyer Product 1-16,text,true,,1197,235,7,7,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,705,0,146
+1695972339042,210,Buy product ID,200,OK,Buyer Product 1-18,text,true,,1020,172,7,7,https://market-final-project.binaracademy.org/buyer/product/91946,210,0,0
+1695972338931,321,Login,201,Created,Buyer Product 1-20,text,true,,482,277,7,7,https://market-final-project.binaracademy.org/auth/login,321,0,0
+1695972339252,106,Buy product ID,200,OK,Buyer Product 1-16,text,true,,1020,172,6,6,https://market-final-project.binaracademy.org/buyer/product/91946,106,0,0
+1695972338822,565,Buy product,200,OK,Buyer Product 1-9,text,true,,1197,235,5,5,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,565,0,64
+1695972338932,455,Buy product,200,OK,Buyer Product 1-5,text,true,,1197,235,5,5,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,455,0,50
+1695972339387,45,Buy product ID,200,OK,Buyer Product 1-9,text,true,,1020,172,5,5,https://market-final-project.binaracademy.org/buyer/product/91946,45,0,0
+1695972339388,44,Buy product ID,200,OK,Buyer Product 1-5,text,true,,1020,172,5,5,https://market-final-project.binaracademy.org/buyer/product/91946,44,0,0
+1695972339224,278,Buy product ID,200,OK,Buyer Product 1-11,text,true,,1020,172,3,3,https://market-final-project.binaracademy.org/buyer/product/91946,278,0,0
+1695972338458,1543,Login,201,Created,Buyer Product 1-7,text,true,,482,277,2,2,https://market-final-project.binaracademy.org/auth/login,1543,0,0
+1695972340001,177,Buy product,200,OK,Buyer Product 1-7,text,true,,1197,235,2,2,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,177,0,51
+1695972340178,54,Buy product ID,200,OK,Buyer Product 1-7,text,true,,1020,172,2,2,https://market-final-project.binaracademy.org/buyer/product/91946,54,0,0
+1695972340232,159,Login,201,Created,Buyer Product 1-7,text,true,,482,277,2,2,https://market-final-project.binaracademy.org/auth/login,159,0,0
+1695972340391,271,Buy product,200,OK,Buyer Product 1-7,text,true,,1197,235,2,2,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,271,0,80
+1695972340661,29,Buy product ID,200,OK,Buyer Product 1-7,text,true,,1020,172,2,2,https://market-final-project.binaracademy.org/buyer/product/91946,29,0,0
+1695972340690,140,Login,201,Created,Buyer Product 1-7,text,true,,482,277,2,2,https://market-final-project.binaracademy.org/auth/login,140,0,0
+1695972340835,207,Buy product,200,OK,Buyer Product 1-7,text,true,,1197,235,2,2,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,207,0,74
+1695972341043,48,Buy product ID,200,OK,Buyer Product 1-7,text,true,,1020,172,2,2,https://market-final-project.binaracademy.org/buyer/product/91946,48,0,0
+1695972339253,2388,Buy product,200,OK,Buyer Product 1-20,text,true,,1197,235,1,1,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,2388,0,1199
+1695972341640,241,Buy product ID,200,OK,Buyer Product 1-20,text,true,,1020,172,1,1,https://market-final-project.binaracademy.org/buyer/product/91946,241,0,0
+1695972341882,349,Login,201,Created,Buyer Product 1-20,text,true,,482,277,1,1,https://market-final-project.binaracademy.org/auth/login,349,0,0
+1695972342231,169,Buy product,200,OK,Buyer Product 1-20,text,true,,1197,235,1,1,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=3&search=diamond%20ML&page=1&per_page=2,169,0,49
+1695972342400,40,Buy product ID,200,OK,Buyer Product 1-20,text,true,,1020,172,1,1,https://market-final-project.binaracademy.org/buyer/product/91946,40,0,0

@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695905425392,679,Login,200,OK,Buyer 2 1-1,text,true,,2084,283,13,13,https://secondhand.binaracademy.org/users/sign_in.json,679,0,129
+1695905425443,1017,Login,200,OK,Buyer 2 1-2,text,true,,2084,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1017,0,138
+1695905425558,966,Login,200,OK,Buyer 2 1-4,text,true,,2102,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,966,0,53
+1695905425671,888,Login,200,OK,Buyer 2 1-6,text,true,,2078,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,888,0,49
+1695905425621,968,Login,200,OK,Buyer 2 1-5,text,true,,2084,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,968,0,49
+1695905425720,1160,Login,200,OK,Buyer 2 1-7,text,true,,2090,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1159,0,60
+1695905425820,1434,Login,200,OK,Buyer 2 1-9,text,true,,2080,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1434,0,50
+1695905425886,1384,Login,200,OK,Buyer 2 1-10,text,true,,2088,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1384,0,54
+1695905426072,1258,Update offer,302,Found,Buyer 2 1-1,text,true,,1216,737,20,20,https://secondhand.binaracademy.org/offers/39177.json,1257,0,0
+1695905425936,1517,Login,200,OK,Buyer 2 1-11,text,true,,2074,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1517,0,61
+1695905425986,1514,Login,200,OK,Buyer 2 1-12,text,true,,2084,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1514,0,55
+1695905426460,1120,Update offer,302,Found,Buyer 2 1-2,text,true,,1228,737,20,20,https://secondhand.binaracademy.org/offers/39177.json,1120,0,0
+1695905426525,1075,Update offer,302,Found,Buyer 2 1-4,text,true,,1232,749,20,20,https://secondhand.binaracademy.org/offers/39177.json,1074,0,0
+1695905426560,1060,Update offer,302,Found,Buyer 2 1-6,text,true,,1210,731,20,20,https://secondhand.binaracademy.org/offers/39177.json,1059,0,0
+1695905426589,1051,Update offer,302,Found,Buyer 2 1-5,text,true,,1214,731,20,20,https://secondhand.binaracademy.org/offers/39177.json,1051,0,0
+1695905426880,790,Update offer,302,Found,Buyer 2 1-7,text,true,,1212,737,20,20,https://secondhand.binaracademy.org/offers/39177.json,789,0,0
+1695905426036,1803,Login,200,OK,Buyer 2 1-13,text,true,,2078,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1803,0,54
+1695905427255,614,Update offer,302,Found,Buyer 2 1-9,text,true,,1208,733,20,20,https://secondhand.binaracademy.org/offers/39177.json,614,0,0
+1695905427270,620,Update offer,302,Found,Buyer 2 1-10,text,true,,1212,735,20,20,https://secondhand.binaracademy.org/offers/39177.json,620,0,0
+1695905426135,2154,Login,200,OK,Buyer 2 1-15,text,true,,2086,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2154,0,55
+1695905427330,993,Login,200,OK,Buyer 2 1-1,text,true,,2088,748,20,20,https://secondhand.binaracademy.org/users/sign_in.json,993,0,50
+1695905427453,870,Update offer,302,Found,Buyer 2 1-11,text,true,,1216,727,20,20,https://secondhand.binaracademy.org/offers/39177.json,870,0,0
+1695905426401,1958,Login,200,OK,Buyer 2 1-20,text,true,,2080,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1958,0,44
+1695905427500,860,Update offer,302,Found,Buyer 2 1-12,text,true,,1210,731,20,20,https://secondhand.binaracademy.org/offers/39177.json,859,0,0
+1695905427641,745,Login,200,OK,Buyer 2 1-5,text,true,,2074,746,20,20,https://secondhand.binaracademy.org/users/sign_in.json,745,0,53
+1695905427620,780,Login,200,OK,Buyer 2 1-6,text,true,,2080,742,20,20,https://secondhand.binaracademy.org/users/sign_in.json,780,0,50
+1695905427670,769,Login,200,OK,Buyer 2 1-7,text,true,,2086,744,20,20,https://secondhand.binaracademy.org/users/sign_in.json,769,0,49
+1695905426184,2266,Login,200,OK,Buyer 2 1-16,text,true,,2086,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2266,0,57
+1695905427840,611,Update offer,302,Found,Buyer 2 1-13,text,true,,1216,731,20,20,https://secondhand.binaracademy.org/offers/39177.json,610,0,0
+1695905427870,610,Login,200,OK,Buyer 2 1-9,text,true,,2090,740,20,20,https://secondhand.binaracademy.org/users/sign_in.json,610,0,51
+1695905427890,610,Login,200,OK,Buyer 2 1-10,text,true,,2076,744,20,20,https://secondhand.binaracademy.org/users/sign_in.json,610,0,52
+1695905428289,231,Update offer,302,Found,Buyer 2 1-15,text,true,,1216,733,20,20,https://secondhand.binaracademy.org/offers/39177.json,231,0,0
+1695905428360,180,Update offer,302,Found,Buyer 2 1-20,text,true,,1230,727,20,20,https://secondhand.binaracademy.org/offers/39177.json,179,0,0
+1695905428323,217,Update offer,302,Found,Buyer 2 1-1,text,true,,1218,741,20,20,https://secondhand.binaracademy.org/offers/39177.json,216,0,0
+1695905428323,239,Login,200,OK,Buyer 2 1-11,text,true,,2088,748,20,20,https://secondhand.binaracademy.org/users/sign_in.json,239,0,59
+1695905428387,175,Update offer,302,Found,Buyer 2 1-5,text,true,,1214,727,20,20,https://secondhand.binaracademy.org/offers/39177.json,175,0,0
+1695905428400,182,Update offer,302,Found,Buyer 2 1-6,text,true,,1218,733,20,20,https://secondhand.binaracademy.org/offers/39177.json,182,0,0
+1695905428439,143,Update offer,302,Found,Buyer 2 1-7,text,true,,1216,739,20,20,https://secondhand.binaracademy.org/offers/39177.json,143,0,0
+1695905428360,230,Login,200,OK,Buyer 2 1-12,text,true,,2074,742,20,20,https://secondhand.binaracademy.org/users/sign_in.json,230,0,44
+1695905428451,140,Update offer,302,Found,Buyer 2 1-16,text,true,,1222,739,20,20,https://secondhand.binaracademy.org/offers/39177.json,139,0,0
+1695905428501,111,Update offer,302,Found,Buyer 2 1-10,text,true,,1214,729,20,20,https://secondhand.binaracademy.org/offers/39177.json,111,0,0
+1695905428480,132,Update offer,302,Found,Buyer 2 1-9,text,true,,1226,737,20,20,https://secondhand.binaracademy.org/offers/39177.json,132,0,0
+1695905426086,2534,Login,200,OK,Buyer 2 1-14,text,true,,2086,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2534,0,974
+1695905428562,58,Update offer,302,Found,Buyer 2 1-11,text,true,,1220,741,20,20,https://secondhand.binaracademy.org/offers/39177.json,58,0,0
+1695905428451,185,Login,200,OK,Buyer 2 1-13,text,true,,2086,748,20,20,https://secondhand.binaracademy.org/users/sign_in.json,185,0,51
+1695905428591,83,Update offer,302,Found,Buyer 2 1-12,text,true,,1216,721,20,20,https://secondhand.binaracademy.org/offers/39177.json,82,0,0
+1695905428520,168,Login,200,OK,Buyer 2 1-15,text,true,,2086,748,20,20,https://secondhand.binaracademy.org/users/sign_in.json,168,0,46
+1695905428540,148,Login,200,OK,Buyer 2 1-1,text,true,,2088,750,20,20,https://secondhand.binaracademy.org/users/sign_in.json,148,0,63
+1695905428540,150,Login,200,OK,Buyer 2 1-20,text,true,,2080,762,20,20,https://secondhand.binaracademy.org/users/sign_in.json,150,0,63
+1695905428583,125,Login,200,OK,Buyer 2 1-7,text,true,,2086,748,20,20,https://secondhand.binaracademy.org/users/sign_in.json,125,0,40
+1695905427600,1121,Login,200,OK,Buyer 2 1-4,text,true,,2082,764,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1121,0,440
+1695905428583,155,Login,200,OK,Buyer 2 1-6,text,true,,2072,750,20,20,https://secondhand.binaracademy.org/users/sign_in.json,155,0,41
+1695905428636,102,Update offer,302,Found,Buyer 2 1-13,text,true,,1226,739,20,20,https://secondhand.binaracademy.org/offers/39177.json,102,0,0
+1695905428591,163,Login,200,OK,Buyer 2 1-16,text,true,,2086,754,20,20,https://secondhand.binaracademy.org/users/sign_in.json,163,0,46
+1695905428689,83,Update offer,302,Found,Buyer 2 1-15,text,true,,1214,739,20,20,https://secondhand.binaracademy.org/offers/39177.json,82,0,0
+1695905428689,83,Update offer,302,Found,Buyer 2 1-1,text,true,,1216,741,20,20,https://secondhand.binaracademy.org/offers/39177.json,83,0,0
+1695905428612,183,Login,200,OK,Buyer 2 1-10,text,true,,2084,746,20,20,https://secondhand.binaracademy.org/users/sign_in.json,183,0,78
+1695905428691,106,Update offer,302,Found,Buyer 2 1-20,text,true,,1220,733,20,20,https://secondhand.binaracademy.org/offers/39177.json,104,0,0
+1695905428612,206,Login,200,OK,Buyer 2 1-9,text,true,,2084,758,20,20,https://secondhand.binaracademy.org/users/sign_in.json,206,0,78
+1695905428708,110,Update offer,302,Found,Buyer 2 1-7,text,true,,1208,739,20,20,https://secondhand.binaracademy.org/offers/39177.json,110,0,0
+1695905428754,88,Update offer,302,Found,Buyer 2 1-16,text,true,,1218,739,20,20,https://secondhand.binaracademy.org/offers/39177.json,88,0,0
+1695905428738,106,Update offer,302,Found,Buyer 2 1-6,text,true,,1216,725,20,20,https://secondhand.binaracademy.org/offers/39177.json,104,0,0
+1695905428818,34,Update offer,302,Found,Buyer 2 1-9,text,true,,1220,731,20,20,https://secondhand.binaracademy.org/offers/39177.json,33,0,0
+1695905428795,57,Update offer,302,Found,Buyer 2 1-10,text,true,,1222,737,20,20,https://secondhand.binaracademy.org/offers/39177.json,56,0,0
+1695905428620,282,Update offer,302,Found,Buyer 2 1-14,text,true,,1228,733,20,20,https://secondhand.binaracademy.org/offers/39177.json,281,0,0
+1695905428772,139,Login,200,OK,Buyer 2 1-15,text,true,,2086,746,20,20,https://secondhand.binaracademy.org/users/sign_in.json,139,0,72
+1695905428797,119,Login,200,OK,Buyer 2 1-20,text,true,,2082,752,20,20,https://secondhand.binaracademy.org/users/sign_in.json,119,0,56
+1695905428772,144,Login,200,OK,Buyer 2 1-1,text,true,,2100,748,20,20,https://secondhand.binaracademy.org/users/sign_in.json,144,0,71
+1695905428818,118,Login,200,OK,Buyer 2 1-7,text,true,,2098,740,20,20,https://secondhand.binaracademy.org/users/sign_in.json,118,0,63
+1695905428852,88,Login,200,OK,Buyer 2 1-10,text,true,,2088,754,20,20,https://secondhand.binaracademy.org/users/sign_in.json,88,0,40
+1695905428845,104,Login,200,OK,Buyer 2 1-6,text,true,,2080,748,20,20,https://secondhand.binaracademy.org/users/sign_in.json,104,0,47
+1695905428916,81,Update offer,302,Found,Buyer 2 1-1,text,true,,1212,747,20,20,https://secondhand.binaracademy.org/offers/39177.json,80,0,0
+1695905428937,61,Update offer,302,Found,Buyer 2 1-7,text,true,,1218,745,20,20,https://secondhand.binaracademy.org/offers/39177.json,61,0,0
+1695905428852,174,Login,200,OK,Buyer 2 1-9,text,true,,2090,752,20,20,https://secondhand.binaracademy.org/users/sign_in.json,174,0,51
+1695905428916,111,Update offer,302,Found,Buyer 2 1-20,text,true,,1210,729,20,20,https://secondhand.binaracademy.org/offers/39177.json,110,0,0
+1695905428940,88,Update offer,302,Found,Buyer 2 1-10,text,true,,1218,735,20,20,https://secondhand.binaracademy.org/offers/39177.json,87,0,0
+1695905428950,78,Update offer,302,Found,Buyer 2 1-6,text,true,,1208,733,20,20,https://secondhand.binaracademy.org/offers/39177.json,78,0,0
+1695905428942,87,Update offer,302,Found,Buyer 2 1-15,text,true,,1208,733,20,20,https://secondhand.binaracademy.org/offers/39177.json,87,0,0
+1695905428721,337,Update offer,302,Found,Buyer 2 1-4,text,true,,1208,729,20,20,https://secondhand.binaracademy.org/offers/39177.json,336,0,0
+1695905428902,163,Login,200,OK,Buyer 2 1-14,text,true,,2084,760,20,20,https://secondhand.binaracademy.org/users/sign_in.json,163,0,96
+1695905429027,54,Update offer,302,Found,Buyer 2 1-9,text,true,,1210,743,20,20,https://secondhand.binaracademy.org/offers/39177.json,53,0,0
+1695905429065,38,Update offer,302,Found,Buyer 2 1-14,text,true,,1206,737,20,20,https://secondhand.binaracademy.org/offers/39177.json,38,0,0
+1695905428997,149,Login,200,OK,Buyer 2 1-1,text,true,,2080,744,20,20,https://secondhand.binaracademy.org/users/sign_in.json,149,0,90
+1695905428999,160,Login,200,OK,Buyer 2 1-7,text,true,,2082,750,20,20,https://secondhand.binaracademy.org/users/sign_in.json,160,0,88
+1695905429058,116,Login,200,OK,Buyer 2 1-4,text,true,,2078,740,20,20,https://secondhand.binaracademy.org/users/sign_in.json,116,0,56
+1695905429028,160,Login,200,OK,Buyer 2 1-10,text,true,,2094,750,20,20,https://secondhand.binaracademy.org/users/sign_in.json,160,0,77
+1695905429147,41,Update offer,302,Found,Buyer 2 1-1,text,true,,1206,733,20,20,https://secondhand.binaracademy.org/offers/39177.json,41,0,0
+1695905429160,35,Update offer,302,Found,Buyer 2 1-7,text,true,,1212,729,20,20,https://secondhand.binaracademy.org/offers/39177.json,35,0,0
+1695905429104,106,Login,200,OK,Buyer 2 1-14,text,true,,2090,738,20,20,https://secondhand.binaracademy.org/users/sign_in.json,106,0,57
+1695905429174,36,Update offer,302,Found,Buyer 2 1-4,text,true,,1230,725,20,20,https://secondhand.binaracademy.org/offers/39177.json,36,0,0
+1695905429188,43,Update offer,302,Found,Buyer 2 1-10,text,true,,1222,741,20,20,https://secondhand.binaracademy.org/offers/39177.json,43,0,0
+1695905429210,40,Update offer,302,Found,Buyer 2 1-14,text,true,,1208,737,20,20,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905429189,90,Login,200,OK,Buyer 2 1-1,text,true,,2072,738,20,20,https://secondhand.binaracademy.org/users/sign_in.json,90,0,43
+1695905429196,103,Login,200,OK,Buyer 2 1-7,text,true,,2092,744,20,20,https://secondhand.binaracademy.org/users/sign_in.json,103,0,55
+1695905429210,100,Login,200,OK,Buyer 2 1-4,text,true,,2080,762,20,20,https://secondhand.binaracademy.org/users/sign_in.json,100,0,54
+1695905429279,31,Update offer,302,Found,Buyer 2 1-1,text,true,,1214,725,20,20,https://secondhand.binaracademy.org/offers/39177.json,31,0,0
+1695905429232,109,Login,200,OK,Buyer 2 1-10,text,true,,2086,754,20,20,https://secondhand.binaracademy.org/users/sign_in.json,109,0,60
+1695905429299,42,Update offer,302,Found,Buyer 2 1-7,text,true,,1228,739,20,20,https://secondhand.binaracademy.org/offers/39177.json,42,0,0
+1695905428621,730,Login,200,OK,Buyer 2 1-11,text,true,,2086,752,20,20,https://secondhand.binaracademy.org/users/sign_in.json,730,0,460
+1695905425770,3581,Login,200,OK,Buyer 2 1-8,text,true,,2088,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,3581,0,1948
+1695905429250,117,Login,200,OK,Buyer 2 1-14,text,true,,2082,740,20,20,https://secondhand.binaracademy.org/users/sign_in.json,117,0,61
+1695905429310,57,Update offer,302,Found,Buyer 2 1-4,text,true,,1220,733,20,20,https://secondhand.binaracademy.org/offers/39177.json,57,0,0
+1695905428674,706,Login,200,OK,Buyer 2 1-12,text,true,,2092,748,20,20,https://secondhand.binaracademy.org/users/sign_in.json,706,0,446
+1695905429341,39,Update offer,302,Found,Buyer 2 1-10,text,true,,1214,733,20,20,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905429311,99,Login,200,OK,Buyer 2 1-1,text,true,,2098,746,20,20,https://secondhand.binaracademy.org/users/sign_in.json,99,0,41
+1695905429367,43,Update offer,302,Found,Buyer 2 1-14,text,true,,1222,729,20,20,https://secondhand.binaracademy.org/offers/39177.json,43,0,0
+1695905426252,3178,Login,200,OK,Buyer 2 1-17,text,true,,2082,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,3178,0,1018
+1695905429410,31,Update offer,302,Found,Buyer 2 1-1,text,true,,1220,745,20,20,https://secondhand.binaracademy.org/offers/39177.json,30,0,0
+1695905429381,89,Login,200,OK,Buyer 2 1-10,text,true,,2088,746,20,20,https://secondhand.binaracademy.org/users/sign_in.json,89,0,50
+1695905429470,36,Update offer,302,Found,Buyer 2 1-10,text,true,,1224,741,20,20,https://secondhand.binaracademy.org/offers/39177.json,36,0,0
+1695905429441,118,Login,200,OK,Buyer 2 1-1,text,true,,2070,752,20,20,https://secondhand.binaracademy.org/users/sign_in.json,118,0,66
+1695905429506,88,Login,200,OK,Buyer 2 1-10,text,true,,2074,756,20,20,https://secondhand.binaracademy.org/users/sign_in.json,88,0,54
+1695905429559,35,Update offer,302,Found,Buyer 2 1-1,text,true,,1214,723,20,20,https://secondhand.binaracademy.org/offers/39177.json,35,0,0
+1695905429352,259,Update offer,302,Found,Buyer 2 1-8,text,true,,1216,741,20,20,https://secondhand.binaracademy.org/offers/39177.json,258,0,0
+1695905429594,58,Update offer,302,Found,Buyer 2 1-10,text,true,,1210,727,20,20,https://secondhand.binaracademy.org/offers/39177.json,58,0,0
+1695905427580,2100,Login,200,OK,Buyer 2 1-2,text,true,,2092,760,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2100,0,1479
+1695905429594,116,Login,200,OK,Buyer 2 1-1,text,true,,2092,746,20,20,https://secondhand.binaracademy.org/users/sign_in.json,116,0,59
+1695905429611,119,Login,200,OK,Buyer 2 1-8,text,true,,2080,748,20,20,https://secondhand.binaracademy.org/users/sign_in.json,119,0,52
+1695905429710,36,Update offer,302,Found,Buyer 2 1-1,text,true,,1212,739,20,20,https://secondhand.binaracademy.org/offers/39177.json,35,0,0
+1695905429653,107,Login,200,OK,Buyer 2 1-10,text,true,,2086,742,20,20,https://secondhand.binaracademy.org/users/sign_in.json,107,0,58
+1695905429730,30,Update offer,302,Found,Buyer 2 1-8,text,true,,1218,727,20,20,https://secondhand.binaracademy.org/offers/39177.json,30,0,0
+1695905429030,746,Login,200,OK,Buyer 2 1-15,text,true,,2092,740,20,20,https://secondhand.binaracademy.org/users/sign_in.json,746,0,505
+1695905429081,706,Login,200,OK,Buyer 2 1-9,text,true,,2092,742,20,20,https://secondhand.binaracademy.org/users/sign_in.json,706,0,459
+1695905429760,39,Update offer,302,Found,Buyer 2 1-10,text,true,,1228,739,20,20,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905425510,4340,Login,200,OK,Buyer 2 1-3,text,true,,2082,283,20,20,https://secondhand.binaracademy.org/users/sign_in.json,4340,0,460
+1695905429800,90,Login,200,OK,Buyer 2 1-10,text,true,,2078,760,20,20,https://secondhand.binaracademy.org/users/sign_in.json,90,0,51
+1695905429681,250,Update offer,302,Found,Buyer 2 1-2,text,true,,1224,739,20,20,https://secondhand.binaracademy.org/offers/39177.json,249,0,0
+1695905429890,41,Update offer,302,Found,Buyer 2 1-10,text,true,,1230,731,20,20,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905429931,79,Login,200,OK,Buyer 2 1-2,text,true,,2082,756,19,19,https://secondhand.binaracademy.org/users/sign_in.json,79,0,49
+1695905429779,251,Update offer,302,Found,Buyer 2 1-15,text,true,,1212,739,19,19,https://secondhand.binaracademy.org/offers/39177.json,251,0,0
+1695905429787,263,Update offer,302,Found,Buyer 2 1-9,text,true,,1206,745,19,19,https://secondhand.binaracademy.org/offers/39177.json,263,0,0
+1695905430010,40,Update offer,302,Found,Buyer 2 1-2,text,true,,1210,735,19,19,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905429367,714,Login,200,OK,Buyer 2 1-4,text,true,,2074,752,19,19,https://secondhand.binaracademy.org/users/sign_in.json,714,0,463
+1695905429850,250,Update offer,302,Found,Buyer 2 1-3,text,true,,1216,735,19,19,https://secondhand.binaracademy.org/offers/39177.json,250,0,0
+1695905430051,88,Login,200,OK,Buyer 2 1-9,text,true,,2082,738,19,19,https://secondhand.binaracademy.org/users/sign_in.json,88,0,50
+1695905430139,31,Update offer,302,Found,Buyer 2 1-9,text,true,,1214,735,19,19,https://secondhand.binaracademy.org/offers/39177.json,31,0,0
+1695905430100,90,Login,200,OK,Buyer 2 1-3,text,true,,2086,748,19,19,https://secondhand.binaracademy.org/users/sign_in.json,90,0,40
+1695905430190,40,Update offer,302,Found,Buyer 2 1-3,text,true,,1220,739,19,19,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905430170,100,Login,200,OK,Buyer 2 1-9,text,true,,2088,746,19,19,https://secondhand.binaracademy.org/users/sign_in.json,100,0,44
+1695905430271,38,Update offer,302,Found,Buyer 2 1-9,text,true,,1216,735,19,19,https://secondhand.binaracademy.org/offers/39177.json,38,0,0
+1695905430081,228,Update offer,302,Found,Buyer 2 1-4,text,true,,1224,727,19,19,https://secondhand.binaracademy.org/offers/39177.json,228,0,0
+1695905430230,90,Login,200,OK,Buyer 2 1-3,text,true,,2074,752,19,19,https://secondhand.binaracademy.org/users/sign_in.json,90,0,42
+1695905430320,39,Update offer,302,Found,Buyer 2 1-3,text,true,,1206,727,19,19,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905430309,101,Login,200,OK,Buyer 2 1-9,text,true,,2080,748,19,19,https://secondhand.binaracademy.org/users/sign_in.json,101,0,51
+1695905430360,95,Login,200,OK,Buyer 2 1-3,text,true,,2090,738,19,19,https://secondhand.binaracademy.org/users/sign_in.json,95,0,51
+1695905430410,46,Update offer,302,Found,Buyer 2 1-9,text,true,,1220,733,19,19,https://secondhand.binaracademy.org/offers/39177.json,45,0,0
+1695905429761,709,Login,200,OK,Buyer 2 1-8,text,true,,2082,750,19,19,https://secondhand.binaracademy.org/users/sign_in.json,709,0,453
+1695905430456,34,Update offer,302,Found,Buyer 2 1-3,text,true,,1212,743,19,19,https://secondhand.binaracademy.org/offers/39177.json,34,0,0
+1695905430456,94,Login,200,OK,Buyer 2 1-9,text,true,,2076,752,19,19,https://secondhand.binaracademy.org/users/sign_in.json,94,0,54
+1695905430490,80,Login,200,OK,Buyer 2 1-3,text,true,,2084,744,19,19,https://secondhand.binaracademy.org/users/sign_in.json,80,0,47
+1695905430550,40,Update offer,302,Found,Buyer 2 1-9,text,true,,1214,729,19,19,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905430570,41,Update offer,302,Found,Buyer 2 1-3,text,true,,1212,731,19,19,https://secondhand.binaracademy.org/offers/39177.json,41,0,0
+1695905430590,90,Login,200,OK,Buyer 2 1-9,text,true,,2080,746,19,19,https://secondhand.binaracademy.org/users/sign_in.json,90,0,50
+1695905429380,1301,Update offer,302,Found,Buyer 2 1-12,text,true,,1218,739,19,19,https://secondhand.binaracademy.org/offers/39177.json,1300,0,0
+1695905430611,91,Login,200,OK,Buyer 2 1-3,text,true,,2084,744,19,19,https://secondhand.binaracademy.org/users/sign_in.json,91,0,50
+1695905430470,232,Update offer,302,Found,Buyer 2 1-8,text,true,,1214,735,19,19,https://secondhand.binaracademy.org/offers/39177.json,232,0,0
+1695905430030,691,Login,200,OK,Buyer 2 1-15,text,true,,2100,744,19,19,https://secondhand.binaracademy.org/users/sign_in.json,691,0,461
+1695905430681,40,Update offer,302,Found,Buyer 2 1-9,text,true,,1238,733,19,19,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905430702,42,Update offer,302,Found,Buyer 2 1-3,text,true,,1212,737,18,18,https://secondhand.binaracademy.org/offers/39177.json,42,0,0
+1695905429352,1410,Update offer,302,Found,Buyer 2 1-11,text,true,,1224,733,18,18,https://secondhand.binaracademy.org/offers/39177.json,1410,0,0
+1695905430681,98,Login,200,OK,Buyer 2 1-12,text,true,,2076,750,18,18,https://secondhand.binaracademy.org/users/sign_in.json,98,0,65
+1695905430703,112,Login,200,OK,Buyer 2 1-8,text,true,,2082,746,18,18,https://secondhand.binaracademy.org/users/sign_in.json,112,0,60
+1695905430781,35,Update offer,302,Found,Buyer 2 1-12,text,true,,1222,729,18,18,https://secondhand.binaracademy.org/offers/39177.json,35,0,0
+1695905430745,92,Login,200,OK,Buyer 2 1-3,text,true,,2094,744,18,18,https://secondhand.binaracademy.org/users/sign_in.json,92,0,57
+1695905429430,1406,Update offer,302,Found,Buyer 2 1-17,text,true,,1214,729,18,18,https://secondhand.binaracademy.org/offers/39177.json,1406,0,0
+1695905430816,35,Update offer,302,Found,Buyer 2 1-8,text,true,,1224,735,18,18,https://secondhand.binaracademy.org/offers/39177.json,34,0,0
+1695905428563,2307,Login,200,OK,Buyer 2 1-5,text,true,,2096,746,18,18,https://secondhand.binaracademy.org/users/sign_in.json,2307,0,1090
+1695905430837,35,Update offer,302,Found,Buyer 2 1-3,text,true,,1222,747,18,18,https://secondhand.binaracademy.org/offers/39177.json,34,0,0
+1695905430816,105,Login,200,OK,Buyer 2 1-12,text,true,,2078,754,18,18,https://secondhand.binaracademy.org/users/sign_in.json,105,0,56
+1695905430722,239,Update offer,302,Found,Buyer 2 1-15,text,true,,1212,753,18,18,https://secondhand.binaracademy.org/offers/39177.json,239,0,0
+1695905430921,40,Update offer,302,Found,Buyer 2 1-12,text,true,,1222,725,18,18,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905430309,718,Login,200,OK,Buyer 2 1-4,text,true,,2096,756,18,18,https://secondhand.binaracademy.org/users/sign_in.json,718,0,454
+1695905429342,1685,Login,200,OK,Buyer 2 1-7,text,true,,2092,760,18,18,https://secondhand.binaracademy.org/users/sign_in.json,1685,0,446
+1695905430961,91,Login,200,OK,Buyer 2 1-15,text,true,,2090,744,18,18,https://secondhand.binaracademy.org/users/sign_in.json,91,0,50
+1695905430961,110,Login,200,OK,Buyer 2 1-12,text,true,,2078,754,18,18,https://secondhand.binaracademy.org/users/sign_in.json,110,0,50
+1695905431052,39,Update offer,302,Found,Buyer 2 1-15,text,true,,1220,737,18,18,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905431071,41,Update offer,302,Found,Buyer 2 1-12,text,true,,1218,731,18,18,https://secondhand.binaracademy.org/offers/39177.json,41,0,0
+1695905431091,101,Login,200,OK,Buyer 2 1-15,text,true,,2078,752,18,18,https://secondhand.binaracademy.org/users/sign_in.json,101,0,61
+1695905431112,102,Login,200,OK,Buyer 2 1-12,text,true,,2082,750,18,18,https://secondhand.binaracademy.org/users/sign_in.json,102,0,62
+1695905431192,39,Update offer,302,Found,Buyer 2 1-15,text,true,,1228,731,18,18,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905431215,45,Update offer,302,Found,Buyer 2 1-12,text,true,,1212,735,18,18,https://secondhand.binaracademy.org/offers/39177.json,45,0,0
+1695905431028,254,Update offer,302,Found,Buyer 2 1-4,text,true,,1226,743,18,18,https://secondhand.binaracademy.org/offers/39177.json,254,0,0
+1695905431028,254,Update offer,302,Found,Buyer 2 1-7,text,true,,1222,739,18,18,https://secondhand.binaracademy.org/offers/39177.json,254,0,0
+1695905431261,110,Login,200,OK,Buyer 2 1-12,text,true,,2076,744,18,18,https://secondhand.binaracademy.org/users/sign_in.json,110,0,61
+1695905431282,109,Login,200,OK,Buyer 2 1-7,text,true,,2076,754,18,18,https://secondhand.binaracademy.org/users/sign_in.json,109,0,69
+1695905431371,50,Update offer,302,Found,Buyer 2 1-12,text,true,,1218,723,18,18,https://secondhand.binaracademy.org/offers/39177.json,50,0,0
+1695905431391,30,Update offer,302,Found,Buyer 2 1-7,text,true,,1210,729,18,18,https://secondhand.binaracademy.org/offers/39177.json,30,0,0
+1695905430764,707,Login,200,OK,Buyer 2 1-11,text,true,,2092,756,18,18,https://secondhand.binaracademy.org/users/sign_in.json,707,0,454
+1695905431421,96,Login,200,OK,Buyer 2 1-7,text,true,,2084,742,18,18,https://secondhand.binaracademy.org/users/sign_in.json,96,0,52
+1695905431421,110,Login,200,OK,Buyer 2 1-12,text,true,,2078,750,18,18,https://secondhand.binaracademy.org/users/sign_in.json,110,0,51
+1695905431517,32,Update offer,302,Found,Buyer 2 1-7,text,true,,1216,731,18,18,https://secondhand.binaracademy.org/offers/39177.json,32,0,0
+1695905430851,709,Login,200,OK,Buyer 2 1-8,text,true,,2090,756,18,18,https://secondhand.binaracademy.org/users/sign_in.json,709,0,450
+1695905431531,30,Update offer,302,Found,Buyer 2 1-12,text,true,,1208,731,18,18,https://secondhand.binaracademy.org/offers/39177.json,30,0,0
+1695905430872,710,Login,200,OK,Buyer 2 1-3,text,true,,2092,754,18,18,https://secondhand.binaracademy.org/users/sign_in.json,710,0,450
+1695905431561,100,Login,200,OK,Buyer 2 1-12,text,true,,2070,740,18,18,https://secondhand.binaracademy.org/users/sign_in.json,100,0,51
+1695905431662,39,Update offer,302,Found,Buyer 2 1-12,text,true,,1208,723,18,18,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905431561,250,Update offer,302,Found,Buyer 2 1-8,text,true,,1216,737,17,17,https://secondhand.binaracademy.org/offers/39177.json,250,0,0
+1695905430837,996,Login,200,OK,Buyer 2 1-17,text,true,,2078,746,17,17,https://secondhand.binaracademy.org/users/sign_in.json,996,0,464
+1695905431583,250,Update offer,302,Found,Buyer 2 1-3,text,true,,1220,739,17,17,https://secondhand.binaracademy.org/offers/39177.json,250,0,0
+1695905431812,122,Login,200,OK,Buyer 2 1-8,text,true,,2074,748,17,17,https://secondhand.binaracademy.org/users/sign_in.json,122,0,81
+1695905431934,38,Update offer,302,Found,Buyer 2 1-8,text,true,,1208,727,17,17,https://secondhand.binaracademy.org/offers/39177.json,37,0,0
+1695905431972,99,Login,200,OK,Buyer 2 1-8,text,true,,2088,740,17,17,https://secondhand.binaracademy.org/users/sign_in.json,99,0,50
+1695905431833,238,Update offer,302,Found,Buyer 2 1-17,text,true,,1214,725,17,17,https://secondhand.binaracademy.org/offers/39177.json,238,0,0
+1695905432071,41,Update offer,302,Found,Buyer 2 1-8,text,true,,1226,741,17,17,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905432072,89,Login,200,OK,Buyer 2 1-17,text,true,,2072,746,17,17,https://secondhand.binaracademy.org/users/sign_in.json,89,0,41
+1695905432112,87,Login,200,OK,Buyer 2 1-8,text,true,,2090,758,17,17,https://secondhand.binaracademy.org/users/sign_in.json,87,0,51
+1695905432161,38,Update offer,302,Found,Buyer 2 1-17,text,true,,1214,725,17,17,https://secondhand.binaracademy.org/offers/39177.json,38,0,0
+1695905431232,996,Login,200,OK,Buyer 2 1-15,text,true,,2084,760,17,17,https://secondhand.binaracademy.org/users/sign_in.json,996,0,470
+1695905432199,42,Update offer,302,Found,Buyer 2 1-8,text,true,,1214,743,17,17,https://secondhand.binaracademy.org/offers/39177.json,42,0,0
+1695905430871,1410,Update offer,302,Found,Buyer 2 1-5,text,true,,1218,743,17,17,https://secondhand.binaracademy.org/offers/39177.json,1410,0,0
+1695905432242,91,Login,200,OK,Buyer 2 1-8,text,true,,2090,746,17,17,https://secondhand.binaracademy.org/users/sign_in.json,91,0,40
+1695905432334,37,Update offer,302,Found,Buyer 2 1-8,text,true,,1214,743,17,17,https://secondhand.binaracademy.org/offers/39177.json,36,0,0
+1695905432371,109,Login,200,OK,Buyer 2 1-8,text,true,,2098,746,17,17,https://secondhand.binaracademy.org/users/sign_in.json,109,0,52
+1695905432229,251,Update offer,302,Found,Buyer 2 1-15,text,true,,1220,737,17,17,https://secondhand.binaracademy.org/offers/39177.json,251,0,0
+1695905432480,41,Update offer,302,Found,Buyer 2 1-8,text,true,,1212,745,17,17,https://secondhand.binaracademy.org/offers/39177.json,41,0,0
+1695905432480,91,Login,200,OK,Buyer 2 1-15,text,true,,2080,752,16,16,https://secondhand.binaracademy.org/users/sign_in.json,91,0,42
+1695905428842,3728,Login,200,OK,Buyer 2 1-16,text,true,,2102,750,16,16,https://secondhand.binaracademy.org/users/sign_in.json,3728,0,469
+1695905432571,50,Update offer,302,Found,Buyer 2 1-15,text,true,,1222,733,16,16,https://secondhand.binaracademy.org/offers/39177.json,50,0,0
+1695905432621,80,Login,200,OK,Buyer 2 1-15,text,true,,2082,754,16,16,https://secondhand.binaracademy.org/users/sign_in.json,80,0,51
+1695905432701,31,Update offer,302,Found,Buyer 2 1-15,text,true,,1234,735,16,16,https://secondhand.binaracademy.org/offers/39177.json,30,0,0
+1695905432571,260,Update offer,302,Found,Buyer 2 1-16,text,true,,1212,749,15,15,https://secondhand.binaracademy.org/offers/39177.json,260,0,0
+1695905429411,3451,Login,200,OK,Buyer 2 1-14,text,true,,2082,754,15,15,https://secondhand.binaracademy.org/users/sign_in.json,3451,0,463
+1695905431471,1392,Update offer,302,Found,Buyer 2 1-11,text,true,,1232,745,15,15,https://secondhand.binaracademy.org/offers/39177.json,1392,0,0
+1695905432845,89,Login,200,OK,Buyer 2 1-16,text,true,,2082,744,15,15,https://secondhand.binaracademy.org/users/sign_in.json,89,0,43
+1695905432864,86,Login,200,OK,Buyer 2 1-11,text,true,,2088,764,15,15,https://secondhand.binaracademy.org/users/sign_in.json,86,0,38
+1695905431282,1669,Login,200,OK,Buyer 2 1-4,text,true,,2098,758,15,15,https://secondhand.binaracademy.org/users/sign_in.json,1669,0,1140
+1695905432935,36,Update offer,302,Found,Buyer 2 1-16,text,true,,1228,735,15,15,https://secondhand.binaracademy.org/offers/39177.json,35,0,0
+1695905432951,41,Update offer,302,Found,Buyer 2 1-11,text,true,,1210,741,15,15,https://secondhand.binaracademy.org/offers/39177.json,41,0,0
+1695905432971,100,Login,200,OK,Buyer 2 1-16,text,true,,2082,760,15,15,https://secondhand.binaracademy.org/users/sign_in.json,100,0,40
+1695905432863,249,Update offer,302,Found,Buyer 2 1-14,text,true,,1218,735,15,15,https://secondhand.binaracademy.org/offers/39177.json,248,0,0
+1695905433071,41,Update offer,302,Found,Buyer 2 1-16,text,true,,1222,729,15,15,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905432951,260,Update offer,302,Found,Buyer 2 1-4,text,true,,1214,745,15,15,https://secondhand.binaracademy.org/offers/39177.json,259,0,0
+1695905433112,129,Login,200,OK,Buyer 2 1-16,text,true,,2088,754,15,15,https://secondhand.binaracademy.org/users/sign_in.json,129,0,80
+1695905429027,4233,Login,200,OK,Buyer 2 1-20,text,true,,2078,742,15,15,https://secondhand.binaracademy.org/users/sign_in.json,4233,0,3463
+1695905433112,149,Login,200,OK,Buyer 2 1-14,text,true,,2074,750,15,15,https://secondhand.binaracademy.org/users/sign_in.json,149,0,80
+1695905433242,27,Update offer,302,Found,Buyer 2 1-16,text,true,,1222,735,15,15,https://secondhand.binaracademy.org/offers/39177.json,27,0,0
+1695905433261,43,Update offer,302,Found,Buyer 2 1-14,text,true,,1216,727,15,15,https://secondhand.binaracademy.org/offers/39177.json,43,0,0
+1695905433211,112,Login,200,OK,Buyer 2 1-4,text,true,,2078,746,15,15,https://secondhand.binaracademy.org/users/sign_in.json,112,0,51
+1695905433323,45,Update offer,302,Found,Buyer 2 1-4,text,true,,1218,731,15,15,https://secondhand.binaracademy.org/offers/39177.json,45,0,0
+1695905433269,112,Login,200,OK,Buyer 2 1-16,text,true,,2086,754,15,15,https://secondhand.binaracademy.org/users/sign_in.json,112,0,73
+1695905433305,96,Login,200,OK,Buyer 2 1-14,text,true,,2068,748,15,15,https://secondhand.binaracademy.org/users/sign_in.json,96,0,64
+1695905433382,39,Update offer,302,Found,Buyer 2 1-16,text,true,,1218,739,15,15,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905433401,42,Update offer,302,Found,Buyer 2 1-14,text,true,,1214,721,15,15,https://secondhand.binaracademy.org/offers/39177.json,42,0,0
+1695905433421,93,Login,200,OK,Buyer 2 1-16,text,true,,2080,750,15,15,https://secondhand.binaracademy.org/users/sign_in.json,92,0,51
+1695905433261,253,Update offer,302,Found,Buyer 2 1-20,text,true,,1216,731,15,15,https://secondhand.binaracademy.org/offers/39177.json,252,0,0
+1695905433444,102,Login,200,OK,Buyer 2 1-14,text,true,,2094,746,15,15,https://secondhand.binaracademy.org/users/sign_in.json,102,0,57
+1695905433514,33,Update offer,302,Found,Buyer 2 1-16,text,true,,1214,733,15,15,https://secondhand.binaracademy.org/offers/39177.json,32,0,0
+1695905431549,2012,Login,200,OK,Buyer 2 1-7,text,true,,2082,748,15,15,https://secondhand.binaracademy.org/users/sign_in.json,2012,0,1462
+1695905433547,40,Update offer,302,Found,Buyer 2 1-14,text,true,,1226,747,15,15,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905433514,87,Login,200,OK,Buyer 2 1-20,text,true,,2086,748,15,15,https://secondhand.binaracademy.org/users/sign_in.json,87,0,47
+1695905433547,106,Login,200,OK,Buyer 2 1-16,text,true,,2078,746,15,15,https://secondhand.binaracademy.org/users/sign_in.json,106,0,55
+1695905433601,52,Update offer,302,Found,Buyer 2 1-20,text,true,,1214,733,15,15,https://secondhand.binaracademy.org/offers/39177.json,52,0,0
+1695905433587,84,Login,200,OK,Buyer 2 1-14,text,true,,2088,758,15,15,https://secondhand.binaracademy.org/users/sign_in.json,84,0,45
+1695905433654,37,Update offer,302,Found,Buyer 2 1-16,text,true,,1230,725,15,15,https://secondhand.binaracademy.org/offers/39177.json,37,0,0
+1695905433672,39,Update offer,302,Found,Buyer 2 1-14,text,true,,1224,741,15,15,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905433691,102,Login,200,OK,Buyer 2 1-16,text,true,,2088,762,15,15,https://secondhand.binaracademy.org/users/sign_in.json,102,0,50
+1695905433711,108,Login,200,OK,Buyer 2 1-14,text,true,,2086,756,15,15,https://secondhand.binaracademy.org/users/sign_in.json,108,0,60
+1695905433793,42,Update offer,302,Found,Buyer 2 1-16,text,true,,1224,741,15,15,https://secondhand.binaracademy.org/offers/39177.json,42,0,0
+1695905433820,56,Update offer,302,Found,Buyer 2 1-14,text,true,,1218,739,14,14,https://secondhand.binaracademy.org/offers/39177.json,55,0,0
+1695905429746,4324,Login,200,OK,Buyer 2 1-1,text,true,,2096,744,13,13,https://secondhand.binaracademy.org/users/sign_in.json,4324,0,3141
+1695905434072,249,Update offer,302,Found,Buyer 2 1-1,text,true,,1218,743,13,13,https://secondhand.binaracademy.org/offers/39177.json,249,0,0
+1695905433369,995,Login,200,OK,Buyer 2 1-4,text,true,,2084,750,12,12,https://secondhand.binaracademy.org/users/sign_in.json,995,0,468
+1695905433654,710,Login,200,OK,Buyer 2 1-20,text,true,,2092,746,12,12,https://secondhand.binaracademy.org/users/sign_in.json,710,0,457
+1695905429029,5421,Login,200,OK,Buyer 2 1-6,text,true,,2092,740,12,12,https://secondhand.binaracademy.org/users/sign_in.json,5421,0,1966
+1695905432281,2357,Login,200,OK,Buyer 2 1-5,text,true,,2082,750,12,12,https://secondhand.binaracademy.org/users/sign_in.json,2357,0,1811
+1695905434378,260,Update offer,302,Found,Buyer 2 1-4,text,true,,1218,737,12,12,https://secondhand.binaracademy.org/offers/39177.json,259,0,0
+1695905434378,260,Update offer,302,Found,Buyer 2 1-20,text,true,,1206,745,12,12,https://secondhand.binaracademy.org/offers/39177.json,260,0,0
+1695905434451,273,Update offer,302,Found,Buyer 2 1-6,text,true,,1228,745,12,12,https://secondhand.binaracademy.org/offers/39177.json,273,0,0
+1695905434638,113,Login,200,OK,Buyer 2 1-4,text,true,,2078,750,12,12,https://secondhand.binaracademy.org/users/sign_in.json,113,0,63
+1695905434638,126,Login,200,OK,Buyer 2 1-20,text,true,,2082,738,12,12,https://secondhand.binaracademy.org/users/sign_in.json,126,0,63
+1695905434751,41,Update offer,302,Found,Buyer 2 1-4,text,true,,1206,725,12,12,https://secondhand.binaracademy.org/offers/39177.json,41,0,0
+1695905434764,48,Update offer,302,Found,Buyer 2 1-20,text,true,,1230,735,11,11,https://secondhand.binaracademy.org/offers/39177.json,48,0,0
+1695905434725,106,Login,200,OK,Buyer 2 1-6,text,true,,2084,760,11,11,https://secondhand.binaracademy.org/users/sign_in.json,106,0,68
+1695905434831,31,Update offer,302,Found,Buyer 2 1-6,text,true,,1218,737,11,11,https://secondhand.binaracademy.org/offers/39177.json,31,0,0
+1695905434638,253,Update offer,302,Found,Buyer 2 1-5,text,true,,1212,735,11,11,https://secondhand.binaracademy.org/offers/39177.json,252,0,0
+1695905434812,101,Login,200,OK,Buyer 2 1-20,text,true,,2086,762,11,11,https://secondhand.binaracademy.org/users/sign_in.json,101,0,50
+1695905434862,99,Login,200,OK,Buyer 2 1-6,text,true,,2088,750,11,11,https://secondhand.binaracademy.org/users/sign_in.json,99,0,52
+1695905434922,40,Update offer,302,Found,Buyer 2 1-20,text,true,,1214,739,11,11,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905434891,89,Login,200,OK,Buyer 2 1-5,text,true,,2094,744,11,11,https://secondhand.binaracademy.org/users/sign_in.json,89,0,50
+1695905434962,42,Update offer,302,Found,Buyer 2 1-6,text,true,,1214,735,11,11,https://secondhand.binaracademy.org/offers/39177.json,42,0,0
+1695905434981,40,Update offer,302,Found,Buyer 2 1-5,text,true,,1220,741,11,11,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905433561,1460,Update offer,302,Found,Buyer 2 1-7,text,true,,1226,729,11,11,https://secondhand.binaracademy.org/offers/39177.json,1459,0,0
+1695905435005,106,Login,200,OK,Buyer 2 1-6,text,true,,2068,746,10,10,https://secondhand.binaracademy.org/users/sign_in.json,106,0,56
+1695905435112,39,Update offer,302,Found,Buyer 2 1-6,text,true,,1212,721,10,10,https://secondhand.binaracademy.org/offers/39177.json,38,0,0
+1695905435151,80,Login,200,OK,Buyer 2 1-6,text,true,,2080,744,10,10,https://secondhand.binaracademy.org/users/sign_in.json,80,0,50
+1695905435231,41,Update offer,302,Found,Buyer 2 1-6,text,true,,1200,733,10,10,https://secondhand.binaracademy.org/offers/39177.json,41,0,0
+1695905432993,2828,Login,200,OK,Buyer 2 1-11,text,true,,2084,742,10,10,https://secondhand.binaracademy.org/users/sign_in.json,2828,0,1128
+1695905435272,720,Login,200,OK,Buyer 2 1-6,text,true,,2088,732,10,10,https://secondhand.binaracademy.org/users/sign_in.json,720,0,479
+1695905435820,249,Update offer,302,Found,Buyer 2 1-11,text,true,,1222,737,10,10,https://secondhand.binaracademy.org/offers/39177.json,249,0,0
+1695905436070,89,Login,200,OK,Buyer 2 1-11,text,true,,2076,754,10,10,https://secondhand.binaracademy.org/users/sign_in.json,89,0,50
+1695905436160,40,Update offer,302,Found,Buyer 2 1-11,text,true,,1202,729,10,10,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905431833,4422,Login,200,OK,Buyer 2 1-3,text,true,,2088,752,10,10,https://secondhand.binaracademy.org/users/sign_in.json,4422,0,1473
+1695905436201,138,Login,200,OK,Buyer 2 1-11,text,true,,2086,734,10,10,https://secondhand.binaracademy.org/users/sign_in.json,138,0,82
+1695905435021,1361,Login,200,OK,Buyer 2 1-5,text,true,,2084,752,10,10,https://secondhand.binaracademy.org/users/sign_in.json,1361,0,1128
+1695905436340,41,Update offer,302,Found,Buyer 2 1-11,text,true,,1216,739,10,10,https://secondhand.binaracademy.org/offers/39177.json,41,0,0
+1695905436381,89,Login,200,OK,Buyer 2 1-11,text,true,,2076,748,10,10,https://secondhand.binaracademy.org/users/sign_in.json,89,0,59
+1695905436254,246,Update offer,302,Found,Buyer 2 1-3,text,true,,1212,735,10,10,https://secondhand.binaracademy.org/offers/39177.json,245,0,0
+1695905436471,29,Update offer,302,Found,Buyer 2 1-11,text,true,,1220,729,10,10,https://secondhand.binaracademy.org/offers/39177.json,28,0,0
+1695905436500,88,Login,200,OK,Buyer 2 1-3,text,true,,2098,744,10,10,https://secondhand.binaracademy.org/users/sign_in.json,88,0,52
+1695905436500,99,Login,200,OK,Buyer 2 1-11,text,true,,2096,752,10,10,https://secondhand.binaracademy.org/users/sign_in.json,99,0,52
+1695905436589,35,Update offer,302,Found,Buyer 2 1-3,text,true,,1210,745,10,10,https://secondhand.binaracademy.org/offers/39177.json,35,0,0
+1695905436600,24,Update offer,302,Found,Buyer 2 1-11,text,true,,1220,743,10,10,https://secondhand.binaracademy.org/offers/39177.json,24,0,0
+1695905436381,259,Update offer,302,Found,Buyer 2 1-5,text,true,,1220,737,8,8,https://secondhand.binaracademy.org/offers/39177.json,259,0,0
+1695905436641,100,Login,200,OK,Buyer 2 1-5,text,true,,2080,752,8,8,https://secondhand.binaracademy.org/users/sign_in.json,100,0,49
+1695905436741,39,Update offer,302,Found,Buyer 2 1-5,text,true,,1214,733,8,8,https://secondhand.binaracademy.org/offers/39177.json,38,0,0
+1695905432200,5701,Login,200,OK,Buyer 2 1-17,text,true,,2078,746,8,8,https://secondhand.binaracademy.org/users/sign_in.json,5701,0,451
+1695905437900,250,Update offer,302,Found,Buyer 2 1-17,text,true,,1218,731,8,8,https://secondhand.binaracademy.org/offers/39177.json,250,0,0
+1695905435991,2772,Update offer,302,Found,Buyer 2 1-6,text,true,,1228,741,8,8,https://secondhand.binaracademy.org/offers/39177.json,2771,0,0
+1695905430050,8870,Login,200,OK,Buyer 2 1-2,text,true,,2090,742,7,7,https://secondhand.binaracademy.org/users/sign_in.json,8870,0,2177
+1695905426350,12800,Login,200,OK,Buyer 2 1-19,text,true,,2082,283,7,7,https://secondhand.binaracademy.org/users/sign_in.json,12800,0,11801
+1695905438920,231,Update offer,302,Found,Buyer 2 1-2,text,true,,1212,743,7,7,https://secondhand.binaracademy.org/offers/39177.json,230,0,0
+1695905436780,2400,Login,200,OK,Buyer 2 1-5,text,true,,2074,746,7,7,https://secondhand.binaracademy.org/users/sign_in.json,2400,0,490
+1695905439151,89,Login,200,OK,Buyer 2 1-2,text,true,,2090,744,7,7,https://secondhand.binaracademy.org/users/sign_in.json,89,0,59
+1695905439240,40,Update offer,302,Found,Buyer 2 1-2,text,true,,1220,743,7,7,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905439280,81,Login,200,OK,Buyer 2 1-2,text,true,,2074,752,7,7,https://secondhand.binaracademy.org/users/sign_in.json,81,0,50
+1695905439151,249,Update offer,302,Found,Buyer 2 1-19,text,true,,1228,735,7,7,https://secondhand.binaracademy.org/offers/39177.json,249,0,0
+1695905439362,38,Update offer,302,Found,Buyer 2 1-2,text,true,,1226,727,7,7,https://secondhand.binaracademy.org/offers/39177.json,38,0,0
+1695905439180,241,Update offer,302,Found,Buyer 2 1-5,text,true,,1214,727,7,7,https://secondhand.binaracademy.org/offers/39177.json,241,0,0
+1695905439400,92,Login,200,OK,Buyer 2 1-19,text,true,,2090,760,7,7,https://secondhand.binaracademy.org/users/sign_in.json,92,0,50
+1695905439401,99,Login,200,OK,Buyer 2 1-2,text,true,,2074,758,7,7,https://secondhand.binaracademy.org/users/sign_in.json,99,0,49
+1695905439421,99,Login,200,OK,Buyer 2 1-5,text,true,,2078,746,7,7,https://secondhand.binaracademy.org/users/sign_in.json,99,0,49
+1695905439492,28,Update offer,302,Found,Buyer 2 1-19,text,true,,1226,737,7,7,https://secondhand.binaracademy.org/offers/39177.json,28,0,0
+1695905439501,40,Update offer,302,Found,Buyer 2 1-2,text,true,,1220,721,7,7,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905439520,40,Update offer,302,Found,Buyer 2 1-5,text,true,,1212,731,7,7,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905439520,720,Login,200,OK,Buyer 2 1-19,text,true,,2090,758,7,7,https://secondhand.binaracademy.org/users/sign_in.json,720,0,472
+1695905440240,240,Update offer,302,Found,Buyer 2 1-19,text,true,,1210,743,7,7,https://secondhand.binaracademy.org/offers/39177.json,240,0,0
+1695905438150,2419,Login,200,OK,Buyer 2 1-17,text,true,,2076,750,7,7,https://secondhand.binaracademy.org/users/sign_in.json,2419,0,2180
+1695905440480,99,Login,200,OK,Buyer 2 1-19,text,true,,2070,742,7,7,https://secondhand.binaracademy.org/users/sign_in.json,99,0,60
+1695905440580,40,Update offer,302,Found,Buyer 2 1-19,text,true,,1216,723,7,7,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905440620,80,Login,200,OK,Buyer 2 1-19,text,true,,2070,748,7,7,https://secondhand.binaracademy.org/users/sign_in.json,80,0,50
+1695905440700,40,Update offer,302,Found,Buyer 2 1-19,text,true,,1216,723,7,7,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905440575,245,Update offer,302,Found,Buyer 2 1-17,text,true,,1214,729,7,7,https://secondhand.binaracademy.org/offers/39177.json,244,0,0
+1695905440740,100,Login,200,OK,Buyer 2 1-19,text,true,,2080,748,7,7,https://secondhand.binaracademy.org/users/sign_in.json,100,0,50
+1695905440840,30,Update offer,302,Found,Buyer 2 1-19,text,true,,1220,733,7,7,https://secondhand.binaracademy.org/offers/39177.json,29,0,0
+1695905440820,100,Login,200,OK,Buyer 2 1-17,text,true,,2086,746,7,7,https://secondhand.binaracademy.org/users/sign_in.json,100,0,50
+1695905440870,100,Login,200,OK,Buyer 2 1-19,text,true,,2078,752,7,7,https://secondhand.binaracademy.org/users/sign_in.json,100,0,51
+1695905440920,50,Update offer,302,Found,Buyer 2 1-17,text,true,,1214,739,7,7,https://secondhand.binaracademy.org/offers/39177.json,50,0,0
+1695905440970,41,Update offer,302,Found,Buyer 2 1-19,text,true,,1220,731,7,7,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905440970,90,Login,200,OK,Buyer 2 1-17,text,true,,2086,746,7,7,https://secondhand.binaracademy.org/users/sign_in.json,90,0,42
+1695905441011,99,Login,200,OK,Buyer 2 1-19,text,true,,2084,752,7,7,https://secondhand.binaracademy.org/users/sign_in.json,99,0,50
+1695905441070,40,Update offer,302,Found,Buyer 2 1-17,text,true,,1222,739,7,7,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905441110,39,Update offer,302,Found,Buyer 2 1-19,text,true,,1224,731,7,7,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905441150,80,Login,200,OK,Buyer 2 1-19,text,true,,2084,756,7,7,https://secondhand.binaracademy.org/users/sign_in.json,80,0,50
+1695905434962,6269,Login,200,OK,Buyer 2 1-20,text,true,,2070,746,7,7,https://secondhand.binaracademy.org/users/sign_in.json,6269,0,459
+1695905439550,1730,Login,200,OK,Buyer 2 1-2,text,true,,2082,752,7,7,https://secondhand.binaracademy.org/users/sign_in.json,1730,0,470
+1695905441230,51,Update offer,302,Found,Buyer 2 1-19,text,true,,1222,737,7,7,https://secondhand.binaracademy.org/offers/39177.json,50,0,0
+1695905441230,240,Update offer,302,Found,Buyer 2 1-20,text,true,,1226,723,7,7,https://secondhand.binaracademy.org/offers/39177.json,240,0,0
+1695905441281,239,Update offer,302,Found,Buyer 2 1-2,text,true,,1218,735,7,7,https://secondhand.binaracademy.org/offers/39177.json,238,0,0
+1695905441471,79,Login,200,OK,Buyer 2 1-20,text,true,,2084,758,7,7,https://secondhand.binaracademy.org/users/sign_in.json,79,0,50
+1695905441550,39,Update offer,302,Found,Buyer 2 1-20,text,true,,1226,737,7,7,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905441111,710,Login,200,OK,Buyer 2 1-17,text,true,,2092,754,6,6,https://secondhand.binaracademy.org/users/sign_in.json,710,0,459
+1695905441281,699,Login,200,OK,Buyer 2 1-19,text,true,,2092,754,6,6,https://secondhand.binaracademy.org/users/sign_in.json,699,0,459
+1695905441520,2659,Login,200,OK,Buyer 2 1-2,text,true,,2088,750,6,6,https://secondhand.binaracademy.org/users/sign_in.json,2659,0,1470
+1695905444179,251,Update offer,302,Found,Buyer 2 1-2,text,true,,1230,741,6,6,https://secondhand.binaracademy.org/offers/39177.json,251,0,0
+1695905444430,90,Login,200,OK,Buyer 2 1-2,text,true,,2090,762,6,6,https://secondhand.binaracademy.org/users/sign_in.json,90,0,50
+1695905441821,2699,Update offer,302,Found,Buyer 2 1-17,text,true,,1224,745,6,6,https://secondhand.binaracademy.org/offers/39177.json,2699,0,0
+1695905444520,39,Update offer,302,Found,Buyer 2 1-2,text,true,,1216,743,6,6,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905439560,7079,Login,200,OK,Buyer 2 1-5,text,true,,2070,744,5,5,https://secondhand.binaracademy.org/users/sign_in.json,7079,0,1830
+1695905444520,2319,Login,200,OK,Buyer 2 1-17,text,true,,2084,756,5,5,https://secondhand.binaracademy.org/users/sign_in.json,2319,0,1781
+1695905441980,5140,Update offer,302,Found,Buyer 2 1-19,text,true,,1216,745,5,5,https://secondhand.binaracademy.org/offers/39177.json,5140,0,0
+1695905446840,1369,Update offer,302,Found,Buyer 2 1-17,text,true,,1218,737,4,4,https://secondhand.binaracademy.org/offers/39177.json,1369,0,0
+1695905448210,79,Login,200,OK,Buyer 2 1-17,text,true,,2074,750,4,4,https://secondhand.binaracademy.org/users/sign_in.json,79,0,50
+1695905448290,39,Update offer,302,Found,Buyer 2 1-17,text,true,,1228,727,4,4,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905428739,20430,Login,200,OK,Buyer 2 1-13,text,true,,2074,758,3,3,https://secondhand.binaracademy.org/users/sign_in.json,20430,0,450
+1695905426300,23889,Login,200,OK,Buyer 2 1-18,text,true,,2086,283,3,3,https://secondhand.binaracademy.org/users/sign_in.json,23889,0,1430
+1695905450190,250,Update offer,302,Found,Buyer 2 1-18,text,true,,1222,733,3,3,https://secondhand.binaracademy.org/offers/39177.json,250,0,0
+1695905450441,705,Login,200,OK,Buyer 2 1-18,text,true,,2076,754,3,3,https://secondhand.binaracademy.org/users/sign_in.json,704,0,459
+1695905451146,254,Update offer,302,Found,Buyer 2 1-18,text,true,,1224,729,3,3,https://secondhand.binaracademy.org/offers/39177.json,254,0,0
+1695905451400,80,Login,200,OK,Buyer 2 1-18,text,true,,2080,756,3,3,https://secondhand.binaracademy.org/users/sign_in.json,80,0,50
+1695905451480,40,Update offer,302,Found,Buyer 2 1-18,text,true,,1210,733,3,3,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905451520,100,Login,200,OK,Buyer 2 1-18,text,true,,2090,742,3,3,https://secondhand.binaracademy.org/users/sign_in.json,100,0,69
+1695905451620,40,Update offer,302,Found,Buyer 2 1-18,text,true,,1218,743,3,3,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905451660,86,Login,200,OK,Buyer 2 1-18,text,true,,2092,750,3,3,https://secondhand.binaracademy.org/users/sign_in.json,86,0,50
+1695905451756,43,Update offer,302,Found,Buyer 2 1-18,text,true,,1214,745,3,3,https://secondhand.binaracademy.org/offers/39177.json,43,0,0
+1695905451800,90,Login,200,OK,Buyer 2 1-18,text,true,,2090,746,3,3,https://secondhand.binaracademy.org/users/sign_in.json,90,0,52
+1695905451890,40,Update offer,302,Found,Buyer 2 1-18,text,true,,1228,743,3,3,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905451930,80,Login,200,OK,Buyer 2 1-18,text,true,,2084,760,3,3,https://secondhand.binaracademy.org/users/sign_in.json,80,0,50
+1695905452010,39,Update offer,302,Found,Buyer 2 1-18,text,true,,1220,737,3,3,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905452049,100,Login,200,OK,Buyer 2 1-18,text,true,,2072,752,3,3,https://secondhand.binaracademy.org/users/sign_in.json,100,0,51
+1695905452150,39,Update offer,302,Found,Buyer 2 1-18,text,true,,1214,725,3,3,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905452190,2023,Login,200,OK,Buyer 2 1-18,text,true,,2092,746,3,3,https://secondhand.binaracademy.org/users/sign_in.json,2023,0,1470
+1695905454214,252,Update offer,302,Found,Buyer 2 1-18,text,true,,1222,745,3,3,https://secondhand.binaracademy.org/offers/39177.json,252,0,0
+1695905454466,84,Login,200,OK,Buyer 2 1-18,text,true,,2068,754,3,3,https://secondhand.binaracademy.org/users/sign_in.json,83,0,53
+1695905454550,39,Update offer,302,Found,Buyer 2 1-18,text,true,,1214,721,3,3,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905446639,17379,Update offer,302,Found,Buyer 2 1-5,text,true,,1220,723,2,2,https://secondhand.binaracademy.org/offers/39177.json,17378,0,0
+1695905449169,20230,Update offer,302,Found,Buyer 2 1-13,text,true,,1214,727,1,1,https://secondhand.binaracademy.org/offers/39177.json,20230,0,0
+1695905469401,99,Login,200,OK,Buyer 2 1-13,text,true,,2082,746,1,1,https://secondhand.binaracademy.org/users/sign_in.json,99,0,50
+1695905469500,40,Update offer,302,Found,Buyer 2 1-13,text,true,,1208,735,1,1,https://secondhand.binaracademy.org/offers/39177.json,40,0,0
+1695905469541,100,Login,200,OK,Buyer 2 1-13,text,true,,2092,740,1,1,https://secondhand.binaracademy.org/users/sign_in.json,100,0,50
+1695905469641,39,Update offer,302,Found,Buyer 2 1-13,text,true,,1220,745,1,1,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905469680,3034,Login,200,OK,Buyer 2 1-13,text,true,,2080,752,1,1,https://secondhand.binaracademy.org/users/sign_in.json,3034,0,1831
+1695905472714,1446,Update offer,302,Found,Buyer 2 1-13,text,true,,1220,733,1,1,https://secondhand.binaracademy.org/offers/39177.json,1446,0,0
+1695905474160,110,Login,200,OK,Buyer 2 1-13,text,true,,2084,752,1,1,https://secondhand.binaracademy.org/users/sign_in.json,110,0,61
+1695905474270,41,Update offer,302,Found,Buyer 2 1-13,text,true,,1216,737,1,1,https://secondhand.binaracademy.org/offers/39177.json,41,0,0
+1695905474311,83,Login,200,OK,Buyer 2 1-13,text,true,,2082,748,1,1,https://secondhand.binaracademy.org/users/sign_in.json,83,0,49
+1695905474394,37,Update offer,302,Found,Buyer 2 1-13,text,true,,1218,735,1,1,https://secondhand.binaracademy.org/offers/39177.json,37,0,0
+1695905474431,109,Login,200,OK,Buyer 2 1-13,text,true,,2084,750,1,1,https://secondhand.binaracademy.org/users/sign_in.json,109,0,60
+1695905474541,39,Update offer,302,Found,Buyer 2 1-13,text,true,,1224,737,1,1,https://secondhand.binaracademy.org/offers/39177.json,39,0,0
+1695905474580,90,Login,200,OK,Buyer 2 1-13,text,true,,2082,756,1,1,https://secondhand.binaracademy.org/users/sign_in.json,90,0,52
+1695905474670,40,Update offer,302,Found,Buyer 2 1-13,text,true,,1204,735,1,1,https://secondhand.binaracademy.org/offers/39177.json,40,0,0

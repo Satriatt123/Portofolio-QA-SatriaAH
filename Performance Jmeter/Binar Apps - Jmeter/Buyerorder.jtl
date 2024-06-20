@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695973394530,266,Login,201,Created,Buyer Order 1-1,text,true,,482,277,6,6,https://market-final-project.binaracademy.org/auth/login,266,0,60
+1695973394582,294,Login,201,Created,Buyer Order 1-2,text,true,,482,277,7,7,https://market-final-project.binaracademy.org/auth/login,294,0,56
+1695973394683,394,Login,201,Created,Buyer Order 1-4,text,true,,482,277,11,11,https://market-final-project.binaracademy.org/auth/login,394,0,66
+1695973394733,433,Login,201,Created,Buyer Order 1-5,text,true,,482,277,13,13,https://market-final-project.binaracademy.org/auth/login,433,0,66
+1695973394783,464,Login,201,Created,Buyer Order 1-6,text,true,,482,277,15,15,https://market-final-project.binaracademy.org/auth/login,463,0,55
+1695973394982,454,Login,201,Created,Buyer Order 1-10,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,454,0,56
+1695973395082,440,Login,201,Created,Buyer Order 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,440,0,66
+1695973394932,674,Login,201,Created,Buyer Order 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,674,0,57
+1695973395133,554,Login,201,Created,Buyer Order 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,553,0,56
+1695973395232,531,Login,201,Created,Buyer Order 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,531,0,66
+1695973395166,631,PUT Buyer order,400,Bad Request,Buyer Order 1-5,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,631,0,44
+1695973395077,721,PUT Buyer order,400,Bad Request,Buyer Order 1-4,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,720,0,51
+1695973395280,696,Login,201,Created,Buyer Order 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,696,0,58
+1695973395380,676,Login,201,Created,Buyer Order 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,676,0,58
+1695973395430,786,Login,201,Created,Buyer Order 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,786,0,68
+1695973395480,816,Login,201,Created,Buyer Order 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,816,0,46
+1695973395032,1315,Login,201,Created,Buyer Order 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1315,0,449
+1695973394797,1561,PUT Buyer order,201,Created,Buyer Order 1-1,text,true,,697,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1560,0,60
+1695973395180,1386,Login,201,Created,Buyer Order 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1386,0,448
+1695973395798,828,GET Buyer order,200,OK,Buyer Order 1-4,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,828,0,48
+1695973395798,849,GET Buyer order,200,OK,Buyer Order 1-5,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,848,0,48
+1695973395522,1144,PUT Buyer order,400,Bad Request,Buyer Order 1-12,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1144,0,65
+1695973395606,1160,PUT Buyer order,400,Bad Request,Buyer Order 1-9,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1160,0,61
+1695973395687,1079,PUT Buyer order,400,Bad Request,Buyer Order 1-13,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1079,0,60
+1695973395763,1033,PUT Buyer order,400,Bad Request,Buyer Order 1-15,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1033,0,66
+1695973396358,439,GET Buyer order,200,OK,Buyer Order 1-1,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,438,0,58
+1695973396296,501,PUT Buyer order,400,Bad Request,Buyer Order 1-20,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,500,0,51
+1695973396216,610,PUT Buyer order,400,Bad Request,Buyer Order 1-19,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,610,0,60
+1695973395247,1610,PUT Buyer order,400,Bad Request,Buyer Order 1-6,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1610,0,440
+1695973396056,813,PUT Buyer order,400,Bad Request,Buyer Order 1-18,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,813,0,70
+1695973395437,1579,PUT Buyer order,400,Bad Request,Buyer Order 1-10,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1579,0,430
+1695973396647,434,GET Buyer order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,434,0,50
+1695973396666,415,GET Buyer order,200,OK,Buyer Order 1-12,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,415,0,51
+1695973396797,291,GET Buyer order,200,OK,Buyer Order 1-15,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,291,0,50
+1695973396797,294,GET Buyer order,200,OK,Buyer Order 1-20,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,294,0,50
+1695973396826,269,GET Buyer order,200,OK,Buyer Order 1-19,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,269,0,60
+1695973396767,339,GET Buyer order,200,OK,Buyer Order 1-13,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,339,0,60
+1695973395333,1863,Login,201,Created,Buyer Order 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1863,0,1365
+1695973394882,2344,Login,201,Created,Buyer Order 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,2344,0,1477
+1695973394631,2644,Login,201,Created,Buyer Order 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,2644,0,2116
+1695973396869,419,GET Buyer order,200,OK,Buyer Order 1-18,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,418,0,37
+1695973397081,245,PUT Buy order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,245,0,0
+1695973396857,470,GET Buyer order,200,OK,Buyer Order 1-6,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,469,0,49
+1695973397081,265,GET Buyer order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,265,0,55
+1695973397016,330,GET Buyer order,200,OK,Buyer Order 1-10,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,330,0,59
+1695973397089,278,GET Buyer order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,278,0,47
+1695973397091,276,GET Buyer order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,276,0,65
+1695973396626,920,GET Buyer order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,920,0,464
+1695973397327,220,Login,201,Created,Buyer Order 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,219,0,0
+1695973397288,328,GET Buyer order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,328,0,48
+1695973397346,270,PUT Buy order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,270,0,0
+1695973397366,339,PUT Buy order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,339,0,0
+1695973397366,339,PUT Buy order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,339,0,0
+1695973397347,439,GET Buyer order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,439,0,40
+1695973397327,459,GET Buyer order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,459,0,59
+1695973397226,561,PUT Buyer order,400,Bad Request,Buyer Order 1-8,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,560,0,46
+1695973396767,1049,GET Buyer order,200,OK,Buyer Order 1-9,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1049,0,480
+1695973397615,310,Login,201,Created,Buyer Order 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,310,0,0
+1695973397615,410,PUT Buy order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,410,0,0
+1695973397705,320,Login,201,Created,Buyer Order 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,320,0,0
+1695973397785,330,PUT Buy order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,330,0,0
+1695973397705,410,Login,201,Created,Buyer Order 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,410,0,0
+1695973397785,350,PUT Buy order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,350,0,0
+1695973397095,1041,GET Buyer order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1041,0,453
+1695973395976,2190,PUT Buyer order,400,Bad Request,Buyer Order 1-16,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,2190,0,470
+1695973397815,640,GET Buyer order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,640,0,50
+1695973398115,340,Login,201,Created,Buyer Order 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,340,0,0
+1695973396797,1700,GET Buyer order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1700,0,475
+1695973398025,500,Login,201,Created,Buyer Order 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,500,0,0
+1695973396347,2229,PUT Buyer order,400,Bad Request,Buyer Order 1-11,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,2229,0,1099
+1695973398135,479,Login,201,Created,Buyer Order 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,479,0,0
+1695973397786,839,GET Buyer order,200,OK,Buyer Order 1-8,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,839,0,59
+1695973398025,650,PUT Buyer order,400,Bad Request,Buyer Order 1-15,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,650,0,62
+1695973397546,1269,PUT Buy order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,1269,0,0
+1695973397275,1541,PUT Buyer order,400,Bad Request,Buyer Order 1-3,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1541,0,462
+1695973397925,890,PUT Buyer order,400,Bad Request,Buyer Order 1-12,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,890,0,60
+1695973398455,380,PUT Buy order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,380,0,0
+1695973398135,700,PUT Buy order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,700,0,0
+1695973398115,720,PUT Buyer order,400,Bad Request,Buyer Order 1-20,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,720,0,51
+1695973397546,1309,PUT Buyer order,400,Bad Request,Buyer Order 1-5,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1309,0,440
+1695973398455,419,PUT Buyer order,400,Bad Request,Buyer Order 1-10,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,419,0,41
+1695973398525,391,PUT Buyer order,400,Bad Request,Buyer Order 1-18,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,390,0,51
+1695973394876,4140,PUT Buyer order,400,Bad Request,Buyer Order 1-2,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,4140,0,445
+1695973398496,559,PUT Buy order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,559,0,0
+1695973397107,2059,GET Buyer order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,2059,0,460
+1695973398835,330,Login,201,Created,Buyer Order 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,330,0,0
+1695973397196,2000,PUT Buyer order,400,Bad Request,Buyer Order 1-17,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,2000,0,450
+1695973398625,618,GET Buyer order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,618,0,50
+1695973398575,678,GET Buyer order,200,OK,Buyer Order 1-11,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,678,0,51
+1695973398675,584,GET Buyer order,200,OK,Buyer Order 1-15,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,583,0,60
+1695973398836,427,GET Buyer order,200,OK,Buyer Order 1-20,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,427,0,50
+1695973398815,450,GET Buyer order,200,OK,Buyer Order 1-12,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,450,0,41
+1695973398815,454,GET Buyer order,200,OK,Buyer Order 1-3,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,454,0,59
+1695973398855,420,GET Buyer order,200,OK,Buyer Order 1-5,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,420,0,46
+1695973398815,460,Login,201,Created,Buyer Order 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,460,0,0
+1695973398916,371,GET Buyer order,200,OK,Buyer Order 1-18,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,371,0,49
+1695973398835,621,Login,201,Created,Buyer Order 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,620,0,0
+1695973399263,252,GET Buyer order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,252,0,45
+1695973399259,303,GET Buyer order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,303,0,49
+1695973399243,319,PUT Buy order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,319,0,0
+1695973399195,407,GET Buyer order,200,OK,Buyer Order 1-17,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,407,0,48
+1695973399275,350,GET Buyer order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,350,0,54
+1695973399269,356,GET Buyer order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,356,0,49
+1695973399266,380,GET Buyer order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,380,0,52
+1695973399287,359,GET Buyer order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,359,0,49
+1695973399055,611,Login,201,Created,Buyer Order 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,611,0,0
+1695973399165,520,PUT Buy order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,520,0,0
+1695973399562,253,Login,201,Created,Buyer Order 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,253,0,0
+1695973399516,321,PUT Buy order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,321,0,0
+1695973399625,230,PUT Buy order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,230,0,0
+1695973399625,230,PUT Buy order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,230,0,0
+1695973399646,229,PUT Buy order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,229,0,0
+1695973399562,343,PUT Buy order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,343,0,0
+1695973399456,479,PUT Buyer order,400,Bad Request,Buyer Order 1-19,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,479,0,60
+1695973396566,3410,PUT Buyer order,400,Bad Request,Buyer Order 1-14,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,3410,0,1100
+1695973398614,1451,PUT Buyer order,400,Bad Request,Buyer Order 1-6,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1451,0,462
+1695973399875,250,Login,201,Created,Buyer Order 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,250,0,0
+1695973399837,368,Login,201,Created,Buyer Order 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,368,0,0
+1695973399685,562,Login,201,Created,Buyer Order 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,562,0,0
+1695973399856,429,Login,201,Created,Buyer Order 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,429,0,0
+1695973399856,509,Login,201,Created,Buyer Order 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,508,0,0
+1695973399646,799,PUT Buy order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,799,0,0
+1695973399905,540,Login,201,Created,Buyer Order 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,540,0,0
+1695973399815,680,PUT Buyer order,400,Bad Request,Buyer Order 1-8,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,680,0,60
+1695973399275,1390,PUT Buyer order,400,Bad Request,Buyer Order 1-4,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1390,0,441
+1695973400445,340,Login,201,Created,Buyer Order 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,339,0,0
+1695973399935,870,GET Buyer order,200,OK,Buyer Order 1-19,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,870,0,313
+1695973400285,551,PUT Buyer order,400,Bad Request,Buyer Order 1-3,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,551,0,60
+1695973400495,341,GET Buyer order,200,OK,Buyer Order 1-8,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,341,0,40
+1695973400247,595,PUT Buyer order,400,Bad Request,Buyer Order 1-13,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,595,0,58
+1695973400125,720,PUT Buyer order,400,Bad Request,Buyer Order 1-12,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,720,0,61
+1695973400445,420,PUT Buyer order,400,Bad Request,Buyer Order 1-15,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,420,0,51
+1695973400785,160,PUT Buyer order,400,Bad Request,Buyer Order 1-18,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,160,0,52
+1695973399602,1383,GET Buyer order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1383,0,463
+1695973394834,6192,Login,201,Created,Buyer Order 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,6192,0,3403
+1695973398165,2860,GET Buyer order,200,OK,Buyer Order 1-16,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2860,0,1461
+1695973400836,210,GET Buyer order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,210,0,47
+1695973399666,1380,PUT Buyer order,400,Bad Request,Buyer Order 1-1,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1379,0,459
+1695973400836,239,GET Buyer order,200,OK,Buyer Order 1-3,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,239,0,48
+1695973400845,235,GET Buyer order,200,OK,Buyer Order 1-12,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,235,0,51
+1695973400842,254,GET Buyer order,200,OK,Buyer Order 1-13,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,254,0,54
+1695973401046,129,PUT Buy order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,129,0,0
+1695973401046,209,GET Buyer order,200,OK,Buyer Order 1-1,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,209,0,50
+1695973401080,196,GET Buyer order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,195,0,56
+1695973401075,201,GET Buyer order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,200,0,46
+1695973401096,199,GET Buyer order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,199,0,59
+1695973401175,200,Login,201,Created,Buyer Order 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,200,0,0
+1695973401276,241,PUT Buy order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,241,0,0
+1695973401296,221,PUT Buy order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,221,0,0
+1695973401276,241,PUT Buy order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,241,0,0
+1695973401256,279,GET Buyer order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,279,0,40
+1695973400805,780,GET Buyer order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,780,0,451
+1695973401517,230,Login,201,Created,Buyer Order 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,229,0,0
+1695973401517,308,Login,201,Created,Buyer Order 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,308,0,0
+1695973401535,370,PUT Buy order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,370,0,0
+1695973401517,389,Login,201,Created,Buyer Order 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,388,0,0
+1695973401376,530,PUT Buyer order,400,Bad Request,Buyer Order 1-8,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,529,0,60
+1695973400985,1000,PUT Buy order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,1000,0,0
+1695973400205,1810,PUT Buyer order,400,Bad Request,Buyer Order 1-20,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1810,0,460
+1695973401585,530,PUT Buy order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,530,0,0
+1695973401747,368,PUT Buyer order,400,Bad Request,Buyer Order 1-12,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,368,0,59
+1695973401826,320,PUT Buyer order,400,Bad Request,Buyer Order 1-13,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,320,0,60
+1695973401906,329,Login,201,Created,Buyer Order 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,329,0,0
+1695973400665,1651,GET Buyer order,200,OK,Buyer Order 1-4,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1650,0,1082
+1695973400365,1970,PUT Buyer order,400,Bad Request,Buyer Order 1-5,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1970,0,1441
+1695973402016,382,GET Buyer order,200,OK,Buyer Order 1-20,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,382,0,50
+1695973400065,2352,GET Buyer order,200,OK,Buyer Order 1-6,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2352,0,451
+1695973402146,508,GET Buyer order,200,OK,Buyer Order 1-13,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,508,0,59
+1695973402115,539,GET Buyer order,200,OK,Buyer Order 1-12,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,539,0,51
+1695973402399,264,GET Buyer order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,264,0,62
+1695973402418,245,GET Buyer order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,245,0,59
+1695973402335,345,GET Buyer order,200,OK,Buyer Order 1-5,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,345,0,47
+1695973402235,461,PUT Buyer order,400,Bad Request,Buyer Order 1-1,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,461,0,51
+1695973401906,979,PUT Buyer order,400,Bad Request,Buyer Order 1-3,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,979,0,460
+1695973402663,258,PUT Buy order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,258,0,0
+1695973402663,258,PUT Buy order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,258,0,0
+1695973402655,281,GET Buyer order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,281,0,63
+1695973402681,255,GET Buyer order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,255,0,59
+1695973402655,287,GET Buyer order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,287,0,63
+1695973402697,260,GET Buyer order,200,OK,Buyer Order 1-1,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,259,0,60
+1695973398874,4142,GET Buyer order,200,OK,Buyer Order 1-10,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,4142,0,2502
+1695973400945,2170,GET Buyer order,200,OK,Buyer Order 1-18,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2170,0,1703
+1695973402316,839,GET Buyer order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,839,0,454
+1695973399975,3191,GET Buyer order,200,OK,Buyer Order 1-14,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,3191,0,2484
+1695973402921,282,Login,201,Created,Buyer Order 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,282,0,0
+1695973402886,333,GET Buyer order,200,OK,Buyer Order 1-3,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,333,0,36
+1695973402936,359,PUT Buy order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,359,0,0
+1695973402936,359,PUT Buy order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,359,0,0
+1695973402921,374,Login,201,Created,Buyer Order 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,374,0,0
+1695973402942,364,PUT Buy order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,364,0,0
+1695973400865,2551,GET Buyer order,200,OK,Buyer Order 1-15,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2550,0,452
+1695973403116,320,GET Buyer order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,320,0,52
+1695973403167,269,GET Buyer order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,269,0,52
+1695973403295,288,Login,201,Created,Buyer Order 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,288,0,0
+1695973399015,4616,GET Buyer order,200,OK,Buyer Order 1-2,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,4616,0,2011
+1695973403295,360,Login,201,Created,Buyer Order 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,360,0,0
+1695973402115,1567,Login,201,Created,Buyer Order 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1566,0,0
+1695973399165,4517,PUT Buyer order,400,Bad Request,Buyer Order 1-9,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,4516,0,1460
+1695973403436,313,PUT Buy order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,313,0,0
+1695973403436,313,PUT Buy order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,313,0,0
+1695973403306,443,Login,201,Created,Buyer Order 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,443,0,0
+1695973401025,2821,PUT Buyer order,400,Bad Request,Buyer Order 1-7,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,2821,0,1451
+1695973403295,569,PUT Buyer order,400,Bad Request,Buyer Order 1-20,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,569,0,62
+1695973399253,4632,GET Buyer order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,4632,0,3290
+1695973402957,993,GET Buyer order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,993,0,460
+1695973403417,569,GET Buyer order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,569,0,60
+1695973403749,327,Login,201,Created,Buyer Order 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,327,0,0
+1695973403749,398,Login,201,Created,Buyer Order 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,398,0,0
+1695973403633,522,GET Buyer order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,522,0,50
+1695973403583,586,PUT Buyer order,400,Bad Request,Buyer Order 1-5,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,586,0,50
+1695973403864,305,GET Buyer order,200,OK,Buyer Order 1-20,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,305,0,48
+1695973403017,1164,GET Buyer order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1164,0,460
+1695973401025,3155,GET Buyer order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,3155,0,2517
+1695973403683,498,PUT Buyer order,400,Bad Request,Buyer Order 1-19,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,498,0,67
+1695973403156,1130,PUT Buy order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,1130,0,0
+1695973403886,472,PUT Buy order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,472,0,0
+1695973403950,423,PUT Buy order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,423,0,0
+1695973403986,440,PUT Buy order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,440,0,0
+1695973401985,2461,Login,201,Created,Buyer Order 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,2461,0,0
+1695973404155,401,PUT Buy order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,401,0,0
+1695973401906,2791,GET Buyer order,200,OK,Buyer Order 1-8,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2791,0,2248
+1695973404181,580,PUT Buy order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,580,0,0
+1695973403683,1175,GET Buyer order,200,OK,Buyer Order 1-9,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1174,0,472
+1695973404426,459,Login,201,Created,Buyer Order 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,459,0,0
+1695973404169,719,GET Buyer order,200,OK,Buyer Order 1-5,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,719,0,58
+1695973404182,724,GET Buyer order,200,OK,Buyer Order 1-19,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,724,0,65
+1695973404076,830,PUT Buyer order,400,Bad Request,Buyer Order 1-18,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,830,0,60
+1695973404147,759,PUT Buyer order,400,Bad Request,Buyer Order 1-14,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,759,0,59
+1695973404358,569,Login,201,Created,Buyer Order 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,569,0,0
+1695973404447,539,PUT Buyer order,400,Bad Request,Buyer Order 1-17,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,539,0,50
+1695973403219,1879,GET Buyer order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1879,0,1129
+1695973404556,543,Login,201,Created,Buyer Order 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,542,0,0
+1695973404698,483,GET Buyer order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,483,0,47
+1695973404888,293,GET Buyer order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,293,0,59
+1695973404907,289,GET Buyer order,200,OK,Buyer Order 1-14,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,289,0,48
+1695973404907,300,GET Buyer order,200,OK,Buyer Order 1-18,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,299,0,48
+1695973404761,607,Login,201,Created,Buyer Order 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,607,0,0
+1695973404169,1218,GET Buyer order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1218,0,468
+1695973404885,565,PUT Buyer order,400,Bad Request,Buyer Order 1-15,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,565,0,62
+1695973404181,1276,PUT Buy order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,1276,0,0
+1695973404986,491,GET Buyer order,200,OK,Buyer Order 1-17,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,491,0,50
+1695973404286,1191,Login,201,Created,Buyer Order 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1191,0,0
+1695973405181,325,PUT Buy order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,325,0,0
+1695973405207,329,GET Buyer order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,329,0,50
+1695973403203,2333,PUT Buyer order,400,Bad Request,Buyer Order 1-6,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,2333,0,465
+1695973405181,363,PUT Buy order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,363,0,0
+1695973405196,391,GET Buyer order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,391,0,61
+1695973404927,679,PUT Buyer order,400,Bad Request,Buyer Order 1-11,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,679,0,49
+1695973405099,547,PUT Buy order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,547,0,0
+1695973405506,273,Login,201,Created,Buyer Order 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,273,0,0
+1695973405477,466,GET Buyer order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,466,0,45
+1695973405536,407,PUT Buy order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,407,0,0
+1695973405544,399,Login,201,Created,Buyer Order 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,399,0,0
+1695973405099,844,PUT Buyer order,400,Bad Request,Buyer Order 1-2,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,844,0,58
+1695973405588,368,PUT Buy order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,368,0,0
+1695973405457,599,Login,201,Created,Buyer Order 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,599,0,0
+1695973405387,765,PUT Buy order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,765,0,0
+1695973404907,1245,GET Buyer order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1245,0,462
+1695973404373,1779,Login,201,Created,Buyer Order 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1779,0,0
+1695973405944,292,Login,201,Created,Buyer Order 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,292,0,0
+1695973405956,354,Login,201,Created,Buyer Order 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,353,0,0
+1695973403655,2655,PUT Buyer order,400,Bad Request,Buyer Order 1-13,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,2654,0,471
+1695973405477,833,PUT Buyer order,400,Bad Request,Buyer Order 1-4,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,832,0,45
+1695973405537,777,GET Buyer order,200,OK,Buyer Order 1-6,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,777,0,51
+1695973405368,946,PUT Buyer order,400,Bad Request,Buyer Order 1-16,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,946,0,58
+1695973405607,710,GET Buyer order,200,OK,Buyer Order 1-11,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,710,0,59
+1695973405943,377,PUT Buy order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,377,0,0
+1695973405944,394,GET Buyer order,200,OK,Buyer Order 1-2,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,394,0,52
+1695973405779,597,PUT Buyer order,400,Bad Request,Buyer Order 1-5,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,597,0,68
+1695973405944,482,PUT Buyer order,400,Bad Request,Buyer Order 1-8,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,482,0,52
+1695973406320,346,Login,201,Created,Buyer Order 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,346,0,0
+1695973406314,361,GET Buyer order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,361,0,60
+1695973406310,365,GET Buyer order,200,OK,Buyer Order 1-13,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,365,0,46
+1695973406317,366,GET Buyer order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,366,0,57
+1695973406310,387,GET Buyer order,200,OK,Buyer Order 1-4,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,386,0,53
+1695973406056,641,PUT Buyer order,400,Bad Request,Buyer Order 1-10,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,640,0,61
+1695973406310,406,PUT Buyer order,400,Bad Request,Buyer Order 1-14,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,405,0,46
+1695973406314,402,GET Buyer order,200,OK,Buyer Order 1-16,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,401,0,49
+1695973406152,574,Login,201,Created,Buyer Order 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,574,0,0
+1695973406152,574,PUT Buyer order,400,Bad Request,Buyer Order 1-1,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,574,0,65
+1695973404858,1928,GET Buyer order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1928,0,459
+1695973406376,431,GET Buyer order,200,OK,Buyer Order 1-5,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,431,0,51
+1695973406426,384,GET Buyer order,200,OK,Buyer Order 1-8,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,384,0,61
+1695973406152,727,PUT Buy order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,727,0,0
+1695973406675,271,PUT Buy order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,271,0,0
+1695973406683,263,PUT Buy order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,263,0,0
+1695973403847,3160,GET Buyer order,200,OK,Buyer Order 1-7,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,3160,0,1470
+1695973406675,453,GET Buyer order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,453,0,41
+1695973406697,435,GET Buyer order,200,OK,Buyer Order 1-10,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,435,0,75
+1695973406716,421,GET Buyer order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,421,0,64
+1695973406716,421,GET Buyer order,200,OK,Buyer Order 1-14,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,421,0,56
+1695973406810,347,GET Buyer order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,347,0,69
+1695973406807,350,GET Buyer order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,350,0,72
+1695973406727,430,PUT Buyer order,400,Bad Request,Buyer Order 1-20,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,430,0,53
+1695973406786,550,PUT Buy order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,550,0,0
+1695973406946,390,Login,201,Created,Buyer Order 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,390,0,0
+1695973405646,1750,Login,201,Created,Buyer Order 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1750,0,0
+1695973406946,465,Login,201,Created,Buyer Order 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,465,0,0
+1695973407137,282,PUT Buy order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,282,0,0
+1695973407007,412,GET Buyer order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,412,0,50
+1695973407128,308,PUT Buy order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,308,0,0
+1695973407157,329,PUT Buy order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,329,0,0
+1695973407419,307,Login,201,Created,Buyer Order 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,307,0,0
+1695973407157,725,PUT Buy order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,725,0,0
+1695973407132,750,GET Buyer order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,750,0,65
+1695973407436,446,Login,201,Created,Buyer Order 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,446,0,0
+1695973407138,758,GET Buyer order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,758,0,59
+1695973407486,482,Login,201,Created,Buyer Order 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,481,0,0
+1695973407419,567,PUT Buy order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,567,0,0
+1695973407157,830,GET Buyer order,200,OK,Buyer Order 1-20,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,829,0,60
+1695973407336,651,PUT Buyer order,400,Bad Request,Buyer Order 1-11,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,650,0,61
+1695973407336,680,Login,201,Created,Buyer Order 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,680,0,0
+1695973407396,730,PUT Buyer order,400,Bad Request,Buyer Order 1-3,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,730,0,60
+1695973406666,1500,PUT Buyer order,400,Bad Request,Buyer Order 1-17,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1500,0,461
+1695973407882,334,Login,201,Created,Buyer Order 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,334,0,0
+1695973407882,444,PUT Buy order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,444,0,0
+1695973407897,429,PUT Buy order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,429,0,0
+1695973407986,341,Login,201,Created,Buyer Order 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,340,0,0
+1695973407987,439,GET Buyer order,200,OK,Buyer Order 1-11,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,439,0,59
+1695973408327,312,Login,201,Created,Buyer Order 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,311,0,0
+1695973408126,530,GET Buyer order,200,OK,Buyer Order 1-3,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,530,0,41
+1695973407411,1305,PUT Buyer order,400,Bad Request,Buyer Order 1-6,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1305,0,436
+1695973408327,409,Login,201,Created,Buyer Order 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,409,0,0
+1695973407882,854,PUT Buyer order,400,Bad Request,Buyer Order 1-13,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,854,0,65
+1695973406236,2500,PUT Buyer order,400,Bad Request,Buyer Order 1-18,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,2500,0,1431
+1695973408166,591,GET Buyer order,200,OK,Buyer Order 1-17,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,590,0,51
+1695973407968,789,PUT Buyer order,400,Bad Request,Buyer Order 1-5,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,788,0,49
+1695973408016,759,PUT Buyer order,400,Bad Request,Buyer Order 1-9,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,758,0,56
+1695973408327,457,PUT Buyer order,400,Bad Request,Buyer Order 1-7,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,457,0,60
+1695973408216,576,PUT Buyer order,400,Bad Request,Buyer Order 1-8,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,576,0,51
+1695973403749,5069,PUT Buyer order,400,Bad Request,Buyer Order 1-12,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,5069,0,1458
+1695973408427,409,GET Buyer order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,409,0,60
+1695973407987,969,GET Buyer order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,969,0,440
+1695973407726,1254,PUT Buyer order,400,Bad Request,Buyer Order 1-16,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1254,0,459
+1695973408717,280,GET Buyer order,200,OK,Buyer Order 1-6,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,280,0,58
+1695973408639,378,PUT Buyer order,400,Bad Request,Buyer Order 1-14,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,378,0,57
+1695973408836,201,PUT Buy order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,201,0,0
+1695973408736,302,GET Buyer order,200,OK,Buyer Order 1-13,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,301,0,48
+1695973408757,285,GET Buyer order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,285,0,46
+1695973408784,264,GET Buyer order,200,OK,Buyer Order 1-7,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,264,0,53
+1695973408736,312,PUT Buyer order,400,Bad Request,Buyer Order 1-10,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,312,0,57
+1695973408792,274,GET Buyer order,200,OK,Buyer Order 1-8,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,274,0,65
+1695973409038,218,Login,201,Created,Buyer Order 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,217,0,0
+1695973409048,215,GET Buyer order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,215,0,57
+1695973409042,221,PUT Buy order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,221,0,0
+1695973408956,307,PUT Buy order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,307,0,0
+1695973409038,231,GET Buyer order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,231,0,51
+1695973409018,269,GET Buyer order,200,OK,Buyer Order 1-14,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,269,0,49
+1695973406338,2998,GET Buyer order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,2998,0,1429
+1695973408656,820,GET Buyer order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,820,0,433
+1695973409066,480,GET Buyer order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,480,0,51
+1695973409263,283,Login,201,Created,Buyer Order 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,283,0,0
+1695973406879,2689,Login,201,Created,Buyer Order 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,2688,0,0
+1695973409263,370,PUT Buy order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,370,0,0
+1695973409269,364,PUT Buy order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,364,0,0
+1695973409287,346,GET Buyer order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,346,0,50
+1695973409256,390,PUT Buyer order,400,Bad Request,Buyer Order 1-11,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,390,0,61
+1695973408757,1081,GET Buyer order,200,OK,Buyer Order 1-5,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1080,0,459
+1695973409568,269,PUT Buyer order,400,Bad Request,Buyer Order 1-19,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,269,0,49
+1695973409336,504,PUT Buy order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,504,0,0
+1695973409263,574,Login,201,Created,Buyer Order 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,574,0,0
+1695973409546,275,PUT Buy order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,275,0,0
+1695973406727,3149,GET Buyer order,200,OK,Buyer Order 1-1,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,3149,0,1458
+1695973406697,3200,GET Buyer order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,3200,0,461
+1695973409633,290,Login,201,Created,Buyer Order 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,290,0,0
+1695973409476,501,PUT Buy order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,501,0,0
+1695973409633,373,PUT Buy order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,373,0,0
+1695973409633,373,Login,201,Created,Buyer Order 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,373,0,0
+1695973408737,1331,GET Buyer order,200,OK,Buyer Order 1-18,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1331,0,460
+1695973409853,363,Login,201,Created,Buyer Order 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,363,0,0
+1695973409876,578,GET Buyer order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,578,0,48
+1695973409852,602,GET Buyer order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,602,0,85
+1695973410006,448,Login,201,Created,Buyer Order 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,448,0,0
+1695973409852,614,GET Buyer order,200,OK,Buyer Order 1-19,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,614,0,72
+1695973409852,644,Login,201,Created,Buyer Order 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,644,0,0
+1695973409897,768,PUT Buy order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,768,0,0
+1695973410068,667,GET Buyer order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,667,0,58
+1695973410454,332,PUT Buy order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,332,0,0
+1695973410454,382,PUT Buy order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,382,0,0
+1695973410466,431,GET Buyer order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,431,0,48
+1695973410216,682,PUT Buyer order,400,Bad Request,Buyer Order 1-8,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,681,0,60
+1695973408998,1938,GET Buyer order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1938,0,1113
+1695973408819,2207,GET Buyer order,200,OK,Buyer Order 1-12,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2206,0,1457
+1695973410786,290,Login,201,Created,Buyer Order 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,289,0,0
+1695973410836,316,Login,201,Created,Buyer Order 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,316,0,0
+1695973410496,656,PUT Buyer order,400,Bad Request,Buyer Order 1-2,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,656,0,50
+1695973410454,698,PUT Buyer order,400,Bad Request,Buyer Order 1-14,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,698,0,42
+1695973410736,429,PUT Buy order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,429,0,0
+1695973410666,530,Login,201,Created,Buyer Order 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,529,0,0
+1695973409048,2318,GET Buyer order,200,OK,Buyer Order 1-10,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2317,0,449
+1695973409853,1500,PUT Buyer order,400,Bad Request,Buyer Order 1-20,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1499,0,464
+1695973410006,1347,PUT Buyer order,400,Bad Request,Buyer Order 1-7,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1346,0,449
+1695973410898,518,PUT Buy order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,518,0,0
+1695973411166,330,Login,201,Created,Buyer Order 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,330,0,0
+1695973411026,470,GET Buyer order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,470,0,50
+1695973410898,608,GET Buyer order,200,OK,Buyer Order 1-8,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,608,0,58
+1695973411152,374,GET Buyer order,200,OK,Buyer Order 1-14,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,373,0,44
+1695973411076,480,PUT Buyer order,400,Bad Request,Buyer Order 1-1,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,479,0,60
+1695973411152,420,PUT Buyer order,400,Bad Request,Buyer Order 1-5,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,419,0,44
+1695973411196,390,PUT Buyer order,400,Bad Request,Buyer Order 1-4,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,389,0,60
+1695973409977,1659,Login,201,Created,Buyer Order 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1659,0,0
+1695973410936,760,PUT Buy order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,760,0,0
+1695973411416,280,Login,201,Created,Buyer Order 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,280,0,0
+1695973411526,177,GET Buyer order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,177,0,46
+1695973409923,1780,PUT Buyer order,400,Bad Request,Buyer Order 1-13,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1780,0,1129
+1695973411368,337,GET Buyer order,200,OK,Buyer Order 1-7,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,337,0,48
+1695973411497,209,PUT Buy order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,209,0,0
+1695973411506,200,GET Buyer order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,200,0,50
+1695973411368,358,GET Buyer order,200,OK,Buyer Order 1-20,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,358,0,49
+1695973409546,2430,PUT Buyer order,400,Bad Request,Buyer Order 1-17,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,2429,0,1450
+1695973411706,324,Login,201,Created,Buyer Order 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,324,0,0
+1695973411586,450,GET Buyer order,200,OK,Buyer Order 1-4,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,450,0,40
+1695973411703,339,PUT Buy order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,339,0,0
+1695973411572,470,GET Buyer order,200,OK,Buyer Order 1-5,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,470,0,54
+1695973411706,345,PUT Buy order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,345,0,0
+1695973411556,495,GET Buyer order,200,OK,Buyer Order 1-1,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,495,0,50
+1695973411705,349,GET Buyer order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,349,0,61
+1695973411704,362,GET Buyer order,200,OK,Buyer Order 1-13,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,362,0,62
+1695973411696,370,PUT Buyer order,400,Bad Request,Buyer Order 1-19,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,370,0,54
+1695973411696,450,Login,201,Created,Buyer Order 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,450,0,0
+1695973405450,6723,GET Buyer order,200,OK,Buyer Order 1-15,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,6723,0,457
+1695973412042,224,Login,201,Created,Buyer Order 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,224,0,0
+1695973412051,295,Login,201,Created,Buyer Order 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,295,0,0
+1695973412036,328,GET Buyer order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,328,0,58
+1695973412054,332,PUT Buy order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,332,0,0
+1695973411976,393,GET Buyer order,200,OK,Buyer Order 1-17,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,393,0,54
+1695973412042,344,GET Buyer order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,344,0,52
+1695973412051,659,GET Buyer order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,659,0,55
+1695973412364,346,PUT Buy order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,346,0,0
+1695973412391,319,Login,201,Created,Buyer Order 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,319,0,0
+1695973412030,680,PUT Buyer order,400,Bad Request,Buyer Order 1-12,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,680,0,48
+1695973412173,553,GET Buyer order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,553,0,54
+1695973412391,335,PUT Buy order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,335,0,0
+1695973412146,593,PUT Buyer order,400,Bad Request,Buyer Order 1-6,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,592,0,42
+1695973412346,450,PUT Buyer order,400,Bad Request,Buyer Order 1-8,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,450,0,60
+1695973408775,4021,GET Buyer order,200,OK,Buyer Order 1-9,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,4021,0,461
+1695973411497,1408,PUT Buyer order,400,Bad Request,Buyer Order 1-18,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1407,0,439
+1695973411726,1190,GET Buyer order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1190,0,440
+1695973412709,236,PUT Buy order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,236,0,0
+1695973412725,220,PUT Buy order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,220,0,0
+1695973412709,237,Login,201,Created,Buyer Order 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,236,0,0
+1695973412709,266,GET Buyer order,200,OK,Buyer Order 1-12,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,265,0,47
+1695973412725,370,Login,201,Created,Buyer Order 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,370,0,0
+1695973412795,330,GET Buyer order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,330,0,60
+1695973412795,330,GET Buyer order,200,OK,Buyer Order 1-8,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,330,0,42
+1695973411636,1490,PUT Buyer order,400,Bad Request,Buyer Order 1-3,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1490,0,442
+1695973412946,339,Login,201,Created,Buyer Order 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,339,0,0
+1695973412946,429,Login,201,Created,Buyer Order 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,428,0,0
+1695973412709,698,PUT Buyer order,400,Bad Request,Buyer Order 1-7,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,698,0,47
+1695973412975,441,GET Buyer order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,441,0,62
+1695973412904,512,GET Buyer order,200,OK,Buyer Order 1-18,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,512,0,42
+1695973413125,294,PUT Buy order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,294,0,0
+1695973413125,313,GET Buyer order,200,OK,Buyer Order 1-3,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,313,0,40
+1695973412391,1175,GET Buyer order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1175,0,465
+1695973411368,2218,GET Buyer order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,2218,0,1470
+1695973413095,510,PUT Buyer order,400,Bad Request,Buyer Order 1-5,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,510,0,50
+1695973413416,280,PUT Buy order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,280,0,0
+1695973413125,571,GET Buyer order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,571,0,50
+1695973413419,277,Login,201,Created,Buyer Order 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,277,0,0
+1695973413438,277,GET Buyer order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,277,0,58
+1695973413416,299,GET Buyer order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,299,0,60
+1695973413414,351,GET Buyer order,200,OK,Buyer Order 1-7,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,351,0,61
+1695973412066,1760,GET Buyer order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1760,0,471
+1695973413696,158,PUT Buy order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,158,0,0
+1695973411152,2733,GET Buyer order,200,OK,Buyer Order 1-2,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2733,0,1945
+1695973412946,999,PUT Buyer order,400,Bad Request,Buyer Order 1-4,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,999,0,429
+1695973413715,244,PUT Buy order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,244,0,0
+1695973413765,194,GET Buyer order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,194,0,60
+1695973413696,263,Login,201,Created,Buyer Order 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,263,0,0
+1695973413715,260,PUT Buy order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,260,0,0
+1695973408980,5045,GET Buyer order,200,OK,Buyer Order 1-16,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,5045,0,1131
+1695973413585,470,PUT Buy order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,470,0,0
+1695973413565,490,PUT Buy order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,490,0,0
+1695973413855,250,Login,201,Created,Buyer Order 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,249,0,0
+1695973413825,349,PUT Buy order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,349,0,0
+1695973413959,236,Login,201,Created,Buyer Order 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,235,0,0
+1695973412915,1340,PUT Buy order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,1340,0,0
+1695973413959,317,PUT Buy order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,317,0,0
+1695973413975,301,Login,201,Created,Buyer Order 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,301,0,0
+1695973409647,4899,GET Buyer order,200,OK,Buyer Order 1-11,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,4898,0,2467
+1695973414276,368,Login,201,Created,Buyer Order 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,368,0,0
+1695973414055,640,Login,201,Created,Buyer Order 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,639,0,0
+1695973414025,780,GET Buyer order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,780,0,60
+1695973413945,860,GET Buyer order,200,OK,Buyer Order 1-4,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,859,0,60
+1695973414105,720,PUT Buyer order,400,Bad Request,Buyer Order 1-8,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,719,0,52
+1695973413959,905,PUT Buyer order,400,Bad Request,Buyer Order 1-12,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,905,0,46
+1695973414255,679,Login,201,Created,Buyer Order 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,679,0,0
+1695973414545,570,GET Buyer order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,570,0,50
+1695973414805,389,GET Buyer order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,389,0,60
+1695973414805,389,PUT Buy order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,389,0,0
+1695973412738,2487,GET Buyer order,200,OK,Buyer Order 1-6,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2487,0,448
+1695973415115,170,PUT Buy order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,170,0,0
+1695973414864,421,GET Buyer order,200,OK,Buyer Order 1-12,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,421,0,51
+1695973414645,640,PUT Buyer order,400,Bad Request,Buyer Order 1-7,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,640,0,50
+1695973414695,590,PUT Buyer order,400,Bad Request,Buyer Order 1-10,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,590,0,60
+1695973414944,360,PUT Buyer order,400,Bad Request,Buyer Order 1-20,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,360,0,41
+1695973412266,3191,PUT Buyer order,400,Bad Request,Buyer Order 1-14,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,3191,0,2230
+1695973415195,300,Login,201,Created,Buyer Order 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,299,0,0
+1695973413696,1799,PUT Buyer order,400,Bad Request,Buyer Order 1-9,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1798,0,1129
+1695973415285,280,Login,201,Created,Buyer Order 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,280,0,0
+1695973415195,373,PUT Buy order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,373,0,0
+1695973415285,283,GET Buyer order,200,OK,Buyer Order 1-10,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,283,0,50
+1695973415225,359,GET Buyer order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,359,0,49
+1695973415285,350,GET Buyer order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,350,0,50
+1695973415305,330,GET Buyer order,200,OK,Buyer Order 1-20,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,330,0,46
+1695973414276,1449,PUT Buyer order,400,Bad Request,Buyer Order 1-3,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1449,0,459
+1695973415568,235,Login,201,Created,Buyer Order 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,235,0,0
+1695973415635,179,PUT Buy order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,179,0,0
+1695973415456,358,GET Buyer order,200,OK,Buyer Order 1-14,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,358,0,60
+1695973415495,319,PUT Buyer order,400,Bad Request,Buyer Order 1-16,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,319,0,50
+1695973415585,241,PUT Buy order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,241,0,0
+1695973414055,1833,Login,201,Created,Buyer Order 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1833,0,0
+1695973415725,180,GET Buyer order,200,OK,Buyer Order 1-3,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,180,0,50
+1695973415814,199,Login,201,Created,Buyer Order 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,199,0,0
+1695973415814,282,GET Buyer order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,282,0,52
+1695973415826,270,Login,201,Created,Buyer Order 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,270,0,0
+1695973414175,1960,Login,201,Created,Buyer Order 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1960,0,0
+1695973415803,412,PUT Buyer order,400,Bad Request,Buyer Order 1-4,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,412,0,62
+1695973415905,329,GET Buyer order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,329,0,61
+1695973413605,2641,GET Buyer order,200,OK,Buyer Order 1-5,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2641,0,1820
+1695973415888,397,PUT Buyer order,400,Bad Request,Buyer Order 1-17,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,397,0,76
+1695973416096,249,PUT Buy order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,249,0,0
+1695973416013,392,PUT Buyer order,400,Bad Request,Buyer Order 1-12,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,392,0,63
+1695973416234,201,PUT Buy order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,201,0,0
+1695973413285,3150,PUT Buyer order,400,Bad Request,Buyer Order 1-15,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,3150,0,1470
+1695973415495,940,GET Buyer order,200,OK,Buyer Order 1-9,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,940,0,469
+1695973416096,369,PUT Buyer order,400,Bad Request,Buyer Order 1-6,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,369,0,59
+1695973416135,315,PUT Buyer order,400,Bad Request,Buyer Order 1-13,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,315,0,48
+1695973416215,300,GET Buyer order,200,OK,Buyer Order 1-4,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,300,0,50
+1695973416345,250,Login,201,Created,Buyer Order 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,250,0,0
+1695973414195,2455,PUT Buyer order,400,Bad Request,Buyer Order 1-18,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,2455,0,471
+1695973413375,3284,PUT Buyer order,400,Bad Request,Buyer Order 1-1,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,3284,0,1090
+1695973415568,1096,GET Buyer order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1096,0,457
+1695973416435,229,Login,201,Created,Buyer Order 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,228,0,0
+1695973416285,382,GET Buyer order,200,OK,Buyer Order 1-17,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,382,0,61
+1695973416405,265,GET Buyer order,200,OK,Buyer Order 1-12,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,265,0,46
+1695973413885,2911,GET Buyer order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,2911,0,1466
+1695973416435,500,GET Buyer order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,500,0,45
+1695973416515,420,GET Buyer order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,420,0,60
+1695973416473,482,GET Buyer order,200,OK,Buyer Order 1-6,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,482,0,43
+1695973416660,425,GET Buyer order,200,OK,Buyer Order 1-1,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,425,0,56
+1695973414825,2277,GET Buyer order,200,OK,Buyer Order 1-8,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2277,0,449
+1695973416650,465,GET Buyer order,200,OK,Buyer Order 1-18,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,465,0,66
+1695973416670,525,GET Buyer order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,525,0,65
+1695973416667,528,GET Buyer order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,528,0,54
+1695973416935,300,PUT Buy order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,300,0,0
+1695973416595,670,PUT Buyer order,400,Bad Request,Buyer Order 1-14,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,670,0,56
+1695973416664,675,PUT Buyer order,400,Bad Request,Buyer Order 1-3,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,674,0,71
+1695973416935,422,PUT Buy order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,422,0,0
+1695973416977,399,GET Buyer order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,399,0,58
+1695973416796,599,PUT Buy order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,599,0,0
+1695973417102,293,GET Buyer order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,293,0,53
+1695973417115,340,GET Buyer order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,340,0,40
+1695973416435,1080,GET Buyer order,200,OK,Buyer Order 1-15,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1080,0,450
+1695973415635,1920,GET Buyer order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1920,0,1451
+1695973415814,1741,GET Buyer order,200,OK,Buyer Order 1-16,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1741,0,451
+1695973415285,2290,GET Buyer order,200,OK,Buyer Order 1-7,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2290,0,1436
+1695973417235,370,Login,201,Created,Buyer Order 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,370,0,0
+1695973417195,490,PUT Buy order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,490,0,0
+1695973417195,490,PUT Buy order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,490,0,0
+1695973417357,329,Login,201,Created,Buyer Order 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,328,0,0
+1695973416473,1262,GET Buyer order,200,OK,Buyer Order 1-13,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1262,0,442
+1695973417395,371,PUT Buy order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,371,0,0
+1695973417455,311,PUT Buy order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,311,0,0
+1695973417377,393,PUT Buy order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,393,0,0
+1695973417265,520,GET Buyer order,200,OK,Buyer Order 1-14,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,520,0,51
+1695973417395,580,Login,201,Created,Buyer Order 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,580,0,0
+1695973417686,471,Login,201,Created,Buyer Order 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,470,0,0
+1695973416247,1958,GET Buyer order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1958,0,1092
+1695973417686,539,Login,201,Created,Buyer Order 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,539,0,0
+1695973417766,539,Login,201,Created,Buyer Order 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,538,0,0
+1695973417555,830,GET Buyer order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,830,0,51
+1695973417770,615,Login,201,Created,Buyer Order 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,615,0,0
+1695973417515,960,GET Buyer order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,960,0,60
+1695973417766,709,Login,201,Created,Buyer Order 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,709,0,0
+1695973417735,780,GET Buyer order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,780,0,60
+1695973417785,730,GET Buyer order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,730,0,51
+1695973416664,1991,PUT Buy order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,1991,0,0
+1695973412066,6590,GET Buyer order,200,OK,Buyer Order 1-19,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,6590,0,471
+1695973417555,1120,PUT Buy order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,1120,0,0
+1695973415566,3109,PUT Buyer order,400,Bad Request,Buyer Order 1-11,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,3109,0,1094
+1695973417575,1534,GET Buyer order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1534,0,470
+1695973417686,1423,PUT Buyer order,400,Bad Request,Buyer Order 1-9,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1423,0,50
+1695973417605,1504,PUT Buyer order,400,Bad Request,Buyer Order 1-4,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1504,0,60
+1695973418385,750,PUT Buy order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,750,0,0
+1695973418475,761,PUT Buy order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,761,0,0
+1695973418515,721,PUT Buy order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,721,0,0
+1695973418205,1090,PUT Buy order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,1090,0,0
+1695973418515,810,PUT Buy order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,810,0,0
+1695973417085,2240,GET Buyer order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,2240,0,431
+1695973417999,1356,PUT Buyer order,400,Bad Request,Buyer Order 1-2,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1356,0,46
+1695973418225,1130,PUT Buyer order,400,Bad Request,Buyer Order 1-17,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1130,0,50
+1695973418655,720,GET Buyer order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,720,0,60
+1695973418675,722,GET Buyer order,200,OK,Buyer Order 1-11,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,722,0,40
+1695973418655,770,Login,201,Created,Buyer Order 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,770,0,0
+1695973418385,1069,PUT Buyer order,400,Bad Request,Buyer Order 1-6,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1069,0,60
+1695973417339,2186,GET Buyer order,200,OK,Buyer Order 1-3,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2186,0,447
+1695973418675,850,Login,201,Created,Buyer Order 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,850,0,0
+1695973418305,1320,PUT Buyer order,400,Bad Request,Buyer Order 1-8,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1320,0,51
+1695973419135,490,Login,201,Created,Buyer Order 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,490,0,0
+1695973419236,470,Login,201,Created,Buyer Order 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,470,0,0
+1695973419325,450,Login,201,Created,Buyer Order 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,450,0,0
+1695973419376,568,PUT Buy order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,568,0,0
+1695973419236,709,Login,201,Created,Buyer Order 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,708,0,0
+1695973419397,568,GET Buyer order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,568,0,58
+1695973419110,855,GET Buyer order,200,OK,Buyer Order 1-4,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,855,0,65
+1695973418157,1835,PUT Buyer order,400,Bad Request,Buyer Order 1-12,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1835,0,428
+1695973419295,770,Login,201,Created,Buyer Order 1-5,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,769,0,0
+1695973419109,1047,PUT Buy order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,1047,0,0
+1695973418475,1681,PUT Buyer order,400,Bad Request,Buyer Order 1-18,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1681,0,450
+1695973419945,324,Login,201,Created,Buyer Order 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,324,0,0
+1695973419455,832,GET Buyer order,200,OK,Buyer Order 1-6,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,832,0,50
+1695973419425,883,PUT Buyer order,400,Bad Request,Buyer Order 1-10,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,883,0,60
+1695973419965,381,PUT Buy order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,381,0,0
+1695973419965,460,GET Buyer order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,460,0,60
+1695973419536,909,PUT Buyer order,400,Bad Request,Buyer Order 1-20,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,909,0,59
+1695973419625,840,PUT Buyer order,400,Bad Request,Buyer Order 1-16,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,839,0,61
+1695973419110,1414,GET Buyer order,200,OK,Buyer Order 1-9,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1414,0,455
+1695973419775,790,PUT Buyer order,400,Bad Request,Buyer Order 1-14,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,790,0,40
+1695973420346,293,Login,201,Created,Buyer Order 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,293,0,0
+1695973419706,934,PUT Buyer order,400,Bad Request,Buyer Order 1-15,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,933,0,70
+1695973419945,698,PUT Buyer order,400,Bad Request,Buyer Order 1-13,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,698,0,48
+1695973420308,347,GET Buyer order,200,OK,Buyer Order 1-10,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,347,0,57
+1695973420156,520,GET Buyer order,200,OK,Buyer Order 1-18,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,520,0,60
+1695973420156,609,Login,201,Created,Buyer Order 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,609,0,0
+1695973420065,730,PUT Buyer order,400,Bad Request,Buyer Order 1-5,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,730,0,51
+1695973419325,1500,PUT Buy order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,1500,0,0
+1695973420640,413,PUT Buyer order,400,Bad Request,Buyer Order 1-11,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,413,0,51
+1695973420643,409,GET Buyer order,200,OK,Buyer Order 1-13,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,409,0,62
+1695973420565,485,GET Buyer order,200,OK,Buyer Order 1-14,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,484,0,51
+1695973420655,394,GET Buyer order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,394,0,50
+1695973420640,406,GET Buyer order,200,OK,Buyer Order 1-15,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,406,0,51
+1695973420465,581,GET Buyer order,200,OK,Buyer Order 1-16,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,580,0,48
+1695973420445,598,GET Buyer order,200,OK,Buyer Order 1-20,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,598,0,51
+1695973420524,519,GET Buyer order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,519,0,61
+1695973420270,773,PUT Buyer order,400,Bad Request,Buyer Order 1-19,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,772,0,56
+1695973420425,617,PUT Buy order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,617,0,0
+1695973420676,461,GET Buyer order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,461,0,53
+1695973419536,1749,GET Buyer order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1749,0,470
+1695973421067,262,PUT Buy order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,262,0,0
+1695973421068,261,GET Buyer order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,261,0,49
+1695973421068,261,Login,201,Created,Buyer Order 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,261,0,0
+1695973421067,275,GET Buyer order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,275,0,46
+1695973421068,274,PUT Buy order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,274,0,0
+1695973421067,275,GET Buyer order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,275,0,46
+1695973421068,281,GET Buyer order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,281,0,49
+1695973421137,518,PUT Buy order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,518,0,0
+1695973421329,326,Login,201,Created,Buyer Order 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,326,0,0
+1695973419625,2090,GET Buyer order,200,OK,Buyer Order 1-8,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2090,0,470
+1695973421342,388,Login,201,Created,Buyer Order 1-9,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,388,0,0
+1695973421068,664,GET Buyer order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,664,0,56
+1695973421068,664,GET Buyer order,200,OK,Buyer Order 1-19,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,664,0,56
+1695973421342,397,PUT Buy order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,397,0,0
+1695973421342,397,PUT Buy order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,397,0,0
+1695973421329,445,PUT Buy order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,445,0,0
+1695973421350,424,PUT Buy order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,424,0,0
+1695973421329,468,PUT Buyer order,400,Bad Request,Buyer Order 1-4,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,467,0,55
+1695973419355,2500,GET Buyer order,200,OK,Buyer Order 1-2,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2500,0,1141
+1695973421285,650,PUT Buy order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,650,0,0
+1695973421655,280,Login,201,Created,Buyer Order 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,280,0,0
+1695973419992,2023,GET Buyer order,200,OK,Buyer Order 1-12,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2023,0,453
+1695973421739,276,Login,201,Created,Buyer Order 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,276,0,0
+1695973421739,366,Login,201,Created,Buyer Order 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,366,0,0
+1695973421775,410,Login,201,Created,Buyer Order 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,410,0,0
+1695973421732,531,PUT Buy order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,531,0,0
+1695973421732,531,GET Buyer order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,531,0,44
+1695973421774,490,Login,201,Created,Buyer Order 1-15,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,489,0,0
+1695973421715,561,GET Buyer order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,561,0,60
+1695973421655,680,PUT Buyer order,400,Bad Request,Buyer Order 1-10,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,679,0,61
+1695973421730,750,PUT Buyer order,400,Bad Request,Buyer Order 1-9,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,750,0,67
+1695973421855,636,GET Buyer order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,636,0,50
+1695973422264,397,PUT Buy order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,397,0,0
+1695973422491,170,PUT Buy order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,170,0,0
+1695973421935,726,Login,201,Created,Buyer Order 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,726,0,0
+1695973422264,397,Login,201,Created,Buyer Order 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,397,0,0
+1695973422276,399,PUT Buy order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,399,0,0
+1695973422105,570,PUT Buyer order,400,Bad Request,Buyer Order 1-13,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,570,0,60
+1695973421067,1608,GET Buyer order,200,OK,Buyer Order 1-11,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1608,0,458
+1695973419355,3380,GET Buyer order,200,OK,Buyer Order 1-17,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,3380,0,2461
+1695973421797,968,GET Buyer order,200,OK,Buyer Order 1-4,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,968,0,462
+1695973422016,850,GET Buyer order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,849,0,449
+1695973420765,2101,PUT Buyer order,400,Bad Request,Buyer Order 1-7,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,2100,0,1320
+1695973422661,222,Login,201,Created,Buyer Order 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,222,0,0
+1695973422481,414,GET Buyer order,200,OK,Buyer Order 1-9,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,414,0,64
+1695973421935,998,PUT Buyer order,400,Bad Request,Buyer Order 1-18,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,998,0,461
+1695973422661,316,Login,201,Created,Buyer Order 1-2,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,315,0,0
+1695973422675,370,Login,201,Created,Buyer Order 1-8,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,370,0,0
+1695973422675,386,GET Buyer order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,386,0,61
+1695973422675,400,GET Buyer order,200,OK,Buyer Order 1-13,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,400,0,61
+1695973422661,437,PUT Buyer order,400,Bad Request,Buyer Order 1-3,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,437,0,54
+1695973422264,1031,PUT Buyer order,400,Bad Request,Buyer Order 1-15,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1031,0,451
+1695973420287,3049,GET Buyer order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,3049,0,1148
+1695973422735,660,GET Buyer order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,660,0,62
+1695973422765,630,GET Buyer order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,630,0,50
+1695973422866,565,GET Buyer order,200,OK,Buyer Order 1-7,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,565,0,50
+1695973422933,504,GET Buyer order,200,OK,Buyer Order 1-18,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,504,0,62
+1695973423061,394,PUT Buy order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,394,0,0
+1695973422185,1350,PUT Buyer order,400,Bad Request,Buyer Order 1-16,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1350,0,450
+1695973423076,499,GET Buyer order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,499,0,59
+1695973422335,1240,GET Buyer order,200,OK,Buyer Order 1-10,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1240,0,462
+1695973422866,729,PUT Buy order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,729,0,0
+1695973422977,647,PUT Buyer order,400,Bad Request,Buyer Order 1-2,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,647,0,49
+1695973423395,241,PUT Buy order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,241,0,0
+1695973422884,752,PUT Buyer order,400,Bad Request,Buyer Order 1-19,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,752,0,50
+1695973423107,558,GET Buyer order,200,OK,Buyer Order 1-3,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,558,0,58
+1695973423395,370,PUT Buy order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,370,0,0
+1695973423455,310,Login,201,Created,Buyer Order 1-11,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,310,0,0
+1695973423431,339,GET Buyer order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,339,0,55
+1695973423535,236,GET Buyer order,200,OK,Buyer Order 1-16,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,235,0,61
+1695973423575,209,PUT Buy order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,209,0,0
+1695973423437,347,GET Buyer order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,347,0,49
+1695973423336,459,PUT Buy order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,459,0,0
+1695973422661,1195,PUT Buyer order,400,Bad Request,Buyer Order 1-20,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1195,0,454
+1695973423636,329,Login,201,Created,Buyer Order 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,328,0,0
+1695973423665,480,GET Buyer order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,480,0,60
+1695973423765,380,Login,201,Created,Buyer Order 1-17,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,380,0,0
+1695973423784,441,Login,201,Created,Buyer Order 1-13,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,440,0,0
+1695973423609,636,Login,201,Created,Buyer Order 1-12,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,636,0,0
+1695973423575,724,GET Buyer order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,724,0,63
+1695973423636,664,GET Buyer order,200,OK,Buyer Order 1-19,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,663,0,51
+1695973423771,534,PUT Buy order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,534,0,0
+1695973423624,681,GET Buyer order,200,OK,Buyer Order 1-2,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,681,0,63
+1695973423771,541,GET Buyer order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,541,0,50
+1695973423784,528,PUT Buy order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,528,0,0
+1695973423856,471,GET Buyer order,200,OK,Buyer Order 1-20,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,471,0,59
+1695973423965,408,PUT Buyer order,400,Bad Request,Buyer Order 1-4,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,407,0,50
+1695973424312,322,Login,201,Created,Buyer Order 1-18,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,322,0,0
+1695973422895,1784,GET Buyer order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1784,0,441
+1695973424145,565,PUT Buy order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,565,0,0
+1695973424299,411,PUT Buy order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,411,0,0
+1695973424305,405,Login,201,Created,Buyer Order 1-7,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,405,0,0
+1695973424300,421,GET Buyer order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,421,0,55
+1695973424327,394,GET Buyer order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,394,0,46
+1695973424312,409,PUT Buy order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,409,0,0
+1695973424145,589,PUT Buyer order,400,Bad Request,Buyer Order 1-17,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,589,0,60
+1695973424710,254,Login,201,Created,Buyer Order 1-10,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,254,0,0
+1695973424710,334,Login,201,Created,Buyer Order 1-3,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,334,0,0
+1695973424721,404,Login,201,Created,Buyer Order 1-16,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,403,0,0
+1695973424721,403,PUT Buy order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,403,0,0
+1695973424721,403,PUT Buy order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,403,0,0
+1695973423765,1399,PUT Buyer order,400,Bad Request,Buyer Order 1-11,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,1399,0,460
+1695973424710,574,PUT Buyer order,400,Bad Request,Buyer Order 1-7,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,574,0,57
+1695973424679,635,PUT Buy order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,635,0,0
+1695973425044,301,PUT Buyer order,400,Bad Request,Buyer Order 1-3,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,301,0,51
+1695973422016,3357,PUT Buyer order,400,Bad Request,Buyer Order 1-14,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,3357,0,1119
+1695973424373,1000,GET Buyer order,200,OK,Buyer Order 1-4,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,1000,0,471
+1695973424964,475,PUT Buyer order,400,Bad Request,Buyer Order 1-10,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,475,0,61
+1695973425132,307,Login,201,Created,Buyer Order 1-19,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,307,0,0
+1695973425132,382,Login,201,Created,Buyer Order 1-20,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,382,0,0
+1695973425132,483,PUT Buyer order,400,Bad Request,Buyer Order 1-16,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,483,0,63
+1695973423795,1900,Login,201,Created,Buyer Order 1-6,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,1899,0,0
+1695973425374,329,GET Buyer order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,329,0,48
+1695973425374,341,GET Buyer order,200,OK,Buyer Order 1-14,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,340,0,48
+1695973425514,222,PUT Buyer order,400,Bad Request,Buyer Order 1-20,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,221,0,61
+1695973425704,82,PUT Buy order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,82,0,0
+1695973420825,5000,Login,201,Created,Buyer Order 1-1,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,4999,0,0
+1695973425786,229,Login,201,Created,Buyer Order 1-4,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,229,0,0
+1695973425715,326,GET Buyer order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,326,0,72
+1695973423295,2747,GET Buyer order,200,OK,Buyer Order 1-15,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,2746,0,1789
+1695973425736,319,GET Buyer order,200,OK,Buyer Order 1-20,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,318,0,69
+1695973425825,360,PUT Buyer order,400,Bad Request,Buyer Order 1-1,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,359,0,59
+1695973426041,173,PUT Buy order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,173,0,0
+1695973425284,950,GET Buyer order,200,OK,Buyer Order 1-7,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,950,0,462
+1695973424305,1952,GET Buyer order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,1952,0,1482
+1695973426015,242,PUT Buyer order,400,Bad Request,Buyer Order 1-4,text,false,,330,419,20,20,https://market-final-project.binaracademy.org/buyer/order,242,0,40
+1695973426055,219,GET Buyer order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,219,0,60
+1695973425439,915,GET Buyer order,200,OK,Buyer Order 1-10,text,true,,6881,316,20,20,https://market-final-project.binaracademy.org/buyer/order,915,0,465
+1695973426275,180,PUT Buy order ID,200,OK,Buyer Order 1-20,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43486,180,0,0
+1695973426235,220,GET Buyer order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,20,20,https://market-final-project.binaracademy.org/buyer/order/43485,220,0,60
+1695973426215,240,Login,201,Created,Buyer Order 1-14,text,true,,482,277,20,20,https://market-final-project.binaracademy.org/auth/login,239,0,0
+1695973424225,2286,PUT Buyer order,400,Bad Request,Buyer Order 1-13,text,false,,330,419,19,19,https://market-final-project.binaracademy.org/buyer/order,2286,0,470
+1695973426455,69,PUT Buy order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,19,19,https://market-final-project.binaracademy.org/buyer/order/43486,69,0,0
+1695973426257,409,PUT Buy order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,19,19,https://market-final-project.binaracademy.org/buyer/order/43486,409,0,0
+1695973426524,220,Login,201,Created,Buyer Order 1-7,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,220,0,0
+1695973426511,244,GET Buyer order,200,OK,Buyer Order 1-13,text,true,,6881,316,19,19,https://market-final-project.binaracademy.org/buyer/order,243,0,53
+1695973426455,331,PUT Buyer order,400,Bad Request,Buyer Order 1-14,text,false,,330,419,19,19,https://market-final-project.binaracademy.org/buyer/order,330,0,56
+1695973425164,1660,GET Buyer order,200,OK,Buyer Order 1-11,text,true,,6881,316,19,19,https://market-final-project.binaracademy.org/buyer/order,1660,0,452
+1695973425314,1600,Login,201,Created,Buyer Order 1-9,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,1600,0,0
+1695973425439,1555,PUT Buyer order,400,Bad Request,Buyer Order 1-19,text,false,,330,419,19,19,https://market-final-project.binaracademy.org/buyer/order,1555,0,1106
+1695973426825,199,GET Buyer order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,19,19,https://market-final-project.binaracademy.org/buyer/order/43485,199,0,40
+1695973426755,270,GET Buyer order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,19,19,https://market-final-project.binaracademy.org/buyer/order/43485,270,0,70
+1695973426744,300,PUT Buyer order,400,Bad Request,Buyer Order 1-7,text,false,,330,419,19,19,https://market-final-project.binaracademy.org/buyer/order,300,0,60
+1695973426914,140,PUT Buyer order,400,Bad Request,Buyer Order 1-9,text,false,,330,419,19,19,https://market-final-project.binaracademy.org/buyer/order,140,0,50
+1695973426666,438,Login,201,Created,Buyer Order 1-2,text,true,,482,277,19,19,https://market-final-project.binaracademy.org/auth/login,438,0,0
+1695973427025,112,PUT Buy order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,19,19,https://market-final-project.binaracademy.org/buyer/order/43486,112,0,0
+1695973426994,171,GET Buyer order,200,OK,Buyer Order 1-19,text,true,,6881,316,19,19,https://market-final-project.binaracademy.org/buyer/order,170,0,51
+1695973427025,122,PUT Buy order ID,200,OK,Buyer Order 1-13,text,true,,1178,359,19,19,https://market-final-project.binaracademy.org/buyer/order/43486,122,0,0
+1695973427138,136,Login,201,Created,Buyer Order 1-11,text,true,,482,277,18,18,https://market-final-project.binaracademy.org/auth/login,136,0,0
+1695973427175,191,GET Buyer order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43485,191,0,60
+1695973427366,68,PUT Buy order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43486,68,0,0
+1695973423045,4449,PUT Buyer order,400,Bad Request,Buyer Order 1-8,text,false,,330,419,18,18,https://market-final-project.binaracademy.org/buyer/order,4449,0,1830
+1695973427435,141,Login,201,Created,Buyer Order 1-19,text,true,,482,277,18,18,https://market-final-project.binaracademy.org/auth/login,141,0,0
+1695973424634,2948,PUT Buyer order,400,Bad Request,Buyer Order 1-18,text,false,,330,419,18,18,https://market-final-project.binaracademy.org/buyer/order,2948,0,1451
+1695973427495,160,GET Buyer order,200,OK,Buyer Order 1-8,text,true,,6881,316,18,18,https://market-final-project.binaracademy.org/buyer/order,160,0,51
+1695973426042,1642,GET Buyer order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43485,1642,0,453
+1695973427583,133,GET Buyer order,200,OK,Buyer Order 1-18,text,true,,6881,316,18,18,https://market-final-project.binaracademy.org/buyer/order,133,0,53
+1695973425695,2081,PUT Buyer order,400,Bad Request,Buyer Order 1-6,text,false,,330,419,18,18,https://market-final-project.binaracademy.org/buyer/order,2080,0,440
+1695973427777,149,GET Buyer order,200,OK,Buyer Order 1-6,text,true,,6881,316,18,18,https://market-final-project.binaracademy.org/buyer/order,148,0,72
+1695973425345,2589,GET Buyer order,200,OK,Buyer Order 1-3,text,true,,6881,316,18,18,https://market-final-project.binaracademy.org/buyer/order,2589,0,460
+1695973427685,261,PUT Buy order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43486,261,0,0
+1695973426257,1738,GET Buyer order,200,OK,Buyer Order 1-4,text,true,,6881,316,18,18,https://market-final-project.binaracademy.org/buyer/order,1737,0,458
+1695973427274,752,PUT Buyer order,400,Bad Request,Buyer Order 1-11,text,false,,330,419,18,18,https://market-final-project.binaracademy.org/buyer/order,752,0,461
+1695973425641,2423,GET Buyer order,200,OK,Buyer Order 1-16,text,true,,6881,316,18,18,https://market-final-project.binaracademy.org/buyer/order,2423,0,1114
+1695973427926,180,GET Buyer order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43485,180,0,47
+1695973427946,360,Login,201,Created,Buyer Order 1-15,text,true,,482,277,18,18,https://market-final-project.binaracademy.org/auth/login,360,0,0
+1695973427936,411,GET Buyer order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43485,411,0,60
+1695973427996,351,GET Buyer order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43485,351,0,70
+1695973428065,282,GET Buyer order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43485,282,0,41
+1695973428106,249,PUT Buy order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43486,249,0,0
+1695973428028,338,GET Buyer order,200,OK,Buyer Order 1-11,text,true,,6881,316,18,18,https://market-final-project.binaracademy.org/buyer/order,338,0,58
+1695973426185,2300,GET Buyer order,200,OK,Buyer Order 1-1,text,true,,6881,316,18,18,https://market-final-project.binaracademy.org/buyer/order,2299,0,1119
+1695973428347,159,PUT Buy order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43486,159,0,0
+1695973428347,159,PUT Buy order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43486,159,0,0
+1695973427716,860,GET Buyer order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43485,860,0,459
+1695973427054,1521,GET Buyer order,200,OK,Buyer Order 1-9,text,true,,6881,316,18,18,https://market-final-project.binaracademy.org/buyer/order,1521,0,1120
+1695973428347,249,PUT Buy order ID,200,OK,Buyer Order 1-4,text,true,,1178,359,18,18,https://market-final-project.binaracademy.org/buyer/order/43486,249,0,0
+1695973428355,241,Login,201,Created,Buyer Order 1-6,text,true,,482,277,18,18,https://market-final-project.binaracademy.org/auth/login,241,0,0
+1695973428306,359,PUT Buyer order,400,Bad Request,Buyer Order 1-15,text,false,,330,419,17,17,https://market-final-project.binaracademy.org/buyer/order,359,0,50
+1695973428506,301,Login,201,Created,Buyer Order 1-3,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,301,0,0
+1695973428486,399,GET Buyer order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,17,17,https://market-final-project.binaracademy.org/buyer/order/43485,399,0,60
+1695973428506,380,Login,201,Created,Buyer Order 1-16,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,379,0,0
+1695973424245,4749,PUT Buyer order,400,Bad Request,Buyer Order 1-12,text,false,,330,419,17,17,https://market-final-project.binaracademy.org/buyer/order,4749,0,1492
+1695973428886,131,PUT Buy order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,17,17,https://market-final-project.binaracademy.org/buyer/order/43486,131,0,0
+1695973428666,351,GET Buyer order,200,OK,Buyer Order 1-15,text,true,,6881,316,17,17,https://market-final-project.binaracademy.org/buyer/order,351,0,60
+1695973428808,209,PUT Buyer order,400,Bad Request,Buyer Order 1-3,text,false,,330,419,17,17,https://market-final-project.binaracademy.org/buyer/order,209,0,57
+1695973428886,161,PUT Buyer order,400,Bad Request,Buyer Order 1-16,text,false,,330,419,17,17,https://market-final-project.binaracademy.org/buyer/order,161,0,60
+1695973428576,535,GET Buyer order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,17,17,https://market-final-project.binaracademy.org/buyer/order/43485,535,0,60
+1695973420795,8330,GET Buyer order,200,OK,Buyer Order 1-5,text,true,,6881,316,17,17,https://market-final-project.binaracademy.org/buyer/order,8330,0,1464
+1695973429017,147,Login,201,Created,Buyer Order 1-1,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,147,0,0
+1695973428995,200,GET Buyer order,200,OK,Buyer Order 1-12,text,true,,6881,316,17,17,https://market-final-project.binaracademy.org/buyer/order,200,0,53
+1695973429017,276,GET Buyer order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,17,17,https://market-final-project.binaracademy.org/buyer/order/43485,276,0,69
+1695973429111,194,PUT Buy order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,17,17,https://market-final-project.binaracademy.org/buyer/order/43486,194,0,0
+1695973429017,320,GET Buyer order,200,OK,Buyer Order 1-3,text,true,,6881,316,17,17,https://market-final-project.binaracademy.org/buyer/order,320,0,69
+1695973429126,229,GET Buyer order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,17,17,https://market-final-project.binaracademy.org/buyer/order/43485,229,0,39
+1695973429207,178,GET Buyer order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,17,17,https://market-final-project.binaracademy.org/buyer/order/43485,178,0,58
+1695973429293,204,PUT Buy order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,17,17,https://market-final-project.binaracademy.org/buyer/order/43486,204,0,0
+1695973429305,193,Login,201,Created,Buyer Order 1-9,text,true,,482,277,17,17,https://market-final-project.binaracademy.org/auth/login,192,0,0
+1695973429355,143,PUT Buy order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,17,17,https://market-final-project.binaracademy.org/buyer/order/43486,143,0,0
+1695973429385,131,PUT Buy order ID,200,OK,Buyer Order 1-12,text,true,,1178,359,17,17,https://market-final-project.binaracademy.org/buyer/order/43486,131,0,0
+1695973429337,179,GET Buyer order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,17,17,https://market-final-project.binaracademy.org/buyer/order/43485,179,0,49
+1695973428596,920,PUT Buyer order,400,Bad Request,Buyer Order 1-6,text,false,,330,419,16,16,https://market-final-project.binaracademy.org/buyer/order,920,0,470
+1695973428576,1149,PUT Buy order ID,200,OK,Buyer Order 1-18,text,true,,1178,359,16,16,https://market-final-project.binaracademy.org/buyer/order/43486,1149,0,0
+1695973429498,221,Login,201,Created,Buyer Order 1-5,text,true,,482,277,16,16,https://market-final-project.binaracademy.org/auth/login,220,0,0
+1695973429498,279,Login,201,Created,Buyer Order 1-15,text,true,,482,277,15,15,https://market-final-project.binaracademy.org/auth/login,279,0,0
+1695973429516,264,GET Buyer order,200,OK,Buyer Order 1-6,text,true,,6881,316,15,15,https://market-final-project.binaracademy.org/buyer/order,264,0,60
+1695973429516,279,PUT Buy order ID,200,OK,Buyer Order 1-3,text,true,,1178,359,15,15,https://market-final-project.binaracademy.org/buyer/order/43486,279,0,0
+1695973429498,298,PUT Buyer order,400,Bad Request,Buyer Order 1-9,text,false,,330,419,15,15,https://market-final-project.binaracademy.org/buyer/order,297,0,67
+1695973429732,112,PUT Buyer order,400,Bad Request,Buyer Order 1-5,text,false,,330,419,14,14,https://market-final-project.binaracademy.org/buyer/order,112,0,46
+1695973429780,154,GET Buyer order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43485,154,0,65
+1695973429796,159,GET Buyer order,200,OK,Buyer Order 1-9,text,true,,6881,316,14,14,https://market-final-project.binaracademy.org/buyer/order,159,0,61
+1695973429934,105,PUT Buy order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43486,105,0,0
+1695973429844,211,GET Buyer order,200,OK,Buyer Order 1-5,text,true,,6881,316,14,14,https://market-final-project.binaracademy.org/buyer/order,211,0,91
+1695973429956,159,GET Buyer order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43485,159,0,70
+1695973424734,5451,GET Buyer order,200,OK,Buyer Order 1-17,text,true,,6881,316,14,14,https://market-final-project.binaracademy.org/buyer/order,5450,0,1451
+1695973430039,166,Login,201,Created,Buyer Order 1-6,text,true,,482,277,14,14,https://market-final-project.binaracademy.org/auth/login,166,0,0
+1695973427682,2544,GET Buyer order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43485,2544,0,1894
+1695973430116,159,PUT Buy order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43486,159,0,0
+1695973429048,1247,GET Buyer order,200,OK,Buyer Order 1-16,text,true,,6881,316,14,14,https://market-final-project.binaracademy.org/buyer/order,1247,0,1068
+1695973430186,149,GET Buyer order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43485,149,0,41
+1695973426354,3980,GET Buyer order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43485,3980,0,1771
+1695973430335,158,PUT Buy order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43486,158,0,0
+1695973430295,198,GET Buyer order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43485,198,0,60
+1695973430275,219,Login,201,Created,Buyer Order 1-9,text,true,,482,277,14,14,https://market-final-project.binaracademy.org/auth/login,218,0,0
+1695973430221,273,PUT Buyer order,400,Bad Request,Buyer Order 1-6,text,false,,330,419,14,14,https://market-final-project.binaracademy.org/buyer/order,273,0,55
+1695973428367,2308,GET Buyer order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43485,2308,0,469
+1695973430336,339,PUT Buy order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43486,339,0,0
+1695973430494,204,PUT Buy order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43486,204,0,0
+1695973430494,204,Login,201,Created,Buyer Order 1-17,text,true,,482,277,14,14,https://market-final-project.binaracademy.org/auth/login,204,0,0
+1695973430494,224,GET Buyer order,200,OK,Buyer Order 1-6,text,true,,6881,316,14,14,https://market-final-project.binaracademy.org/buyer/order,223,0,51
+1695973430494,266,PUT Buyer order,400,Bad Request,Buyer Order 1-9,text,false,,330,419,14,14,https://market-final-project.binaracademy.org/buyer/order,266,0,51
+1695973430056,859,GET Buyer order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43485,859,0,450
+1695973430718,267,GET Buyer order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43485,267,0,58
+1695973430698,287,Login,201,Created,Buyer Order 1-16,text,true,,482,277,14,14,https://market-final-project.binaracademy.org/auth/login,287,0,0
+1695973430698,317,PUT Buyer order,400,Bad Request,Buyer Order 1-17,text,false,,330,419,14,14,https://market-final-project.binaracademy.org/buyer/order,317,0,38
+1695973430985,160,PUT Buy order ID,200,OK,Buyer Order 1-6,text,true,,1178,359,14,14,https://market-final-project.binaracademy.org/buyer/order/43486,160,0,0
+1695973430760,385,GET Buyer order,200,OK,Buyer Order 1-9,text,true,,6881,316,14,14,https://market-final-project.binaracademy.org/buyer/order,385,0,55
+1695973430675,511,PUT Buy order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,13,13,https://market-final-project.binaracademy.org/buyer/order/43486,511,0,0
+1695973431016,170,GET Buyer order,200,OK,Buyer Order 1-17,text,true,,6881,316,13,13,https://market-final-project.binaracademy.org/buyer/order,170,0,60
+1695973430985,201,PUT Buyer order,400,Bad Request,Buyer Order 1-16,text,false,,330,419,13,13,https://market-final-project.binaracademy.org/buyer/order,201,0,61
+1695973429164,2041,PUT Buyer order,400,Bad Request,Buyer Order 1-1,text,false,,330,419,13,13,https://market-final-project.binaracademy.org/buyer/order,2041,0,1466
+1695973430915,400,PUT Buy order ID,200,OK,Buyer Order 1-5,text,true,,1178,359,13,13,https://market-final-project.binaracademy.org/buyer/order/43486,400,0,0
+1695973430226,1109,PUT Buy order ID,200,OK,Buyer Order 1-8,text,true,,1178,359,12,12,https://market-final-project.binaracademy.org/buyer/order/43486,1109,0,0
+1695973427104,4231,PUT Buyer order,400,Bad Request,Buyer Order 1-2,text,false,,330,419,12,12,https://market-final-project.binaracademy.org/buyer/order,4230,0,3698
+1695973431186,192,GET Buyer order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43485,192,0,42
+1695973431145,233,GET Buyer order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43485,233,0,61
+1695973431186,207,GET Buyer order,200,OK,Buyer Order 1-16,text,true,,6881,316,11,11,https://market-final-project.binaracademy.org/buyer/order,207,0,42
+1695973431205,201,GET Buyer order,200,OK,Buyer Order 1-1,text,true,,6881,316,11,11,https://market-final-project.binaracademy.org/buyer/order,201,0,43
+1695973431378,138,PUT Buy order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43486,138,0,0
+1695973431378,138,PUT Buy order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43486,138,0,0
+1695973431406,139,GET Buyer order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43485,139,0,40
+1695973431186,359,Login,201,Created,Buyer Order 1-11,text,true,,482,277,11,11,https://market-final-project.binaracademy.org/auth/login,359,0,0
+1695973431336,209,GET Buyer order,200,OK,Buyer Order 1-2,text,true,,6881,316,11,11,https://market-final-project.binaracademy.org/buyer/order,209,0,43
+1695973431393,182,GET Buyer order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43485,182,0,53
+1695973431516,219,Login,201,Created,Buyer Order 1-9,text,true,,482,277,11,11,https://market-final-project.binaracademy.org/auth/login,219,0,0
+1695973431545,265,PUT Buy order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43486,265,0,0
+1695973431575,235,PUT Buy order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43486,235,0,0
+1695973431516,294,Login,201,Created,Buyer Order 1-17,text,true,,482,277,11,11,https://market-final-project.binaracademy.org/auth/login,294,0,0
+1695973431546,279,GET Buyer order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43485,279,0,50
+1695973431546,280,PUT Buyer order,400,Bad Request,Buyer Order 1-11,text,false,,330,419,11,11,https://market-final-project.binaracademy.org/buyer/order,279,0,50
+1695973431810,215,Login,201,Created,Buyer Order 1-16,text,true,,482,277,11,11,https://market-final-project.binaracademy.org/auth/login,215,0,0
+1695973431825,280,PUT Buy order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43486,280,0,0
+1695973431810,295,Login,201,Created,Buyer Order 1-1,text,true,,482,277,11,11,https://market-final-project.binaracademy.org/auth/login,295,0,0
+1695973431811,294,PUT Buyer order,400,Bad Request,Buyer Order 1-17,text,false,,330,419,11,11,https://market-final-project.binaracademy.org/buyer/order,294,0,56
+1695973432025,130,PUT Buyer order,400,Bad Request,Buyer Order 1-16,text,false,,330,419,11,11,https://market-final-project.binaracademy.org/buyer/order,130,0,50
+1695973430675,1546,Login,201,Created,Buyer Order 1-10,text,true,,482,277,11,11,https://market-final-project.binaracademy.org/auth/login,1546,0,0
+1695973432105,140,Login,201,Created,Buyer Order 1-2,text,true,,482,277,11,11,https://market-final-project.binaracademy.org/auth/login,140,0,0
+1695973432155,230,GET Buyer order,200,OK,Buyer Order 1-16,text,true,,6881,316,11,11,https://market-final-project.binaracademy.org/buyer/order,230,0,50
+1695973432221,164,PUT Buyer order,400,Bad Request,Buyer Order 1-10,text,false,,330,419,11,11,https://market-final-project.binaracademy.org/buyer/order,164,0,54
+1695973432105,280,PUT Buyer order,400,Bad Request,Buyer Order 1-1,text,false,,330,419,11,11,https://market-final-project.binaracademy.org/buyer/order,280,0,51
+1695973432385,160,GET Buyer order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43485,160,0,45
+1695973432385,177,GET Buyer order,200,OK,Buyer Order 1-1,text,true,,6881,316,11,11,https://market-final-project.binaracademy.org/buyer/order,177,0,60
+1695973432385,191,GET Buyer order,200,OK,Buyer Order 1-10,text,true,,6881,316,11,11,https://market-final-project.binaracademy.org/buyer/order,191,0,45
+1695973432544,71,PUT Buy order ID,200,OK,Buyer Order 1-16,text,true,,1178,359,11,11,https://market-final-project.binaracademy.org/buyer/order/43486,71,0,0
+1695973432576,139,GET Buyer order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,10,10,https://market-final-project.binaracademy.org/buyer/order/43485,139,0,60
+1695973432715,79,PUT Buy order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,10,10,https://market-final-project.binaracademy.org/buyer/order/43486,79,0,0
+1695973431735,1081,PUT Buyer order,400,Bad Request,Buyer Order 1-9,text,false,,330,419,10,10,https://market-final-project.binaracademy.org/buyer/order,1080,0,470
+1695973432796,228,Login,201,Created,Buyer Order 1-10,text,true,,482,277,10,10,https://market-final-project.binaracademy.org/auth/login,228,0,0
+1695973432245,1400,PUT Buyer order,400,Bad Request,Buyer Order 1-2,text,false,,330,419,10,10,https://market-final-project.binaracademy.org/buyer/order,1400,0,1092
+1695973426786,6959,GET Buyer order,200,OK,Buyer Order 1-14,text,true,,6881,316,10,10,https://market-final-project.binaracademy.org/buyer/order,6959,0,449
+1695973433024,721,PUT Buyer order,400,Bad Request,Buyer Order 1-10,text,false,,330,419,10,10,https://market-final-project.binaracademy.org/buyer/order,721,0,441
+1695973427044,6731,GET Buyer order,200,OK,Buyer Order 1-7,text,true,,6881,316,10,10,https://market-final-project.binaracademy.org/buyer/order,6730,0,451
+1695973433745,159,GET Buyer order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,10,10,https://market-final-project.binaracademy.org/buyer/order/43485,159,0,51
+1695973433775,165,GET Buyer order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,10,10,https://market-final-project.binaracademy.org/buyer/order/43485,165,0,60
+1695973433745,195,GET Buyer order,200,OK,Buyer Order 1-10,text,true,,6881,316,10,10,https://market-final-project.binaracademy.org/buyer/order,195,0,51
+1695973433905,70,PUT Buy order ID,200,OK,Buyer Order 1-14,text,true,,1178,359,10,10,https://market-final-project.binaracademy.org/buyer/order/43486,70,0,0
+1695973433940,75,PUT Buy order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,9,9,https://market-final-project.binaracademy.org/buyer/order/43486,75,0,0
+1695973427576,6440,PUT Buyer order,400,Bad Request,Buyer Order 1-19,text,false,,330,419,9,9,https://market-final-project.binaracademy.org/buyer/order,6440,0,460
+1695973433940,145,GET Buyer order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,9,9,https://market-final-project.binaracademy.org/buyer/order/43485,145,0,55
+1695973434015,159,Login,201,Created,Buyer Order 1-7,text,true,,482,277,9,9,https://market-final-project.binaracademy.org/auth/login,159,0,0
+1695973434085,172,PUT Buy order ID,200,OK,Buyer Order 1-10,text,true,,1178,359,9,9,https://market-final-project.binaracademy.org/buyer/order/43486,172,0,0
+1695973434015,254,GET Buyer order,200,OK,Buyer Order 1-19,text,true,,6881,316,8,8,https://market-final-project.binaracademy.org/buyer/order,254,0,50
+1695973434175,140,PUT Buyer order,400,Bad Request,Buyer Order 1-7,text,false,,330,419,8,8,https://market-final-project.binaracademy.org/buyer/order,140,0,60
+1695973434269,115,GET Buyer order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,8,8,https://market-final-project.binaracademy.org/buyer/order/43485,115,0,47
+1695973432105,2301,GET Buyer order,200,OK,Buyer Order 1-17,text,true,,6881,316,8,8,https://market-final-project.binaracademy.org/buyer/order,2301,0,1112
+1695973434384,60,PUT Buy order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,8,8,https://market-final-project.binaracademy.org/buyer/order/43486,60,0,0
+1695973429777,4669,PUT Buyer order,400,Bad Request,Buyer Order 1-15,text,false,,330,419,8,8,https://market-final-project.binaracademy.org/buyer/order,4668,0,1468
+1695973433644,841,GET Buyer order,200,OK,Buyer Order 1-2,text,true,,6881,316,8,8,https://market-final-project.binaracademy.org/buyer/order,840,0,481
+1695973432815,1750,GET Buyer order,200,OK,Buyer Order 1-9,text,true,,6881,316,8,8,https://market-final-project.binaracademy.org/buyer/order,1749,0,521
+1695973432561,2033,GET Buyer order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,8,8,https://market-final-project.binaracademy.org/buyer/order/43485,2033,0,554
+1695973434405,210,GET Buyer order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,8,8,https://market-final-project.binaracademy.org/buyer/order/43485,210,0,60
+1695973434445,170,Login,201,Created,Buyer Order 1-19,text,true,,482,277,8,8,https://market-final-project.binaracademy.org/auth/login,170,0,0
+1695973434485,255,GET Buyer order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,8,8,https://market-final-project.binaracademy.org/buyer/order/43485,255,0,41
+1695973434445,306,GET Buyer order,200,OK,Buyer Order 1-15,text,true,,6881,316,8,8,https://market-final-project.binaracademy.org/buyer/order,306,0,60
+1695973434565,200,GET Buyer order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,8,8,https://market-final-project.binaracademy.org/buyer/order/43485,200,0,51
+1695973434615,150,PUT Buy order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,8,8,https://market-final-project.binaracademy.org/buyer/order/43486,150,0,0
+1695973434740,95,PUT Buy order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,8,8,https://market-final-project.binaracademy.org/buyer/order/43486,95,0,0
+1695973434766,179,PUT Buy order ID,200,OK,Buyer Order 1-9,text,true,,1178,359,8,8,https://market-final-project.binaracademy.org/buyer/order/43486,179,0,0
+1695973434766,179,Login,201,Created,Buyer Order 1-17,text,true,,482,277,8,8,https://market-final-project.binaracademy.org/auth/login,179,0,0
+1695973434594,371,PUT Buy order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,7,7,https://market-final-project.binaracademy.org/buyer/order/43486,371,0,0
+1695973434835,239,Login,201,Created,Buyer Order 1-2,text,true,,482,277,7,7,https://market-final-project.binaracademy.org/auth/login,239,0,0
+1695973431826,3832,GET Buyer order,200,OK,Buyer Order 1-11,text,true,,6881,316,7,7,https://market-final-project.binaracademy.org/buyer/order,3832,0,1482
+1695973434751,1009,GET Buyer order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,7,7,https://market-final-project.binaracademy.org/buyer/order/43485,1009,0,464
+1695973435657,191,GET Buyer order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,7,7,https://market-final-project.binaracademy.org/buyer/order/43485,191,0,59
+1695973435881,73,PUT Buy order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,7,7,https://market-final-project.binaracademy.org/buyer/order/43486,73,0,0
+1695973435760,295,PUT Buy order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,7,7,https://market-final-project.binaracademy.org/buyer/order/43486,294,0,0
+1695973435954,150,Login,201,Created,Buyer Order 1-11,text,true,,482,277,7,7,https://market-final-project.binaracademy.org/auth/login,150,0,0
+1695973436104,141,PUT Buyer order,400,Bad Request,Buyer Order 1-11,text,false,,330,419,7,7,https://market-final-project.binaracademy.org/buyer/order,141,0,51
+1695973436245,139,GET Buyer order,200,OK,Buyer Order 1-11,text,true,,6881,316,7,7,https://market-final-project.binaracademy.org/buyer/order,139,0,60
+1695973434945,1783,PUT Buyer order,400,Bad Request,Buyer Order 1-17,text,false,,330,419,7,7,https://market-final-project.binaracademy.org/buyer/order,1783,0,1481
+1695973434965,1929,Login,201,Created,Buyer Order 1-1,text,true,,482,277,7,7,https://market-final-project.binaracademy.org/auth/login,1929,0,0
+1695973434615,2341,PUT Buyer order,400,Bad Request,Buyer Order 1-19,text,false,,330,419,7,7,https://market-final-project.binaracademy.org/buyer/order,2340,0,1101
+1695973435075,1942,PUT Buyer order,400,Bad Request,Buyer Order 1-2,text,false,,330,419,7,7,https://market-final-project.binaracademy.org/buyer/order,1942,0,1470
+1695973436895,140,PUT Buyer order,400,Bad Request,Buyer Order 1-1,text,false,,330,419,7,7,https://market-final-project.binaracademy.org/buyer/order,139,0,61
+1695973436956,138,GET Buyer order,200,OK,Buyer Order 1-19,text,true,,6881,316,7,7,https://market-final-project.binaracademy.org/buyer/order,138,0,61
+1695973437035,120,GET Buyer order,200,OK,Buyer Order 1-1,text,true,,6881,316,7,7,https://market-final-project.binaracademy.org/buyer/order,120,0,46
+1695973437095,120,GET Buyer order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,7,7,https://market-final-project.binaracademy.org/buyer/order/43485,120,0,48
+1695973437155,163,GET Buyer order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,7,7,https://market-final-project.binaracademy.org/buyer/order/43485,163,0,60
+1695973437215,103,PUT Buy order ID,200,OK,Buyer Order 1-19,text,true,,1178,359,7,7,https://market-final-project.binaracademy.org/buyer/order/43486,103,0,0
+1695973437318,77,PUT Buy order ID,200,OK,Buyer Order 1-1,text,true,,1178,359,6,6,https://market-final-project.binaracademy.org/buyer/order/43486,77,0,0
+1695973436728,736,GET Buyer order,200,OK,Buyer Order 1-17,text,true,,6881,316,5,5,https://market-final-project.binaracademy.org/buyer/order,736,0,457
+1695973437465,119,GET Buyer order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,5,5,https://market-final-project.binaracademy.org/buyer/order/43485,119,0,50
+1695973437584,72,PUT Buy order ID,200,OK,Buyer Order 1-17,text,true,,1178,359,5,5,https://market-final-project.binaracademy.org/buyer/order/43486,72,0,0
+1695973437017,749,GET Buyer order,200,OK,Buyer Order 1-2,text,true,,6881,316,4,4,https://market-final-project.binaracademy.org/buyer/order,748,0,468
+1695973434326,4038,GET Buyer order,200,OK,Buyer Order 1-7,text,true,,6881,316,4,4,https://market-final-project.binaracademy.org/buyer/order,4038,0,1482
+1695973438364,120,GET Buyer order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,4,4,https://market-final-project.binaracademy.org/buyer/order/43485,120,0,51
+1695973438484,61,PUT Buy order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,4,4,https://market-final-project.binaracademy.org/buyer/order/43486,61,0,0
+1695973437766,828,GET Buyer order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,4,4,https://market-final-project.binaracademy.org/buyer/order/43485,828,0,547
+1695973438545,150,Login,201,Created,Buyer Order 1-7,text,true,,482,277,4,4,https://market-final-project.binaracademy.org/auth/login,150,0,0
+1695973436055,2760,Login,201,Created,Buyer Order 1-15,text,true,,482,277,4,4,https://market-final-project.binaracademy.org/auth/login,2759,0,0
+1695973438695,139,PUT Buyer order,400,Bad Request,Buyer Order 1-7,text,false,,330,419,4,4,https://market-final-project.binaracademy.org/buyer/order,139,0,61
+1695973438594,330,PUT Buy order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,4,4,https://market-final-project.binaracademy.org/buyer/order/43486,330,0,0
+1695973438835,149,GET Buyer order,200,OK,Buyer Order 1-7,text,true,,6881,316,4,4,https://market-final-project.binaracademy.org/buyer/order,149,0,59
+1695973438984,130,GET Buyer order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,4,4,https://market-final-project.binaracademy.org/buyer/order/43485,130,0,60
+1695973439115,79,PUT Buy order ID,200,OK,Buyer Order 1-7,text,true,,1178,359,4,4,https://market-final-project.binaracademy.org/buyer/order/43486,79,0,0
+1695973438925,349,Login,201,Created,Buyer Order 1-2,text,true,,482,277,3,3,https://market-final-project.binaracademy.org/auth/login,349,0,0
+1695973439275,157,PUT Buyer order,400,Bad Request,Buyer Order 1-2,text,false,,330,419,3,3,https://market-final-project.binaracademy.org/buyer/order,157,0,60
+1695973438815,728,PUT Buyer order,400,Bad Request,Buyer Order 1-15,text,false,,330,419,3,3,https://market-final-project.binaracademy.org/buyer/order,727,0,460
+1695973439460,134,GET Buyer order,200,OK,Buyer Order 1-2,text,true,,6881,316,3,3,https://market-final-project.binaracademy.org/buyer/order,134,0,55
+1695973439543,132,GET Buyer order,200,OK,Buyer Order 1-15,text,true,,6881,316,3,3,https://market-final-project.binaracademy.org/buyer/order,132,0,52
+1695973439595,139,GET Buyer order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,3,3,https://market-final-project.binaracademy.org/buyer/order/43485,139,0,59
+1695973439734,101,PUT Buy order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,3,3,https://market-final-project.binaracademy.org/buyer/order/43486,101,0,0
+1695973439675,160,GET Buyer order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,3,3,https://market-final-project.binaracademy.org/buyer/order/43485,160,0,60
+1695973439835,129,PUT Buy order ID,200,OK,Buyer Order 1-15,text,true,,1178,359,3,3,https://market-final-project.binaracademy.org/buyer/order/43486,129,0,0
+1695973439835,195,Login,201,Created,Buyer Order 1-2,text,true,,482,277,2,2,https://market-final-project.binaracademy.org/auth/login,195,0,0
+1695973436384,4183,GET Buyer order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,2,2,https://market-final-project.binaracademy.org/buyer/order/43485,4183,0,3471
+1695973440567,307,PUT Buy order ID,200,OK,Buyer Order 1-11,text,true,,1178,359,2,2,https://market-final-project.binaracademy.org/buyer/order/43486,307,0,0
+1695973440030,1085,PUT Buyer order,400,Bad Request,Buyer Order 1-2,text,false,,330,419,1,1,https://market-final-project.binaracademy.org/buyer/order,1085,0,538
+1695973441115,129,GET Buyer order,200,OK,Buyer Order 1-2,text,true,,6881,316,1,1,https://market-final-project.binaracademy.org/buyer/order,129,0,50
+1695973441245,869,GET Buyer order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,1,1,https://market-final-project.binaracademy.org/buyer/order/43485,869,0,520
+1695973442114,280,PUT Buy order ID,200,OK,Buyer Order 1-2,text,true,,1178,359,1,1,https://market-final-project.binaracademy.org/buyer/order/43486,280,0,0

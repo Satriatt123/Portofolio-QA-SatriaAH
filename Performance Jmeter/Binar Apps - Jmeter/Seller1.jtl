@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695969008165,304,Login,201,Created,Seller 1-1,text,true,,496,281,6,12,https://market-final-project.binaracademy.org/auth/login,304,0,63
+1695969008212,368,Login,201,Created,Seller 1-2,text,true,,496,281,9,17,https://market-final-project.binaracademy.org/auth/login,367,0,68
+1695969008320,585,Login,201,Created,Seller 1-4,text,true,,496,281,15,30,https://market-final-project.binaracademy.org/auth/login,585,0,45
+1695969008371,630,Login,201,Created,Seller 1-5,text,true,,496,281,17,34,https://market-final-project.binaracademy.org/auth/login,629,0,54
+1695969008472,667,Login,201,Created,Seller 1-7,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,667,0,49
+1695969008620,869,Login,201,Created,Seller 1-10,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,869,0,43
+1695969008671,909,Login,201,Created,Seller 1-11,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,908,0,51
+1695969008770,919,Login,201,Created,Seller 1-13,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,919,0,54
+1695969008818,1141,Login,201,Created,Seller 1-14,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1141,0,53
+1695969008868,1171,Login,201,Created,Seller 1-15,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1171,0,50
+1695969008919,1220,Login,201,Created,Seller 1-16,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1220,0,53
+1695969008964,1335,Login,201,Created,Seller 1-17,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1335,0,48
+1695969008261,2158,Login,201,Created,Seller 1-3,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,2158,0,743
+1695969009065,1474,Login,201,Created,Seller 1-19,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1474,0,56
+1695969009115,1511,Login,201,Created,Seller 1-20,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1511,0,56
+1695969009020,2009,Login,201,Created,Seller 1-18,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,2009,0,454
+1695969008722,2697,Login,201,Created,Seller 1-12,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,2697,0,1459
+1695969008571,3168,Login,201,Created,Seller 1-9,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,3168,0,448
+1695969008420,3379,Login,201,Created,Seller 1-6,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,3379,0,1863
+1695969008580,4769,Sell product,201,Created,Seller 1-2,text,true,,708,17726,20,40,https://market-final-project.binaracademy.org/seller/product,4769,0,49
+1695969008905,4614,Sell product,201,Created,Seller 1-4,text,true,,708,17726,20,40,https://market-final-project.binaracademy.org/seller/product,4614,0,44
+1695969011029,2740,Sell product,400,Bad Request,Seller 1-18,text,false,,319,17735,20,40,https://market-final-project.binaracademy.org/seller/product,2739,0,50
+1695969009490,4979,Sell product,400,Bad Request,Seller 1-10,text,false,,319,17663,20,40,https://market-final-project.binaracademy.org/seller/product,4979,0,1459
+1695969011799,2950,Sell product,400,Bad Request,Seller 1-6,text,false,,319,17708,20,40,https://market-final-project.binaracademy.org/seller/product,2949,0,40
+1695969008523,6256,Login,201,Created,Seller 1-8,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,6256,0,4337
+1695969009001,5898,Sell product,201,Created,Seller 1-5,text,true,,708,17726,20,40,https://market-final-project.binaracademy.org/seller/product,5898,0,48
+1695969009580,5479,Sell product,201,Created,Seller 1-11,text,true,,708,17672,20,40,https://market-final-project.binaracademy.org/seller/product,5478,0,49
+1695969009689,5431,Sell product,201,Created,Seller 1-13,text,true,,708,17708,20,40,https://market-final-project.binaracademy.org/seller/product,5430,0,50
+1695969010626,4643,Sell product,400,Bad Request,Seller 1-20,text,false,,319,17717,20,40,https://market-final-project.binaracademy.org/seller/product,4643,0,1114
+1695969008470,6800,Sell product,201,Created,Seller 1-1,text,true,,708,17717,20,40,https://market-final-project.binaracademy.org/seller/product,6799,0,436
+1695969011739,3560,Sell product,400,Bad Request,Seller 1-9,text,false,,319,17681,20,40,https://market-final-project.binaracademy.org/seller/product,3560,0,460
+1695969009140,6179,Sell product,201,Created,Seller 1-7,text,true,,708,17690,20,40,https://market-final-project.binaracademy.org/seller/product,6179,0,460
+1695969009959,5379,Sell product,201,Created,Seller 1-14,text,true,,708,17690,20,40,https://market-final-project.binaracademy.org/seller/product,5379,0,51
+1695969010139,5199,Sell product,201,Created,Seller 1-16,text,true,,708,17654,20,40,https://market-final-project.binaracademy.org/seller/product,5199,0,41
+1695969010539,4799,Sell product,400,Bad Request,Seller 1-19,text,false,,319,17654,20,40,https://market-final-project.binaracademy.org/seller/product,4799,0,1470
+1695969010299,5050,Sell product,201,Created,Seller 1-17,text,true,,708,17735,20,40,https://market-final-project.binaracademy.org/seller/product,5050,0,50
+1695969010420,5344,Sell product,201,Created,Seller 1-3,text,true,,708,17708,20,40,https://market-final-project.binaracademy.org/seller/product,5344,0,50
+1695969013349,2434,Get product,200,OK,Seller 1-2,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,2433,0,50
+1695969013519,2513,Get product,200,OK,Seller 1-4,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,2513,0,52
+1695969013769,2340,Get product,200,OK,Seller 1-18,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,2340,0,51
+1695969014749,1472,Get product,200,OK,Seller 1-6,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,1472,0,50
+1695969014899,1351,Get product,200,OK,Seller 1-5,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,1350,0,41
+1695969014469,1980,Get product,200,OK,Seller 1-10,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,1980,0,457
+1695969015270,1375,Get product,200,OK,Seller 1-1,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,1375,0,50
+1695969015120,1529,Get product,200,OK,Seller 1-13,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,1528,0,49
+1695969015338,1316,Get product,200,OK,Seller 1-16,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,1315,0,41
+1695969015338,1320,Get product,200,OK,Seller 1-19,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,1319,0,41
+1695969015299,1371,Get product,200,OK,Seller 1-9,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,1371,0,40
+1695969015338,1563,Get product,200,OK,Seller 1-14,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,1562,0,51
+1695969014779,2260,Sell product,400,Bad Request,Seller 1-8,text,false,,319,17726,20,40,https://market-final-project.binaracademy.org/seller/product,2260,0,460
+1695969010039,7255,Sell product,400,Bad Request,Seller 1-15,text,false,,319,17708,20,40,https://market-final-project.binaracademy.org/seller/product,7255,0,1460
+1695969015783,1702,Get product ID,200,OK,Seller 1-2,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,1702,0,48
+1695969016033,1553,Get product ID,200,OK,Seller 1-4,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,1553,0,40
+1695969016222,1397,Get product ID,200,OK,Seller 1-6,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,1396,0,49
+1695969016110,1514,Get product ID,200,OK,Seller 1-18,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,1513,0,49
+1695969015059,2588,Get product,200,OK,Seller 1-11,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,2588,0,450
+1695969016250,1417,Get product ID,200,OK,Seller 1-5,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,1417,0,42
+1695969016645,1093,Get product ID,200,OK,Seller 1-1,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,1093,0,49
+1695969016649,1171,Get product ID,200,OK,Seller 1-13,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,1171,0,45
+1695969016654,1233,Get product ID,200,OK,Seller 1-16,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,1233,0,54
+1695969016671,1227,Get product ID,200,OK,Seller 1-9,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,1227,0,42
+1695969016901,1050,Get product ID,200,OK,Seller 1-14,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,1050,0,44
+1695969017039,933,Get product,200,OK,Seller 1-8,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,933,0,50
+1695969017586,513,Login,201,Created,Seller 1-4,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,513,0,61
+1695969017619,560,Login,201,Created,Seller 1-6,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,560,0,60
+1695969017668,593,Login,201,Created,Seller 1-5,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,593,0,52
+1695969017820,698,Login,201,Created,Seller 1-13,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,698,0,49
+1695969017294,1235,Get product,200,OK,Seller 1-15,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,1235,0,40
+1695969017888,720,Login,201,Created,Seller 1-16,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,719,0,51
+1695969015349,3360,Get product,200,OK,Seller 1-17,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,3360,0,1470
+1695969017951,759,Login,201,Created,Seller 1-14,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,758,0,58
+1695969017625,1384,Login,201,Created,Seller 1-18,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1384,0,434
+1695969017739,1391,Login,201,Created,Seller 1-1,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1391,0,441
+1695969016450,2769,Get product ID,200,OK,Seller 1-10,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,2769,0,1149
+1695969017647,1596,Get product ID,200,OK,Seller 1-11,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,1596,0,42
+1695969017899,1550,Login,201,Created,Seller 1-9,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1549,0,465
+1695969018099,1388,Sell product,400,Bad Request,Seller 1-4,text,false,,319,17744,20,40,https://market-final-project.binaracademy.org/seller/product,1387,0,50
+1695969018179,1328,Sell product,400,Bad Request,Seller 1-6,text,false,,319,17708,20,40,https://market-final-project.binaracademy.org/seller/product,1328,0,51
+1695969018261,1255,Sell product,400,Bad Request,Seller 1-5,text,false,,319,17735,20,40,https://market-final-project.binaracademy.org/seller/product,1255,0,38
+1695969016658,2941,Get product ID,200,OK,Seller 1-19,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,2941,0,449
+1695969015269,4710,Get product,200,OK,Seller 1-20,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,4710,0,2468
+1695969011419,9180,Sell product,400,Bad Request,Seller 1-12,text,false,,319,17690,20,40,https://market-final-project.binaracademy.org/seller/product,9179,0,6150
+1695969019219,1450,Login,201,Created,Seller 1-10,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1450,0,44
+1695969017973,2709,Get product ID,200,OK,Seller 1-8,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,2709,0,54
+1695969018519,2164,Sell product,400,Bad Request,Seller 1-13,text,false,,319,17726,20,40,https://market-final-project.binaracademy.org/seller/product,2163,0,71
+1695969018608,2077,Sell product,400,Bad Request,Seller 1-16,text,false,,319,17744,20,40,https://market-final-project.binaracademy.org/seller/product,2076,0,54
+1695969018711,1999,Sell product,400,Bad Request,Seller 1-14,text,false,,319,17717,20,40,https://market-final-project.binaracademy.org/seller/product,1999,0,49
+1695969019599,1721,Login,201,Created,Seller 1-19,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1721,0,50
+1695969019009,2601,Sell product,400,Bad Request,Seller 1-18,text,false,,319,17699,20,40,https://market-final-project.binaracademy.org/seller/product,2601,0,50
+1695969017485,4154,Login,201,Created,Seller 1-2,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,4153,0,2101
+1695969018709,3102,Get product ID,200,OK,Seller 1-17,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,3101,0,51
+1695969019244,2765,Login,201,Created,Seller 1-11,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,2765,0,1095
+1695969019449,2679,Sell product,400,Bad Request,Seller 1-9,text,false,,319,17726,20,40,https://market-final-project.binaracademy.org/seller/product,2679,0,50
+1695969018530,3939,Get product ID,200,OK,Seller 1-15,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,3939,0,459
+1695969019487,3012,Get product,200,OK,Seller 1-4,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,3012,0,44
+1695969019508,3110,Get product,200,OK,Seller 1-6,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,3110,0,44
+1695969019516,3126,Get product,200,OK,Seller 1-5,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,3126,0,44
+1695969020683,2016,Login,201,Created,Seller 1-8,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,2016,0,456
+1695969020669,2107,Sell product,400,Bad Request,Seller 1-10,text,false,,319,17663,20,40,https://market-final-project.binaracademy.org/seller/product,2106,0,56
+1695969020685,2152,Get product,200,OK,Seller 1-16,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,2151,0,52
+1695969021811,1141,Login,201,Created,Seller 1-17,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1140,0,41
+1695969020710,2259,Get product,200,OK,Seller 1-14,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,2259,0,45
+1695969021321,1948,Sell product,400,Bad Request,Seller 1-19,text,false,,319,17726,20,40,https://market-final-project.binaracademy.org/seller/product,1947,0,48
+1695969021639,1769,Sell product,400,Bad Request,Seller 1-2,text,false,,319,17681,20,40,https://market-final-project.binaracademy.org/seller/product,1769,0,50
+1695969019979,3500,Get product ID,200,OK,Seller 1-20,text,true,,759,363,20,40,https://market-final-project.binaracademy.org/seller/product/92036,3500,0,460
+1695969022469,1010,Login,201,Created,Seller 1-15,text,true,,496,281,20,40,https://market-final-project.binaracademy.org/auth/login,1010,0,50
+1695969020683,2797,Get product,200,OK,Seller 1-13,text,true,,6230,357,20,40,https://market-final-project.binaracademy.org/seller/product,2796,0,457
+1695969019131,4409,Sell product,400,Bad Request,Seller 1-1,text,false,,319,17717,20,40,https://market-final-project.binaracademy.org/seller/product,4408,0,449
+1695969022009,1650,Sell product,400,Bad Request,Seller 1-11,text,false,,319,17726,20,40,https://market-final-project.binaracademy.org/seller/product,1650,0,50
+1695969015319,8600,Get product,200,OK,Seller 1-7,text,true,,6230,357,20,39,https://market-final-project.binaracademy.org/seller/product,8600,0,3475
+1695969023479,800,Login,201,Created,Seller 1-20,text,true,,496,281,20,39,https://market-final-project.binaracademy.org/auth/login,800,0,41
+1695969020599,3729,Get product,200,OK,Seller 1-12,text,true,,6230,357,20,39,https://market-final-project.binaracademy.org/seller/product,3729,0,470
+1695969022776,1639,Get product,200,OK,Seller 1-10,text,true,,6230,357,20,39,https://market-final-project.binaracademy.org/seller/product,1638,0,48
+1695969022700,1719,Sell product,400,Bad Request,Seller 1-8,text,false,,319,17735,20,39,https://market-final-project.binaracademy.org/seller/product,1719,0,48
+1695969022499,1926,Get product ID,200,OK,Seller 1-4,text,true,,759,363,20,39,https://market-final-project.binaracademy.org/seller/product/92036,1926,0,50
+1695969022952,1616,Sell product,400,Bad Request,Seller 1-17,text,false,,319,17663,20,38,https://market-final-project.binaracademy.org/seller/product,1616,0,57
+1695969022642,1991,Get product ID,200,OK,Seller 1-5,text,true,,759,363,20,38,https://market-final-project.binaracademy.org/seller/product/92036,1991,0,47
+1695969023269,1481,Get product,200,OK,Seller 1-19,text,true,,6230,357,20,38,https://market-final-project.binaracademy.org/seller/product,1481,0,40
+1695969023409,1385,Get product,200,OK,Seller 1-2,text,true,,6230,357,20,38,https://market-final-project.binaracademy.org/seller/product,1385,0,52
+1695969022969,1844,Get product ID,200,OK,Seller 1-14,text,true,,759,363,20,38,https://market-final-project.binaracademy.org/seller/product/92036,1843,0,60
+1695969023480,1367,Get product ID,200,OK,Seller 1-13,text,true,,759,363,20,38,https://market-final-project.binaracademy.org/seller/product/92036,1367,0,46
+1695969024426,523,Login,201,Created,Seller 1-4,text,true,,496,281,20,38,https://market-final-project.binaracademy.org/auth/login,522,0,43
+1695969022619,2396,Get product ID,200,OK,Seller 1-6,text,true,,759,363,20,38,https://market-final-project.binaracademy.org/seller/product/92036,2396,0,469
+1695969023660,1361,Get product,200,OK,Seller 1-11,text,true,,6230,357,20,38,https://market-final-project.binaracademy.org/seller/product,1361,0,49
+1695969022837,2217,Get product ID,200,OK,Seller 1-16,text,true,,759,363,20,38,https://market-final-project.binaracademy.org/seller/product/92036,2217,0,460
+1695969024279,1029,Sell product,400,Bad Request,Seller 1-20,text,false,,319,17654,20,38,https://market-final-project.binaracademy.org/seller/product,1029,0,50
+1695969024634,674,Login,201,Created,Seller 1-5,text,true,,496,281,20,38,https://market-final-project.binaracademy.org/auth/login,674,0,44
+1695969023480,2039,Sell product,400,Bad Request,Seller 1-15,text,false,,319,17654,20,38,https://market-final-project.binaracademy.org/seller/product,2039,0,459
+1695969024848,861,Login,201,Created,Seller 1-13,text,true,,496,281,20,38,https://market-final-project.binaracademy.org/auth/login,860,0,52
+1695969024813,970,Login,201,Created,Seller 1-14,text,true,,496,281,20,38,https://market-final-project.binaracademy.org/auth/login,970,0,55
+1695969024420,1371,Get product,200,OK,Seller 1-8,text,true,,6230,357,20,38,https://market-final-project.binaracademy.org/seller/product,1370,0,48
+1695969024569,1225,Get product,200,OK,Seller 1-17,text,true,,6230,357,20,38,https://market-final-project.binaracademy.org/seller/product,1225,0,41
+1695969024329,1545,Get product ID,200,OK,Seller 1-12,text,true,,759,363,20,37,https://market-final-project.binaracademy.org/seller/product/92036,1545,0,50
+1695969023540,2460,Get product,200,OK,Seller 1-1,text,true,,6230,357,20,37,https://market-final-project.binaracademy.org/seller/product,2459,0,1109
+1695969025055,965,Login,201,Created,Seller 1-16,text,true,,496,281,20,37,https://market-final-project.binaracademy.org/auth/login,965,0,46
+1695969025015,1064,Login,201,Created,Seller 1-6,text,true,,496,281,20,37,https://market-final-project.binaracademy.org/auth/login,1064,0,47
+1695969024949,1198,Sell product,400,Bad Request,Seller 1-4,text,false,,319,17699,20,37,https://market-final-project.binaracademy.org/seller/product,1197,0,53
+1695969024751,1449,Get product ID,200,OK,Seller 1-19,text,true,,759,363,20,37,https://market-final-project.binaracademy.org/seller/product/92036,1448,0,57
+1695969022129,4093,Get product,200,OK,Seller 1-9,text,true,,6230,357,20,37,https://market-final-project.binaracademy.org/seller/product,4093,0,1791
+1695969025520,919,Get product,200,OK,Seller 1-15,text,true,,6230,357,20,37,https://market-final-project.binaracademy.org/seller/product,919,0,39
+1695969025309,1170,Sell product,400,Bad Request,Seller 1-5,text,false,,319,17654,20,37,https://market-final-project.binaracademy.org/seller/product,1169,0,50
+1695969024416,2259,Get product ID,200,OK,Seller 1-10,text,true,,759,363,20,36,https://market-final-project.binaracademy.org/seller/product/92036,2259,0,452
+1695969024794,1905,Get product ID,200,OK,Seller 1-2,text,true,,759,363,20,36,https://market-final-project.binaracademy.org/seller/product/92036,1905,0,54
+1695969025022,1709,Get product ID,200,OK,Seller 1-11,text,true,,759,363,20,36,https://market-final-project.binaracademy.org/seller/product/92036,1708,0,40
+1695969025783,1116,Sell product,400,Bad Request,Seller 1-14,text,false,,319,17744,20,34,https://market-final-project.binaracademy.org/seller/product,1115,0,47
+1695969026079,828,Sell product,400,Bad Request,Seller 1-6,text,false,,319,17654,20,34,https://market-final-project.binaracademy.org/seller/product,828,0,50
+1695969026020,887,Sell product,400,Bad Request,Seller 1-16,text,false,,319,17726,20,34,https://market-final-project.binaracademy.org/seller/product,887,0,47
+1695969025795,1124,Get product ID,200,OK,Seller 1-17,text,true,,759,363,20,34,https://market-final-project.binaracademy.org/seller/product/92036,1124,0,45
+1695969025792,1173,Get product ID,200,OK,Seller 1-8,text,true,,759,363,20,34,https://market-final-project.binaracademy.org/seller/product/92036,1173,0,48
+1695969025309,1780,Get product,200,OK,Seller 1-20,text,true,,6230,357,20,34,https://market-final-project.binaracademy.org/seller/product,1780,0,450
+1695969021610,5649,Get product,200,OK,Seller 1-18,text,true,,6230,357,20,33,https://market-final-project.binaracademy.org/seller/product,5649,0,449
+1695969026675,598,Login,201,Created,Seller 1-10,text,true,,496,281,20,33,https://market-final-project.binaracademy.org/auth/login,598,0,41
+1695969026147,1142,Get product,200,OK,Seller 1-4,text,true,,6230,357,20,33,https://market-final-project.binaracademy.org/seller/product,1142,0,53
+1695969026702,657,Login,201,Created,Seller 1-2,text,true,,496,281,20,33,https://market-final-project.binaracademy.org/auth/login,657,0,48
+1695969026001,1358,Get product ID,200,OK,Seller 1-1,text,true,,759,363,20,33,https://market-final-project.binaracademy.org/seller/product/92036,1358,0,48
+1695969026222,1497,Get product ID,200,OK,Seller 1-9,text,true,,759,363,20,33,https://market-final-project.binaracademy.org/seller/product/92036,1497,0,49
+1695969026479,1328,Get product,200,OK,Seller 1-5,text,true,,6230,357,20,33,https://market-final-project.binaracademy.org/seller/product,1328,0,37
+1695969026919,981,Login,201,Created,Seller 1-17,text,true,,496,281,20,33,https://market-final-project.binaracademy.org/auth/login,981,0,40
+1695969026899,1013,Get product,200,OK,Seller 1-14,text,true,,6230,357,20,33,https://market-final-project.binaracademy.org/seller/product,1013,0,44
+1695969015765,12294,Get product,200,OK,Seller 1-3,text,true,,6230,357,20,32,https://market-final-project.binaracademy.org/seller/product,12294,0,3471
+1695969026907,1264,Get product,200,OK,Seller 1-6,text,true,,6230,357,20,32,https://market-final-project.binaracademy.org/seller/product,1264,0,41
+1695969026200,2119,Login,201,Created,Seller 1-19,text,true,,496,281,20,32,https://market-final-project.binaracademy.org/auth/login,2118,0,442
+1695969027360,1009,Login,201,Created,Seller 1-1,text,true,,496,281,20,32,https://market-final-project.binaracademy.org/auth/login,1008,0,40
+1695969026965,1694,Login,201,Created,Seller 1-8,text,true,,496,281,20,32,https://market-final-project.binaracademy.org/auth/login,1693,0,454
+1695969027721,1037,Login,201,Created,Seller 1-9,text,true,,496,281,20,32,https://market-final-project.binaracademy.org/auth/login,1037,0,50
+1695969026908,1931,Get product,200,OK,Seller 1-16,text,true,,6230,357,20,32,https://market-final-project.binaracademy.org/seller/product,1931,0,51
+1695969027274,1617,Sell product,400,Bad Request,Seller 1-10,text,false,,319,17717,20,31,https://market-final-project.binaracademy.org/seller/product,1617,0,51
+1695969027360,1586,Sell product,400,Bad Request,Seller 1-2,text,false,,319,17690,20,31,https://market-final-project.binaracademy.org/seller/product,1586,0,40
+1695969027089,1913,Get product ID,200,OK,Seller 1-20,text,true,,759,363,20,30,https://market-final-project.binaracademy.org/seller/product/92036,1912,0,51
+1695969027901,1120,Sell product,400,Bad Request,Seller 1-17,text,false,,319,17717,20,30,https://market-final-project.binaracademy.org/seller/product,1120,0,48
+1695969027259,1779,Get product ID,200,OK,Seller 1-18,text,true,,759,363,20,30,https://market-final-project.binaracademy.org/seller/product/92036,1779,0,50
+1695969026731,2317,Login,201,Created,Seller 1-11,text,true,,496,281,20,30,https://market-final-project.binaracademy.org/auth/login,2317,0,1136
+1695969027289,1786,Get product ID,200,OK,Seller 1-4,text,true,,759,363,20,30,https://market-final-project.binaracademy.org/seller/product/92036,1786,0,41
+1695969027807,1269,Get product ID,200,OK,Seller 1-5,text,true,,759,363,20,30,https://market-final-project.binaracademy.org/seller/product/92036,1268,0,42
+1695969023919,5380,Get product ID,200,OK,Seller 1-7,text,true,,759,363,20,29,https://market-final-project.binaracademy.org/seller/product/92036,5380,0,1458
+1695969027912,1497,Get product ID,200,OK,Seller 1-14,text,true,,759,363,20,29,https://market-final-project.binaracademy.org/seller/product/92036,1496,0,58
+1695969028369,1214,Sell product,400,Bad Request,Seller 1-1,text,false,,319,17699,20,29,https://market-final-project.binaracademy.org/seller/product,1213,0,49
+1695969028059,1540,Get product ID,200,OK,Seller 1-3,text,true,,759,363,20,29,https://market-final-project.binaracademy.org/seller/product/92036,1540,0,45
+1695969025874,3834,Login,201,Created,Seller 1-12,text,true,,496,281,20,29,https://market-final-project.binaracademy.org/auth/login,3834,0,1451
+1695969026440,3399,Get product ID,200,OK,Seller 1-15,text,true,,759,363,20,29,https://market-final-project.binaracademy.org/seller/product/92036,3399,0,432
+1695969028172,1703,Get product ID,200,OK,Seller 1-6,text,true,,759,363,20,29,https://market-final-project.binaracademy.org/seller/product/92036,1703,0,58
+1695969029039,929,Login,201,Created,Seller 1-18,text,true,,496,281,20,29,https://market-final-project.binaracademy.org/auth/login,929,0,50
+1695969029002,1038,Login,201,Created,Seller 1-20,text,true,,496,281,20,29,https://market-final-project.binaracademy.org/auth/login,1037,0,47
+1695969028659,1384,Sell product,400,Bad Request,Seller 1-8,text,false,,319,17744,20,28,https://market-final-project.binaracademy.org/seller/product,1384,0,50
+1695969028947,1103,Get product,200,OK,Seller 1-2,text,true,,6230,357,20,28,https://market-final-project.binaracademy.org/seller/product,1103,0,56
+1695969029076,1183,Login,201,Created,Seller 1-5,text,true,,496,281,20,27,https://market-final-project.binaracademy.org/auth/login,1183,0,53
+1695969025709,4679,Sell product,400,Bad Request,Seller 1-13,text,false,,319,17726,20,27,https://market-final-project.binaracademy.org/seller/product,4679,0,1470
+1695969029300,1108,Login,201,Created,Seller 1-7,text,true,,496,281,20,27,https://market-final-project.binaracademy.org/auth/login,1108,0,59
+1695969029022,1389,Get product,200,OK,Seller 1-17,text,true,,6230,357,20,27,https://market-final-project.binaracademy.org/seller/product,1388,0,49
+1695969028839,1590,Get product ID,200,OK,Seller 1-16,text,true,,759,363,20,27,https://market-final-project.binaracademy.org/seller/product/92036,1590,0,53
+1695969029075,1463,Login,201,Created,Seller 1-4,text,true,,496,281,20,26,https://market-final-project.binaracademy.org/auth/login,1463,0,449
+1695969029839,830,Login,201,Created,Seller 1-15,text,true,,496,281,20,26,https://market-final-project.binaracademy.org/auth/login,829,0,50
+1695969029600,1148,Login,201,Created,Seller 1-3,text,true,,496,281,20,26,https://market-final-project.binaracademy.org/auth/login,1148,0,41
+1695969029048,1780,Sell product,400,Bad Request,Seller 1-11,text,false,,319,17681,20,26,https://market-final-project.binaracademy.org/seller/product,1780,0,53
+1695969030044,1074,Get product,200,OK,Seller 1-8,text,true,,6230,357,20,25,https://market-final-project.binaracademy.org/seller/product,1074,0,45
+1695969030050,1317,Get product ID,200,OK,Seller 1-2,text,true,,759,363,20,22,https://market-final-project.binaracademy.org/seller/product/92036,1316,0,49
+1695969030429,938,Login,201,Created,Seller 1-16,text,true,,496,281,20,22,https://market-final-project.binaracademy.org/auth/login,937,0,40
+1695969028319,3269,Sell product,400,Bad Request,Seller 1-19,text,false,,319,17699,20,22,https://market-final-project.binaracademy.org/seller/product,3269,0,1460
+1695969030539,1158,Sell product,400,Bad Request,Seller 1-4,text,false,,319,17726,20,22,https://market-final-project.binaracademy.org/seller/product,1158,0,40
+1695969030408,1289,Sell product,400,Bad Request,Seller 1-7,text,false,,319,17663,20,22,https://market-final-project.binaracademy.org/seller/product,1289,0,42
+1695969030389,1320,Get product,200,OK,Seller 1-13,text,true,,6230,357,20,22,https://market-final-project.binaracademy.org/seller/product,1320,0,42
+1695969029409,2741,Login,201,Created,Seller 1-14,text,true,,496,281,20,22,https://market-final-project.binaracademy.org/auth/login,2741,0,450
+1695969028759,3700,Sell product,400,Bad Request,Seller 1-9,text,false,,319,17744,20,22,https://market-final-project.binaracademy.org/seller/product,3699,0,1480
+1695969029876,2713,Login,201,Created,Seller 1-6,text,true,,496,281,20,22,https://market-final-project.binaracademy.org/auth/login,2712,0,463
+1695969030411,2277,Get product ID,200,OK,Seller 1-17,text,true,,759,363,20,22,https://market-final-project.binaracademy.org/seller/product/92036,2277,0,58
+1695969030748,2000,Sell product,400,Bad Request,Seller 1-3,text,false,,319,17735,20,22,https://market-final-project.binaracademy.org/seller/product,2000,0,51
+1695969029708,3190,Sell product,400,Bad Request,Seller 1-12,text,false,,319,17654,20,22,https://market-final-project.binaracademy.org/seller/product,3190,0,1091
+1695969029583,3375,Get product,200,OK,Seller 1-1,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,3375,0,1086
+1695969030829,2140,Get product,200,OK,Seller 1-11,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,2140,0,50
+1695969030669,2330,Sell product,400,Bad Request,Seller 1-15,text,false,,319,17663,20,21,https://market-final-project.binaracademy.org/seller/product,2329,0,460
+1695969030040,3129,Sell product,400,Bad Request,Seller 1-20,text,false,,319,17726,20,21,https://market-final-project.binaracademy.org/seller/product,3128,0,459
+1695969032151,1040,Sell product,400,Bad Request,Seller 1-14,text,false,,319,17726,20,21,https://market-final-project.binaracademy.org/seller/product,1040,0,58
+1695969030259,2970,Sell product,400,Bad Request,Seller 1-5,text,false,,319,17708,20,21,https://market-final-project.binaracademy.org/seller/product,2970,0,1120
+1695969031589,1820,Get product,200,OK,Seller 1-19,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1820,0,50
+1695969031697,1721,Get product,200,OK,Seller 1-4,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1721,0,52
+1695969028891,4530,Get product,200,OK,Seller 1-10,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,4530,0,2476
+1695969032459,1490,Get product,200,OK,Seller 1-9,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1490,0,50
+1695969032898,1171,Get product,200,OK,Seller 1-12,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1171,0,43
+1695969032969,1151,Get product ID,200,OK,Seller 1-11,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,1150,0,51
+1695969032959,1349,Get product ID,200,OK,Seller 1-1,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,1349,0,40
+1695969032999,1614,Get product,200,OK,Seller 1-15,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1614,0,50
+1695969033229,1400,Get product,200,OK,Seller 1-5,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1399,0,40
+1695969033192,1541,Get product,200,OK,Seller 1-14,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1541,0,45
+1695969033169,1570,Get product,200,OK,Seller 1-20,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1570,0,46
+1695969031697,3062,Get product,200,OK,Seller 1-7,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,3061,0,454
+1695969033418,1506,Get product ID,200,OK,Seller 1-4,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,1506,0,50
+1695969033410,1515,Get product ID,200,OK,Seller 1-19,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,1514,0,48
+1695969033421,1509,Get product ID,200,OK,Seller 1-10,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,1509,0,47
+1695969033950,980,Get product ID,200,OK,Seller 1-9,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,980,0,49
+1695969032749,2184,Get product,200,OK,Seller 1-3,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,2183,0,460
+1695969034069,882,Get product ID,200,OK,Seller 1-12,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,881,0,51
+1695969034120,1019,Login,201,Created,Seller 1-11,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,1019,0,460
+1695969034925,323,Login,201,Created,Seller 1-19,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,323,0,51
+1695969034951,377,Login,201,Created,Seller 1-12,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,377,0,43
+1695969034931,477,Login,201,Created,Seller 1-9,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,477,0,45
+1695969031710,3738,Get product ID,200,OK,Seller 1-13,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,3738,0,459
+1695969034925,563,Login,201,Created,Seller 1-4,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,563,0,50
+1695969031367,4191,Sell product,400,Bad Request,Seller 1-16,text,false,,319,17699,20,21,https://market-final-project.binaracademy.org/seller/product,4191,0,1472
+1695969034931,627,Login,201,Created,Seller 1-10,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,627,0,58
+1695969031368,4301,Login,201,Created,Seller 1-2,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,4300,0,1862
+1695969034739,961,Get product ID,200,OK,Seller 1-20,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,961,0,48
+1695969034733,968,Get product ID,200,OK,Seller 1-14,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,968,0,54
+1695969034933,788,Get product ID,200,OK,Seller 1-3,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,787,0,42
+1695969032590,3170,Sell product,400,Bad Request,Seller 1-6,text,false,,319,17663,20,21,https://market-final-project.binaracademy.org/seller/product,3170,0,1799
+1695969035449,539,Login,201,Created,Seller 1-13,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,539,0,40
+1695969032689,3419,Login,201,Created,Seller 1-17,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,3419,0,2450
+1695969035701,657,Login,201,Created,Seller 1-14,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,657,0,58
+1695969035140,1218,Sell product,400,Bad Request,Seller 1-11,text,false,,319,17681,20,21,https://market-final-project.binaracademy.org/seller/product,1218,0,49
+1695969035721,718,Login,201,Created,Seller 1-3,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,718,0,51
+1695969035700,818,Login,201,Created,Seller 1-20,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,818,0,39
+1695969034629,2010,Get product ID,200,OK,Seller 1-5,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,2009,0,450
+1695969035249,1436,Sell product,400,Bad Request,Seller 1-19,text,false,,319,17672,20,21,https://market-final-project.binaracademy.org/seller/product,1436,0,50
+1695969035329,1369,Sell product,400,Bad Request,Seller 1-12,text,false,,319,17681,20,21,https://market-final-project.binaracademy.org/seller/product,1369,0,49
+1695969034309,2661,Login,201,Created,Seller 1-1,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,2661,0,1480
+1695969035488,1803,Sell product,400,Bad Request,Seller 1-4,text,false,,319,17681,20,21,https://market-final-project.binaracademy.org/seller/product,1803,0,51
+1695969035559,1749,Get product,200,OK,Seller 1-16,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1749,0,50
+1695969035559,1749,Sell product,400,Bad Request,Seller 1-10,text,false,,319,17690,20,21,https://market-final-project.binaracademy.org/seller/product,1749,0,50
+1695969035989,1362,Sell product,400,Bad Request,Seller 1-13,text,false,,319,17654,20,21,https://market-final-project.binaracademy.org/seller/product,1361,0,50
+1695969035669,1683,Sell product,400,Bad Request,Seller 1-2,text,false,,319,17663,20,21,https://market-final-project.binaracademy.org/seller/product,1683,0,52
+1695969035760,1609,Get product,200,OK,Seller 1-6,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1609,0,49
+1695969034759,2799,Get product ID,200,OK,Seller 1-7,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,2799,0,450
+1695969036639,980,Login,201,Created,Seller 1-5,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,980,0,47
+1695969036685,1167,Get product,200,OK,Seller 1-19,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1167,0,54
+1695969036358,1510,Sell product,400,Bad Request,Seller 1-14,text,false,,319,17699,20,21,https://market-final-project.binaracademy.org/seller/product,1510,0,51
+1695969036440,1429,Sell product,400,Bad Request,Seller 1-3,text,false,,319,17744,20,21,https://market-final-project.binaracademy.org/seller/product,1428,0,49
+1695969037308,698,Get product,200,OK,Seller 1-10,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,698,0,44
+1695969037292,736,Get product,200,OK,Seller 1-4,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,736,0,48
+1695969035408,2810,Sell product,400,Bad Request,Seller 1-9,text,false,,319,17744,20,21,https://market-final-project.binaracademy.org/seller/product,2810,0,1471
+1695969037351,892,Get product,200,OK,Seller 1-13,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,891,0,56
+1695969037308,950,Get product ID,200,OK,Seller 1-16,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,950,0,44
+1695969037353,905,Get product,200,OK,Seller 1-2,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,905,0,54
+1695969029968,8315,Sell product,400,Bad Request,Seller 1-18,text,false,,319,17717,20,21,https://market-final-project.binaracademy.org/seller/product,8315,0,1139
+1695969034614,4254,Get product ID,200,OK,Seller 1-15,text,true,,759,363,20,21,https://market-final-project.binaracademy.org/seller/product/92036,4254,0,1455
+1695969038258,960,Login,201,Created,Seller 1-16,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,960,0,41
+1695969037559,1659,Login,201,Created,Seller 1-7,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,1659,0,470
+1695969037619,1600,Sell product,400,Bad Request,Seller 1-5,text,false,,319,17699,20,21,https://market-final-project.binaracademy.org/seller/product,1599,0,50
+1695969036109,3310,Sell product,400,Bad Request,Seller 1-17,text,false,,319,17708,20,21,https://market-final-project.binaracademy.org/seller/product,3310,0,1450
+1695969037868,1574,Get product,200,OK,Seller 1-14,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1574,0,39
+1695969037869,1587,Get product,200,OK,Seller 1-3,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1587,0,50
+1695969036359,3266,Get product,200,OK,Seller 1-11,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,3266,0,1450
+1695969038869,916,Login,201,Created,Seller 1-15,text,true,,496,281,20,21,https://market-final-project.binaracademy.org/auth/login,915,0,50
+1695969038283,1505,Get product,200,OK,Seller 1-18,text,true,,6230,357,20,21,https://market-final-project.binaracademy.org/seller/product,1505,0,55
+1695969038028,1946,Get product ID,200,OK,Seller 1-4,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1945,0,61
+1695969037852,2122,Get product ID,200,OK,Seller 1-19,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2122,0,55
+1695969038243,1745,Get product ID,200,OK,Seller 1-13,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1745,0,41
+1695969036971,3017,Sell product,400,Bad Request,Seller 1-1,text,false,,319,17681,20,20,https://market-final-project.binaracademy.org/seller/product,3017,0,1118
+1695969039219,959,Get product,200,OK,Seller 1-5,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,959,0,40
+1695969037369,2834,Get product ID,200,OK,Seller 1-6,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2834,0,440
+1695969039219,1010,Sell product,400,Bad Request,Seller 1-16,text,false,,319,17744,20,20,https://market-final-project.binaracademy.org/seller/product,1009,0,40
+1695969039219,1029,Sell product,400,Bad Request,Seller 1-7,text,false,,319,17735,20,20,https://market-final-project.binaracademy.org/seller/product,1029,0,50
+1695969038218,2162,Get product,200,OK,Seller 1-9,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2161,0,450
+1695969038259,2169,Get product ID,200,OK,Seller 1-2,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2169,0,440
+1695969036698,3863,Get product,200,OK,Seller 1-12,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,3863,0,1461
+1695969039983,615,Login,201,Created,Seller 1-4,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,615,0,42
+1695969040204,460,Login,201,Created,Seller 1-6,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,460,0,45
+1695969039420,1248,Get product,200,OK,Seller 1-17,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1248,0,69
+1695969039983,915,Login,201,Created,Seller 1-19,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,915,0,43
+1695969039989,1387,Get product,200,OK,Seller 1-1,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1387,0,50
+1695969039785,1603,Sell product,400,Bad Request,Seller 1-15,text,false,,319,17708,20,20,https://market-final-project.binaracademy.org/seller/product,1603,0,50
+1695969039789,1620,Get product ID,200,OK,Seller 1-18,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1620,0,46
+1695969039456,1953,Get product ID,200,OK,Seller 1-3,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1953,0,66
+1695969039625,1822,Get product ID,200,OK,Seller 1-11,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1822,0,54
+1695969040427,1152,Login,201,Created,Seller 1-2,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1152,0,111
+1695969040249,1352,Get product,200,OK,Seller 1-7,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1352,0,50
+1695969040379,1300,Get product ID,200,OK,Seller 1-9,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1300,0,49
+1695969040179,1501,Get product ID,200,OK,Seller 1-5,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1501,0,51
+1695969038006,3677,Get product ID,200,OK,Seller 1-10,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,3677,0,1843
+1695969039443,2355,Get product ID,200,OK,Seller 1-14,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2355,0,441
+1695969040663,1179,Sell product,400,Bad Request,Seller 1-6,text,false,,319,17708,20,20,https://market-final-project.binaracademy.org/seller/product,1179,0,55
+1695969040598,1244,Sell product,400,Bad Request,Seller 1-4,text,false,,319,17735,20,20,https://market-final-project.binaracademy.org/seller/product,1244,0,49
+1695969041408,512,Login,201,Created,Seller 1-3,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,512,0,63
+1695969041408,608,Login,201,Created,Seller 1-18,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,608,0,84
+1695969036519,5523,Sell product,400,Bad Request,Seller 1-20,text,false,,319,17726,20,20,https://market-final-project.binaracademy.org/seller/product,5523,0,1131
+1695969040898,1167,Sell product,400,Bad Request,Seller 1-19,text,false,,319,17681,20,20,https://market-final-project.binaracademy.org/seller/product,1167,0,49
+1695969041446,620,Login,201,Created,Seller 1-11,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,619,0,61
+1695969041388,690,Get product,200,OK,Seller 1-15,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,689,0,61
+1695969040560,1577,Get product ID,200,OK,Seller 1-12,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1577,0,39
+1695969040229,2229,Get product,200,OK,Seller 1-16,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2229,0,449
+1695969041376,1221,Get product ID,200,OK,Seller 1-1,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1221,0,71
+1695969041679,918,Login,201,Created,Seller 1-5,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,918,0,51
+1695969041601,1046,Get product ID,200,OK,Seller 1-7,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1046,0,81
+1695969042137,780,Login,201,Created,Seller 1-12,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,780,0,51
+1695969041683,1354,Login,201,Created,Seller 1-10,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1354,0,455
+1695969041798,1399,Login,201,Created,Seller 1-14,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1399,0,470
+1695969042030,1178,Sell product,400,Bad Request,Seller 1-18,text,false,,319,17663,20,20,https://market-final-project.binaracademy.org/seller/product,1178,0,48
+1695969042597,611,Login,201,Created,Seller 1-1,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,611,0,51
+1695969039988,3221,Login,201,Created,Seller 1-13,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,3221,0,1160
+1695969042041,1176,Get product,200,OK,Seller 1-20,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1176,0,51
+1695969042066,1160,Get product,200,OK,Seller 1-19,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1159,0,52
+1695969041843,1387,Get product,200,OK,Seller 1-4,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1387,0,77
+1695969042078,1202,Get product ID,200,OK,Seller 1-15,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1202,0,52
+1695969042458,850,Get product ID,200,OK,Seller 1-16,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,850,0,50
+1695969041843,1765,Get product,200,OK,Seller 1-6,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1764,0,77
+1695969043049,618,Sell product,400,Bad Request,Seller 1-10,text,false,,319,17663,20,20,https://market-final-project.binaracademy.org/seller/product,618,0,40
+1695969042918,749,Sell product,400,Bad Request,Seller 1-12,text,false,,319,17690,20,20,https://market-final-project.binaracademy.org/seller/product,749,0,49
+1695969041679,1988,Login,201,Created,Seller 1-9,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1988,0,1129
+1695969043280,607,Login,201,Created,Seller 1-15,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,607,0,58
+1695969042066,1821,Sell product,400,Bad Request,Seller 1-11,text,false,,319,17717,20,20,https://market-final-project.binaracademy.org/seller/product,1821,0,462
+1695969040668,3291,Get product ID,200,OK,Seller 1-17,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,3290,0,460
+1695969042647,1390,Login,201,Created,Seller 1-7,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1390,0,442
+1695969043208,889,Sell product,400,Bad Request,Seller 1-13,text,false,,319,17681,20,20,https://market-final-project.binaracademy.org/seller/product,889,0,54
+1695969043197,931,Sell product,400,Bad Request,Seller 1-14,text,false,,319,17654,20,20,https://market-final-project.binaracademy.org/seller/product,930,0,57
+1695969043208,940,Sell product,400,Bad Request,Seller 1-1,text,false,,319,17672,20,20,https://market-final-project.binaracademy.org/seller/product,939,0,46
+1695969043959,494,Login,201,Created,Seller 1-17,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,493,0,49
+1695969031119,13560,Get product ID,200,OK,Seller 1-8,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,13560,0,1470
+1695969043208,2208,Get product,200,OK,Seller 1-18,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2208,0,54
+1695969043668,1759,Sell product,400,Bad Request,Seller 1-9,text,false,,319,17717,20,20,https://market-final-project.binaracademy.org/seller/product,1759,0,50
+1695969043217,2600,Get product ID,200,OK,Seller 1-20,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2600,0,54
+1695969043226,2592,Get product ID,200,OK,Seller 1-19,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2591,0,45
+1695969043667,2163,Get product,200,OK,Seller 1-12,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2163,0,50
+1695969044098,1741,Get product,200,OK,Seller 1-13,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1740,0,50
+1695969043887,1960,Sell product,400,Bad Request,Seller 1-15,text,false,,319,17726,20,20,https://market-final-project.binaracademy.org/seller/product,1960,0,52
+1695969043887,1974,Get product,200,OK,Seller 1-11,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1974,0,38
+1695969043608,2270,Get product ID,200,OK,Seller 1-6,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2270,0,49
+1695969044679,1378,Login,201,Created,Seller 1-8,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1378,0,49
+1695969041920,4138,Sell product,400,Bad Request,Seller 1-3,text,false,,319,17690,20,20,https://market-final-project.binaracademy.org/seller/product,4137,0,1447
+1695969044148,2006,Get product,200,OK,Seller 1-1,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2005,0,49
+1695969043308,3020,Login,201,Created,Seller 1-16,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,3020,0,1079
+1695969043667,2675,Get product,200,OK,Seller 1-10,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2675,0,461
+1695969045879,531,Login,201,Created,Seller 1-6,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,531,0,49
+1695969043230,3200,Get product ID,200,OK,Seller 1-4,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,3199,0,448
+1695969045819,661,Login,201,Created,Seller 1-19,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,661,0,41
+1695969045428,1068,Get product,200,OK,Seller 1-9,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1068,0,51
+1695969044129,2479,Get product,200,OK,Seller 1-14,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2478,0,439
+1695969044453,2237,Sell product,400,Bad Request,Seller 1-17,text,false,,319,17708,20,20,https://market-final-project.binaracademy.org/seller/product,2237,0,445
+1695969042598,4165,Sell product,400,Bad Request,Seller 1-5,text,false,,319,17681,20,20,https://market-final-project.binaracademy.org/seller/product,4165,0,460
+1695969045418,1541,Get product ID,200,OK,Seller 1-18,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1541,0,46
+1695969045841,1118,Get product ID,200,OK,Seller 1-13,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1118,0,39
+1695969045849,1133,Get product,200,OK,Seller 1-15,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1133,0,49
+1695969046431,852,Login,201,Created,Seller 1-4,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,852,0,119
+1695969046410,975,Sell product,400,Bad Request,Seller 1-6,text,false,,319,17699,20,20,https://market-final-project.binaracademy.org/seller/product,975,0,99
+1695969046959,531,Login,201,Created,Seller 1-18,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,531,0,66
+1695969046330,1185,Sell product,400,Bad Request,Seller 1-16,text,false,,319,17744,20,20,https://market-final-project.binaracademy.org/seller/product,1185,0,80
+1695969046959,641,Login,201,Created,Seller 1-13,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,641,0,65
+1695969046059,1544,Get product,200,OK,Seller 1-3,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1544,0,57
+1695969046692,983,Get product,200,OK,Seller 1-17,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,982,0,72
+1695969046480,1199,Sell product,400,Bad Request,Seller 1-19,text,false,,319,17690,20,20,https://market-final-project.binaracademy.org/seller/product,1199,0,90
+1695969046155,1649,Get product ID,200,OK,Seller 1-1,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1648,0,86
+1695969041579,6246,Sell product,400,Bad Request,Seller 1-2,text,false,,319,17708,20,20,https://market-final-project.binaracademy.org/seller/product,6246,0,3218
+1695969046497,1452,Get product ID,200,OK,Seller 1-9,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1452,0,73
+1695969046982,1126,Get product ID,200,OK,Seller 1-15,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1126,0,78
+1695969046344,1804,Get product ID,200,OK,Seller 1-10,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1804,0,475
+1695969046616,1692,Get product ID,200,OK,Seller 1-14,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1692,0,475
+1695969047283,1203,Sell product,400,Bad Request,Seller 1-4,text,false,,319,17726,20,20,https://market-final-project.binaracademy.org/seller/product,1203,0,73
+1695969047491,1007,Sell product,400,Bad Request,Seller 1-18,text,false,,319,17654,20,20,https://market-final-project.binaracademy.org/seller/product,1007,0,97
+1695969047804,884,Login,201,Created,Seller 1-1,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,883,0,99
+1695969048108,660,Login,201,Created,Seller 1-15,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,660,0,50
+1695969045863,2935,Get product ID,200,OK,Seller 1-11,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2935,0,1493
+1695969047949,895,Login,201,Created,Seller 1-9,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,894,0,49
+1695969047604,1240,Get product ID,200,OK,Seller 1-3,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1240,0,144
+1695969047600,1244,Sell product,400,Bad Request,Seller 1-13,text,false,,319,17663,20,20,https://market-final-project.binaracademy.org/seller/product,1243,0,148
+1695969048308,631,Login,201,Created,Seller 1-14,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,630,0,50
+1695969047675,1393,Get product ID,200,OK,Seller 1-17,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1393,0,76
+1695969046764,2304,Get product,200,OK,Seller 1-5,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2304,0,489
+1695969045832,3296,Get product ID,200,OK,Seller 1-12,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,3296,0,435
+1695969047515,1753,Get product,200,OK,Seller 1-16,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1753,0,505
+1695969047826,1653,Get product,200,OK,Seller 1-2,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1652,0,77
+1695969047679,2094,Get product,200,OK,Seller 1-19,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2093,0,480
+1695969048688,1182,Sell product,400,Bad Request,Seller 1-1,text,false,,319,17690,20,20,https://market-final-project.binaracademy.org/seller/product,1182,0,51
+1695969048487,1385,Get product,200,OK,Seller 1-4,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1385,0,52
+1695969048499,1389,Get product,200,OK,Seller 1-18,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1389,0,40
+1695969045819,4109,Login,201,Created,Seller 1-20,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,4109,0,448
+1695969048844,1195,Login,201,Created,Seller 1-3,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1194,0,39
+1695969048155,1914,Login,201,Created,Seller 1-10,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1914,0,438
+1695969049128,991,Login,201,Created,Seller 1-12,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,990,0,50
+1695969048798,1590,Login,201,Created,Seller 1-11,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1590,0,440
+1695969048844,1604,Sell product,400,Bad Request,Seller 1-9,text,false,,319,17717,20,20,https://market-final-project.binaracademy.org/seller/product,1604,0,56
+1695969048939,1510,Sell product,400,Bad Request,Seller 1-14,text,false,,319,17699,20,20,https://market-final-project.binaracademy.org/seller/product,1509,0,50
+1695969047386,3248,Get product,200,OK,Seller 1-6,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,3248,0,1428
+1695969046059,4580,Sell product,400,Bad Request,Seller 1-8,text,false,,319,17708,20,20,https://market-final-project.binaracademy.org/seller/product,4580,0,3207
+1695969048844,1804,Get product,200,OK,Seller 1-13,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1804,0,435
+1695969049479,1289,Get product ID,200,OK,Seller 1-2,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1289,0,40
+1695969048769,2109,Sell product,400,Bad Request,Seller 1-15,text,false,,319,17663,20,20,https://market-final-project.binaracademy.org/seller/product,2109,0,440
+1695969050069,831,Sell product,400,Bad Request,Seller 1-10,text,false,,319,17654,20,20,https://market-final-project.binaracademy.org/seller/product,830,0,51
+1695969049773,1127,Get product ID,200,OK,Seller 1-19,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1126,0,56
+1695969049929,1077,Sell product,400,Bad Request,Seller 1-20,text,false,,319,17654,20,20,https://market-final-project.binaracademy.org/seller/product,1076,0,59
+1695969050039,967,Sell product,400,Bad Request,Seller 1-3,text,false,,319,17699,20,20,https://market-final-project.binaracademy.org/seller/product,967,0,59
+1695969050119,892,Sell product,400,Bad Request,Seller 1-12,text,false,,319,17663,20,20,https://market-final-project.binaracademy.org/seller/product,892,0,62
+1695969049269,1989,Get product ID,200,OK,Seller 1-16,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1989,0,461
+1695969049069,2360,Login,201,Created,Seller 1-17,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,2360,0,1450
+1695969049872,1674,Get product ID,200,OK,Seller 1-4,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1674,0,56
+1695969049889,1657,Get product ID,200,OK,Seller 1-18,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1657,0,64
+1695969050639,920,Get product,200,OK,Seller 1-8,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,919,0,54
+1695969044037,7560,Sell product,400,Bad Request,Seller 1-7,text,false,,319,17699,20,20,https://market-final-project.binaracademy.org/seller/product,7560,0,2162
+1695969050768,1090,Login,201,Created,Seller 1-2,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1090,0,51
+1695969050634,1275,Get product ID,200,OK,Seller 1-6,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1274,0,59
+1695969051258,1045,Login,201,Created,Seller 1-16,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1045,0,50
+1695969051546,1102,Login,201,Created,Seller 1-18,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1102,0,42
+1695969051006,1832,Get product,200,OK,Seller 1-3,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1832,0,44
+1695969050878,2189,Get product,200,OK,Seller 1-15,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2189,0,50
+1695969050900,2180,Get product,200,OK,Seller 1-10,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2180,0,46
+1695969049870,3299,Get product,200,OK,Seller 1-1,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,3298,0,442
+1695969051011,2200,Get product,200,OK,Seller 1-12,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2200,0,57
+1695969051430,1785,Sell product,400,Bad Request,Seller 1-17,text,false,,319,17726,20,20,https://market-final-project.binaracademy.org/seller/product,1785,0,58
+1695969050449,2817,Get product,200,OK,Seller 1-9,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2817,0,479
+1695969050388,2882,Sell product,400,Bad Request,Seller 1-11,text,false,,319,17654,20,20,https://market-final-project.binaracademy.org/seller/product,2882,0,461
+1695969051006,2488,Get product,200,OK,Seller 1-20,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2488,0,44
+1695969051909,1599,Login,201,Created,Seller 1-6,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1599,0,460
+1695969051858,1710,Sell product,400,Bad Request,Seller 1-2,text,false,,319,17717,20,20,https://market-final-project.binaracademy.org/seller/product,1710,0,52
+1695969052303,1265,Sell product,400,Bad Request,Seller 1-16,text,false,,319,17663,20,20,https://market-final-project.binaracademy.org/seller/product,1265,0,45
+1695969051559,2112,Get product ID,200,OK,Seller 1-8,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2111,0,39
+1695969050449,3250,Get product,200,OK,Seller 1-14,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,3250,0,1139
+1695969051546,2302,Login,201,Created,Seller 1-4,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,2302,0,1463
+1695969049069,4779,Get product ID,200,OK,Seller 1-5,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,4779,0,2510
+1695969050648,3226,Get product ID,200,OK,Seller 1-13,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,3226,0,450
+1695969050900,3179,Login,201,Created,Seller 1-19,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,3179,0,2479
+1695969052648,1780,Sell product,400,Bad Request,Seller 1-18,text,false,,319,17735,20,20,https://market-final-project.binaracademy.org/seller/product,1780,0,50
+1695969052839,1710,Get product ID,200,OK,Seller 1-3,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1710,0,52
+1695969053671,953,Login,201,Created,Seller 1-8,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,953,0,58
+1695969053216,1422,Get product,200,OK,Seller 1-17,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1422,0,58
+1695969053848,871,Login,201,Created,Seller 1-5,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,871,0,50
+1695969053875,923,Login,201,Created,Seller 1-13,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,923,0,42
+1695969053067,1737,Get product ID,200,OK,Seller 1-15,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1737,0,51
+1695969053271,1548,Get product,200,OK,Seller 1-11,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1547,0,59
+1695969053169,1701,Get product ID,200,OK,Seller 1-1,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1700,0,48
+1695969053212,1718,Get product ID,200,OK,Seller 1-12,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1717,0,59
+1695969053267,1685,Get product ID,200,OK,Seller 1-9,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1685,0,42
+1695969053569,1424,Get product,200,OK,Seller 1-16,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1424,0,50
+1695969053848,1154,Sell product,400,Bad Request,Seller 1-4,text,false,,319,17726,20,20,https://market-final-project.binaracademy.org/seller/product,1153,0,50
+1695969053494,1524,Get product ID,200,OK,Seller 1-20,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1524,0,58
+1695969053700,1439,Get product ID,200,OK,Seller 1-14,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1439,0,50
+1695969054549,590,Login,201,Created,Seller 1-3,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,590,0,49
+1695969051598,3647,Get product,200,OK,Seller 1-7,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,3647,0,1697
+1695969054079,1258,Sell product,400,Bad Request,Seller 1-19,text,false,,319,17726,20,20,https://market-final-project.binaracademy.org/seller/product,1258,0,60
+1695969053508,2039,Sell product,400,Bad Request,Seller 1-6,text,false,,319,17744,20,20,https://market-final-project.binaracademy.org/seller/product,2039,0,461
+1695969054870,949,Login,201,Created,Seller 1-1,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,948,0,61
+1695969054953,935,Login,201,Created,Seller 1-9,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,934,0,49
+1695969054625,1283,Sell product,400,Bad Request,Seller 1-8,text,false,,319,17681,20,20,https://market-final-project.binaracademy.org/seller/product,1283,0,53
+1695969054719,1190,Sell product,400,Bad Request,Seller 1-5,text,false,,319,17744,20,20,https://market-final-project.binaracademy.org/seller/product,1189,0,50
+1695969055019,969,Login,201,Created,Seller 1-20,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,969,0,39
+1695969054639,1369,Get product ID,200,OK,Seller 1-17,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1369,0,40
+1695969054819,1220,Get product ID,200,OK,Seller 1-11,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1220,0,52
+1695969055139,1029,Login,201,Created,Seller 1-14,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1029,0,49
+1695969053080,3138,Get product ID,200,OK,Seller 1-10,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,3138,0,1108
+1695969055003,1242,Get product,200,OK,Seller 1-4,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1241,0,55
+1695969054994,1265,Get product ID,200,OK,Seller 1-16,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1264,0,47
+1695969054804,1664,Login,201,Created,Seller 1-15,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1664,0,454
+1695969055338,1525,Get product,200,OK,Seller 1-19,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1525,0,51
+1695969055139,1728,Sell product,400,Bad Request,Seller 1-3,text,false,,319,17699,20,20,https://market-final-project.binaracademy.org/seller/product,1728,0,49
+1695969055546,1332,Get product,200,OK,Seller 1-6,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1331,0,51
+1695969055887,1040,Sell product,400,Bad Request,Seller 1-9,text,false,,319,17744,20,20,https://market-final-project.binaracademy.org/seller/product,1040,0,50
+1695969055818,1109,Sell product,400,Bad Request,Seller 1-1,text,false,,319,17735,20,20,https://market-final-project.binaracademy.org/seller/product,1109,0,49
+1695969056038,1045,Login,201,Created,Seller 1-11,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1045,0,59
+1695969056217,940,Login,201,Created,Seller 1-10,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,940,0,41
+1695969056259,978,Login,201,Created,Seller 1-16,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,978,0,48
+1695969055907,1362,Get product,200,OK,Seller 1-8,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1362,0,47
+1695969055908,1367,Get product,200,OK,Seller 1-5,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1366,0,47
+1695969054429,3360,Get product,200,OK,Seller 1-18,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,3359,0,1459
+1695969055245,2826,Get product ID,200,OK,Seller 1-7,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2826,0,465
+1695969056008,2139,Login,201,Created,Seller 1-17,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,2139,0,475
+1695969054798,3430,Sell product,400,Bad Request,Seller 1-13,text,false,,319,17699,20,20,https://market-final-project.binaracademy.org/seller/product,3430,0,460
+1695969054930,3318,Login,201,Created,Seller 1-12,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,3318,0,1806
+1695969055987,2338,Sell product,400,Bad Request,Seller 1-20,text,false,,319,17717,20,20,https://market-final-project.binaracademy.org/seller/product,2338,0,51
+1695969056168,2157,Sell product,400,Bad Request,Seller 1-14,text,false,,319,17654,20,20,https://market-final-project.binaracademy.org/seller/product,2157,0,50
+1695969056467,1871,Sell product,400,Bad Request,Seller 1-15,text,false,,319,17699,20,20,https://market-final-project.binaracademy.org/seller/product,1870,0,87
+1695969056866,1756,Get product,200,OK,Seller 1-3,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1755,0,45
+1695969056862,1762,Get product ID,200,OK,Seller 1-19,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1762,0,49
+1695969056244,2538,Get product ID,200,OK,Seller 1-4,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2537,0,491
+1695969058071,761,Login,201,Created,Seller 1-7,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,761,0,46
+1695969056927,1912,Get product,200,OK,Seller 1-1,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1912,0,52
+1695969057083,2164,Sell product,400,Bad Request,Seller 1-11,text,false,,319,17699,20,20,https://market-final-project.binaracademy.org/seller/product,2164,0,461
+1695969057238,2132,Sell product,400,Bad Request,Seller 1-16,text,false,,319,17663,20,20,https://market-final-project.binaracademy.org/seller/product,2131,0,49
+1695969057157,2470,Sell product,400,Bad Request,Seller 1-10,text,false,,319,17744,20,20,https://market-final-project.binaracademy.org/seller/product,2469,0,50
+1695969058247,1506,Sell product,400,Bad Request,Seller 1-12,text,false,,319,17699,20,20,https://market-final-project.binaracademy.org/seller/product,1505,0,41
+1695969058147,1620,Sell product,400,Bad Request,Seller 1-17,text,false,,319,17708,20,20,https://market-final-project.binaracademy.org/seller/product,1619,0,61
+1695969058227,1553,Get product,200,OK,Seller 1-13,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1553,0,63
+1695969057275,2572,Get product ID,200,OK,Seller 1-5,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2572,0,40
+1695969058624,1223,Login,201,Created,Seller 1-19,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1223,0,71
+1695969058355,1524,Get product,200,OK,Seller 1-15,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1524,0,61
+1695969057788,2119,Get product ID,200,OK,Seller 1-18,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2119,0,40
+1695969058325,1607,Get product,200,OK,Seller 1-14,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1607,0,64
+1695969058325,1622,Get product,200,OK,Seller 1-20,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1622,0,64
+1695969058782,1305,Login,201,Created,Seller 1-4,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1305,0,60
+1695969057269,2818,Get product ID,200,OK,Seller 1-8,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2818,0,458
+1695969058622,1504,Get product ID,200,OK,Seller 1-3,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1503,0,73
+1695969058832,1294,Sell product,400,Bad Request,Seller 1-7,text,false,,319,17690,20,20,https://market-final-project.binaracademy.org/seller/product,1293,0,48
+1695969059907,557,Login,201,Created,Seller 1-18,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,556,0,71
+1695969059248,1217,Get product,200,OK,Seller 1-11,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1217,0,51
+1695969059753,735,Get product,200,OK,Seller 1-12,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,735,0,54
+1695969059403,1086,Get product,200,OK,Seller 1-16,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1086,0,55
+1695969058865,1624,Get product ID,200,OK,Seller 1-1,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1624,0,62
+1695969059932,1000,Get product ID,200,OK,Seller 1-14,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1000,0,46
+1695969059768,1180,Get product,200,OK,Seller 1-17,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1179,0,39
+1695969059947,1039,Get product ID,200,OK,Seller 1-20,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1039,0,50
+1695969053569,7499,Get product,200,OK,Seller 1-2,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,7499,0,459
+1695969060088,1049,Login,201,Created,Seller 1-8,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1048,0,50
+1695969056878,4309,Get product ID,200,OK,Seller 1-6,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,4309,0,449
+1695969060490,877,Login,201,Created,Seller 1-1,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,877,0,49
+1695969060087,1319,Sell product,400,Bad Request,Seller 1-4,text,false,,319,17708,20,20,https://market-final-project.binaracademy.org/seller/product,1319,0,51
+1695969060932,575,Login,201,Created,Seller 1-14,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,574,0,55
+1695969060464,1043,Sell product,400,Bad Request,Seller 1-18,text,false,,319,17726,20,20,https://market-final-project.binaracademy.org/seller/product,1043,0,83
+1695969060987,600,Login,201,Created,Seller 1-20,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,600,0,50
+1695969059847,1870,Sell product,400,Bad Request,Seller 1-19,text,false,,319,17726,20,20,https://market-final-project.binaracademy.org/seller/product,1870,0,448
+1695969060126,1622,Get product,200,OK,Seller 1-7,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1622,0,56
+1695969061187,640,Login,201,Created,Seller 1-6,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,640,0,50
+1695969060126,2032,Login,201,Created,Seller 1-3,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,2032,0,1092
+1695969061137,1260,Sell product,400,Bad Request,Seller 1-8,text,false,,319,17717,20,20,https://market-final-project.binaracademy.org/seller/product,1260,0,52
+1695969059847,2550,Login,201,Created,Seller 1-5,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,2550,0,461
+1695969060489,1979,Get product ID,200,OK,Seller 1-12,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1979,0,50
+1695969060465,2004,Get product ID,200,OK,Seller 1-11,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2004,0,63
+1695969060948,1521,Get product ID,200,OK,Seller 1-17,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1520,0,49
+1695969061067,1431,Get product ID,200,OK,Seller 1-2,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1430,0,50
+1695969061367,1138,Sell product,400,Bad Request,Seller 1-1,text,false,,319,17726,20,20,https://market-final-project.binaracademy.org/seller/product,1138,0,41
+1695969059781,2805,Get product ID,200,OK,Seller 1-13,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2804,0,466
+1695969059885,2701,Get product ID,200,OK,Seller 1-15,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2700,0,477
+1695969061507,1260,Sell product,400,Bad Request,Seller 1-14,text,false,,319,17744,20,20,https://market-final-project.binaracademy.org/seller/product,1259,0,50
+1695969061587,1339,Sell product,400,Bad Request,Seller 1-20,text,false,,319,17654,20,20,https://market-final-project.binaracademy.org/seller/product,1339,0,50
+1695969062469,523,Login,201,Created,Seller 1-17,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,523,0,49
+1695969061507,1500,Get product,200,OK,Seller 1-18,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1500,0,50
+1695969062498,590,Login,201,Created,Seller 1-2,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,590,0,38
+1695969061828,1260,Sell product,400,Bad Request,Seller 1-6,text,false,,319,17654,20,20,https://market-final-project.binaracademy.org/seller/product,1260,0,70
+1695969062586,1015,Login,201,Created,Seller 1-15,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1014,0,52
+1695969062397,1221,Get product,200,OK,Seller 1-8,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1221,0,108
+1695969062397,1221,Sell product,400,Bad Request,Seller 1-5,text,false,,319,17717,20,20,https://market-final-project.binaracademy.org/seller/product,1221,0,122
+1695969062158,1460,Sell product,400,Bad Request,Seller 1-3,text,false,,319,17708,20,20,https://market-final-project.binaracademy.org/seller/product,1460,0,49
+1695969062506,1352,Get product,200,OK,Seller 1-1,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1352,0,51
+1695969061748,2129,Get product ID,200,OK,Seller 1-7,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2129,0,49
+1695969061412,2506,Get product,200,OK,Seller 1-4,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2506,0,465
+1695969062468,1699,Login,201,Created,Seller 1-12,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1698,0,459
+1695969062767,1470,Get product,200,OK,Seller 1-14,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1470,0,51
+1695969063877,760,Login,201,Created,Seller 1-7,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,760,0,60
+1695969063088,1579,Sell product,400,Bad Request,Seller 1-2,text,false,,319,17681,20,20,https://market-final-project.binaracademy.org/seller/product,1578,0,49
+1695969062993,1674,Sell product,400,Bad Request,Seller 1-17,text,false,,319,17681,20,20,https://market-final-project.binaracademy.org/seller/product,1673,0,54
+1695969062469,2288,Login,201,Created,Seller 1-11,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,2287,0,1132
+1695969063088,1859,Get product,200,OK,Seller 1-6,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1859,0,49
+1695969063601,1357,Sell product,400,Bad Request,Seller 1-15,text,false,,319,17699,20,20,https://market-final-project.binaracademy.org/seller/product,1357,0,146
+1695969063619,1625,Get product,200,OK,Seller 1-5,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1625,0,113
+1695969063859,1399,Get product ID,200,OK,Seller 1-1,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1399,0,44
+1695969063619,1639,Get product ID,200,OK,Seller 1-8,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1639,0,113
+1695969063619,1678,Get product,200,OK,Seller 1-3,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1678,0,518
+1695969061717,3651,Get product,200,OK,Seller 1-19,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,3650,0,1470
+1695969063918,1619,Get product ID,200,OK,Seller 1-4,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1619,0,49
+1695969064637,969,Sell product,400,Bad Request,Seller 1-7,text,false,,319,17708,20,20,https://market-final-project.binaracademy.org/seller/product,969,0,50
+1695969062586,3041,Login,201,Created,Seller 1-13,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,3040,0,483
+1695969065258,428,Login,201,Created,Seller 1-1,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,428,0,61
+1695969065259,508,Login,201,Created,Seller 1-8,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,508,0,60
+1695969064757,1065,Sell product,400,Bad Request,Seller 1-11,text,false,,319,17654,20,20,https://market-final-project.binaracademy.org/seller/product,1064,0,50
+1695969064667,1159,Get product,200,OK,Seller 1-2,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1159,0,50
+1695969064947,890,Get product ID,200,OK,Seller 1-6,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,889,0,50
+1695969064167,1863,Sell product,400,Bad Request,Seller 1-12,text,false,,319,17672,20,20,https://market-final-project.binaracademy.org/seller/product,1863,0,444
+1695969062938,3109,Get product,200,OK,Seller 1-20,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,3109,0,1439
+1695969065538,1047,Login,201,Created,Seller 1-4,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1047,0,49
+1695969060490,6097,Get product ID,200,OK,Seller 1-16,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,6096,0,2487
+1695969065687,995,Sell product,400,Bad Request,Seller 1-1,text,false,,319,17708,20,20,https://market-final-project.binaracademy.org/seller/product,995,0,53
+1695969065627,1086,Sell product,400,Bad Request,Seller 1-13,text,false,,319,17663,20,20,https://market-final-project.binaracademy.org/seller/product,1086,0,47
+1695969064667,2157,Get product,200,OK,Seller 1-17,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,2157,0,450
+1695969065837,998,Login,201,Created,Seller 1-6,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,998,0,50
+1695969065607,1250,Get product,200,OK,Seller 1-7,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1250,0,50
+1695969064958,1991,Get product,200,OK,Seller 1-15,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1991,0,439
+1695969063007,4031,Get product ID,200,OK,Seller 1-18,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,4031,0,440
+1695969065767,1410,Sell product,400,Bad Request,Seller 1-8,text,false,,319,17681,20,20,https://market-final-project.binaracademy.org/seller/product,1409,0,41
+1695969066587,659,Login,201,Created,Seller 1-16,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,658,0,81
+1695969065822,1436,Get product,200,OK,Seller 1-11,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1436,0,53
+1695969066030,1361,Get product,200,OK,Seller 1-12,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1360,0,58
+1695969066585,1038,Sell product,400,Bad Request,Seller 1-4,text,false,,319,17717,20,20,https://market-final-project.binaracademy.org/seller/product,1038,0,83
+1695969065826,1797,Get product ID,200,OK,Seller 1-2,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1797,0,49
+1695969066047,1580,Get product ID,200,OK,Seller 1-20,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1580,0,60
+1695969064238,3389,Get product ID,200,OK,Seller 1-14,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,3389,0,1457
+1695969065245,2382,Get product ID,200,OK,Seller 1-5,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2382,0,462
+1695969067040,730,Login,201,Created,Seller 1-18,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,730,0,65
+1695969066683,1105,Get product,200,OK,Seller 1-1,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1104,0,108
+1695969067246,591,Sell product,400,Bad Request,Seller 1-16,text,false,,319,17717,20,20,https://market-final-project.binaracademy.org/seller/product,590,0,60
+1695969066824,1203,Get product ID,200,OK,Seller 1-17,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1202,0,126
+1695969067627,509,Login,201,Created,Seller 1-5,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,509,0,60
+1695969066857,1294,Get product ID,200,OK,Seller 1-7,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,1294,0,179
+1695969067177,990,Get product,200,OK,Seller 1-8,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,989,0,63
+1695969066836,1531,Sell product,400,Bad Request,Seller 1-6,text,false,,319,17717,20,20,https://market-final-project.binaracademy.org/seller/product,1531,0,471
+1695969067788,758,Get product ID,200,OK,Seller 1-1,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,758,0,50
+1695969065368,3459,Get product ID,200,OK,Seller 1-19,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,3458,0,456
+1695969068027,800,Login,201,Created,Seller 1-17,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,799,0,43
+1695969067623,1354,Login,201,Created,Seller 1-2,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,1353,0,464
+1695969068547,490,Login,201,Created,Seller 1-1,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,489,0,50
+1695969068137,1056,Sell product,400,Bad Request,Seller 1-5,text,false,,319,17690,20,20,https://market-final-project.binaracademy.org/seller/product,1055,0,54
+1695969068367,840,Get product,200,OK,Seller 1-6,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,840,0,52
+1695969067623,1642,Get product,200,OK,Seller 1-4,text,true,,6230,357,20,20,https://market-final-project.binaracademy.org/seller/product,1642,0,464
+1695969067392,2029,Get product ID,200,OK,Seller 1-12,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2029,0,475
+1695969068827,650,Login,201,Created,Seller 1-19,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,650,0,50
+1695969068827,856,Sell product,400,Bad Request,Seller 1-17,text,false,,319,17672,20,20,https://market-final-project.binaracademy.org/seller/product,856,0,39
+1695969068977,706,Sell product,400,Bad Request,Seller 1-2,text,false,,319,17654,20,20,https://market-final-project.binaracademy.org/seller/product,706,0,60
+1695969067628,2055,Login,201,Created,Seller 1-14,text,true,,496,281,20,20,https://market-final-project.binaracademy.org/auth/login,2055,0,1129
+1695969066949,2938,Get product ID,200,OK,Seller 1-15,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,2938,0,1936
+1695969069265,659,Get product ID,200,OK,Seller 1-4,text,true,,759,363,20,20,https://market-final-project.binaracademy.org/seller/product/92036,659,0,52
+1695969067258,2674,Get product ID,200,OK,Seller 1-11,text,true,,759,363,19,19,https://market-final-project.binaracademy.org/seller/product/92036,2674,0,1469
+1695969069193,756,Get product,200,OK,Seller 1-5,text,true,,6230,357,19,19,https://market-final-project.binaracademy.org/seller/product,755,0,54
+1695969067770,2203,Sell product,400,Bad Request,Seller 1-18,text,false,,319,17663,19,19,https://market-final-project.binaracademy.org/seller/product,2203,0,1115
+1695969069477,554,Sell product,400,Bad Request,Seller 1-19,text,false,,319,17654,19,19,https://market-final-project.binaracademy.org/seller/product,554,0,50
+1695969069683,364,Sell product,400,Bad Request,Seller 1-14,text,false,,319,17663,19,19,https://market-final-project.binaracademy.org/seller/product,364,0,50
+1695969069683,499,Get product,200,OK,Seller 1-2,text,true,,6230,357,19,19,https://market-final-project.binaracademy.org/seller/product,499,0,64
+1695969069037,1210,Sell product,400,Bad Request,Seller 1-1,text,false,,319,17717,19,19,https://market-final-project.binaracademy.org/seller/product,1210,0,470
+1695969068167,2191,Get product ID,200,OK,Seller 1-8,text,true,,759,363,19,19,https://market-final-project.binaracademy.org/seller/product/92036,2191,0,460
+1695969069888,699,Login,201,Created,Seller 1-15,text,true,,496,281,19,19,https://market-final-project.binaracademy.org/auth/login,698,0,37
+1695969067837,2800,Get product,200,OK,Seller 1-16,text,true,,6230,357,19,19,https://market-final-project.binaracademy.org/seller/product,2799,0,1120
+1695969069932,734,Login,201,Created,Seller 1-11,text,true,,496,281,19,19,https://market-final-project.binaracademy.org/auth/login,734,0,55
+1695969070358,388,Login,201,Created,Seller 1-8,text,true,,496,281,19,19,https://market-final-project.binaracademy.org/auth/login,388,0,66
+1695969069949,1068,Get product ID,200,OK,Seller 1-5,text,true,,759,363,19,19,https://market-final-project.binaracademy.org/seller/product/92036,1067,0,58
+1695969069973,1229,Get product,200,OK,Seller 1-18,text,true,,6230,357,19,19,https://market-final-project.binaracademy.org/seller/product,1229,0,53
+1695969070247,963,Get product,200,OK,Seller 1-1,text,true,,6230,357,19,19,https://market-final-project.binaracademy.org/seller/product,963,0,50
+1695969070047,1174,Get product,200,OK,Seller 1-14,text,true,,6230,357,19,19,https://market-final-project.binaracademy.org/seller/product,1174,0,64
+1695969056927,14371,Get product,200,OK,Seller 1-9,text,true,,6230,357,19,19,https://market-final-project.binaracademy.org/seller/product,14370,0,1100
+1695969068151,3255,Login,201,Created,Seller 1-7,text,true,,496,281,19,19,https://market-final-project.binaracademy.org/auth/login,3255,0,1486
+1695969070588,869,Sell product,400,Bad Request,Seller 1-15,text,false,,319,17699,19,19,https://market-final-project.binaracademy.org/seller/product,869,0,51
+1695969070638,951,Get product ID,200,OK,Seller 1-16,text,true,,759,363,19,19,https://market-final-project.binaracademy.org/seller/product/92036,951,0,50
+1695969071018,572,Login,201,Created,Seller 1-5,text,true,,496,281,19,19,https://market-final-project.binaracademy.org/auth/login,571,0,53
+1695969070748,893,Sell product,400,Bad Request,Seller 1-8,text,false,,319,17708,19,19,https://market-final-project.binaracademy.org/seller/product,893,0,50
+1695969071212,474,Get product ID,200,OK,Seller 1-1,text,true,,759,363,19,19,https://market-final-project.binaracademy.org/seller/product/92036,474,0,56
+1695969069207,2566,Get product ID,200,OK,Seller 1-6,text,true,,759,363,18,18,https://market-final-project.binaracademy.org/seller/product/92036,2566,0,1460
+1695969071203,646,Get product ID,200,OK,Seller 1-18,text,true,,759,363,18,18,https://market-final-project.binaracademy.org/seller/product/92036,646,0,65
+1695969071222,646,Get product ID,200,OK,Seller 1-14,text,true,,759,363,18,18,https://market-final-project.binaracademy.org/seller/product/92036,646,0,60
+1695969071299,592,Get product ID,200,OK,Seller 1-9,text,true,,759,363,17,17,https://market-final-project.binaracademy.org/seller/product/92036,592,0,59
+1695969070668,1383,Sell product,400,Bad Request,Seller 1-11,text,false,,319,17681,17,17,https://market-final-project.binaracademy.org/seller/product,1383,0,483
+1695969067627,4462,Login,201,Created,Seller 1-20,text,true,,496,281,17,17,https://market-final-project.binaracademy.org/auth/login,4462,0,1130
+1695969071590,578,Login,201,Created,Seller 1-16,text,true,,496,281,17,17,https://market-final-project.binaracademy.org/auth/login,578,0,72
+1695969071774,464,Login,201,Created,Seller 1-6,text,true,,496,281,17,17,https://market-final-project.binaracademy.org/auth/login,463,0,67
+1695969071458,790,Get product,200,OK,Seller 1-15,text,true,,6230,357,17,17,https://market-final-project.binaracademy.org/seller/product,790,0,50
+1695969071590,801,Sell product,400,Bad Request,Seller 1-5,text,false,,319,17708,17,17,https://market-final-project.binaracademy.org/seller/product,801,0,73
+1695969071891,811,Login,201,Created,Seller 1-9,text,true,,496,281,17,17,https://market-final-project.binaracademy.org/auth/login,810,0,89
+1695969071849,898,Login,201,Created,Seller 1-18,text,true,,496,281,17,17,https://market-final-project.binaracademy.org/auth/login,898,0,64
+1695969072091,947,Sell product,400,Bad Request,Seller 1-20,text,false,,319,17690,17,17,https://market-final-project.binaracademy.org/seller/product,947,0,61
+1695969072238,800,Sell product,400,Bad Request,Seller 1-6,text,false,,319,17699,17,17,https://market-final-project.binaracademy.org/seller/product,800,0,50
+1695969072702,384,Sell product,400,Bad Request,Seller 1-9,text,false,,319,17717,17,17,https://market-final-project.binaracademy.org/seller/product,384,0,46
+1695969072052,1044,Get product,200,OK,Seller 1-11,text,true,,6230,357,17,17,https://market-final-project.binaracademy.org/seller/product,1043,0,77
+1695969065297,7811,Get product ID,200,OK,Seller 1-3,text,true,,759,363,17,17,https://market-final-project.binaracademy.org/seller/product/92036,7811,0,471
+1695969072248,1049,Get product ID,200,OK,Seller 1-15,text,true,,759,363,17,17,https://market-final-project.binaracademy.org/seller/product/92036,1049,0,480
+1695969069683,3679,Get product,200,OK,Seller 1-17,text,true,,6230,357,17,17,https://market-final-project.binaracademy.org/seller/product,3679,0,1509
+1695969070032,3345,Get product,200,OK,Seller 1-19,text,true,,6230,357,17,17,https://market-final-project.binaracademy.org/seller/product,3345,0,1808
+1695969073039,518,Get product,200,OK,Seller 1-20,text,true,,6230,357,17,17,https://market-final-project.binaracademy.org/seller/product,518,0,71
+1695969073039,529,Get product,200,OK,Seller 1-6,text,true,,6230,357,17,17,https://market-final-project.binaracademy.org/seller/product,529,0,71
+1695969066713,7163,Get product,200,OK,Seller 1-13,text,true,,6230,357,17,17,https://market-final-project.binaracademy.org/seller/product,7163,0,508
+1695969069422,4544,Login,201,Created,Seller 1-12,text,true,,496,281,17,17,https://market-final-project.binaracademy.org/auth/login,4544,0,2469
+1695969073109,1034,Login,201,Created,Seller 1-3,text,true,,496,281,17,17,https://market-final-project.binaracademy.org/auth/login,1034,0,49
+1695969073298,899,Login,201,Created,Seller 1-15,text,true,,496,281,17,17,https://market-final-project.binaracademy.org/auth/login,899,0,51
+1695969073378,938,Get product ID,200,OK,Seller 1-19,text,true,,759,363,17,17,https://market-final-project.binaracademy.org/seller/product/92036,937,0,60
+1695969073096,1220,Get product ID,200,OK,Seller 1-11,text,true,,759,363,17,17,https://market-final-project.binaracademy.org/seller/product/92036,1219,0,62
+1695969071407,2912,Sell product,400,Bad Request,Seller 1-7,text,false,,319,17744,17,17,https://market-final-project.binaracademy.org/seller/product,2912,0,443
+1695969072392,1927,Get product,200,OK,Seller 1-5,text,true,,6230,357,17,17,https://market-final-project.binaracademy.org/seller/product,1927,0,531
+1695969073086,1241,Get product,200,OK,Seller 1-9,text,true,,6230,357,17,17,https://market-final-project.binaracademy.org/seller/product,1241,0,59
+1695969073364,963,Get product ID,200,OK,Seller 1-17,text,true,,759,363,17,17,https://market-final-project.binaracademy.org/seller/product/92036,963,0,54
+1695969073568,787,Get product ID,200,OK,Seller 1-6,text,true,,759,363,17,17,https://market-final-project.binaracademy.org/seller/product/92036,787,0,50
+1695969073558,797,Get product ID,200,OK,Seller 1-20,text,true,,759,363,17,17,https://market-final-project.binaracademy.org/seller/product/92036,797,0,60
+1695969074208,206,Sell product,400,Bad Request,Seller 1-15,text,false,,319,17699,16,16,https://market-final-project.binaracademy.org/seller/product,205,0,50
+1695969072748,1783,Sell product,400,Bad Request,Seller 1-18,text,false,,319,17654,16,16,https://market-final-project.binaracademy.org/seller/product,1783,0,440
+1695969070182,4404,Get product ID,200,OK,Seller 1-2,text,true,,759,363,16,16,https://market-final-project.binaracademy.org/seller/product/92036,4404,0,1840
+1695969074316,432,Login,201,Created,Seller 1-19,text,true,,496,281,16,16,https://market-final-project.binaracademy.org/auth/login,431,0,60
+1695969074316,510,Login,201,Created,Seller 1-11,text,true,,496,281,16,16,https://market-final-project.binaracademy.org/auth/login,510,0,59
+1695969071650,3187,Get product,200,OK,Seller 1-8,text,true,,6230,357,16,16,https://market-final-project.binaracademy.org/seller/product,3187,0,1699
+1695969074328,709,Login,201,Created,Seller 1-17,text,true,,496,281,16,16,https://market-final-project.binaracademy.org/auth/login,709,0,54
+1695969059627,15510,Get product,200,OK,Seller 1-10,text,true,,6230,357,16,16,https://market-final-project.binaracademy.org/seller/product,15509,0,1830
+1695969074355,1083,Login,201,Created,Seller 1-20,text,true,,496,281,16,16,https://market-final-project.binaracademy.org/auth/login,1082,0,44
+1695969074414,1165,Get product,200,OK,Seller 1-15,text,true,,6230,357,16,16,https://market-final-project.binaracademy.org/seller/product,1164,0,54
+1695969074328,1270,Get product ID,200,OK,Seller 1-9,text,true,,759,363,16,16,https://market-final-project.binaracademy.org/seller/product/92036,1269,0,54
+1695969074588,1179,Login,201,Created,Seller 1-2,text,true,,496,281,16,16,https://market-final-project.binaracademy.org/auth/login,1179,0,40
+1695969073878,1924,Get product ID,200,OK,Seller 1-13,text,true,,759,363,16,16,https://market-final-project.binaracademy.org/seller/product/92036,1924,0,510
+1695969074827,1173,Sell product,400,Bad Request,Seller 1-11,text,false,,319,17681,16,16,https://market-final-project.binaracademy.org/seller/product,1173,0,51
+1695969074748,1252,Sell product,400,Bad Request,Seller 1-19,text,false,,319,17654,16,16,https://market-final-project.binaracademy.org/seller/product,1252,0,50
+1695969075598,402,Login,201,Created,Seller 1-9,text,true,,496,281,16,16,https://market-final-project.binaracademy.org/auth/login,402,0,50
+1695969074532,1496,Get product,200,OK,Seller 1-18,text,true,,6230,357,16,16,https://market-final-project.binaracademy.org/seller/product,1496,0,57
+1695969075037,1071,Sell product,400,Bad Request,Seller 1-17,text,false,,319,17708,16,16,https://market-final-project.binaracademy.org/seller/product,1070,0,131
+1695969073968,2239,Sell product,400,Bad Request,Seller 1-12,text,false,,319,17663,16,16,https://market-final-project.binaracademy.org/seller/product,2239,0,460
+1695969074143,2064,Sell product,400,Bad Request,Seller 1-3,text,false,,319,17699,16,16,https://market-final-project.binaracademy.org/seller/product,2064,0,467
+1695969075802,628,Login,201,Created,Seller 1-13,text,true,,496,281,16,16,https://market-final-project.binaracademy.org/auth/login,628,0,56
+1695969075138,1399,Get product ID,200,OK,Seller 1-10,text,true,,759,363,16,16,https://market-final-project.binaracademy.org/seller/product/92036,1399,0,50
+1695969075438,1248,Sell product,400,Bad Request,Seller 1-20,text,false,,319,17699,16,16,https://market-final-project.binaracademy.org/seller/product,1248,0,59
+1695969074838,2429,Get product ID,200,OK,Seller 1-8,text,true,,759,363,16,16,https://market-final-project.binaracademy.org/seller/product/92036,2429,0,40
+1695969075768,1500,Sell product,400,Bad Request,Seller 1-2,text,false,,319,17726,16,16,https://market-final-project.binaracademy.org/seller/product,1499,0,60
+1695969076001,1305,Sell product,400,Bad Request,Seller 1-9,text,false,,319,17717,16,16,https://market-final-project.binaracademy.org/seller/product,1305,0,58
+1695969076000,1458,Get product,200,OK,Seller 1-11,text,true,,6230,357,16,16,https://market-final-project.binaracademy.org/seller/product,1458,0,42
+1695969076028,1470,Get product ID,200,OK,Seller 1-18,text,true,,759,363,16,16,https://market-final-project.binaracademy.org/seller/product/92036,1469,0,49
+1695969076108,1530,Get product,200,OK,Seller 1-17,text,true,,6230,357,16,16,https://market-final-project.binaracademy.org/seller/product,1530,0,50
+1695969075579,2080,Get product ID,200,OK,Seller 1-15,text,true,,759,363,16,16,https://market-final-project.binaracademy.org/seller/product/92036,2080,0,463
+1695969077268,644,Login,201,Created,Seller 1-8,text,true,,496,281,15,15,https://market-final-project.binaracademy.org/auth/login,644,0,39
+1695969076430,1482,Sell product,400,Bad Request,Seller 1-13,text,false,,319,17735,15,15,https://market-final-project.binaracademy.org/seller/product,1482,0,58
+1695969076207,1781,Get product,200,OK,Seller 1-3,text,true,,6230,357,15,15,https://market-final-project.binaracademy.org/seller/product,1781,0,51
+1695969077307,1193,Get product,200,OK,Seller 1-9,text,true,,6230,357,15,15,https://market-final-project.binaracademy.org/seller/product,1193,0,51
+1695969077268,1295,Get product,200,OK,Seller 1-2,text,true,,6230,357,15,15,https://market-final-project.binaracademy.org/seller/product,1295,0,49
+1695969076687,1882,Get product,200,OK,Seller 1-20,text,true,,6230,357,15,15,https://market-final-project.binaracademy.org/seller/product,1882,0,71
+1695969077458,1124,Get product ID,200,OK,Seller 1-11,text,true,,759,363,15,15,https://market-final-project.binaracademy.org/seller/product/92036,1123,0,40
+1695969077639,1080,Get product ID,200,OK,Seller 1-17,text,true,,759,363,14,14,https://market-final-project.binaracademy.org/seller/product/92036,1079,0,39
+1695969076207,2582,Get product,200,OK,Seller 1-12,text,true,,6230,357,13,13,https://market-final-project.binaracademy.org/seller/product,2582,0,480
+1695969077912,879,Sell product,400,Bad Request,Seller 1-8,text,false,,319,17654,13,13,https://market-final-project.binaracademy.org/seller/product,879,0,47
+1695969078564,289,Get product ID,200,OK,Seller 1-2,text,true,,759,363,13,13,https://market-final-project.binaracademy.org/seller/product/92036,289,0,62
+1695969078569,285,Get product ID,200,OK,Seller 1-20,text,true,,759,363,13,13,https://market-final-project.binaracademy.org/seller/product/92036,284,0,107
+1695969078501,391,Get product ID,200,OK,Seller 1-9,text,true,,759,363,13,13,https://market-final-project.binaracademy.org/seller/product/92036,391,0,125
+1695969077498,1430,Login,201,Created,Seller 1-18,text,true,,496,281,13,13,https://market-final-project.binaracademy.org/auth/login,1430,0,448
+1695969077988,968,Get product ID,200,OK,Seller 1-3,text,true,,759,363,13,13,https://market-final-project.binaracademy.org/seller/product/92036,967,0,489
+1695969076538,2460,Login,201,Created,Seller 1-10,text,true,,496,281,13,13,https://market-final-project.binaracademy.org/auth/login,2460,0,449
+1695969074319,4839,Get product,200,OK,Seller 1-7,text,true,,6230,357,13,13,https://market-final-project.binaracademy.org/seller/product,4838,0,1462
+1695969078854,584,Login,201,Created,Seller 1-2,text,true,,496,281,13,13,https://market-final-project.binaracademy.org/auth/login,584,0,84
+1695969078855,633,Login,201,Created,Seller 1-20,text,true,,496,281,13,13,https://market-final-project.binaracademy.org/auth/login,632,0,83
+1695969078892,674,Login,201,Created,Seller 1-9,text,true,,496,281,13,13,https://market-final-project.binaracademy.org/auth/login,674,0,64
+1695969074320,5247,Get product ID,200,OK,Seller 1-5,text,true,,759,363,13,13,https://market-final-project.binaracademy.org/seller/product/92036,5246,0,1462
+1695969078802,776,Get product,200,OK,Seller 1-8,text,true,,6230,357,12,12,https://market-final-project.binaracademy.org/seller/product,776,0,91
+1695969078928,650,Sell product,400,Bad Request,Seller 1-18,text,false,,319,17726,12,12,https://market-final-project.binaracademy.org/seller/product,650,0,50
+1695969078802,816,Get product ID,200,OK,Seller 1-12,text,true,,759,363,12,12,https://market-final-project.binaracademy.org/seller/product/92036,816,0,91
+1695969078956,882,Login,201,Created,Seller 1-3,text,true,,496,281,12,12,https://market-final-project.binaracademy.org/auth/login,881,0,63
+1695969078999,898,Sell product,400,Bad Request,Seller 1-10,text,false,,319,17708,12,12,https://market-final-project.binaracademy.org/seller/product,898,0,49
+1695969079438,460,Sell product,400,Bad Request,Seller 1-2,text,false,,319,17726,12,12,https://market-final-project.binaracademy.org/seller/product,459,0,50
+1695969079567,351,Sell product,400,Bad Request,Seller 1-9,text,false,,319,17699,12,12,https://market-final-project.binaracademy.org/seller/product,351,0,52
+1695969079578,471,Get product ID,200,OK,Seller 1-8,text,true,,759,363,12,12,https://market-final-project.binaracademy.org/seller/product/92036,471,0,59
+1695969079579,479,Get product,200,OK,Seller 1-18,text,true,,6230,357,12,12,https://market-final-project.binaracademy.org/seller/product,478,0,58
+1695969077912,2346,Get product,200,OK,Seller 1-13,text,true,,6230,357,12,12,https://market-final-project.binaracademy.org/seller/product,2345,0,1357
+1695969076000,4297,Get product,200,OK,Seller 1-19,text,true,,6230,357,12,12,https://market-final-project.binaracademy.org/seller/product,4297,0,1447
+1695969080050,329,Login,201,Created,Seller 1-8,text,true,,496,281,12,12,https://market-final-project.binaracademy.org/auth/login,329,0,60
+1695969079898,484,Get product,200,OK,Seller 1-10,text,true,,6230,357,12,12,https://market-final-project.binaracademy.org/seller/product,484,0,51
+1695969079919,468,Get product,200,OK,Seller 1-9,text,true,,6230,357,12,12,https://market-final-project.binaracademy.org/seller/product,467,0,48
+1695969079898,499,Get product,200,OK,Seller 1-2,text,true,,6230,357,12,12,https://market-final-project.binaracademy.org/seller/product,499,0,51
+1695969080058,861,Get product ID,200,OK,Seller 1-18,text,true,,759,363,12,12,https://market-final-project.binaracademy.org/seller/product/92036,860,0,52
+1695969080258,709,Get product ID,200,OK,Seller 1-13,text,true,,759,363,11,11,https://market-final-project.binaracademy.org/seller/product/92036,709,0,41
+1695969080379,759,Sell product,400,Bad Request,Seller 1-8,text,false,,319,17699,11,11,https://market-final-project.binaracademy.org/seller/product,758,0,54
+1695969080383,755,Get product ID,200,OK,Seller 1-10,text,true,,759,363,11,11,https://market-final-project.binaracademy.org/seller/product/92036,754,0,50
+1695969079488,1719,Sell product,400,Bad Request,Seller 1-20,text,false,,319,17726,11,11,https://market-final-project.binaracademy.org/seller/product,1719,0,479
+1695969080397,830,Get product ID,200,OK,Seller 1-2,text,true,,759,363,11,11,https://market-final-project.binaracademy.org/seller/product/92036,830,0,51
+1695969080968,260,Login,201,Created,Seller 1-13,text,true,,496,281,11,11,https://market-final-project.binaracademy.org/auth/login,259,0,50
+1695969079838,1589,Sell product,400,Bad Request,Seller 1-3,text,false,,319,17744,10,10,https://market-final-project.binaracademy.org/seller/product,1589,0,460
+1695969081138,319,Login,201,Created,Seller 1-10,text,true,,496,281,10,10,https://market-final-project.binaracademy.org/auth/login,319,0,50
+1695969080387,1201,Get product ID,200,OK,Seller 1-9,text,true,,759,363,10,10,https://market-final-project.binaracademy.org/seller/product/92036,1201,0,471
+1695969081228,756,Sell product,400,Bad Request,Seller 1-13,text,false,,319,17717,9,9,https://market-final-project.binaracademy.org/seller/product,756,0,61
+1695969081207,793,Get product,200,OK,Seller 1-20,text,true,,6230,357,9,9,https://market-final-project.binaracademy.org/seller/product,793,0,50
+1695969081458,570,Sell product,400,Bad Request,Seller 1-10,text,false,,319,17690,9,9,https://market-final-project.binaracademy.org/seller/product,570,0,50
+1695969082000,197,Get product ID,200,OK,Seller 1-20,text,true,,759,363,9,9,https://market-final-project.binaracademy.org/seller/product/92036,197,0,48
+1695969079158,3040,Get product ID,200,OK,Seller 1-7,text,true,,759,363,8,8,https://market-final-project.binaracademy.org/seller/product/92036,3039,0,2161
+1695969081984,264,Get product,200,OK,Seller 1-13,text,true,,6230,357,8,8,https://market-final-project.binaracademy.org/seller/product,264,0,45
+1695969082028,241,Get product,200,OK,Seller 1-10,text,true,,6230,357,8,8,https://market-final-project.binaracademy.org/seller/product,240,0,37
+1695969082198,316,Login,201,Created,Seller 1-7,text,true,,496,281,8,8,https://market-final-project.binaracademy.org/auth/login,316,0,46
+1695969082248,647,Get product ID,200,OK,Seller 1-13,text,true,,759,363,8,8,https://market-final-project.binaracademy.org/seller/product/92036,647,0,62
+1695969082269,627,Get product ID,200,OK,Seller 1-10,text,true,,759,363,7,7,https://market-final-project.binaracademy.org/seller/product/92036,626,0,153
+1695969081427,1492,Get product,200,OK,Seller 1-3,text,true,,6230,357,7,7,https://market-final-project.binaracademy.org/seller/product,1492,0,472
+1695969072168,10933,Sell product,400,Bad Request,Seller 1-16,text,false,,319,17717,7,7,https://market-final-project.binaracademy.org/seller/product,10933,0,1090
+1695969082897,251,Login,201,Created,Seller 1-10,text,true,,496,281,7,7,https://market-final-project.binaracademy.org/auth/login,250,0,70
+1695969082919,247,Get product ID,200,OK,Seller 1-3,text,true,,759,363,7,7,https://market-final-project.binaracademy.org/seller/product/92036,246,0,80
+1695969083166,242,Login,201,Created,Seller 1-3,text,true,,496,281,7,7,https://market-final-project.binaracademy.org/auth/login,241,0,62
+1695969083408,169,Sell product,400,Bad Request,Seller 1-3,text,false,,319,17690,7,7,https://market-final-project.binaracademy.org/seller/product,169,0,49
+1695969082515,1182,Sell product,400,Bad Request,Seller 1-7,text,false,,319,17744,7,7,https://market-final-project.binaracademy.org/seller/product,1182,0,484
+1695969083101,777,Get product,200,OK,Seller 1-16,text,true,,6230,357,7,7,https://market-final-project.binaracademy.org/seller/product,777,0,477
+1695969083878,319,Get product ID,200,OK,Seller 1-16,text,true,,759,363,7,7,https://market-final-project.binaracademy.org/seller/product/92036,319,0,37
+1695969083148,1247,Sell product,400,Bad Request,Seller 1-10,text,false,,319,17708,6,6,https://market-final-project.binaracademy.org/seller/product,1247,0,460
+1695969080298,4460,Get product ID,200,OK,Seller 1-19,text,true,,759,363,6,6,https://market-final-project.binaracademy.org/seller/product/92036,4460,0,2483
+1695969083698,2106,Get product,200,OK,Seller 1-7,text,true,,6230,357,5,5,https://market-final-project.binaracademy.org/seller/product,2105,0,1459
+1695969079618,6539,Login,201,Created,Seller 1-12,text,true,,496,281,5,5,https://market-final-project.binaracademy.org/auth/login,6539,0,471
+1695969084410,1747,Get product,200,OK,Seller 1-10,text,true,,6230,357,5,5,https://market-final-project.binaracademy.org/seller/product,1747,0,512
+1695969081138,5150,Get product,200,OK,Seller 1-8,text,true,,6230,357,5,5,https://market-final-project.binaracademy.org/seller/product,5149,0,1743
+1695969086287,139,Get product ID,200,OK,Seller 1-8,text,true,,759,363,5,5,https://market-final-project.binaracademy.org/seller/product/92036,139,0,49
+1695969085803,814,Get product ID,200,OK,Seller 1-7,text,true,,759,363,4,4,https://market-final-project.binaracademy.org/seller/product/92036,813,0,514
+1695969083577,3061,Get product,200,OK,Seller 1-3,text,true,,6230,357,4,4,https://market-final-project.binaracademy.org/seller/product,3061,0,1121
+1695969086637,186,Get product ID,200,OK,Seller 1-3,text,true,,759,363,4,4,https://market-final-project.binaracademy.org/seller/product/92036,185,0,50
+1695969086617,206,Login,201,Created,Seller 1-7,text,true,,496,281,4,4,https://market-final-project.binaracademy.org/auth/login,205,0,50
+1695969086157,720,Get product ID,200,OK,Seller 1-10,text,true,,759,363,3,3,https://market-final-project.binaracademy.org/seller/product/92036,719,0,440
+1695969086823,173,Sell product,400,Bad Request,Seller 1-7,text,false,,319,17699,2,2,https://market-final-project.binaracademy.org/seller/product,173,0,55
+1695969086156,970,Sell product,400,Bad Request,Seller 1-12,text,false,,319,17735,2,2,https://market-final-project.binaracademy.org/seller/product,970,0,441
+1695969086997,150,Get product,200,OK,Seller 1-7,text,true,,6230,357,2,2,https://market-final-project.binaracademy.org/seller/product,150,0,49
+1695969087148,388,Get product ID,200,OK,Seller 1-7,text,true,,759,363,2,2,https://market-final-project.binaracademy.org/seller/product/92036,388,0,59
+1695969087126,447,Get product,200,OK,Seller 1-12,text,true,,6230,357,2,2,https://market-final-project.binaracademy.org/seller/product,447,0,51
+1695969087537,189,Login,201,Created,Seller 1-7,text,true,,496,281,2,2,https://market-final-project.binaracademy.org/auth/login,189,0,50
+1695969087726,172,Sell product,400,Bad Request,Seller 1-7,text,false,,319,17708,2,2,https://market-final-project.binaracademy.org/seller/product,172,0,50
+1695969087898,778,Get product,200,OK,Seller 1-7,text,true,,6230,357,2,2,https://market-final-project.binaracademy.org/seller/product,778,0,484
+1695969088676,4440,Get product ID,200,OK,Seller 1-7,text,true,,759,363,2,2,https://market-final-project.binaracademy.org/seller/product/92036,4440,0,3880
+1695969087573,7283,Get product ID,200,OK,Seller 1-12,text,true,,759,363,1,1,https://market-final-project.binaracademy.org/seller/product/92036,7283,0,5273
+1695969094857,190,Login,201,Created,Seller 1-12,text,true,,496,281,1,1,https://market-final-project.binaracademy.org/auth/login,190,0,50
+1695969095047,171,Sell product,400,Bad Request,Seller 1-12,text,false,,319,17717,1,1,https://market-final-project.binaracademy.org/seller/product,171,0,50
+1695969095219,158,Get product,200,OK,Seller 1-12,text,true,,6230,357,1,1,https://market-final-project.binaracademy.org/seller/product,158,0,58
+1695969095378,249,Get product ID,200,OK,Seller 1-12,text,true,,759,363,1,1,https://market-final-project.binaracademy.org/seller/product/92036,249,0,49

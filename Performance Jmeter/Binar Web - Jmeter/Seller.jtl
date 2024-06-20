@@ -1,0 +1,1201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695974718577,679,Login,200,OK,Seller 1-1,text,true,,2094,309,14,14,https://secondhand.binaracademy.org/users/sign_in.json,679,0,69
+1695974718639,817,Login,200,OK,Seller 1-2,text,true,,2088,309,18,18,https://secondhand.binaracademy.org/users/sign_in.json,817,0,57
+1695974718688,917,Login,200,OK,Seller 1-3,text,true,,2094,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,917,0,69
+1695974718789,927,Login,200,OK,Seller 1-5,text,true,,2090,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,927,0,57
+1695974718839,1057,Login,200,OK,Seller 1-6,text,true,,2092,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1057,0,67
+1695974718883,1203,Login,200,OK,Seller 1-7,text,true,,2070,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1203,0,64
+1695974718934,1411,Login,200,OK,Seller 1-8,text,true,,2072,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1411,0,62
+1695974718981,1504,Login,200,OK,Seller 1-9,text,true,,2086,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1504,0,75
+1695974719035,1510,Login,200,OK,Seller 1-10,text,true,,2082,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1510,0,62
+1695974719085,1610,Login,200,OK,Seller 1-11,text,true,,2084,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1610,0,53
+1695974719134,1751,Login,200,OK,Seller 1-12,text,true,,2086,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1751,0,63
+1695974719256,1780,post product,201,Created,Seller 1-1,text,true,,2305,134490,20,20,https://secondhand.binaracademy.org/products.json,1780,0,0
+1695974719187,1928,Login,200,OK,Seller 1-13,text,true,,2084,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1928,0,54
+1695974719230,2055,Login,200,OK,Seller 1-14,text,true,,2074,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2055,0,57
+1695974719331,2024,Login,200,OK,Seller 1-16,text,true,,2098,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2024,0,55
+1695974719427,2078,Login,200,OK,Seller 1-18,text,true,,2090,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2078,0,71
+1695974719528,2197,Login,200,OK,Seller 1-20,text,true,,2078,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2197,0,65
+1695974719456,2350,post product,201,Created,Seller 1-2,text,true,,2296,134517,20,20,https://secondhand.binaracademy.org/products.json,2350,0,0
+1695974719605,2429,post product,201,Created,Seller 1-3,text,true,,2306,134496,20,20,https://secondhand.binaracademy.org/products.json,2429,0,0
+1695974719716,2329,post product,201,Created,Seller 1-5,text,true,,2301,134501,20,20,https://secondhand.binaracademy.org/products.json,2329,0,0
+1695974719896,2189,post product,201,Created,Seller 1-6,text,true,,2311,134440,20,20,https://secondhand.binaracademy.org/products.json,2189,0,0
+1695974720086,2129,post product,201,Created,Seller 1-7,text,true,,2300,134445,20,20,https://secondhand.binaracademy.org/products.json,2129,0,0
+1695974720485,2198,post product,201,Created,Seller 1-9,text,true,,2304,134419,20,20,https://secondhand.binaracademy.org/products.json,2198,0,0
+1695974719479,3216,Login,200,OK,Seller 1-19,text,true,,2086,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,3216,0,757
+1695974720346,2500,post product,201,Created,Seller 1-8,text,true,,2304,134429,20,20,https://secondhand.binaracademy.org/products.json,2500,0,0
+1695974721036,1917,List product,200,OK,Seller 1-1,text,true,,11953,670,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1917,0,0
+1695974720545,2467,post product,201,Created,Seller 1-10,text,true,,2311,134469,20,20,https://secondhand.binaracademy.org/products.json,2467,0,0
+1695974720695,2370,post product,201,Created,Seller 1-11,text,true,,2311,134441,20,20,https://secondhand.binaracademy.org/products.json,2370,0,0
+1695974720885,2490,post product,201,Created,Seller 1-12,text,true,,2298,134491,20,20,https://secondhand.binaracademy.org/products.json,2490,0,0
+1695974721115,2360,post product,201,Created,Seller 1-13,text,true,,2301,134495,20,20,https://secondhand.binaracademy.org/products.json,2360,0,0
+1695974721285,2322,post product,201,Created,Seller 1-14,text,true,,2305,134488,20,20,https://secondhand.binaracademy.org/products.json,2322,0,0
+1695974721355,2270,post product,201,Created,Seller 1-16,text,true,,2293,134431,20,20,https://secondhand.binaracademy.org/products.json,2270,0,0
+1695974721505,2330,post product,201,Created,Seller 1-18,text,true,,2306,134468,20,20,https://secondhand.binaracademy.org/products.json,2330,0,0
+1695974721807,2218,List product,200,OK,Seller 1-2,text,true,,11974,668,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2218,0,0
+1695974722034,2001,List product,200,OK,Seller 1-3,text,true,,11970,678,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2001,0,0
+1695974722045,2160,List product,200,OK,Seller 1-5,text,true,,11965,666,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2160,0,0
+1695974722085,2160,List product,200,OK,Seller 1-6,text,true,,11966,676,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2160,0,0
+1695974719380,4895,Login,200,OK,Seller 1-17,text,true,,2088,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,4895,0,2427
+1695974721725,2680,post product,201,Created,Seller 1-20,text,true,,2297,134498,20,20,https://secondhand.binaracademy.org/products.json,2680,0,0
+1695974722216,2250,List product,200,OK,Seller 1-7,text,true,,11970,672,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2250,0,0
+1695974722683,1846,List product,200,OK,Seller 1-9,text,true,,11974,676,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1846,0,0
+1695974722846,1700,List product,200,OK,Seller 1-8,text,true,,11976,676,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1700,0,0
+1695974722953,1672,Get product,200,OK,Seller 1-1,text,true,,2172,605,20,20,https://secondhand.binaracademy.org/products/39137.json,1672,0,0
+1695974723012,1718,List product,200,OK,Seller 1-10,text,true,,11961,676,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1718,0,0
+1695974723065,1671,List product,200,OK,Seller 1-11,text,true,,11959,676,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1671,0,0
+1695974723375,1488,List product,200,OK,Seller 1-12,text,true,,11982,670,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1488,0,0
+1695974723476,1400,List product,200,OK,Seller 1-13,text,true,,11970,666,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1400,0,0
+1695974723607,1311,List product,200,OK,Seller 1-14,text,true,,11964,670,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1311,0,0
+1695974723835,1139,List product,200,OK,Seller 1-18,text,true,,11968,678,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1139,0,0
+1695974724025,987,Get product,200,OK,Seller 1-2,text,true,,2170,619,20,20,https://secondhand.binaracademy.org/products/39137.json,987,0,0
+1695974723625,1407,List product,200,OK,Seller 1-16,text,true,,11962,658,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1407,0,0
+1695974724035,1033,Get product,200,OK,Seller 1-3,text,true,,2156,615,20,20,https://secondhand.binaracademy.org/products/39137.json,1033,0,0
+1695974724205,909,Get product,200,OK,Seller 1-5,text,true,,2158,617,20,20,https://secondhand.binaracademy.org/products/39137.json,909,0,0
+1695974724466,870,Get product,200,OK,Seller 1-7,text,true,,2164,615,20,20,https://secondhand.binaracademy.org/products/39137.json,870,0,0
+1695974724245,1112,Get product,200,OK,Seller 1-6,text,true,,2156,611,20,20,https://secondhand.binaracademy.org/products/39137.json,1112,0,0
+1695974724405,1045,List product,200,OK,Seller 1-20,text,true,,11966,662,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1045,0,0
+1695974724546,917,Get product,200,OK,Seller 1-8,text,true,,2152,621,20,20,https://secondhand.binaracademy.org/products/39137.json,917,0,0
+1695974724529,940,Get product,200,OK,Seller 1-9,text,true,,2158,619,20,20,https://secondhand.binaracademy.org/products/39137.json,940,0,0
+1695974724736,840,Get product,200,OK,Seller 1-11,text,true,,2160,611,20,20,https://secondhand.binaracademy.org/products/39137.json,840,0,0
+1695974724730,878,Get product,200,OK,Seller 1-10,text,true,,2158,613,20,20,https://secondhand.binaracademy.org/products/39137.json,878,0,0
+1695974724864,849,Get product,200,OK,Seller 1-12,text,true,,2144,627,20,20,https://secondhand.binaracademy.org/products/39137.json,849,0,0
+1695974724918,826,Get product,200,OK,Seller 1-14,text,true,,2165,609,20,20,https://secondhand.binaracademy.org/products/39137.json,826,0,0
+1695974724876,909,Get product,200,OK,Seller 1-13,text,true,,2158,615,20,20,https://secondhand.binaracademy.org/products/39137.json,909,0,0
+1695974724975,853,Get product,200,OK,Seller 1-18,text,true,,2158,613,20,20,https://secondhand.binaracademy.org/products/39137.json,853,0,0
+1695974725032,862,Get product,200,OK,Seller 1-16,text,true,,2156,607,20,20,https://secondhand.binaracademy.org/products/39137.json,862,0,0
+1695974722695,3254,post product,201,Created,Seller 1-19,text,true,,2288,134488,20,20,https://secondhand.binaracademy.org/products.json,3254,0,0
+1695974725068,978,update product,500,Internal Server Error,Seller 1-3,text,false,,380,221883,20,20,https://secondhand.binaracademy.org/products/39967.json,978,0,0
+1695974724626,1461,update product,500,Internal Server Error,Seller 1-1,text,false,,380,221979,20,20,https://secondhand.binaracademy.org/products/39967.json,1461,0,0
+1695974718738,7418,Login,200,OK,Seller 1-4,text,true,,2076,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,7418,0,6008
+1695974725013,1203,update product,200,OK,Seller 1-2,text,true,,2280,221947,20,20,https://secondhand.binaracademy.org/products/39967.json,1203,0,0
+1695974725451,794,Get product,200,OK,Seller 1-20,text,true,,2149,611,20,20,https://secondhand.binaracademy.org/products/39137.json,794,0,0
+1695974725114,1262,update product,200,OK,Seller 1-5,text,true,,2281,221915,20,20,https://secondhand.binaracademy.org/products/39967.json,1261,0,0
+1695974725337,1339,update product,200,OK,Seller 1-7,text,true,,2291,221911,20,20,https://secondhand.binaracademy.org/products/39967.json,1339,0,0
+1695974724275,2421,post product,201,Created,Seller 1-17,text,true,,2300,134484,20,20,https://secondhand.binaracademy.org/products.json,2421,0,0
+1695974725464,1350,update product,200,OK,Seller 1-8,text,true,,2295,221919,20,20,https://secondhand.binaracademy.org/products/39967.json,1350,0,0
+1695974725357,1470,update product,200,OK,Seller 1-6,text,true,,2276,221963,20,20,https://secondhand.binaracademy.org/products/39967.json,1470,0,0
+1695974725608,1767,update product,500,Internal Server Error,Seller 1-10,text,false,,380,221875,20,20,https://secondhand.binaracademy.org/products/39967.json,1767,0,0
+1695974725744,1989,update product,200,OK,Seller 1-14,text,true,,2283,221899,20,20,https://secondhand.binaracademy.org/products/39967.json,1989,0,0
+1695974725713,2033,update product,200,OK,Seller 1-12,text,true,,2279,221951,20,20,https://secondhand.binaracademy.org/products/39967.json,2032,0,0
+1695974725576,2179,update product,200,OK,Seller 1-11,text,true,,2297,221947,20,20,https://secondhand.binaracademy.org/products/39967.json,2179,0,0
+1695974725469,2298,update product,200,OK,Seller 1-9,text,true,,2291,221915,20,20,https://secondhand.binaracademy.org/products/39967.json,2298,0,0
+1695974726046,1857,Delete product,204,No Content,Seller 1-3,,true,,990,705,20,20,https://secondhand.binaracademy.org/products/39984.json,0,0,42
+1695974726216,1700,Delete product,204,No Content,Seller 1-2,,true,,988,707,20,20,https://secondhand.binaracademy.org/products/39984.json,0,0,62
+1695974726246,2843,update product,500,Internal Server Error,Seller 1-20,text,false,,380,221893,20,20,https://secondhand.binaracademy.org/products/39967.json,2842,0,0
+1695974726697,2411,List product,200,OK,Seller 1-17,text,true,,11974,672,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2411,0,0
+1695974725829,3357,update product,500,Internal Server Error,Seller 1-18,text,false,,380,221905,20,20,https://secondhand.binaracademy.org/products/39967.json,3357,0,0
+1695974725785,3524,update product,500,Internal Server Error,Seller 1-13,text,false,,380,221945,20,20,https://secondhand.binaracademy.org/products/39967.json,3524,0,0
+1695974727903,1445,Login,200,OK,Seller 1-3,text,true,,2080,772,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1445,0,55
+1695974727916,1449,Login,200,OK,Seller 1-2,text,true,,2082,770,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1449,0,60
+1695974725894,3554,update product,200,OK,Seller 1-16,text,true,,2286,221903,20,20,https://secondhand.binaracademy.org/products/39967.json,3554,0,0
+1695974725950,3520,List product,200,OK,Seller 1-19,text,true,,11964,660,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,3520,0,0
+1695974727376,2710,Delete product,200,OK,Seller 1-10,text,true,,32971,602,20,20,https://secondhand.binaracademy.org/,2702,0,1848
+1695974726676,3432,Delete product,200,OK,Seller 1-7,text,true,,32981,606,20,20,https://secondhand.binaracademy.org/,3411,0,2139
+1695974727733,2793,Delete product,200,OK,Seller 1-14,text,true,,32981,598,20,20,https://secondhand.binaracademy.org/,2779,0,1548
+1695974726376,4292,Delete product,200,OK,Seller 1-5,text,true,,32973,596,20,20,https://secondhand.binaracademy.org/,4052,0,2310
+1695974727767,2984,Delete product,200,OK,Seller 1-9,text,true,,32977,606,20,20,https://secondhand.binaracademy.org/,2970,0,1531
+1695974726827,3940,Delete product,200,OK,Seller 1-6,text,true,,32965,598,20,20,https://secondhand.binaracademy.org/,3925,0,2522
+1695974729470,1555,Get product,200,OK,Seller 1-19,text,true,,2165,609,20,20,https://secondhand.binaracademy.org/products/39137.json,1555,0,0
+1695974726087,4967,Delete product,200,OK,Seller 1-1,text,true,,32971,616,20,20,https://secondhand.binaracademy.org/,4941,0,3384
+1695974729108,2048,Get product,200,OK,Seller 1-17,text,true,,2149,619,20,20,https://secondhand.binaracademy.org/products/39137.json,2048,0,0
+1695974730107,1126,Login,200,OK,Seller 1-7,text,true,,2210,900,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1126,0,71
+1695974727746,3509,Delete product,200,OK,Seller 1-12,text,true,,32977,594,20,20,https://secondhand.binaracademy.org/,3489,0,1890
+1695974729366,1930,post product,201,Created,Seller 1-2,text,true,,2297,134415,20,20,https://secondhand.binaracademy.org/products.json,1930,0,0
+1695974729349,1988,post product,201,Created,Seller 1-3,text,true,,2312,134440,20,20,https://secondhand.binaracademy.org/products.json,1988,0,0
+1695974729186,2330,Delete product,200,OK,Seller 1-18,text,true,,32977,602,20,20,https://secondhand.binaracademy.org/,2313,0,859
+1695974730525,1014,Login,200,OK,Seller 1-14,text,true,,2196,900,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1014,0,62
+1695974730086,1547,Login,200,OK,Seller 1-10,text,true,,2217,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1547,0,478
+1695974730668,979,Login,200,OK,Seller 1-5,text,true,,2192,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,979,0,44
+1695974730750,900,Login,200,OK,Seller 1-9,text,true,,2204,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,900,0,56
+1695974729309,2363,Delete product,200,OK,Seller 1-13,text,true,,32977,602,20,20,https://secondhand.binaracademy.org/,2347,0,1190
+1695974730766,920,Login,200,OK,Seller 1-6,text,true,,2196,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,920,0,71
+1695974731295,562,List product,200,OK,Seller 1-2,text,true,,11963,662,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,562,0,0
+1695974729448,2597,Delete product,200,OK,Seller 1-16,text,true,,32965,608,20,20,https://secondhand.binaracademy.org/,2579,0,1517
+1695974731254,837,Login,200,OK,Seller 1-12,text,true,,2194,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,837,0,82
+1695974731336,768,List product,200,OK,Seller 1-3,text,true,,11968,684,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,768,0,0
+1695974731672,792,Login,200,OK,Seller 1-13,text,true,,2192,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,792,0,67
+1695974731054,1471,Login,200,OK,Seller 1-1,text,true,,2198,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1471,0,462
+1695974731024,1521,update product,500,Internal Server Error,Seller 1-19,text,false,,380,221899,20,20,https://secondhand.binaracademy.org/products/39967.json,1521,0,0
+1695974731234,1360,post product,201,Created,Seller 1-7,text,true,,2414,134594,20,20,https://secondhand.binaracademy.org/products.json,1360,0,0
+1695974726814,5902,Delete product,200,OK,Seller 1-8,text,true,,32975,610,20,20,https://secondhand.binaracademy.org/,5878,0,4946
+1695974731539,1195,post product,201,Created,Seller 1-14,text,true,,2424,134565,20,20,https://secondhand.binaracademy.org/products.json,1195,0,0
+1695974731647,1128,post product,201,Created,Seller 1-5,text,true,,2424,134531,20,20,https://secondhand.binaracademy.org/products.json,1128,0,0
+1695974731857,967,Get product,200,OK,Seller 1-2,text,true,,2143,615,20,20,https://secondhand.binaracademy.org/products/39137.json,967,0,0
+1695974732045,828,Login,200,OK,Seller 1-16,text,true,,2204,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,828,0,46
+1695974732105,799,Get product,200,OK,Seller 1-3,text,true,,2165,613,20,20,https://secondhand.binaracademy.org/products/39137.json,799,0,0
+1695974726156,6838,post product,201,Created,Seller 1-4,text,true,,2309,134451,20,20,https://secondhand.binaracademy.org/products.json,6838,0,0
+1695974719281,13713,Login,200,OK,Seller 1-15,text,true,,2090,309,20,20,https://secondhand.binaracademy.org/users/sign_in.json,13713,0,1479
+1695974731650,1354,post product,201,Created,Seller 1-9,text,true,,2416,134552,20,20,https://secondhand.binaracademy.org/products.json,1354,0,0
+1695974731686,1530,post product,201,Created,Seller 1-6,text,true,,2420,134529,20,20,https://secondhand.binaracademy.org/products.json,1530,0,0
+1695974732594,740,List product,200,OK,Seller 1-7,text,true,,12079,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,740,0,0
+1695974732091,1284,post product,201,Created,Seller 1-12,text,true,,2418,134533,20,20,https://secondhand.binaracademy.org/products.json,1284,0,0
+1695974732734,720,List product,200,OK,Seller 1-14,text,true,,12092,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,720,0,0
+1695974732715,779,Login,200,OK,Seller 1-8,text,true,,2204,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,779,0,60
+1695974732775,840,List product,200,OK,Seller 1-5,text,true,,12082,796,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,840,0,0
+1695974732464,1170,post product,201,Created,Seller 1-13,text,true,,2420,134531,20,20,https://secondhand.binaracademy.org/products.json,1170,0,0
+1695974731633,2071,post product,201,Created,Seller 1-10,text,true,,2424,134632,20,20,https://secondhand.binaracademy.org/products.json,2071,0,0
+1695974733004,1010,List product,200,OK,Seller 1-9,text,true,,12079,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1010,0,0
+1695974733216,848,List product,200,OK,Seller 1-6,text,true,,12083,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,848,0,0
+1695974732874,1253,post product,201,Created,Seller 1-16,text,true,,2416,134582,20,20,https://secondhand.binaracademy.org/products.json,1253,0,0
+1695974732825,1331,update product,500,Internal Server Error,Seller 1-2,text,false,,380,221867,20,20,https://secondhand.binaracademy.org/products/39967.json,1330,0,0
+1695974732904,1252,update product,200,OK,Seller 1-3,text,true,,2292,221879,20,20,https://secondhand.binaracademy.org/products/39967.json,1251,0,0
+1695974733334,930,Get product,200,OK,Seller 1-7,text,true,,2274,731,20,20,https://secondhand.binaracademy.org/products/39137.json,930,0,0
+1695974732545,1855,Delete product,200,OK,Seller 1-19,text,true,,32969,616,20,20,https://secondhand.binaracademy.org/,1839,0,729
+1695974733454,980,Get product,200,OK,Seller 1-14,text,true,,2272,737,20,20,https://secondhand.binaracademy.org/products/39137.json,980,0,0
+1695974733375,1059,List product,200,OK,Seller 1-12,text,true,,12094,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1059,0,0
+1695974733615,880,Get product,200,OK,Seller 1-5,text,true,,2274,727,20,20,https://secondhand.binaracademy.org/products/39137.json,880,0,0
+1695974733635,940,List product,200,OK,Seller 1-13,text,true,,12102,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,940,0,0
+1695974727756,6820,Delete product,200,OK,Seller 1-11,text,true,,32969,612,20,20,https://secondhand.binaracademy.org/,4840,0,2994
+1695974731155,3463,update product,200,OK,Seller 1-17,text,true,,2282,221873,20,20,https://secondhand.binaracademy.org/products/39967.json,3462,0,0
+1695974734014,620,Get product,200,OK,Seller 1-9,text,true,,2278,731,20,20,https://secondhand.binaracademy.org/products/39137.json,620,0,0
+1695974734064,593,Get product,200,OK,Seller 1-6,text,true,,2272,735,20,20,https://secondhand.binaracademy.org/products/39137.json,593,0,0
+1695974732525,2211,post product,201,Created,Seller 1-1,text,true,,2424,134546,20,20,https://secondhand.binaracademy.org/products.json,2211,0,0
+1695974734400,339,Login,200,OK,Seller 1-19,text,true,,2214,888,20,20,https://secondhand.binaracademy.org/users/sign_in.json,339,0,66
+1695974734128,611,List product,200,OK,Seller 1-16,text,true,,12090,788,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,611,0,0
+1695974734435,320,Get product,200,OK,Seller 1-12,text,true,,2282,739,20,20,https://secondhand.binaracademy.org/products/39137.json,320,0,0
+1695974734575,258,Get product,200,OK,Seller 1-13,text,true,,2282,747,20,20,https://secondhand.binaracademy.org/products/39137.json,258,0,0
+1695974733705,1128,List product,200,OK,Seller 1-10,text,true,,12086,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1128,0,0
+1695974733495,1460,post product,201,Created,Seller 1-8,text,true,,2420,134546,20,20,https://secondhand.binaracademy.org/products.json,1460,0,0
+1695974734575,729,Login,200,OK,Seller 1-11,text,true,,2212,888,20,20,https://secondhand.binaracademy.org/users/sign_in.json,729,0,50
+1695974734435,992,update product,200,OK,Seller 1-14,text,true,,2400,222059,20,20,https://secondhand.binaracademy.org/products/39967.json,991,0,0
+1695974732994,2512,List product,200,OK,Seller 1-4,text,true,,11972,674,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2512,0,0
+1695974734265,1429,update product,200,OK,Seller 1-7,text,true,,2394,222041,20,20,https://secondhand.binaracademy.org/products/39967.json,1429,0,0
+1695974734635,1080,update product,200,OK,Seller 1-9,text,true,,2398,222005,20,20,https://secondhand.binaracademy.org/products/39967.json,1079,0,0
+1695974734496,1239,update product,200,OK,Seller 1-5,text,true,,2404,222021,20,20,https://secondhand.binaracademy.org/products/39967.json,1239,0,0
+1695974734740,1041,Get product,200,OK,Seller 1-16,text,true,,2264,735,20,20,https://secondhand.binaracademy.org/products/39137.json,1041,0,0
+1695974734736,1060,List product,200,OK,Seller 1-1,text,true,,12071,796,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1060,0,0
+1695974734156,1868,Delete product,200,OK,Seller 1-3,text,true,,32977,614,20,20,https://secondhand.binaracademy.org/,1852,0,599
+1695974734156,1968,Delete product,200,OK,Seller 1-2,text,true,,32987,594,20,20,https://secondhand.binaracademy.org/,1949,0,623
+1695974734956,1248,List product,200,OK,Seller 1-8,text,true,,12088,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1248,0,0
+1695974734833,1521,Get product,200,OK,Seller 1-10,text,true,,2273,731,20,20,https://secondhand.binaracademy.org/products/39137.json,1521,0,0
+1695974734657,1847,update product,200,OK,Seller 1-6,text,true,,2418,222019,20,20,https://secondhand.binaracademy.org/products/39967.json,1847,0,0
+1695974734755,1790,update product,200,OK,Seller 1-12,text,true,,2402,222049,20,20,https://secondhand.binaracademy.org/products/39967.json,1789,0,0
+1695974734740,1874,post product,201,Created,Seller 1-19,text,true,,2410,134547,20,20,https://secondhand.binaracademy.org/products.json,1874,0,0
+1695974735506,1269,Get product,200,OK,Seller 1-4,text,true,,2172,617,20,20,https://secondhand.binaracademy.org/products/39137.json,1269,0,0
+1695974736125,732,Login,200,OK,Seller 1-2,text,true,,2196,906,20,20,https://secondhand.binaracademy.org/users/sign_in.json,732,0,59
+1695974734618,2256,Delete product,200,OK,Seller 1-17,text,true,,32965,604,20,20,https://secondhand.binaracademy.org/,2240,0,1179
+1695974735304,1641,post product,201,Created,Seller 1-11,text,true,,2414,134599,20,20,https://secondhand.binaracademy.org/products.json,1641,0,0
+1695974736204,781,Get product,200,OK,Seller 1-8,text,true,,2261,733,20,20,https://secondhand.binaracademy.org/products/39137.json,781,0,0
+1695974731515,5545,Login,200,OK,Seller 1-18,text,true,,2190,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,5545,0,3060
+1695974736615,459,List product,200,OK,Seller 1-19,text,true,,12069,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,459,0,0
+1695974735781,1493,update product,500,Internal Server Error,Seller 1-16,text,false,,380,222021,20,20,https://secondhand.binaracademy.org/products/39967.json,1493,0,0
+1695974734833,2501,update product,500,Internal Server Error,Seller 1-13,text,false,,380,222049,20,20,https://secondhand.binaracademy.org/products/39967.json,2501,0,0
+1695974735695,1880,Delete product,200,OK,Seller 1-7,text,true,,32965,710,20,20,https://secondhand.binaracademy.org/,1871,0,990
+1695974736875,709,Login,200,OK,Seller 1-17,text,true,,2210,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,709,0,53
+1695974732994,4673,post product,201,Created,Seller 1-15,text,true,,2301,134438,20,20,https://secondhand.binaracademy.org/products.json,4673,0,0
+1695974736354,1380,update product,200,OK,Seller 1-10,text,true,,2418,222007,20,20,https://secondhand.binaracademy.org/products/39967.json,1380,0,0
+1695974736945,809,List product,200,OK,Seller 1-11,text,true,,12084,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,809,0,0
+1695974735715,2101,Delete product,200,OK,Seller 1-9,text,true,,32983,714,20,20,https://secondhand.binaracademy.org/,2090,0,990
+1695974737075,751,Get product,200,OK,Seller 1-19,text,true,,2280,721,20,20,https://secondhand.binaracademy.org/products/39137.json,751,0,0
+1695974737575,311,Login,200,OK,Seller 1-7,text,true,,2206,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,311,0,60
+1695974737754,317,Get product,200,OK,Seller 1-11,text,true,,2275,729,20,20,https://secondhand.binaracademy.org/products/39137.json,317,0,0
+1695974737817,262,Login,200,OK,Seller 1-9,text,true,,2196,902,20,20,https://secondhand.binaracademy.org/users/sign_in.json,262,0,69
+1695974736857,1287,post product,201,Created,Seller 1-2,text,true,,2420,134580,20,20,https://secondhand.binaracademy.org/products.json,1287,0,0
+1695974735797,2412,Get product,200,OK,Seller 1-1,text,true,,2261,723,20,20,https://secondhand.binaracademy.org/products/39137.json,2412,0,0
+1695974736985,1365,update product,500,Internal Server Error,Seller 1-8,text,false,,380,222035,20,20,https://secondhand.binaracademy.org/products/39967.json,1365,0,0
+1695974736505,1852,Delete product,200,OK,Seller 1-6,text,true,,32539,740,20,20,https://secondhand.binaracademy.org/,1845,0,1382
+1695974737584,789,post product,201,Created,Seller 1-17,text,true,,2428,134561,20,20,https://secondhand.binaracademy.org/products.json,789,0,0
+1695974729089,9306,Delete product,200,OK,Seller 1-20,text,true,,32971,600,20,20,https://secondhand.binaracademy.org/,8496,0,5506
+1695974737827,755,update product,200,OK,Seller 1-19,text,true,,2410,222067,20,20,https://secondhand.binaracademy.org/products/39967.json,755,0,0
+1695974737274,1350,Delete product,200,OK,Seller 1-16,text,true,,32975,708,20,20,https://secondhand.binaracademy.org/,1329,0,639
+1695974738144,607,List product,200,OK,Seller 1-2,text,true,,12074,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,607,0,0
+1695974737334,1430,Delete product,200,OK,Seller 1-13,text,true,,32971,726,20,20,https://secondhand.binaracademy.org/,1407,0,616
+1695974737886,1128,post product,201,Created,Seller 1-7,text,true,,2410,134611,20,20,https://secondhand.binaracademy.org/products.json,1128,0,0
+1695974738374,760,List product,200,OK,Seller 1-17,text,true,,12091,794,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,760,0,0
+1695974738358,788,Login,200,OK,Seller 1-6,text,true,,2202,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,788,0,56
+1695974738395,769,Login,200,OK,Seller 1-20,text,true,,2200,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,769,0,59
+1695974738625,581,Login,200,OK,Seller 1-16,text,true,,2192,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,581,0,60
+1695974738751,482,Get product,200,OK,Seller 1-2,text,true,,2277,719,20,20,https://secondhand.binaracademy.org/products/39137.json,482,0,0
+1695974737060,2238,post product,201,Created,Seller 1-18,text,true,,2430,134547,20,20,https://secondhand.binaracademy.org/products.json,2238,0,0
+1695974738071,1284,update product,500,Internal Server Error,Seller 1-11,text,false,,380,221999,20,20,https://secondhand.binaracademy.org/products/39967.json,1284,0,0
+1695974738765,619,Login,200,OK,Seller 1-13,text,true,,2216,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,619,0,59
+1695974738080,1346,post product,201,Created,Seller 1-9,text,true,,2426,134598,20,20,https://secondhand.binaracademy.org/products.json,1346,0,0
+1695974739014,640,List product,200,OK,Seller 1-7,text,true,,12080,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,640,0,0
+1695974739135,569,Get product,200,OK,Seller 1-17,text,true,,2266,743,20,20,https://secondhand.binaracademy.org/products/39137.json,569,0,0
+1695974738209,1581,update product,200,OK,Seller 1-1,text,true,,2430,221975,20,20,https://secondhand.binaracademy.org/products/39967.json,1581,0,0
+1695974735735,4070,Delete product,200,OK,Seller 1-5,text,true,,32945,720,20,20,https://secondhand.binaracademy.org/,3572,0,2393
+1695974739165,899,post product,201,Created,Seller 1-20,text,true,,2408,134557,20,20,https://secondhand.binaracademy.org/products.json,899,0,0
+1695974739146,977,post product,201,Created,Seller 1-6,text,true,,2418,134622,20,20,https://secondhand.binaracademy.org/products.json,977,0,0
+1695974736775,3349,update product,500,Internal Server Error,Seller 1-4,text,false,,380,221929,20,20,https://secondhand.binaracademy.org/products/39967.json,3348,0,0
+1695974739233,951,update product,200,OK,Seller 1-2,text,true,,2408,222071,20,20,https://secondhand.binaracademy.org/products/39967.json,951,0,0
+1695974737668,2536,List product,200,OK,Seller 1-15,text,true,,11961,666,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2536,0,0
+1695974739426,808,List product,200,OK,Seller 1-9,text,true,,12086,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,808,0,0
+1695974739655,709,Get product,200,OK,Seller 1-7,text,true,,2292,725,20,20,https://secondhand.binaracademy.org/products/39137.json,709,0,0
+1695974739206,1178,post product,201,Created,Seller 1-16,text,true,,2408,134597,20,20,https://secondhand.binaracademy.org/products.json,1178,0,0
+1695974739805,699,Login,200,OK,Seller 1-5,text,true,,2188,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,699,0,49
+1695974740064,511,List product,200,OK,Seller 1-20,text,true,,12069,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,511,0,0
+1695974740124,538,List product,200,OK,Seller 1-6,text,true,,12098,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,538,0,0
+1695974739385,1297,post product,201,Created,Seller 1-13,text,true,,2424,134618,20,20,https://secondhand.binaracademy.org/products.json,1297,0,0
+1695974736025,4667,Login,200,OK,Seller 1-3,text,true,,2220,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,4667,0,3731
+1695974740235,519,Get product,200,OK,Seller 1-9,text,true,,2269,731,20,20,https://secondhand.binaracademy.org/products/39137.json,519,0,0
+1695974739356,1538,Delete product,200,OK,Seller 1-11,text,true,,32973,726,20,20,https://secondhand.binaracademy.org/,1520,0,829
+1695974740204,711,Get product,200,OK,Seller 1-15,text,true,,2152,613,20,20,https://secondhand.binaracademy.org/products/39137.json,711,0,0
+1695974740384,590,List product,200,OK,Seller 1-16,text,true,,12094,774,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,590,0,0
+1695974740575,419,Get product,200,OK,Seller 1-20,text,true,,2280,721,20,20,https://secondhand.binaracademy.org/products/39137.json,419,0,0
+1695974740662,642,Get product,200,OK,Seller 1-6,text,true,,2275,743,20,20,https://secondhand.binaracademy.org/products/39137.json,642,0,0
+1695974740682,683,List product,200,OK,Seller 1-13,text,true,,12080,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,683,0,0
+1695974739704,1681,update product,200,OK,Seller 1-17,text,true,,2400,222013,20,20,https://secondhand.binaracademy.org/products/39967.json,1681,0,0
+1695974740364,1338,update product,200,OK,Seller 1-7,text,true,,2406,222059,20,20,https://secondhand.binaracademy.org/products/39967.json,1338,0,0
+1695974740124,1590,Delete product,200,OK,Seller 1-4,text,true,,32977,616,20,20,https://secondhand.binaracademy.org/,1579,0,602
+1695974740895,849,Login,200,OK,Seller 1-11,text,true,,2200,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,849,0,56
+1695974740504,1280,post product,201,Created,Seller 1-5,text,true,,2418,134581,20,20,https://secondhand.binaracademy.org/products.json,1280,0,0
+1695974740975,859,Get product,200,OK,Seller 1-16,text,true,,2282,739,20,20,https://secondhand.binaracademy.org/products/39137.json,859,0,0
+1695974741366,532,Get product,200,OK,Seller 1-13,text,true,,2270,725,20,20,https://secondhand.binaracademy.org/products/39137.json,532,0,0
+1695974738582,3387,Delete product,200,OK,Seller 1-19,text,true,,32935,726,20,20,https://secondhand.binaracademy.org/,3147,0,1683
+1695974741304,721,update product,500,Internal Server Error,Seller 1-6,text,false,,380,222089,20,20,https://secondhand.binaracademy.org/products/39967.json,721,0,0
+1695974736545,5659,Delete product,200,OK,Seller 1-12,text,true,,32965,724,20,20,https://secondhand.binaracademy.org/,3677,0,2400
+1695974737735,4485,Delete product,200,OK,Seller 1-10,text,true,,32971,734,20,20,https://secondhand.binaracademy.org/,4475,0,3990
+1695974741714,520,Login,200,OK,Seller 1-4,text,true,,2200,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,520,0,56
+1695974740755,1499,update product,500,Internal Server Error,Seller 1-9,text,false,,380,222073,20,20,https://secondhand.binaracademy.org/products/39967.json,1499,0,0
+1695974741970,319,Login,200,OK,Seller 1-19,text,true,,2198,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,318,0,55
+1695974741785,541,List product,200,OK,Seller 1-5,text,true,,12098,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,541,0,0
+1695974735427,6899,Delete product,200,OK,Seller 1-14,text,true,,32937,722,20,20,https://secondhand.binaracademy.org/,5718,0,4117
+1695974740994,1351,update product,200,OK,Seller 1-20,text,true,,2396,221987,20,20,https://secondhand.binaracademy.org/products/39967.json,1351,0,0
+1695974742221,166,Login,200,OK,Seller 1-10,text,true,,2208,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,166,0,68
+1695974742205,186,Login,200,OK,Seller 1-12,text,true,,2204,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,186,0,50
+1695974741744,946,post product,201,Created,Seller 1-11,text,true,,2412,134569,20,20,https://secondhand.binaracademy.org/products.json,946,0,0
+1695974742326,378,Get product,200,OK,Seller 1-5,text,true,,2273,743,20,20,https://secondhand.binaracademy.org/products/39137.json,378,0,0
+1695974742326,499,Login,200,OK,Seller 1-14,text,true,,2196,888,20,20,https://secondhand.binaracademy.org/users/sign_in.json,499,0,58
+1695974741898,966,update product,500,Internal Server Error,Seller 1-13,text,false,,380,222077,20,20,https://secondhand.binaracademy.org/products/39967.json,966,0,0
+1695974738350,4704,Delete product,200,OK,Seller 1-8,text,true,,32965,712,20,20,https://secondhand.binaracademy.org/,3574,0,2256
+1695974742234,853,post product,201,Created,Seller 1-4,text,true,,2420,134623,20,20,https://secondhand.binaracademy.org/products.json,853,0,0
+1695974741834,1311,update product,200,OK,Seller 1-16,text,true,,2406,222089,20,20,https://secondhand.binaracademy.org/products/39967.json,1310,0,0
+1695974742289,910,post product,201,Created,Seller 1-19,text,true,,2422,134576,20,20,https://secondhand.binaracademy.org/products.json,910,0,0
+1695974742690,574,List product,200,OK,Seller 1-11,text,true,,12078,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,574,0,0
+1695974742391,1073,post product,201,Created,Seller 1-12,text,true,,2406,134627,20,20,https://secondhand.binaracademy.org/products.json,1073,0,0
+1695974739791,3757,Delete product,200,OK,Seller 1-1,text,true,,32969,746,20,20,https://secondhand.binaracademy.org/,3073,0,1184
+1695974742387,1177,post product,201,Created,Seller 1-10,text,true,,2416,134559,20,20,https://secondhand.binaracademy.org/products.json,1177,0,0
+1695974743087,517,List product,200,OK,Seller 1-4,text,true,,12083,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,517,0,0
+1695974743055,570,Login,200,OK,Seller 1-8,text,true,,2188,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,570,0,50
+1695974743200,475,List product,200,OK,Seller 1-19,text,true,,12087,788,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,475,0,0
+1695974743264,440,Get product,200,OK,Seller 1-11,text,true,,2272,723,20,20,https://secondhand.binaracademy.org/products/39137.json,440,0,0
+1695974739299,4461,List product,200,OK,Seller 1-18,text,true,,12082,802,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,4461,0,0
+1695974743464,320,List product,200,OK,Seller 1-12,text,true,,12067,778,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,320,0,0
+1695974742825,1099,post product,201,Created,Seller 1-14,text,true,,2414,134535,20,20,https://secondhand.binaracademy.org/products.json,1099,0,0
+1695974743564,461,List product,200,OK,Seller 1-10,text,true,,12070,788,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,461,0,0
+1695974741385,2640,Delete product,200,OK,Seller 1-17,text,true,,32973,722,20,20,https://secondhand.binaracademy.org/,2620,0,2059
+1695974743605,445,Get product,200,OK,Seller 1-4,text,true,,2268,735,20,20,https://secondhand.binaracademy.org/products/39137.json,445,0,0
+1695974743675,392,Get product,200,OK,Seller 1-19,text,true,,2267,739,20,20,https://secondhand.binaracademy.org/products/39137.json,392,0,0
+1695974742704,1460,update product,200,OK,Seller 1-5,text,true,,2414,222037,20,20,https://secondhand.binaracademy.org/products/39967.json,1460,0,0
+1695974743784,406,Get product,200,OK,Seller 1-12,text,true,,2265,719,20,20,https://secondhand.binaracademy.org/products/39137.json,406,0,0
+1695974743924,328,List product,200,OK,Seller 1-14,text,true,,12084,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,328,0,0
+1695974742254,2171,Delete product,200,OK,Seller 1-9,text,true,,32935,720,20,20,https://secondhand.binaracademy.org/,2145,0,1721
+1695974743625,859,post product,201,Created,Seller 1-8,text,true,,2396,134581,20,20,https://secondhand.binaracademy.org/products.json,859,0,0
+1695974744025,489,Get product,200,OK,Seller 1-10,text,true,,2268,715,20,20,https://secondhand.binaracademy.org/products/39137.json,489,0,0
+1695974741703,2864,Delete product,200,OK,Seller 1-7,text,true,,32965,722,20,20,https://secondhand.binaracademy.org/,2426,0,988
+1695974743760,841,Get product,200,OK,Seller 1-18,text,true,,2284,727,20,20,https://secondhand.binaracademy.org/products/39137.json,841,0,0
+1695974742865,1736,Delete product,200,OK,Seller 1-13,text,true,,32975,714,20,20,https://secondhand.binaracademy.org/,1727,0,1110
+1695974744025,597,Login,200,OK,Seller 1-17,text,true,,2196,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,597,0,80
+1695974744253,451,Get product,200,OK,Seller 1-14,text,true,,2287,729,20,20,https://secondhand.binaracademy.org/products/39137.json,451,0,0
+1695974744067,708,update product,500,Internal Server Error,Seller 1-19,text,false,,380,222011,20,20,https://secondhand.binaracademy.org/products/39967.json,707,0,0
+1695974743704,1301,update product,200,OK,Seller 1-11,text,true,,2418,222069,20,20,https://secondhand.binaracademy.org/products/39967.json,1301,0,0
+1695974744484,611,List product,200,OK,Seller 1-8,text,true,,12090,768,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,611,0,0
+1695974744050,1064,update product,200,OK,Seller 1-4,text,true,,2398,222065,20,20,https://secondhand.binaracademy.org/products/39967.json,1064,0,0
+1695974740915,4249,update product,200,OK,Seller 1-15,text,true,,2289,221929,20,20,https://secondhand.binaracademy.org/products/39967.json,4249,0,0
+1695974744601,687,Login,200,OK,Seller 1-13,text,true,,2192,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,687,0,54
+1695974742025,3279,Delete product,200,OK,Seller 1-6,text,true,,32939,726,20,20,https://secondhand.binaracademy.org/,3261,0,2543
+1695974744190,1244,update product,500,Internal Server Error,Seller 1-12,text,false,,380,221999,20,20,https://secondhand.binaracademy.org/products/39967.json,1243,0,0
+1695974744514,1000,update product,200,OK,Seller 1-10,text,true,,2402,222075,20,20,https://secondhand.binaracademy.org/products/39967.json,1000,0,0
+1695974744622,1082,post product,201,Created,Seller 1-17,text,true,,2408,134583,20,20,https://secondhand.binaracademy.org/products.json,1082,0,0
+1695974744704,1302,update product,500,Internal Server Error,Seller 1-14,text,false,,380,222081,20,20,https://secondhand.binaracademy.org/products/39967.json,1301,0,0
+1695974742345,3661,Delete product,200,OK,Seller 1-20,text,true,,32979,718,20,20,https://secondhand.binaracademy.org/,3646,0,2539
+1695974744567,1458,Login,200,OK,Seller 1-7,text,true,,2210,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1458,0,458
+1695974745095,1040,Get product,200,OK,Seller 1-8,text,true,,2282,735,20,20,https://secondhand.binaracademy.org/products/39137.json,1040,0,0
+1695974744601,1577,update product,200,OK,Seller 1-18,text,true,,2406,222021,20,20,https://secondhand.binaracademy.org/products/39967.json,1577,0,0
+1695974743549,2695,Login,200,OK,Seller 1-1,text,true,,2194,888,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2695,0,1106
+1695974745305,1005,Login,200,OK,Seller 1-6,text,true,,2196,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1005,0,59
+1695974744164,2164,Delete product,200,OK,Seller 1-5,text,true,,32969,736,20,20,https://secondhand.binaracademy.org/,2153,0,892
+1695974743145,3460,Delete product,200,OK,Seller 1-16,text,true,,32967,722,20,20,https://secondhand.binaracademy.org/,3443,0,2140
+1695974746006,618,Login,200,OK,Seller 1-20,text,true,,2206,898,20,20,https://secondhand.binaracademy.org/users/sign_in.json,618,0,58
+1695974744425,2320,Login,200,OK,Seller 1-9,text,true,,2206,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2320,0,445
+1695974744775,1986,Delete product,200,OK,Seller 1-19,text,true,,32973,718,20,20,https://secondhand.binaracademy.org/,1971,0,790
+1695974745704,1070,List product,200,OK,Seller 1-17,text,true,,12082,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1070,0,0
+1695974745114,2210,Delete product,200,OK,Seller 1-4,text,true,,32529,714,20,20,https://secondhand.binaracademy.org/,2198,0,1090
+1695974745288,2038,post product,201,Created,Seller 1-13,text,true,,2410,134534,20,20,https://secondhand.binaracademy.org/products.json,2038,0,0
+1695974745006,2330,Delete product,200,OK,Seller 1-11,text,true,,32549,734,20,20,https://secondhand.binaracademy.org/,2322,0,1130
+1695974745515,1869,Delete product,200,OK,Seller 1-10,text,true,,32537,718,20,20,https://secondhand.binaracademy.org/,1847,0,880
+1695974746310,1306,post product,201,Created,Seller 1-6,text,true,,2422,134616,20,20,https://secondhand.binaracademy.org/products.json,1306,0,0
+1695974746328,1317,Login,200,OK,Seller 1-5,text,true,,2200,888,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1317,0,67
+1695974746774,901,Get product,200,OK,Seller 1-17,text,true,,2263,727,20,20,https://secondhand.binaracademy.org/products/39137.json,901,0,0
+1695974746761,936,Login,200,OK,Seller 1-19,text,true,,2188,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,936,0,54
+1695974746006,1868,Delete product,200,OK,Seller 1-14,text,true,,32973,738,20,20,https://secondhand.binaracademy.org/,1853,0,797
+1695974746605,1459,Login,200,OK,Seller 1-16,text,true,,2202,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1459,0,450
+1695974740185,8029,Delete product,200,OK,Seller 1-2,text,true,,32941,724,20,20,https://secondhand.binaracademy.org/,7309,0,4721
+1695974746135,2130,update product,200,OK,Seller 1-8,text,true,,2400,222049,20,20,https://secondhand.binaracademy.org/products/39967.json,2129,0,0
+1695974746624,1681,post product,201,Created,Seller 1-20,text,true,,2412,134611,20,20,https://secondhand.binaracademy.org/products.json,1681,0,0
+1695974747326,998,List product,200,OK,Seller 1-13,text,true,,12078,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,998,0,0
+1695974747324,1016,Login,200,OK,Seller 1-4,text,true,,2204,876,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1016,0,61
+1695974747337,1018,Login,200,OK,Seller 1-11,text,true,,2190,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1018,0,68
+1695974748215,234,Login,200,OK,Seller 1-2,text,true,,2192,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,234,0,50
+1695974747617,851,List product,200,OK,Seller 1-6,text,true,,12074,788,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,851,0,0
+1695974747385,1109,Login,200,OK,Seller 1-10,text,true,,2196,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1109,0,60
+1695974748305,247,List product,200,OK,Seller 1-20,text,true,,12090,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,247,0,0
+1695974748324,536,Get product,200,OK,Seller 1-13,text,true,,2276,723,20,20,https://secondhand.binaracademy.org/products/39137.json,536,0,0
+1695974747645,1319,post product,201,Created,Seller 1-5,text,true,,2410,134605,20,20,https://secondhand.binaracademy.org/products.json,1319,0,0
+1695974747697,1327,post product,201,Created,Seller 1-19,text,true,,2426,134617,20,20,https://secondhand.binaracademy.org/products.json,1327,0,0
+1695974748468,586,Get product,200,OK,Seller 1-6,text,true,,2280,719,20,20,https://secondhand.binaracademy.org/products/39137.json,586,0,0
+1695974746025,3074,post product,201,Created,Seller 1-7,text,true,,2424,134597,20,20,https://secondhand.binaracademy.org/products.json,3074,0,0
+1695974747875,1233,Login,200,OK,Seller 1-14,text,true,,2200,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1233,0,466
+1695974745164,3962,Delete product,200,OK,Seller 1-15,text,true,,32981,604,20,20,https://secondhand.binaracademy.org/,3730,0,1461
+1695974748353,1002,post product,201,Created,Seller 1-4,text,true,,2422,134618,20,20,https://secondhand.binaracademy.org/products.json,1002,0,0
+1695974748552,882,Get product,200,OK,Seller 1-20,text,true,,2278,735,20,20,https://secondhand.binaracademy.org/products/39137.json,882,0,0
+1695974748355,1139,post product,201,Created,Seller 1-11,text,true,,2410,134523,20,20,https://secondhand.binaracademy.org/products.json,1139,0,0
+1695974746244,3279,post product,201,Created,Seller 1-1,text,true,,2428,134608,20,20,https://secondhand.binaracademy.org/products.json,3279,0,0
+1695974747676,2009,update product,200,OK,Seller 1-17,text,true,,2406,222007,20,20,https://secondhand.binaracademy.org/products/39967.json,2009,0,0
+1695974748450,1334,post product,201,Created,Seller 1-2,text,true,,2402,134525,20,20,https://secondhand.binaracademy.org/products.json,1334,0,0
+1695974748964,1028,List product,200,OK,Seller 1-5,text,true,,12071,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1028,0,0
+1695974749024,981,List product,200,OK,Seller 1-19,text,true,,12072,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,980,0,0
+1695974748494,1680,post product,201,Created,Seller 1-10,text,true,,2416,134544,20,20,https://secondhand.binaracademy.org/products.json,1680,0,0
+1695974749126,1244,Login,200,OK,Seller 1-15,text,true,,2204,902,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1244,0,49
+1695974749355,1236,List product,200,OK,Seller 1-4,text,true,,12096,794,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1236,0,0
+1695974749494,1301,List product,200,OK,Seller 1-11,text,true,,12086,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1301,0,0
+1695974748860,1954,update product,200,OK,Seller 1-13,text,true,,2392,222043,20,20,https://secondhand.binaracademy.org/products/39967.json,1954,0,0
+1695974749784,1159,List product,200,OK,Seller 1-2,text,true,,12090,774,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1159,0,0
+1695974749055,1962,update product,200,OK,Seller 1-6,text,true,,2392,222057,20,20,https://secondhand.binaracademy.org/products/39967.json,1961,0,0
+1695974749992,1078,Get product,200,OK,Seller 1-5,text,true,,2269,723,20,20,https://secondhand.binaracademy.org/products/39137.json,1078,0,0
+1695974750005,1095,Get product,200,OK,Seller 1-19,text,true,,2271,717,20,20,https://secondhand.binaracademy.org/products/39137.json,1095,0,0
+1695974746745,4421,post product,201,Created,Seller 1-9,text,true,,2416,134626,20,20,https://secondhand.binaracademy.org/products.json,4421,0,0
+1695974745434,5930,Delete product,200,OK,Seller 1-12,text,true,,32961,716,20,20,https://secondhand.binaracademy.org/,5912,0,4620
+1695974750174,1300,List product,200,OK,Seller 1-10,text,true,,12094,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1300,0,0
+1695974750591,952,Get product,200,OK,Seller 1-4,text,true,,2286,741,20,20,https://secondhand.binaracademy.org/products/39137.json,952,0,0
+1695974750795,820,Get product,200,OK,Seller 1-11,text,true,,2271,731,20,20,https://secondhand.binaracademy.org/products/39137.json,820,0,0
+1695974749686,2258,Delete product,200,OK,Seller 1-17,text,true,,32941,728,20,20,https://secondhand.binaracademy.org/,2236,0,1199
+1695974749434,2530,update product,200,OK,Seller 1-20,text,true,,2396,222065,20,20,https://secondhand.binaracademy.org/products/39967.json,2530,0,0
+1695974750944,1084,Get product,200,OK,Seller 1-2,text,true,,2270,735,20,20,https://secondhand.binaracademy.org/products/39137.json,1084,0,0
+1695974750370,1714,post product,201,Created,Seller 1-15,text,true,,2422,134537,20,20,https://secondhand.binaracademy.org/products.json,1714,0,0
+1695974751365,839,Login,200,OK,Seller 1-12,text,true,,2200,880,20,20,https://secondhand.binaracademy.org/users/sign_in.json,839,0,59
+1695974748064,4199,post product,201,Created,Seller 1-16,text,true,,2418,134571,20,20,https://secondhand.binaracademy.org/products.json,4199,0,0
+1695974751474,1060,Get product,200,OK,Seller 1-10,text,true,,2275,739,20,20,https://secondhand.binaracademy.org/products/39137.json,1060,0,0
+1695974750814,1901,Delete product,200,OK,Seller 1-13,text,true,,32975,708,20,20,https://secondhand.binaracademy.org/,1886,0,864
+1695974749099,3655,List product,200,OK,Seller 1-7,text,true,,12090,796,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,3655,0,0
+1695974740693,12081,post product,201,Created,Seller 1-3,text,true,,2418,134604,20,20,https://secondhand.binaracademy.org/products.json,12081,0,0
+1695974751100,1764,update product,500,Internal Server Error,Seller 1-19,text,false,,380,222045,20,20,https://secondhand.binaracademy.org/products/39967.json,1763,0,0
+1695974749524,3430,List product,200,OK,Seller 1-1,text,true,,12078,794,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,3430,0,0
+1695974751945,1027,Login,200,OK,Seller 1-17,text,true,,2188,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1027,0,62
+1695974751166,1948,List product,200,OK,Seller 1-9,text,true,,12084,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1948,0,0
+1695974751017,2152,Delete product,200,OK,Seller 1-6,text,true,,32989,708,20,20,https://secondhand.binaracademy.org/,2142,0,990
+1695974751544,1630,update product,200,OK,Seller 1-4,text,true,,2404,222033,20,20,https://secondhand.binaracademy.org/products/39967.json,1630,0,0
+1695974751070,2124,update product,200,OK,Seller 1-5,text,true,,2392,222073,20,20,https://secondhand.binaracademy.org/products/39967.json,2124,0,0
+1695974752085,1268,List product,200,OK,Seller 1-15,text,true,,12080,788,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1268,0,0
+1695974751615,2069,update product,200,OK,Seller 1-11,text,true,,2394,221985,20,20,https://secondhand.binaracademy.org/products/39967.json,2069,0,0
+1695974746179,7527,Delete product,200,OK,Seller 1-18,text,true,,32967,722,20,20,https://secondhand.binaracademy.org/,5185,0,2765
+1695974752264,1560,List product,200,OK,Seller 1-16,text,true,,12080,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1560,0,0
+1695974752028,1837,update product,200,OK,Seller 1-2,text,true,,2406,222077,20,20,https://secondhand.binaracademy.org/products/39967.json,1837,0,0
+1695974752204,1720,post product,201,Created,Seller 1-12,text,true,,2428,134542,20,20,https://secondhand.binaracademy.org/products.json,1720,0,0
+1695974752715,1249,Login,200,OK,Seller 1-13,text,true,,2208,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1249,0,60
+1695974753169,935,Login,200,OK,Seller 1-6,text,true,,2196,908,20,20,https://secondhand.binaracademy.org/users/sign_in.json,935,0,46
+1695974752754,1385,Get product,200,OK,Seller 1-7,text,true,,2276,735,20,20,https://secondhand.binaracademy.org/products/39137.json,1385,0,0
+1695974753353,861,Get product,200,OK,Seller 1-15,text,true,,2276,725,20,20,https://secondhand.binaracademy.org/products/39137.json,861,0,0
+1695974753114,1180,Get product,200,OK,Seller 1-9,text,true,,2265,729,20,20,https://secondhand.binaracademy.org/products/39137.json,1180,0,0
+1695974752534,1805,update product,200,OK,Seller 1-10,text,true,,2388,222039,20,20,https://secondhand.binaracademy.org/products/39967.json,1805,0,0
+1695974751964,2390,Delete product,200,OK,Seller 1-20,text,true,,32973,718,20,20,https://secondhand.binaracademy.org/,2377,0,1285
+1695974753924,530,List product,200,OK,Seller 1-12,text,true,,12092,794,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,529,0,0
+1695974752972,1592,post product,201,Created,Seller 1-17,text,true,,2408,134530,20,20,https://secondhand.binaracademy.org/products.json,1592,0,0
+1695974753824,840,Get product,200,OK,Seller 1-16,text,true,,2286,725,20,20,https://secondhand.binaracademy.org/products/39137.json,840,0,0
+1695974752864,1901,Delete product,200,OK,Seller 1-19,text,true,,32979,722,20,20,https://secondhand.binaracademy.org/,1880,0,1211
+1695974753707,1087,Login,200,OK,Seller 1-18,text,true,,2196,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1087,0,453
+1695974753964,1061,post product,201,Created,Seller 1-13,text,true,,2422,134541,20,20,https://secondhand.binaracademy.org/products.json,1061,0,0
+1695974752954,2100,Get product,200,OK,Seller 1-1,text,true,,2290,723,20,20,https://secondhand.binaracademy.org/products/39137.json,2100,0,0
+1695974754104,1018,post product,201,Created,Seller 1-6,text,true,,2420,134616,20,20,https://secondhand.binaracademy.org/products.json,1018,0,0
+1695974754354,773,Login,200,OK,Seller 1-20,text,true,,2208,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,773,0,70
+1695974754214,1000,update product,500,Internal Server Error,Seller 1-15,text,false,,380,222043,20,20,https://secondhand.binaracademy.org/products/39967.json,1000,0,0
+1695974748265,6979,Delete product,200,OK,Seller 1-8,text,true,,32975,722,20,20,https://secondhand.binaracademy.org/,6235,0,4319
+1695974754454,829,Get product,200,OK,Seller 1-12,text,true,,2276,737,20,20,https://secondhand.binaracademy.org/products/39137.json,829,0,0
+1695974752774,2580,List product,200,OK,Seller 1-3,text,true,,12094,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2580,0,0
+1695974753865,1579,Delete product,200,OK,Seller 1-2,text,true,,32941,722,20,20,https://secondhand.binaracademy.org/,1560,0,575
+1695974754564,1010,List product,200,OK,Seller 1-17,text,true,,12080,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1010,0,0
+1695974753174,2790,Delete product,200,OK,Seller 1-4,text,true,,32981,720,20,20,https://secondhand.binaracademy.org/,2772,0,1669
+1695974755025,981,List product,200,OK,Seller 1-13,text,true,,12076,788,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,981,0,0
+1695974755126,1027,List product,200,OK,Seller 1-6,text,true,,12086,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1027,0,0
+1695974754339,1968,Delete product,200,OK,Seller 1-10,text,true,,32943,704,20,20,https://secondhand.binaracademy.org/,1937,0,686
+1695974754765,1689,Login,200,OK,Seller 1-19,text,true,,2206,898,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1689,0,449
+1695974755127,1530,post product,201,Created,Seller 1-20,text,true,,2410,134550,20,20,https://secondhand.binaracademy.org/products.json,1530,0,0
+1695974755574,1210,Get product,200,OK,Seller 1-17,text,true,,2276,725,20,20,https://secondhand.binaracademy.org/products/39137.json,1210,0,0
+1695974755354,1520,Get product,200,OK,Seller 1-3,text,true,,2278,739,20,20,https://secondhand.binaracademy.org/products/39137.json,1520,0,0
+1695974756006,957,Get product,200,OK,Seller 1-13,text,true,,2282,721,20,20,https://secondhand.binaracademy.org/products/39137.json,957,0,0
+1695974756164,835,Get product,200,OK,Seller 1-6,text,true,,2277,731,20,20,https://secondhand.binaracademy.org/products/39137.json,835,0,0
+1695974749108,7947,post product,201,Created,Seller 1-14,text,true,,2410,134629,20,20,https://secondhand.binaracademy.org/products.json,7947,0,0
+1695974755054,2058,update product,200,OK,Seller 1-1,text,true,,2396,222037,20,20,https://secondhand.binaracademy.org/products/39967.json,2058,0,0
+1695974755244,1915,Login,200,OK,Seller 1-8,text,true,,2184,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1915,0,451
+1695974756658,576,List product,200,OK,Seller 1-20,text,true,,12081,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,576,0,0
+1695974755283,1972,update product,200,OK,Seller 1-12,text,true,,2400,221983,20,20,https://secondhand.binaracademy.org/products/39967.json,1972,0,0
+1695974757234,190,Get product,200,OK,Seller 1-20,text,true,,2273,733,20,20,https://secondhand.binaracademy.org/products/39137.json,190,0,0
+1695974756307,1168,Login,200,OK,Seller 1-10,text,true,,2192,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1168,0,457
+1695974753195,4399,Delete product,200,OK,Seller 1-5,text,true,,32959,708,20,20,https://secondhand.binaracademy.org/,3076,0,1469
+1695974753684,3960,Delete product,200,OK,Seller 1-11,text,true,,32953,710,20,20,https://secondhand.binaracademy.org/,3673,0,1789
+1695974755214,2465,Delete product,200,OK,Seller 1-15,text,true,,32933,720,20,20,https://secondhand.binaracademy.org/,2431,0,2041
+1695974756784,983,update product,500,Internal Server Error,Seller 1-17,text,false,,380,222023,20,20,https://secondhand.binaracademy.org/products/39967.json,983,0,0
+1695974756963,804,update product,200,OK,Seller 1-13,text,true,,2390,221989,20,20,https://secondhand.binaracademy.org/products/39967.json,804,0,0
+1695974754794,3062,post product,201,Created,Seller 1-18,text,true,,2416,134565,20,20,https://secondhand.binaracademy.org/products.json,3062,0,0
+1695974757644,240,Login,200,OK,Seller 1-11,text,true,,2196,904,20,20,https://secondhand.binaracademy.org/users/sign_in.json,240,0,60
+1695974757000,1004,update product,200,OK,Seller 1-6,text,true,,2402,222051,20,20,https://secondhand.binaracademy.org/products/39967.json,1004,0,0
+1695974757112,907,Delete product,200,OK,Seller 1-1,text,true,,32971,712,20,20,https://secondhand.binaracademy.org/,893,0,290
+1695974754294,3748,update product,200,OK,Seller 1-9,text,true,,2398,222059,20,20,https://secondhand.binaracademy.org/products/39967.json,3748,0,0
+1695974758019,125,Login,200,OK,Seller 1-1,text,true,,2198,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,125,0,57
+1695974755444,2809,Login,200,OK,Seller 1-2,text,true,,2208,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2809,0,1463
+1695974757055,1237,List product,200,OK,Seller 1-14,text,true,,12083,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1237,0,0
+1695974755965,2419,Login,200,OK,Seller 1-4,text,true,,2204,900,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2419,0,471
+1695974757767,637,Delete product,200,OK,Seller 1-17,text,true,,32985,720,20,20,https://secondhand.binaracademy.org/,619,0,309
+1695974757884,721,post product,201,Created,Seller 1-11,text,true,,2416,134547,20,20,https://secondhand.binaracademy.org/products.json,721,0,0
+1695974757425,1479,update product,200,OK,Seller 1-20,text,true,,2406,222037,20,20,https://secondhand.binaracademy.org/products/39967.json,1479,0,0
+1695974758404,519,Login,200,OK,Seller 1-17,text,true,,2210,904,20,20,https://secondhand.binaracademy.org/users/sign_in.json,519,0,70
+1695974756454,2553,post product,201,Created,Seller 1-19,text,true,,2412,134584,20,20,https://secondhand.binaracademy.org/products.json,2553,0,0
+1695974757856,1188,List product,200,OK,Seller 1-18,text,true,,12069,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1188,0,0
+1695974758605,699,List product,200,OK,Seller 1-11,text,true,,12085,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,699,0,0
+1695974758292,1156,Get product,200,OK,Seller 1-14,text,true,,2276,735,20,20,https://secondhand.binaracademy.org/products/39137.json,1156,0,0
+1695974758145,1488,post product,201,Created,Seller 1-1,text,true,,2424,134627,20,20,https://secondhand.binaracademy.org/products.json,1488,0,0
+1695974757767,1957,Delete product,200,OK,Seller 1-13,text,true,,32967,712,20,20,https://secondhand.binaracademy.org/,1937,0,730
+1695974759304,490,Get product,200,OK,Seller 1-11,text,true,,2279,737,20,20,https://secondhand.binaracademy.org/products/39137.json,490,0,0
+1695974759044,808,Get product,200,OK,Seller 1-18,text,true,,2264,721,20,20,https://secondhand.binaracademy.org/products/39137.json,808,0,0
+1695974757679,2245,Login,200,OK,Seller 1-15,text,true,,2208,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2245,0,1476
+1695974759634,319,List product,200,OK,Seller 1-1,text,true,,12078,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,319,0,0
+1695974759007,1067,List product,200,OK,Seller 1-19,text,true,,12086,778,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1067,0,0
+1695974758904,1244,Delete product,200,OK,Seller 1-20,text,true,,32545,722,20,20,https://secondhand.binaracademy.org/,1231,0,483
+1695974758924,1239,post product,201,Created,Seller 1-17,text,true,,2424,134624,20,20,https://secondhand.binaracademy.org/products.json,1239,0,0
+1695974759724,520,Login,200,OK,Seller 1-13,text,true,,2212,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,520,0,50
+1695974754139,6235,update product,200,OK,Seller 1-7,text,true,,2404,222083,20,20,https://secondhand.binaracademy.org/products/39967.json,6235,0,0
+1695974757594,2794,Login,200,OK,Seller 1-5,text,true,,2212,878,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2794,0,2040
+1695974759954,539,Get product,200,OK,Seller 1-1,text,true,,2265,723,20,20,https://secondhand.binaracademy.org/products/39137.json,539,0,0
+1695974757159,3333,post product,201,Created,Seller 1-8,text,true,,2408,134604,20,20,https://secondhand.binaracademy.org/products.json,3333,0,0
+1695974758005,2599,Delete product,200,OK,Seller 1-6,text,true,,32969,718,20,20,https://secondhand.binaracademy.org/,2129,0,559
+1695974757475,3216,post product,201,Created,Seller 1-10,text,true,,2414,134570,20,20,https://secondhand.binaracademy.org/products.json,3216,0,0
+1695974758384,2420,post product,201,Created,Seller 1-4,text,true,,2426,134624,20,20,https://secondhand.binaracademy.org/products.json,2420,0,0
+1695974759448,1535,update product,500,Internal Server Error,Seller 1-14,text,false,,380,222003,20,20,https://secondhand.binaracademy.org/products/39967.json,1535,0,0
+1695974760075,970,Get product,200,OK,Seller 1-19,text,true,,2282,731,20,20,https://secondhand.binaracademy.org/products/39137.json,970,0,0
+1695974759794,1290,update product,200,OK,Seller 1-11,text,true,,2396,222033,20,20,https://secondhand.binaracademy.org/products/39967.json,1290,0,0
+1695974760165,950,List product,200,OK,Seller 1-17,text,true,,12090,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,950,0,0
+1695974758253,3390,post product,201,Created,Seller 1-2,text,true,,2414,134568,20,20,https://secondhand.binaracademy.org/products.json,3390,0,0
+1695974760245,1470,post product,201,Created,Seller 1-13,text,true,,2414,134554,20,20,https://secondhand.binaracademy.org/products.json,1470,0,0
+1695974760494,1241,List product,200,OK,Seller 1-8,text,true,,12081,774,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1241,0,0
+1695974760692,1121,List product,200,OK,Seller 1-10,text,true,,12077,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1121,0,0
+1695974759853,2121,update product,200,OK,Seller 1-18,text,true,,2414,222051,20,20,https://secondhand.binaracademy.org/products/39967.json,2121,0,0
+1695974760493,1641,update product,500,Internal Server Error,Seller 1-1,text,false,,380,222079,20,20,https://secondhand.binaracademy.org/products/39967.json,1641,0,0
+1695974761115,1140,Get product,200,OK,Seller 1-17,text,true,,2263,735,20,20,https://secondhand.binaracademy.org/products/39137.json,1140,0,0
+1695974759925,2367,post product,201,Created,Seller 1-15,text,true,,2404,134586,20,20,https://secondhand.binaracademy.org/products.json,2367,0,0
+1695974760605,1720,Login,200,OK,Seller 1-6,text,true,,2190,888,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1720,0,471
+1695974761715,710,List product,200,OK,Seller 1-13,text,true,,12088,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,710,0,0
+1695974760375,2139,Delete product,200,OK,Seller 1-7,text,true,,32939,720,20,20,https://secondhand.binaracademy.org/,2115,0,799
+1695974761735,987,Get product,200,OK,Seller 1-8,text,true,,2292,733,20,20,https://secondhand.binaracademy.org/products/39137.json,987,0,0
+1695974761830,917,Get product,200,OK,Seller 1-10,text,true,,2278,729,20,20,https://secondhand.binaracademy.org/products/39137.json,917,0,0
+1695974760985,1803,Delete product,200,OK,Seller 1-14,text,true,,32961,720,20,20,https://secondhand.binaracademy.org/,1787,0,1171
+1695974762425,417,Get product,200,OK,Seller 1-13,text,true,,2284,733,20,20,https://secondhand.binaracademy.org/products/39137.json,417,0,0
+1695974761975,1150,Delete product,200,OK,Seller 1-18,text,true,,32935,730,20,20,https://secondhand.binaracademy.org/,1130,0,630
+1695974761644,1580,List product,200,OK,Seller 1-2,text,true,,12075,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1580,0,0
+1695974762292,943,List product,200,OK,Seller 1-15,text,true,,12093,776,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,943,0,0
+1695974762788,493,Login,200,OK,Seller 1-14,text,true,,2194,882,20,20,https://secondhand.binaracademy.org/users/sign_in.json,493,0,54
+1695974762135,1192,Delete product,200,OK,Seller 1-1,text,true,,32975,716,20,20,https://secondhand.binaracademy.org/,1181,0,669
+1695974761045,2577,update product,200,OK,Seller 1-19,text,true,,2406,221989,20,20,https://secondhand.binaracademy.org/products/39967.json,2576,0,0
+1695974762255,1460,update product,200,OK,Seller 1-17,text,true,,2414,222057,20,20,https://secondhand.binaracademy.org/products/39967.json,1460,0,0
+1695974758043,5831,Delete product,200,OK,Seller 1-9,text,true,,32975,720,20,20,https://secondhand.binaracademy.org/,4866,0,1961
+1695974756874,7008,update product,200,OK,Seller 1-3,text,true,,2404,222065,20,20,https://secondhand.binaracademy.org/products/39967.json,7008,0,0
+1695974762723,1172,update product,200,OK,Seller 1-8,text,true,,2400,222019,20,20,https://secondhand.binaracademy.org/products/39967.json,1172,0,0
+1695974762842,1115,update product,200,OK,Seller 1-13,text,true,,2398,222071,20,20,https://secondhand.binaracademy.org/products/39967.json,1114,0,0
+1695974763224,771,Get product,200,OK,Seller 1-2,text,true,,2284,727,20,20,https://secondhand.binaracademy.org/products/39137.json,771,0,0
+1695974760805,3290,List product,200,OK,Seller 1-4,text,true,,12096,798,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,3290,0,0
+1695974763875,267,Login,200,OK,Seller 1-9,text,true,,2194,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,267,0,60
+1695974762514,1780,Login,200,OK,Seller 1-7,text,true,,2206,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1780,0,477
+1695974763236,1128,Get product,200,OK,Seller 1-15,text,true,,2286,745,20,20,https://secondhand.binaracademy.org/products/39137.json,1128,0,0
+1695974762747,1701,update product,200,OK,Seller 1-10,text,true,,2410,222075,20,20,https://secondhand.binaracademy.org/products/39967.json,1701,0,0
+1695974764095,361,Get product,200,OK,Seller 1-4,text,true,,2272,741,20,20,https://secondhand.binaracademy.org/products/39137.json,361,0,0
+1695974763282,1273,post product,201,Created,Seller 1-14,text,true,,2426,134569,20,20,https://secondhand.binaracademy.org/products.json,1273,0,0
+1695974760389,4396,post product,201,Created,Seller 1-5,text,true,,2416,134581,20,20,https://secondhand.binaracademy.org/products.json,4396,0,0
+1695974763883,902,Delete product,200,OK,Seller 1-3,text,true,,32979,720,20,20,https://secondhand.binaracademy.org/,889,0,319
+1695974763957,848,Delete product,200,OK,Seller 1-13,text,true,,32977,714,20,20,https://secondhand.binaracademy.org/,831,0,245
+1695974760149,4726,Login,200,OK,Seller 1-20,text,true,,2198,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,4726,0,3872
+1695974757255,7682,Delete product,200,OK,Seller 1-12,text,true,,32973,716,20,20,https://secondhand.binaracademy.org/,5758,0,3369
+1695974764555,408,List product,200,OK,Seller 1-14,text,true,,12067,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,408,0,0
+1695974764456,775,update product,500,Internal Server Error,Seller 1-4,text,false,,380,222069,20,20,https://secondhand.binaracademy.org/products/39967.json,775,0,0
+1695974763715,1540,Delete product,200,OK,Seller 1-17,text,true,,32959,730,20,20,https://secondhand.binaracademy.org/,1517,0,1050
+1695974764142,1213,post product,201,Created,Seller 1-9,text,true,,2420,134614,20,20,https://secondhand.binaracademy.org/products.json,1213,0,0
+1695974764785,669,Login,200,OK,Seller 1-3,text,true,,2202,898,20,20,https://secondhand.binaracademy.org/users/sign_in.json,669,0,60
+1695974764964,575,Get product,200,OK,Seller 1-14,text,true,,2290,719,20,20,https://secondhand.binaracademy.org/products/39137.json,575,0,0
+1695974764962,623,Login,200,OK,Seller 1-12,text,true,,2219,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,623,0,43
+1695974763995,1590,update product,500,Internal Server Error,Seller 1-2,text,false,,380,222001,20,20,https://secondhand.binaracademy.org/products/39967.json,1590,0,0
+1695974764365,1310,update product,200,OK,Seller 1-15,text,true,,2398,222093,20,20,https://secondhand.binaracademy.org/products/39967.json,1309,0,0
+1695974763125,2580,Login,200,OK,Seller 1-18,text,true,,2210,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2580,0,1860
+1695974762325,3420,post product,201,Created,Seller 1-6,text,true,,2412,134586,20,20,https://secondhand.binaracademy.org/products.json,3420,0,0
+1695974763327,2458,Login,200,OK,Seller 1-1,text,true,,2194,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2458,0,478
+1695974765355,473,List product,200,OK,Seller 1-9,text,true,,12082,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,473,0,0
+1695974764452,1384,Delete product,200,OK,Seller 1-10,text,true,,32969,726,20,20,https://secondhand.binaracademy.org/,1377,0,423
+1695974765231,993,Delete product,200,OK,Seller 1-4,text,true,,32545,716,20,20,https://secondhand.binaracademy.org/,975,0,461
+1695974765455,928,post product,201,Created,Seller 1-3,text,true,,2410,134607,20,20,https://secondhand.binaracademy.org/products.json,928,0,0
+1695974764295,2100,post product,201,Created,Seller 1-7,text,true,,2412,134593,20,20,https://secondhand.binaracademy.org/products.json,2100,0,0
+1695974765828,647,Get product,200,OK,Seller 1-9,text,true,,2265,727,20,20,https://secondhand.binaracademy.org/products/39137.json,646,0,0
+1695974765585,1024,post product,201,Created,Seller 1-12,text,true,,2412,134643,20,20,https://secondhand.binaracademy.org/products.json,1024,0,0
+1695974765539,1305,update product,200,OK,Seller 1-14,text,true,,2396,222077,20,20,https://secondhand.binaracademy.org/products/39967.json,1305,0,0
+1695974766225,679,Login,200,OK,Seller 1-4,text,true,,2204,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,679,0,70
+1695974764805,2139,Login,200,OK,Seller 1-13,text,true,,2210,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2139,0,1160
+1695974766383,661,List product,200,OK,Seller 1-3,text,true,,12098,776,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,661,0,0
+1695974765255,1869,Login,200,OK,Seller 1-17,text,true,,2202,878,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1869,0,1100
+1695974766610,584,List product,200,OK,Seller 1-12,text,true,,12072,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,584,0,0
+1695974765837,1477,Login,200,OK,Seller 1-10,text,true,,2204,888,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1477,0,458
+1695974766396,1088,List product,200,OK,Seller 1-7,text,true,,12102,778,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1088,0,0
+1695974765705,2019,post product,201,Created,Seller 1-18,text,true,,2422,134588,20,20,https://secondhand.binaracademy.org/products.json,2019,0,0
+1695974767044,800,Get product,200,OK,Seller 1-3,text,true,,2275,743,20,20,https://secondhand.binaracademy.org/products/39137.json,800,0,0
+1695974767194,721,Get product,200,OK,Seller 1-12,text,true,,2272,717,20,20,https://secondhand.binaracademy.org/products/39137.json,721,0,0
+1695974764785,3243,List product,200,OK,Seller 1-5,text,true,,12082,788,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,3243,0,0
+1695974765745,2319,List product,200,OK,Seller 1-6,text,true,,12075,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2319,0,0
+1695974767485,670,Get product,200,OK,Seller 1-7,text,true,,2275,747,20,20,https://secondhand.binaracademy.org/products/39137.json,670,0,0
+1695974763622,4625,Delete product,200,OK,Seller 1-19,text,true,,32977,722,20,20,https://secondhand.binaracademy.org/,4611,0,3573
+1695974766499,1758,update product,200,OK,Seller 1-9,text,true,,2402,222009,20,20,https://secondhand.binaracademy.org/products/39967.json,1758,0,0
+1695974763895,4471,Delete product,200,OK,Seller 1-8,text,true,,32965,716,20,20,https://secondhand.binaracademy.org/,3582,0,2361
+1695974766904,1561,post product,201,Created,Seller 1-4,text,true,,2432,134618,20,20,https://secondhand.binaracademy.org/products.json,1561,0,0
+1695974765675,2820,Delete product,200,OK,Seller 1-15,text,true,,32967,714,20,20,https://secondhand.binaracademy.org/,2819,0,960
+1695974766845,1870,Delete product,200,OK,Seller 1-14,text,true,,32975,712,20,20,https://secondhand.binaracademy.org/,1850,0,770
+1695974767724,1181,List product,200,OK,Seller 1-18,text,true,,12088,788,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1181,0,0
+1695974768065,860,Get product,200,OK,Seller 1-6,text,true,,2273,727,20,20,https://secondhand.binaracademy.org/products/39137.json,860,0,0
+1695974764875,4099,post product,201,Created,Seller 1-20,text,true,,2426,134600,20,20,https://secondhand.binaracademy.org/products.json,4099,0,0
+1695974768033,991,Get product,200,OK,Seller 1-5,text,true,,2271,727,20,20,https://secondhand.binaracademy.org/products/39137.json,991,0,0
+1695974766944,2114,post product,201,Created,Seller 1-13,text,true,,2426,134543,20,20,https://secondhand.binaracademy.org/products.json,2114,0,0
+1695974768366,779,Login,200,OK,Seller 1-8,text,true,,2192,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,779,0,49
+1695974768465,749,List product,200,OK,Seller 1-4,text,true,,12093,798,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,749,0,0
+1695974767124,2180,post product,201,Created,Seller 1-17,text,true,,2426,134544,20,20,https://secondhand.binaracademy.org/products.json,2180,0,0
+1695974768495,880,Login,200,OK,Seller 1-15,text,true,,2206,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,880,0,72
+1695974767915,1560,update product,200,OK,Seller 1-12,text,true,,2406,222019,20,20,https://secondhand.binaracademy.org/products/39967.json,1559,0,0
+1695974767314,2201,post product,201,Created,Seller 1-10,text,true,,2416,134600,20,20,https://secondhand.binaracademy.org/products.json,2201,0,0
+1695974768715,819,Login,200,OK,Seller 1-14,text,true,,2204,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,819,0,50
+1695974768906,879,Get product,200,OK,Seller 1-18,text,true,,2267,733,20,20,https://secondhand.binaracademy.org/products/39137.json,879,0,0
+1695974765785,4000,post product,201,Created,Seller 1-1,text,true,,2418,134560,20,20,https://secondhand.binaracademy.org/products.json,4000,0,0
+1695974767845,1959,update product,200,OK,Seller 1-3,text,true,,2406,221989,20,20,https://secondhand.binaracademy.org/products/39967.json,1958,0,0
+1695974769215,591,Get product,200,OK,Seller 1-4,text,true,,2269,745,20,20,https://secondhand.binaracademy.org/products/39137.json,591,0,0
+1695974768155,2019,update product,500,Internal Server Error,Seller 1-7,text,false,,380,222049,20,20,https://secondhand.binaracademy.org/products/39967.json,2019,0,0
+1695974769145,1340,post product,201,Created,Seller 1-8,text,true,,2430,134549,20,20,https://secondhand.binaracademy.org/products.json,1340,0,0
+1695974769515,1081,List product,200,OK,Seller 1-10,text,true,,12082,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1081,0,0
+1695974769375,1310,post product,201,Created,Seller 1-15,text,true,,2414,134629,20,20,https://secondhand.binaracademy.org/products.json,1310,0,0
+1695974769063,1783,List product,200,OK,Seller 1-13,text,true,,12084,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1783,0,0
+1695974770485,379,List product,200,OK,Seller 1-8,text,true,,12092,802,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,379,0,0
+1695974769534,1390,post product,201,Created,Seller 1-14,text,true,,2410,134564,20,20,https://secondhand.binaracademy.org/products.json,1390,0,0
+1695974768926,2029,update product,200,OK,Seller 1-6,text,true,,2404,222037,20,20,https://secondhand.binaracademy.org/products/39967.json,2028,0,0
+1695974768248,2837,Login,200,OK,Seller 1-19,text,true,,2186,898,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2837,0,467
+1695974769475,1700,Delete product,200,OK,Seller 1-12,text,true,,32965,728,20,20,https://secondhand.binaracademy.org/,1688,0,1071
+1695974769806,1431,update product,200,OK,Seller 1-4,text,true,,2402,222053,20,20,https://secondhand.binaracademy.org/products/39967.json,1431,0,0
+1695974769305,2109,List product,200,OK,Seller 1-17,text,true,,12074,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2109,0,0
+1695974770685,772,List product,200,OK,Seller 1-15,text,true,,12090,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,772,0,0
+1695974768974,2651,List product,200,OK,Seller 1-20,text,true,,12086,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2651,0,0
+1695974769804,1868,Delete product,200,OK,Seller 1-3,text,true,,32931,722,20,20,https://secondhand.binaracademy.org/,1854,0,991
+1695974770864,808,Get product,200,OK,Seller 1-8,text,true,,2276,737,20,20,https://secondhand.binaracademy.org/products/39137.json,808,0,0
+1695974770847,811,Get product,200,OK,Seller 1-13,text,true,,2259,729,20,20,https://secondhand.binaracademy.org/products/39137.json,811,0,0
+1695974770925,772,List product,200,OK,Seller 1-14,text,true,,12074,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,772,0,0
+1695974771175,552,Login,200,OK,Seller 1-12,text,true,,2208,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,552,0,62
+1695974769785,1993,List product,200,OK,Seller 1-1,text,true,,12091,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1993,0,0
+1695974771457,323,Get product,200,OK,Seller 1-15,text,true,,2272,735,20,20,https://secondhand.binaracademy.org/products/39137.json,323,0,0
+1695974765585,6219,Delete product,200,OK,Seller 1-2,text,true,,32969,728,20,20,https://secondhand.binaracademy.org/,5384,0,3890
+1695974769785,2019,update product,200,OK,Seller 1-18,text,true,,2398,222021,20,20,https://secondhand.binaracademy.org/products/39967.json,2019,0,0
+1695974771697,164,Get product,200,OK,Seller 1-14,text,true,,2267,719,20,20,https://secondhand.binaracademy.org/products/39137.json,164,0,0
+1695974771414,540,Get product,200,OK,Seller 1-17,text,true,,2280,719,20,20,https://secondhand.binaracademy.org/products/39137.json,540,0,0
+1695974771626,355,Get product,200,OK,Seller 1-20,text,true,,2269,731,20,20,https://secondhand.binaracademy.org/products/39137.json,355,0,0
+1695974771779,326,Get product,200,OK,Seller 1-1,text,true,,2268,743,20,20,https://secondhand.binaracademy.org/products/39137.json,326,0,0
+1695974769025,3205,update product,500,Internal Server Error,Seller 1-5,text,false,,380,222015,20,20,https://secondhand.binaracademy.org/products/39967.json,3205,0,0
+1695974771690,625,update product,200,OK,Seller 1-8,text,true,,2390,222073,20,20,https://secondhand.binaracademy.org/products/39967.json,625,0,0
+1695974771085,1419,post product,201,Created,Seller 1-19,text,true,,2408,134543,20,20,https://secondhand.binaracademy.org/products.json,1419,0,0
+1695974771780,745,update product,200,OK,Seller 1-15,text,true,,2394,222079,20,20,https://secondhand.binaracademy.org/products/39967.json,745,0,0
+1695974771690,886,Login,200,OK,Seller 1-3,text,true,,2198,882,20,20,https://secondhand.binaracademy.org/users/sign_in.json,886,0,506
+1695974771727,1033,post product,201,Created,Seller 1-12,text,true,,2404,134631,20,20,https://secondhand.binaracademy.org/products.json,1033,0,0
+1695974770596,2178,Get product,200,OK,Seller 1-10,text,true,,2276,727,20,20,https://secondhand.binaracademy.org/products/39137.json,2178,0,0
+1695974771690,1455,update product,200,OK,Seller 1-13,text,true,,2400,222033,20,20,https://secondhand.binaracademy.org/products/39967.json,1455,0,0
+1695974771861,1394,update product,200,OK,Seller 1-14,text,true,,2392,222021,20,20,https://secondhand.binaracademy.org/products/39967.json,1393,0,0
+1695974771955,1489,update product,200,OK,Seller 1-17,text,true,,2412,222087,20,20,https://secondhand.binaracademy.org/products/39967.json,1489,0,0
+1695974771982,1493,update product,200,OK,Seller 1-20,text,true,,2404,221983,20,20,https://secondhand.binaracademy.org/products/39967.json,1493,0,0
+1695974772760,809,List product,200,OK,Seller 1-12,text,true,,12094,776,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,809,0,0
+1695974761085,12500,Delete product,200,OK,Seller 1-11,text,true,,32941,712,20,20,https://secondhand.binaracademy.org/,11580,0,5525
+1695974771805,1916,Delete product,200,OK,Seller 1-18,text,true,,32971,720,20,20,https://secondhand.binaracademy.org/,1895,0,570
+1695974772230,1795,Delete product,200,OK,Seller 1-5,text,true,,32961,722,20,20,https://secondhand.binaracademy.org/,1772,0,645
+1695974772576,1828,post product,201,Created,Seller 1-3,text,true,,2418,134573,20,20,https://secondhand.binaracademy.org/products.json,1828,0,0
+1695974771237,3633,Delete product,200,OK,Seller 1-4,text,true,,32975,724,20,20,https://secondhand.binaracademy.org/,3614,0,2306
+1695974770955,3930,Delete product,200,OK,Seller 1-6,text,true,,32975,726,20,20,https://secondhand.binaracademy.org/,3916,0,2615
+1695974773569,1806,Get product,200,OK,Seller 1-12,text,true,,2262,739,20,20,https://secondhand.binaracademy.org/products/39137.json,1806,0,0
+1695974773585,1823,Login,200,OK,Seller 1-11,text,true,,2202,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1823,0,59
+1695974772775,2729,update product,200,OK,Seller 1-10,text,true,,2400,222073,20,20,https://secondhand.binaracademy.org/products/39967.json,2729,0,0
+1695974772105,3430,update product,200,OK,Seller 1-1,text,true,,2412,222055,20,20,https://secondhand.binaracademy.org/products/39967.json,3429,0,0
+1695974754664,20916,update product,200,OK,Seller 1-16,text,true,,2416,222053,20,20,https://secondhand.binaracademy.org/products/39967.json,20916,0,0
+1695974772525,3081,Delete product,200,OK,Seller 1-15,text,true,,32961,710,20,20,https://secondhand.binaracademy.org/,3057,0,1080
+1695974773751,1973,Login,200,OK,Seller 1-18,text,true,,2194,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1973,0,50
+1695974773475,2348,Delete product,200,OK,Seller 1-20,text,true,,32931,720,20,20,https://secondhand.binaracademy.org/,2331,0,302
+1695974773255,2580,Delete product,200,OK,Seller 1-14,text,true,,32979,714,20,20,https://secondhand.binaracademy.org/,2570,0,500
+1695974771805,4109,Login,200,OK,Seller 1-2,text,true,,2194,888,20,20,https://secondhand.binaracademy.org/users/sign_in.json,4109,0,492
+1695974774025,1909,Login,200,OK,Seller 1-5,text,true,,2220,880,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1909,0,50
+1695974774870,1116,Login,200,OK,Seller 1-4,text,true,,2200,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1116,0,45
+1695974768258,7897,Delete product,200,OK,Seller 1-9,text,true,,32979,718,20,20,https://secondhand.binaracademy.org/,6524,0,2307
+1695974770174,6061,Delete product,200,OK,Seller 1-7,text,true,,32985,726,20,20,https://secondhand.binaracademy.org/,6049,0,3701
+1695974774405,1876,List product,200,OK,Seller 1-3,text,true,,12086,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1876,0,0
+1695974775606,738,Login,200,OK,Seller 1-15,text,true,,2190,880,20,20,https://secondhand.binaracademy.org/users/sign_in.json,738,0,58
+1695974775823,551,Login,200,OK,Seller 1-20,text,true,,2200,882,20,20,https://secondhand.binaracademy.org/users/sign_in.json,551,0,72
+1695974775835,579,Login,200,OK,Seller 1-14,text,true,,2194,898,20,20,https://secondhand.binaracademy.org/users/sign_in.json,579,0,60
+1695974775409,1246,post product,201,Created,Seller 1-11,text,true,,2420,134553,20,20,https://secondhand.binaracademy.org/products.json,1246,0,0
+1695974772505,4219,List product,200,OK,Seller 1-19,text,true,,12076,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,4219,0,0
+1695974773445,3519,Delete product,200,OK,Seller 1-17,text,true,,32989,728,20,20,https://secondhand.binaracademy.org/,3497,0,2594
+1695974775724,1300,post product,201,Created,Seller 1-18,text,true,,2420,134554,20,20,https://secondhand.binaracademy.org/products.json,1300,0,0
+1695974774885,2279,Login,200,OK,Seller 1-6,text,true,,2194,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2279,0,459
+1695974773145,4089,Delete product,200,OK,Seller 1-13,text,true,,32971,722,20,20,https://secondhand.binaracademy.org/,4074,0,2950
+1695974776155,1229,Login,200,OK,Seller 1-9,text,true,,2190,898,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1229,0,51
+1695974775934,1430,post product,201,Created,Seller 1-5,text,true,,2420,134613,20,20,https://secondhand.binaracademy.org/products.json,1430,0,0
+1695974776281,1454,Get product,200,OK,Seller 1-3,text,true,,2265,731,20,20,https://secondhand.binaracademy.org/products/39137.json,1454,0,0
+1695974775505,2299,Delete product,200,OK,Seller 1-10,text,true,,32967,722,20,20,https://secondhand.binaracademy.org/,2281,0,752
+1695974775987,2007,post product,201,Created,Seller 1-4,text,true,,2426,134623,20,20,https://secondhand.binaracademy.org/products.json,2007,0,0
+1695974775535,2500,Delete product,200,OK,Seller 1-1,text,true,,32973,728,20,20,https://secondhand.binaracademy.org/,2483,0,737
+1695974776235,1830,Login,200,OK,Seller 1-7,text,true,,2198,904,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1830,0,57
+1695974775581,2753,Delete product,200,OK,Seller 1-16,text,true,,32951,738,20,20,https://secondhand.binaracademy.org/,2735,0,762
+1695974775375,3011,update product,200,OK,Seller 1-12,text,true,,2398,222019,20,20,https://secondhand.binaracademy.org/products/39967.json,3011,0,0
+1695974776655,1859,List product,200,OK,Seller 1-11,text,true,,12077,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1859,0,0
+1695974776344,2357,post product,201,Created,Seller 1-15,text,true,,2424,134586,20,20,https://secondhand.binaracademy.org/products.json,2357,0,0
+1695974776374,2470,post product,201,Created,Seller 1-20,text,true,,2420,134623,20,20,https://secondhand.binaracademy.org/products.json,2470,0,0
+1695974776965,1900,Login,200,OK,Seller 1-17,text,true,,2198,908,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1900,0,60
+1695974776724,2210,Get product,200,OK,Seller 1-19,text,true,,2288,721,20,20,https://secondhand.binaracademy.org/products/39137.json,2210,0,0
+1695974777025,1909,List product,200,OK,Seller 1-18,text,true,,12088,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1909,0,0
+1695974776415,2589,post product,201,Created,Seller 1-14,text,true,,2418,134605,20,20,https://secondhand.binaracademy.org/products.json,2589,0,0
+1695974777235,1839,Login,200,OK,Seller 1-13,text,true,,2186,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1839,0,59
+1695974777804,1380,Login,200,OK,Seller 1-10,text,true,,2198,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1380,0,60
+1695974775915,3360,post product,201,Created,Seller 1-2,text,true,,2416,134569,20,20,https://secondhand.binaracademy.org/products.json,3360,0,0
+1695974777390,1962,List product,200,OK,Seller 1-5,text,true,,12088,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1962,0,0
+1695974772315,7079,Delete product,200,OK,Seller 1-8,text,true,,32973,706,20,20,https://secondhand.binaracademy.org/,7063,0,4803
+1695974778035,1441,Login,200,OK,Seller 1-1,text,true,,2200,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1441,0,60
+1695974777994,1530,List product,200,OK,Seller 1-4,text,true,,12082,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1530,0,0
+1695974777390,2454,post product,201,Created,Seller 1-9,text,true,,2406,134538,20,20,https://secondhand.binaracademy.org/products.json,2454,0,0
+1695974778334,1530,Login,200,OK,Seller 1-16,text,true,,2210,902,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1530,0,53
+1695974778514,1380,Get product,200,OK,Seller 1-11,text,true,,2271,729,20,20,https://secondhand.binaracademy.org/products/39137.json,1380,0,0
+1695974777164,2797,post product,201,Created,Seller 1-6,text,true,,2400,134608,20,20,https://secondhand.binaracademy.org/products.json,2797,0,0
+1695974778702,1272,List product,200,OK,Seller 1-15,text,true,,12071,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1272,0,0
+1695974778935,1089,Get product,200,OK,Seller 1-18,text,true,,2272,733,20,20,https://secondhand.binaracademy.org/products/39137.json,1089,0,0
+1695974778844,1227,List product,200,OK,Seller 1-20,text,true,,12106,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1227,0,0
+1695974779004,1140,List product,200,OK,Seller 1-14,text,true,,12081,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1140,0,0
+1695974778065,2140,post product,201,Created,Seller 1-7,text,true,,2408,134585,20,20,https://secondhand.binaracademy.org/products.json,2140,0,0
+1695974779353,1132,Get product,200,OK,Seller 1-5,text,true,,2273,733,20,20,https://secondhand.binaracademy.org/products/39137.json,1132,0,0
+1695974778865,1708,post product,201,Created,Seller 1-17,text,true,,2410,134618,20,20,https://secondhand.binaracademy.org/products.json,1708,0,0
+1695974779075,1549,post product,201,Created,Seller 1-13,text,true,,2426,134561,20,20,https://secondhand.binaracademy.org/products.json,1549,0,0
+1695974779395,1261,Login,200,OK,Seller 1-8,text,true,,2206,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1261,0,60
+1695974779525,1181,Get product,200,OK,Seller 1-4,text,true,,2276,727,20,20,https://secondhand.binaracademy.org/products/39137.json,1181,0,0
+1695974779845,943,List product,200,OK,Seller 1-9,text,true,,12092,778,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,943,0,0
+1695974779185,1669,post product,201,Created,Seller 1-10,text,true,,2416,134537,20,20,https://secondhand.binaracademy.org/products.json,1669,0,0
+1695974779476,1668,post product,201,Created,Seller 1-1,text,true,,2414,134605,20,20,https://secondhand.binaracademy.org/products.json,1668,0,0
+1695974779275,1895,List product,200,OK,Seller 1-2,text,true,,12091,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1895,0,0
+1695974779973,1219,Get product,200,OK,Seller 1-15,text,true,,2282,723,20,20,https://secondhand.binaracademy.org/products/39137.json,1219,0,0
+1695974780070,1168,Get product,200,OK,Seller 1-20,text,true,,2267,751,20,20,https://secondhand.binaracademy.org/products/39137.json,1168,0,0
+1695974779865,1490,post product,201,Created,Seller 1-16,text,true,,2412,134615,20,20,https://secondhand.binaracademy.org/products.json,1490,0,0
+1695974778935,2460,update product,200,OK,Seller 1-19,text,true,,2398,222045,20,20,https://secondhand.binaracademy.org/products/39967.json,2459,0,0
+1695974780143,1280,Get product,200,OK,Seller 1-14,text,true,,2282,733,20,20,https://secondhand.binaracademy.org/products/39137.json,1280,0,0
+1695974779894,1581,update product,200,OK,Seller 1-11,text,true,,2402,222065,20,20,https://secondhand.binaracademy.org/products/39967.json,1581,0,0
+1695974780572,980,List product,200,OK,Seller 1-17,text,true,,12080,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,980,0,0
+1695974780205,1358,List product,200,OK,Seller 1-7,text,true,,12098,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1358,0,0
+1695974780623,1035,List product,200,OK,Seller 1-13,text,true,,12084,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1035,0,0
+1695974780787,887,Get product,200,OK,Seller 1-9,text,true,,2272,737,20,20,https://secondhand.binaracademy.org/products/39137.json,887,0,0
+1695974780705,1108,update product,500,Internal Server Error,Seller 1-4,text,false,,380,221993,20,20,https://secondhand.binaracademy.org/products/39967.json,1108,0,0
+1695974780854,1059,List product,200,OK,Seller 1-10,text,true,,12084,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1059,0,0
+1695974780484,1509,update product,200,OK,Seller 1-5,text,true,,2388,222057,20,20,https://secondhand.binaracademy.org/products/39967.json,1509,0,0
+1695974781143,952,List product,200,OK,Seller 1-1,text,true,,12084,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,952,0,0
+1695974780024,2150,update product,200,OK,Seller 1-18,text,true,,2402,222029,20,20,https://secondhand.binaracademy.org/products/39967.json,2150,0,0
+1695974780655,1540,post product,201,Created,Seller 1-8,text,true,,2418,134611,20,20,https://secondhand.binaracademy.org/products.json,1540,0,0
+1695974779960,2324,List product,200,OK,Seller 1-6,text,true,,12067,772,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2324,0,0
+1695974781354,979,List product,200,OK,Seller 1-16,text,true,,12082,778,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,979,0,0
+1695974781170,1213,Get product,200,OK,Seller 1-2,text,true,,2274,743,20,20,https://secondhand.binaracademy.org/products/39137.json,1213,0,0
+1695974781552,1064,Get product,200,OK,Seller 1-17,text,true,,2271,725,20,20,https://secondhand.binaracademy.org/products/39137.json,1064,0,0
+1695974781193,1500,update product,500,Internal Server Error,Seller 1-15,text,false,,380,222059,20,20,https://secondhand.binaracademy.org/products/39967.json,1500,0,0
+1695974781564,1168,Get product,200,OK,Seller 1-7,text,true,,2273,743,20,20,https://secondhand.binaracademy.org/products/39137.json,1168,0,0
+1695974781658,1136,Get product,200,OK,Seller 1-13,text,true,,2281,729,20,20,https://secondhand.binaracademy.org/products/39137.json,1136,0,0
+1695974781423,1451,update product,200,OK,Seller 1-14,text,true,,2406,222089,20,20,https://secondhand.binaracademy.org/products/39967.json,1450,0,0
+1695974782095,891,Get product,200,OK,Seller 1-1,text,true,,2270,729,20,20,https://secondhand.binaracademy.org/products/39137.json,891,0,0
+1695974781913,1095,Get product,200,OK,Seller 1-10,text,true,,2270,729,20,20,https://secondhand.binaracademy.org/products/39137.json,1094,0,0
+1695974777736,5301,update product,200,OK,Seller 1-3,text,true,,2392,222059,20,20,https://secondhand.binaracademy.org/products/39967.json,5301,0,0
+1695974782195,1100,List product,200,OK,Seller 1-8,text,true,,12078,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1100,0,0
+1695974781238,2114,update product,200,OK,Seller 1-20,text,true,,2392,222031,20,20,https://secondhand.binaracademy.org/products/39967.json,2113,0,0
+1695974781674,1730,update product,500,Internal Server Error,Seller 1-9,text,false,,380,222049,20,20,https://secondhand.binaracademy.org/products/39967.json,1730,0,0
+1695974782333,1100,Get product,200,OK,Seller 1-16,text,true,,2268,727,20,20,https://secondhand.binaracademy.org/products/39137.json,1100,0,0
+1695974782284,1209,Get product,200,OK,Seller 1-6,text,true,,2272,719,20,20,https://secondhand.binaracademy.org/products/39137.json,1209,0,0
+1695974781394,2231,Delete product,200,OK,Seller 1-19,text,true,,32977,720,20,20,https://secondhand.binaracademy.org/,2215,0,920
+1695974781813,2041,Delete product,200,OK,Seller 1-4,text,true,,32973,720,20,20,https://secondhand.binaracademy.org/,2021,0,1042
+1695974778403,5601,Delete product,200,OK,Seller 1-12,text,true,,32937,720,20,20,https://secondhand.binaracademy.org/,4793,0,3084
+1695974782617,1467,update product,200,OK,Seller 1-17,text,true,,2406,222025,20,20,https://secondhand.binaracademy.org/products/39967.json,1467,0,0
+1695974782384,1829,update product,500,Internal Server Error,Seller 1-2,text,false,,380,222081,20,20,https://secondhand.binaracademy.org/products/39967.json,1829,0,0
+1695974782732,1581,update product,200,OK,Seller 1-7,text,true,,2402,222077,20,20,https://secondhand.binaracademy.org/products/39967.json,1581,0,0
+1695974781994,2350,Delete product,200,OK,Seller 1-5,text,true,,32973,710,20,20,https://secondhand.binaracademy.org/,2326,0,963
+1695974782795,1779,update product,200,OK,Seller 1-13,text,true,,2394,222055,20,20,https://secondhand.binaracademy.org/products/39967.json,1779,0,0
+1695974782986,1680,update product,200,OK,Seller 1-1,text,true,,2394,222067,20,20,https://secondhand.binaracademy.org/products/39967.json,1680,0,0
+1695974783295,1374,Get product,200,OK,Seller 1-8,text,true,,2271,723,20,20,https://secondhand.binaracademy.org/products/39137.json,1374,0,0
+1695974783433,1364,update product,500,Internal Server Error,Seller 1-16,text,false,,380,222005,20,20,https://secondhand.binaracademy.org/products/39967.json,1364,0,0
+1695974783854,959,Login,200,OK,Seller 1-4,text,true,,2208,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,959,0,60
+1695974782174,2890,Delete product,200,OK,Seller 1-18,text,true,,32971,718,20,20,https://secondhand.binaracademy.org/,2869,0,1543
+1695974781493,3725,Delete product,200,OK,Seller 1-11,text,true,,32975,718,20,20,https://secondhand.binaracademy.org/,3713,0,2321
+1695974783008,2227,update product,200,OK,Seller 1-10,text,true,,2392,222067,20,20,https://secondhand.binaracademy.org/products/39967.json,2227,0,0
+1695974784003,1280,Login,200,OK,Seller 1-12,text,true,,2208,888,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1280,0,51
+1695974784344,1039,Login,200,OK,Seller 1-5,text,true,,2210,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1039,0,59
+1695974783625,1878,Login,200,OK,Seller 1-19,text,true,,2204,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1878,0,479
+1695974783042,2672,Delete product,200,OK,Seller 1-3,text,true,,32969,714,20,20,https://secondhand.binaracademy.org/,2652,0,2078
+1695974784669,1314,update product,200,OK,Seller 1-8,text,true,,2404,221995,20,20,https://secondhand.binaracademy.org/products/39967.json,1314,0,0
+1695974785064,1029,Login,200,OK,Seller 1-18,text,true,,2200,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1029,0,71
+1695974785218,924,Login,200,OK,Seller 1-11,text,true,,2192,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,924,0,66
+1695974783493,2721,update product,500,Internal Server Error,Seller 1-6,text,false,,380,222029,20,20,https://secondhand.binaracademy.org/products/39967.json,2721,0,0
+1695974783352,3071,Delete product,200,OK,Seller 1-20,text,true,,32933,714,20,20,https://secondhand.binaracademy.org/,3049,0,1835
+1695974784085,2579,Delete product,200,OK,Seller 1-17,text,true,,32973,722,20,20,https://secondhand.binaracademy.org/,2563,0,1298
+1695974784813,2028,post product,201,Created,Seller 1-4,text,true,,2424,134541,20,20,https://secondhand.binaracademy.org/products.json,2028,0,0
+1695974784314,2589,Delete product,200,OK,Seller 1-7,text,true,,32939,718,20,20,https://secondhand.binaracademy.org/,2572,0,1089
+1695974783404,3619,Delete product,200,OK,Seller 1-9,text,true,,32935,716,20,20,https://secondhand.binaracademy.org/,3450,0,1717
+1695974785284,1975,post product,201,Created,Seller 1-12,text,true,,2416,134559,20,20,https://secondhand.binaracademy.org/products.json,1975,0,0
+1695974784213,3091,Delete product,200,OK,Seller 1-2,text,true,,32963,718,20,20,https://secondhand.binaracademy.org/,3071,0,1430
+1695974785714,1706,Login,200,OK,Seller 1-3,text,true,,2215,888,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1706,0,59
+1695974784797,2707,Delete product,200,OK,Seller 1-16,text,true,,32991,712,20,20,https://secondhand.binaracademy.org/,2679,0,917
+1695974785383,2241,post product,201,Created,Seller 1-5,text,true,,2424,134552,20,20,https://secondhand.binaracademy.org/products.json,2241,0,0
+1695974784595,3336,Delete product,200,OK,Seller 1-13,text,true,,32975,710,20,20,https://secondhand.binaracademy.org/,3313,0,1849
+1695974786424,1519,Login,200,OK,Seller 1-20,text,true,,2202,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1519,0,60
+1695974786110,1903,post product,201,Created,Seller 1-18,text,true,,2422,134587,20,20,https://secondhand.binaracademy.org/products.json,1903,0,0
+1695974786664,1377,Login,200,OK,Seller 1-17,text,true,,2214,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1377,0,59
+1695974786142,1912,post product,201,Created,Seller 1-11,text,true,,2420,134552,20,20,https://secondhand.binaracademy.org/products.json,1911,0,0
+1695974786903,1220,Login,200,OK,Seller 1-7,text,true,,2202,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1220,0,60
+1695974787024,1199,Login,200,OK,Seller 1-9,text,true,,2196,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1199,0,60
+1695974786841,1402,List product,200,OK,Seller 1-4,text,true,,12102,796,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1402,0,0
+1695974787259,1164,List product,200,OK,Seller 1-12,text,true,,12080,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1164,0,0
+1695974785503,3060,post product,201,Created,Seller 1-19,text,true,,2412,134609,20,20,https://secondhand.binaracademy.org/products.json,3060,0,0
+1695974785235,3459,Delete product,200,OK,Seller 1-10,text,true,,32967,714,20,20,https://secondhand.binaracademy.org/,3438,0,1978
+1695974787505,1239,Login,200,OK,Seller 1-16,text,true,,2200,910,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1239,0,68
+1695974785984,2779,Delete product,200,OK,Seller 1-8,text,true,,32987,720,20,20,https://secondhand.binaracademy.org/,2761,0,1551
+1695974787624,1209,List product,200,OK,Seller 1-5,text,true,,12079,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1209,0,0
+1695974786214,2730,Delete product,200,OK,Seller 1-6,text,true,,32947,716,20,20,https://secondhand.binaracademy.org/,2721,0,1341
+1695974787931,1022,Login,200,OK,Seller 1-13,text,true,,2204,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1022,0,53
+1695974787420,1623,post product,201,Created,Seller 1-3,text,true,,2416,134558,20,20,https://secondhand.binaracademy.org/products.json,1623,0,0
+1695974788013,1060,List product,200,OK,Seller 1-18,text,true,,12070,788,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1060,0,0
+1695974788054,1039,List product,200,OK,Seller 1-11,text,true,,12084,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1039,0,0
+1695974788243,911,Get product,200,OK,Seller 1-4,text,true,,2279,747,20,20,https://secondhand.binaracademy.org/products/39137.json,911,0,0
+1695974788423,1021,Get product,200,OK,Seller 1-12,text,true,,2261,725,20,20,https://secondhand.binaracademy.org/products/39137.json,1021,0,0
+1695974787943,1601,post product,201,Created,Seller 1-20,text,true,,2416,134598,20,20,https://secondhand.binaracademy.org/products.json,1601,0,0
+1695974788123,1464,post product,201,Created,Seller 1-7,text,true,,2418,134562,20,20,https://secondhand.binaracademy.org/products.json,1464,0,0
+1695974788041,1562,post product,201,Created,Seller 1-17,text,true,,2420,134556,20,20,https://secondhand.binaracademy.org/products.json,1562,0,0
+1695974788223,1557,post product,201,Created,Seller 1-9,text,true,,2414,134616,20,20,https://secondhand.binaracademy.org/products.json,1557,0,0
+1695974788834,948,Get product,200,OK,Seller 1-5,text,true,,2266,731,20,20,https://secondhand.binaracademy.org/products/39137.json,948,0,0
+1695974789043,781,List product,200,OK,Seller 1-3,text,true,,12087,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,781,0,0
+1695974789074,772,Get product,200,OK,Seller 1-18,text,true,,2269,715,20,20,https://secondhand.binaracademy.org/products/39137.json,772,0,0
+1695974789093,853,Get product,200,OK,Seller 1-11,text,true,,2272,729,20,20,https://secondhand.binaracademy.org/products/39137.json,853,0,0
+1695974788694,1460,Login,200,OK,Seller 1-10,text,true,,2184,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1460,0,461
+1695974789545,638,List product,200,OK,Seller 1-20,text,true,,12076,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,638,0,0
+1695974788744,1486,post product,201,Created,Seller 1-16,text,true,,2412,134566,20,20,https://secondhand.binaracademy.org/products.json,1486,0,0
+1695974788953,1290,post product,201,Created,Seller 1-13,text,true,,2428,134624,20,20,https://secondhand.binaracademy.org/products.json,1290,0,0
+1695974789587,718,List product,200,OK,Seller 1-7,text,true,,12073,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,718,0,0
+1695974789604,759,List product,200,OK,Seller 1-17,text,true,,12067,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,759,0,0
+1695974788563,1800,List product,200,OK,Seller 1-19,text,true,,12090,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1800,0,0
+1695974789781,629,List product,200,OK,Seller 1-9,text,true,,12078,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,629,0,0
+1695974789824,689,Get product,200,OK,Seller 1-3,text,true,,2269,739,20,20,https://secondhand.binaracademy.org/products/39137.json,689,0,0
+1695974789846,701,update product,500,Internal Server Error,Seller 1-18,text,false,,380,222003,20,20,https://secondhand.binaracademy.org/products/39967.json,701,0,0
+1695974789444,1171,update product,200,OK,Seller 1-12,text,true,,2406,222025,20,20,https://secondhand.binaracademy.org/products/39967.json,1171,0,0
+1695974789154,1739,update product,200,OK,Seller 1-4,text,true,,2394,222043,20,20,https://secondhand.binaracademy.org/products/39967.json,1739,0,0
+1695974790184,770,Get product,200,OK,Seller 1-20,text,true,,2259,721,20,20,https://secondhand.binaracademy.org/products/39137.json,770,0,0
+1695974788764,2209,Login,200,OK,Seller 1-8,text,true,,2198,906,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2209,0,450
+1695974789782,1351,update product,500,Internal Server Error,Seller 1-5,text,false,,380,222023,20,20,https://secondhand.binaracademy.org/products/39967.json,1351,0,0
+1695974790242,922,List product,200,OK,Seller 1-16,text,true,,12086,778,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,922,0,0
+1695974790244,928,List product,200,OK,Seller 1-13,text,true,,12098,794,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,928,0,0
+1695974789946,1226,update product,200,OK,Seller 1-11,text,true,,2388,221979,20,20,https://secondhand.binaracademy.org/products/39967.json,1225,0,0
+1695974790306,948,Get product,200,OK,Seller 1-7,text,true,,2276,725,20,20,https://secondhand.binaracademy.org/products/39137.json,948,0,0
+1695974790411,864,Get product,200,OK,Seller 1-9,text,true,,2266,723,20,20,https://secondhand.binaracademy.org/products/39137.json,864,0,0
+1695974790364,1056,Get product,200,OK,Seller 1-17,text,true,,2270,719,20,20,https://secondhand.binaracademy.org/products/39137.json,1056,0,0
+1695974790365,1139,Get product,200,OK,Seller 1-19,text,true,,2267,735,20,20,https://secondhand.binaracademy.org/products/39137.json,1139,0,0
+1695974787304,4359,Login,200,OK,Seller 1-2,text,true,,2208,882,20,20,https://secondhand.binaracademy.org/users/sign_in.json,4359,0,2479
+1695974784666,7367,Delete product,200,OK,Seller 1-1,text,true,,32971,710,20,20,https://secondhand.binaracademy.org/,7353,0,6468
+1695974791164,1051,Get product,200,OK,Seller 1-16,text,true,,2273,731,20,20,https://secondhand.binaracademy.org/products/39137.json,1051,0,0
+1695974791173,1098,Get product,200,OK,Seller 1-13,text,true,,2280,743,20,20,https://secondhand.binaracademy.org/products/39137.json,1098,0,0
+1695974790954,1382,update product,500,Internal Server Error,Seller 1-20,text,false,,380,222003,20,20,https://secondhand.binaracademy.org/products/39967.json,1382,0,0
+1695974790155,2209,post product,201,Created,Seller 1-10,text,true,,2418,134577,20,20,https://secondhand.binaracademy.org/products.json,2209,0,0
+1695974788944,3579,Login,200,OK,Seller 1-6,text,true,,2202,898,20,20,https://secondhand.binaracademy.org/users/sign_in.json,3579,0,2503
+1695974790894,1776,Delete product,200,OK,Seller 1-4,text,true,,32977,716,20,20,https://secondhand.binaracademy.org/,1755,0,554
+1695974782874,9796,Delete product,200,OK,Seller 1-14,text,true,,32967,728,20,20,https://secondhand.binaracademy.org/,9795,0,7674
+1695974790514,2172,update product,200,OK,Seller 1-3,text,true,,2406,222073,20,20,https://secondhand.binaracademy.org/products/39967.json,2172,0,0
+1695974791275,1739,update product,200,OK,Seller 1-9,text,true,,2406,222003,20,20,https://secondhand.binaracademy.org/products/39967.json,1739,0,0
+1695974791254,1800,update product,200,OK,Seller 1-7,text,true,,2396,222033,20,20,https://secondhand.binaracademy.org/products/39967.json,1800,0,0
+1695974790617,2683,Delete product,200,OK,Seller 1-12,text,true,,32987,728,20,20,https://secondhand.binaracademy.org/,2661,0,1253
+1695974792215,1109,update product,500,Internal Server Error,Seller 1-16,text,false,,380,222007,20,20,https://secondhand.binaracademy.org/products/39967.json,1109,0,0
+1695974791421,2014,update product,500,Internal Server Error,Seller 1-17,text,false,,380,222017,20,20,https://secondhand.binaracademy.org/products/39967.json,2014,0,0
+1695974792364,1228,List product,200,OK,Seller 1-10,text,true,,12078,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1228,0,0
+1695974792671,933,Login,200,OK,Seller 1-14,text,true,,2188,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,933,0,77
+1695974790975,2684,post product,201,Created,Seller 1-8,text,true,,2410,134603,20,20,https://secondhand.binaracademy.org/products.json,2684,0,0
+1695974792272,1448,update product,200,OK,Seller 1-13,text,true,,2402,221997,20,20,https://secondhand.binaracademy.org/products/39967.json,1448,0,0
+1695974792034,1704,Login,200,OK,Seller 1-1,text,true,,2206,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1704,0,511
+1695974791134,2614,Delete product,200,OK,Seller 1-5,text,true,,32973,710,20,20,https://secondhand.binaracademy.org/,2601,0,1230
+1695974792670,1096,Login,200,OK,Seller 1-4,text,true,,2202,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1096,0,78
+1695974793305,528,Login,200,OK,Seller 1-12,text,true,,2198,906,20,20,https://secondhand.binaracademy.org/users/sign_in.json,528,0,60
+1695974791173,3032,Delete product,200,OK,Seller 1-11,text,true,,32989,710,20,20,https://secondhand.binaracademy.org/,3010,0,1741
+1695974791664,2763,post product,201,Created,Seller 1-2,text,true,,2434,134550,20,20,https://secondhand.binaracademy.org/products.json,2763,0,0
+1695974793015,1628,Delete product,200,OK,Seller 1-9,text,true,,32981,728,20,20,https://secondhand.binaracademy.org/,1578,0,829
+1695974793435,1289,Delete product,200,OK,Seller 1-17,text,true,,32565,714,20,20,https://secondhand.binaracademy.org/,1275,0,469
+1695974793659,1175,List product,200,OK,Seller 1-8,text,true,,12094,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1175,0,0
+1695974790549,4345,Delete product,200,OK,Seller 1-18,text,true,,32935,720,20,20,https://secondhand.binaracademy.org/,3655,0,1266
+1695974792524,2451,post product,201,Created,Seller 1-6,text,true,,2424,134604,20,20,https://secondhand.binaracademy.org/products.json,2451,0,0
+1695974793592,1412,Get product,200,OK,Seller 1-10,text,true,,2272,723,20,20,https://secondhand.binaracademy.org/products/39137.json,1412,0,0
+1695974793324,1800,Delete product,200,OK,Seller 1-16,text,true,,32963,724,20,20,https://secondhand.binaracademy.org/,1784,0,580
+1695974793766,1488,post product,201,Created,Seller 1-4,text,true,,2446,134625,20,20,https://secondhand.binaracademy.org/products.json,1488,0,0
+1695974793604,1670,post product,201,Created,Seller 1-14,text,true,,2432,134590,20,20,https://secondhand.binaracademy.org/products.json,1670,0,0
+1695974793748,1896,Login,200,OK,Seller 1-5,text,true,,2212,892,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1896,0,477
+1695974794644,1050,Login,200,OK,Seller 1-9,text,true,,2212,900,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1050,0,60
+1695974794205,1639,Login,200,OK,Seller 1-11,text,true,,2200,908,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1639,0,469
+1695974795124,800,Login,200,OK,Seller 1-16,text,true,,2196,882,20,20,https://secondhand.binaracademy.org/users/sign_in.json,800,0,60
+1695974794834,1140,Get product,200,OK,Seller 1-8,text,true,,2275,739,20,20,https://secondhand.binaracademy.org/products/39137.json,1140,0,0
+1695974782694,13319,Delete product,200,OK,Seller 1-15,text,true,,32943,726,20,20,https://secondhand.binaracademy.org/,11179,0,6380
+1695974793833,2201,post product,201,Created,Seller 1-12,text,true,,2432,134576,20,20,https://secondhand.binaracademy.org/products.json,2201,0,0
+1695974795254,829,List product,200,OK,Seller 1-4,text,true,,12114,812,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,829,0,0
+1695974794724,1410,Login,200,OK,Seller 1-17,text,true,,2212,912,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1410,0,460
+1695974791504,4730,update product,200,OK,Seller 1-19,text,true,,2412,222001,20,20,https://secondhand.binaracademy.org/products/39967.json,4730,0,0
+1695974795274,1030,List product,200,OK,Seller 1-14,text,true,,12088,798,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1030,0,0
+1695974793738,2829,post product,201,Created,Seller 1-1,text,true,,2432,134545,20,20,https://secondhand.binaracademy.org/products.json,2829,0,0
+1695974793055,3589,Delete product,200,OK,Seller 1-7,text,true,,32975,712,20,20,https://secondhand.binaracademy.org/,3129,0,1170
+1695974793721,3063,Delete product,200,OK,Seller 1-13,text,true,,32983,724,20,20,https://secondhand.binaracademy.org/,3041,0,2275
+1695974795694,1170,post product,201,Created,Seller 1-9,text,true,,2408,134635,20,20,https://secondhand.binaracademy.org/products.json,1170,0,0
+1695974796034,830,List product,200,OK,Seller 1-12,text,true,,12082,798,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,830,0,0
+1695974796014,890,Login,200,OK,Seller 1-15,text,true,,2212,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,890,0,55
+1695974796084,910,Get product,200,OK,Seller 1-4,text,true,,2272,759,20,20,https://secondhand.binaracademy.org/products/39137.json,910,0,0
+1695974796304,734,Get product,200,OK,Seller 1-14,text,true,,2273,733,20,20,https://secondhand.binaracademy.org/products/39137.json,734,0,0
+1695974795925,1229,post product,201,Created,Seller 1-16,text,true,,2412,134538,20,20,https://secondhand.binaracademy.org/products.json,1229,0,0
+1695974796644,857,Login,200,OK,Seller 1-7,text,true,,2194,894,20,20,https://secondhand.binaracademy.org/users/sign_in.json,857,0,60
+1695974794975,2588,List product,200,OK,Seller 1-6,text,true,,12086,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2588,0,0
+1695974796785,939,Login,200,OK,Seller 1-13,text,true,,2218,902,20,20,https://secondhand.binaracademy.org/users/sign_in.json,939,0,45
+1695974796864,925,Get product,200,OK,Seller 1-12,text,true,,2273,727,20,20,https://secondhand.binaracademy.org/products/39137.json,925,0,0
+1695974796864,994,List product,200,OK,Seller 1-9,text,true,,12073,780,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,994,0,0
+1695974794894,3000,Login,200,OK,Seller 1-18,text,true,,2204,886,20,20,https://secondhand.binaracademy.org/users/sign_in.json,3000,0,1864
+1695974796234,1850,Delete product,200,OK,Seller 1-19,text,true,,32965,728,20,20,https://secondhand.binaracademy.org/,1832,0,742
+1695974797155,1129,List product,200,OK,Seller 1-16,text,true,,12081,784,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1129,0,0
+1695974796904,1510,post product,201,Created,Seller 1-15,text,true,,2420,134599,20,20,https://secondhand.binaracademy.org/products.json,1510,0,0
+1695974797038,1516,update product,200,OK,Seller 1-14,text,true,,2400,222087,20,20,https://secondhand.binaracademy.org/products/39967.json,1516,0,0
+1695974797789,765,update product,500,Internal Server Error,Seller 1-12,text,false,,380,222047,20,20,https://secondhand.binaracademy.org/products/39967.json,765,0,0
+1695974797859,865,Get product,200,OK,Seller 1-9,text,true,,2280,725,20,20,https://secondhand.binaracademy.org/products/39137.json,865,0,0
+1695974797501,1333,post product,201,Created,Seller 1-7,text,true,,2414,134608,20,20,https://secondhand.binaracademy.org/products.json,1333,0,0
+1695974798284,620,Get product,200,OK,Seller 1-16,text,true,,2269,733,20,20,https://secondhand.binaracademy.org/products/39137.json,620,0,0
+1695974796994,1933,update product,200,OK,Seller 1-4,text,true,,2757,222079,20,20,https://secondhand.binaracademy.org/products/39967.json,1933,0,0
+1695974798414,610,List product,200,OK,Seller 1-15,text,true,,12078,792,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,610,0,0
+1695974797724,1300,post product,201,Created,Seller 1-13,text,true,,2422,134638,20,20,https://secondhand.binaracademy.org/products.json,1300,0,0
+1695974798834,260,List product,200,OK,Seller 1-7,text,true,,12069,786,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,260,0,0
+1695974799024,219,List product,200,OK,Seller 1-13,text,true,,12085,794,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,219,0,0
+1695974795845,3439,post product,201,Created,Seller 1-11,text,true,,2404,134605,20,20,https://secondhand.binaracademy.org/products.json,3439,0,0
+1695974798555,869,Delete product,200,OK,Seller 1-14,text,true,,32963,722,20,20,https://secondhand.binaracademy.org/,845,0,470
+1695974797564,1883,Get product,200,OK,Seller 1-6,text,true,,2280,731,20,20,https://secondhand.binaracademy.org/products/39137.json,1883,0,0
+1695974799024,460,Get product,200,OK,Seller 1-15,text,true,,2268,723,20,20,https://secondhand.binaracademy.org/products/39137.json,460,0,0
+1695974799094,500,Get product,200,OK,Seller 1-7,text,true,,2282,721,20,20,https://secondhand.binaracademy.org/products/39137.json,500,0,0
+1695974798724,1010,update product,500,Internal Server Error,Seller 1-9,text,false,,380,222037,20,20,https://secondhand.binaracademy.org/products/39967.json,1010,0,0
+1695974792337,7397,Delete product,200,OK,Seller 1-20,text,true,,32969,710,20,20,https://secondhand.binaracademy.org/,5197,0,3658
+1695974799243,500,Get product,200,OK,Seller 1-13,text,true,,2266,737,20,20,https://secondhand.binaracademy.org/products/39137.json,500,0,0
+1695974798084,1790,Login,200,OK,Seller 1-19,text,true,,2202,884,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1790,0,1120
+1695974799425,724,Login,200,OK,Seller 1-14,text,true,,2212,882,20,20,https://secondhand.binaracademy.org/users/sign_in.json,724,0,60
+1695974798904,1390,update product,200,OK,Seller 1-16,text,true,,2394,222053,20,20,https://secondhand.binaracademy.org/products/39967.json,1389,0,0
+1695974797894,2460,post product,201,Created,Seller 1-18,text,true,,2430,134618,20,20,https://secondhand.binaracademy.org/products.json,2460,0,0
+1695974795644,4799,post product,201,Created,Seller 1-5,text,true,,2420,134608,20,20,https://secondhand.binaracademy.org/products.json,4799,0,0
+1695974799734,830,Login,200,OK,Seller 1-20,text,true,,2204,888,20,20,https://secondhand.binaracademy.org/users/sign_in.json,830,0,50
+1695974795974,4619,update product,200,OK,Seller 1-8,text,true,,2404,221999,20,20,https://secondhand.binaracademy.org/products/39967.json,4619,0,0
+1695974796134,4832,post product,201,Created,Seller 1-17,text,true,,2412,134581,20,20,https://secondhand.binaracademy.org/products.json,4832,0,0
+1695974799744,1270,update product,500,Internal Server Error,Seller 1-13,text,false,,380,221983,20,20,https://secondhand.binaracademy.org/products/39967.json,1269,0,0
+1695974792686,8428,Delete product,200,OK,Seller 1-3,text,true,,32989,722,20,20,https://secondhand.binaracademy.org/,8176,0,6696
+1695974799594,1540,update product,200,OK,Seller 1-7,text,true,,2404,221989,20,20,https://secondhand.binaracademy.org/products/39967.json,1540,0,0
+1695974798927,2277,Delete product,200,OK,Seller 1-4,text,true,,32945,712,20,20,https://secondhand.binaracademy.org/,2264,0,637
+1695974800149,1135,post product,201,Created,Seller 1-14,text,true,,2416,134608,20,20,https://secondhand.binaracademy.org/products.json,1135,0,0
+1695974799284,2334,List product,200,OK,Seller 1-11,text,true,,12083,770,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2334,0,0
+1695974799484,2219,update product,200,OK,Seller 1-15,text,true,,2420,222005,20,20,https://secondhand.binaracademy.org/products/39967.json,2219,0,0
+1695974795004,6731,update product,200,OK,Seller 1-10,text,true,,2400,222079,20,20,https://secondhand.binaracademy.org/products/39967.json,6731,0,0
+1695974800294,1510,Delete product,200,OK,Seller 1-16,text,true,,32939,716,20,20,https://secondhand.binaracademy.org/,1493,0,569
+1695974801114,801,Login,200,OK,Seller 1-3,text,true,,2198,908,20,20,https://secondhand.binaracademy.org/users/sign_in.json,801,0,50
+1695974800565,1409,post product,201,Created,Seller 1-20,text,true,,2418,134564,20,20,https://secondhand.binaracademy.org/products.json,1409,0,0
+1695974801285,789,List product,200,OK,Seller 1-14,text,true,,12076,782,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,788,0,0
+1695974801804,366,Login,200,OK,Seller 1-16,text,true,,2198,890,20,20,https://secondhand.binaracademy.org/users/sign_in.json,366,0,47
+1695974799874,2310,post product,201,Created,Seller 1-19,text,true,,2412,134598,20,20,https://secondhand.binaracademy.org/products.json,2310,0,0
+1695974794427,7890,List product,200,OK,Seller 1-2,text,true,,12096,800,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,7890,0,0
+1695974801204,1131,Login,200,OK,Seller 1-4,text,true,,2198,896,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1131,0,481
+1695974800593,1761,Delete product,200,OK,Seller 1-8,text,true,,32941,720,20,20,https://secondhand.binaracademy.org/,1748,0,811
+1695974801619,765,Get product,200,OK,Seller 1-11,text,true,,2271,735,20,20,https://secondhand.binaracademy.org/products/39137.json,765,0,0
+1695974801974,410,List product,200,OK,Seller 1-20,text,true,,12092,790,20,20,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,410,0,0
+1695974802074,347,Get product,200,OK,Seller 1-14,text,true,,2280,721,20,20,https://secondhand.binaracademy.org/products/39137.json,347,0,0
+1695974801014,1540,Delete product,200,OK,Seller 1-13,text,true,,32973,710,20,20,https://secondhand.binaracademy.org/,1524,0,901
+1695974800354,2230,List product,200,OK,Seller 1-18,text,true,,12086,796,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2230,0,0
+1695974799734,3110,Delete product,200,OK,Seller 1-9,text,true,,32973,724,19,19,https://secondhand.binaracademy.org/,3091,0,2437
+1695974800444,2510,List product,200,OK,Seller 1-5,text,true,,12078,786,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2509,0,0
+1695974801704,1346,Delete product,200,OK,Seller 1-15,text,true,,32941,736,19,19,https://secondhand.binaracademy.org/,1317,0,499
+1695974802184,910,List product,200,OK,Seller 1-19,text,true,,12074,784,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,910,0,0
+1695974801915,1332,post product,201,Created,Seller 1-3,text,true,,2418,134612,19,19,https://secondhand.binaracademy.org/products.json,1332,0,0
+1695974800966,2297,List product,200,OK,Seller 1-17,text,true,,12081,784,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2297,0,0
+1695974801134,2150,Delete product,200,OK,Seller 1-7,text,true,,32973,720,19,19,https://secondhand.binaracademy.org/,2130,0,1180
+1695974802384,930,Get product,200,OK,Seller 1-20,text,true,,2276,737,19,19,https://secondhand.binaracademy.org/products/39137.json,930,0,0
+1695974802355,1012,Login,200,OK,Seller 1-8,text,true,,2194,892,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1012,0,67
+1695974796567,6821,List product,200,OK,Seller 1-1,text,true,,12086,798,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,6821,0,0
+1695974802318,1130,Get product,200,OK,Seller 1-2,text,true,,2282,741,19,19,https://secondhand.binaracademy.org/products/39137.json,1130,0,0
+1695974802844,661,Login,200,OK,Seller 1-9,text,true,,2196,892,19,19,https://secondhand.binaracademy.org/users/sign_in.json,661,0,75
+1695974802170,1494,post product,201,Created,Seller 1-16,text,true,,2418,134594,19,19,https://secondhand.binaracademy.org/products.json,1494,0,0
+1695974802954,810,Get product,200,OK,Seller 1-5,text,true,,2287,723,19,19,https://secondhand.binaracademy.org/products/39137.json,810,0,0
+1695974803051,823,Login,200,OK,Seller 1-15,text,true,,2186,892,19,19,https://secondhand.binaracademy.org/users/sign_in.json,823,0,43
+1695974802421,1453,update product,500,Internal Server Error,Seller 1-14,text,false,,380,222057,19,19,https://secondhand.binaracademy.org/products/39967.json,1453,0,0
+1695974803094,809,Get product,200,OK,Seller 1-19,text,true,,2275,719,19,19,https://secondhand.binaracademy.org/products/39137.json,809,0,0
+1695974803248,816,List product,200,OK,Seller 1-3,text,true,,12078,784,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,816,0,0
+1695974798555,5509,Delete product,200,OK,Seller 1-12,text,true,,32973,724,19,19,https://secondhand.binaracademy.org/,2348,0,870
+1695974803284,862,Login,200,OK,Seller 1-7,text,true,,2206,892,19,19,https://secondhand.binaracademy.org/users/sign_in.json,862,0,84
+1695974802384,1810,update product,200,OK,Seller 1-11,text,true,,2402,222015,19,19,https://secondhand.binaracademy.org/products/39967.json,1809,0,0
+1695974803264,1010,Get product,200,OK,Seller 1-17,text,true,,2276,733,19,19,https://secondhand.binaracademy.org/products/39137.json,1010,0,0
+1695974803664,720,List product,200,OK,Seller 1-16,text,true,,12084,790,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,720,0,0
+1695974803389,1065,Get product,200,OK,Seller 1-1,text,true,,2280,731,19,19,https://secondhand.binaracademy.org/products/39137.json,1065,0,0
+1695974803314,1329,update product,500,Internal Server Error,Seller 1-20,text,false,,380,222023,19,19,https://secondhand.binaracademy.org/products/39967.json,1329,0,0
+1695974803367,1468,post product,201,Created,Seller 1-8,text,true,,2418,134617,19,19,https://secondhand.binaracademy.org/products.json,1468,0,0
+1695974803506,1350,post product,201,Created,Seller 1-9,text,true,,2426,134535,19,19,https://secondhand.binaracademy.org/products.json,1350,0,0
+1695974802584,2349,Get product,200,OK,Seller 1-18,text,true,,2284,731,19,19,https://secondhand.binaracademy.org/products/39137.json,2349,0,0
+1695974804064,955,Get product,200,OK,Seller 1-3,text,true,,2271,723,19,19,https://secondhand.binaracademy.org/products/39137.json,955,0,0
+1695974804064,986,Login,200,OK,Seller 1-12,text,true,,2196,892,19,19,https://secondhand.binaracademy.org/users/sign_in.json,986,0,60
+1695974804385,730,Get product,200,OK,Seller 1-16,text,true,,2259,729,19,19,https://secondhand.binaracademy.org/products/39137.json,730,0,0
+1695974803874,1540,post product,201,Created,Seller 1-15,text,true,,2406,134588,19,19,https://secondhand.binaracademy.org/products.json,1540,0,0
+1695974803764,1950,update product,500,Internal Server Error,Seller 1-5,text,false,,380,222091,19,19,https://secondhand.binaracademy.org/products/39967.json,1949,0,0
+1695974804146,1619,post product,201,Created,Seller 1-7,text,true,,2410,134557,19,19,https://secondhand.binaracademy.org/products.json,1619,0,0
+1695974804275,1578,update product,200,OK,Seller 1-17,text,true,,2396,222033,19,19,https://secondhand.binaracademy.org/products/39967.json,1578,0,0
+1695974804836,1088,List product,200,OK,Seller 1-8,text,true,,12110,784,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1088,0,0
+1695974804856,1088,List product,200,OK,Seller 1-9,text,true,,12067,792,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1088,0,0
+1695974804454,1830,update product,500,Internal Server Error,Seller 1-1,text,false,,380,222067,19,19,https://secondhand.binaracademy.org/products/39967.json,1829,0,0
+1695974805049,1484,post product,201,Created,Seller 1-12,text,true,,2402,134589,19,19,https://secondhand.binaracademy.org/products.json,1484,0,0
+1695974805018,1585,update product,200,OK,Seller 1-3,text,true,,2412,222065,19,19,https://secondhand.binaracademy.org/products/39967.json,1584,0,0
+1695974803904,2760,update product,200,OK,Seller 1-19,text,true,,2398,222069,19,19,https://secondhand.binaracademy.org/products/39967.json,2760,0,0
+1695974801736,5147,Delete product,200,OK,Seller 1-10,text,true,,32971,722,19,19,https://secondhand.binaracademy.org/,5138,0,3617
+1695974805114,1778,update product,200,OK,Seller 1-16,text,true,,2394,222003,19,19,https://secondhand.binaracademy.org/products/39967.json,1778,0,0
+1695974805413,1629,List product,200,OK,Seller 1-15,text,true,,12078,778,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1629,0,0
+1695974805764,1439,List product,200,OK,Seller 1-7,text,true,,12092,776,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1439,0,0
+1695974804644,2620,Delete product,200,OK,Seller 1-20,text,true,,32961,720,19,19,https://secondhand.binaracademy.org/,2599,0,940
+1695974805923,1360,Get product,200,OK,Seller 1-8,text,true,,2266,755,19,19,https://secondhand.binaracademy.org/products/39137.json,1360,0,0
+1695974805943,1422,Get product,200,OK,Seller 1-9,text,true,,2259,719,19,19,https://secondhand.binaracademy.org/products/39137.json,1422,0,0
+1695974806882,536,Login,200,OK,Seller 1-10,text,true,,2194,890,19,19,https://secondhand.binaracademy.org/users/sign_in.json,536,0,46
+1695974806533,909,List product,200,OK,Seller 1-12,text,true,,12100,774,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,909,0,0
+1695974804934,2562,update product,200,OK,Seller 1-18,text,true,,2390,222081,19,19,https://secondhand.binaracademy.org/products/39967.json,2562,0,0
+1695974807042,491,Get product,200,OK,Seller 1-15,text,true,,2280,723,19,19,https://secondhand.binaracademy.org/products/39137.json,491,0,0
+1695974807263,357,Login,200,OK,Seller 1-20,text,true,,2204,880,19,19,https://secondhand.binaracademy.org/users/sign_in.json,357,0,63
+1695974807204,669,Get product,200,OK,Seller 1-7,text,true,,2288,737,19,19,https://secondhand.binaracademy.org/products/39137.json,669,0,0
+1695974805713,2255,Delete product,200,OK,Seller 1-5,text,true,,32939,738,19,19,https://secondhand.binaracademy.org/,2235,0,1290
+1695974806603,1500,Delete product,200,OK,Seller 1-3,text,true,,32939,728,19,19,https://secondhand.binaracademy.org/,1479,0,840
+1695974807443,872,Get product,200,OK,Seller 1-12,text,true,,2276,745,19,19,https://secondhand.binaracademy.org/products/39137.json,872,0,0
+1695974806283,2071,Delete product,200,OK,Seller 1-1,text,true,,32971,724,19,19,https://secondhand.binaracademy.org/,2033,0,1136
+1695974806663,1820,Delete product,200,OK,Seller 1-19,text,true,,32977,714,19,19,https://secondhand.binaracademy.org/,1799,0,781
+1695974807365,1212,update product,500,Internal Server Error,Seller 1-9,text,false,,380,221973,19,19,https://secondhand.binaracademy.org/products/39967.json,1212,0,0
+1695974807283,1670,update product,200,OK,Seller 1-8,text,true,,2406,222063,19,19,https://secondhand.binaracademy.org/products/39967.json,1670,0,0
+1695974805853,3369,Delete product,200,OK,Seller 1-17,text,true,,32953,712,19,19,https://secondhand.binaracademy.org/,3344,0,1950
+1695974807418,1815,post product,201,Created,Seller 1-10,text,true,,2418,134617,19,19,https://secondhand.binaracademy.org/products.json,1815,0,0
+1695974807968,1294,Login,200,OK,Seller 1-5,text,true,,2192,890,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1294,0,68
+1695974807533,1919,update product,500,Internal Server Error,Seller 1-15,text,false,,380,222087,19,19,https://secondhand.binaracademy.org/products/39967.json,1919,0,0
+1695974807620,1895,post product,201,Created,Seller 1-20,text,true,,2416,134552,19,19,https://secondhand.binaracademy.org/products.json,1895,0,0
+1695974808354,1171,Login,200,OK,Seller 1-1,text,true,,2206,890,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1171,0,70
+1695974808103,1440,Login,200,OK,Seller 1-3,text,true,,2208,890,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1440,0,60
+1695974807873,1814,update product,200,OK,Seller 1-7,text,true,,2390,222025,19,19,https://secondhand.binaracademy.org/products/39967.json,1814,0,0
+1695974807495,2498,Delete product,200,OK,Seller 1-18,text,true,,32935,712,19,19,https://secondhand.binaracademy.org/,2481,0,1043
+1695974803448,6575,update product,200,OK,Seller 1-2,text,true,,2406,222039,19,19,https://secondhand.binaracademy.org/products/39967.json,6575,0,0
+1695974808483,1750,Login,200,OK,Seller 1-19,text,true,,2200,896,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1750,0,470
+1695974809233,1000,List product,200,OK,Seller 1-10,text,true,,12092,790,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1000,0,0
+1695974809515,855,List product,200,OK,Seller 1-20,text,true,,12073,788,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,855,0,0
+1695974808315,2198,update product,200,OK,Seller 1-12,text,true,,2406,222053,19,19,https://secondhand.binaracademy.org/products/39967.json,2198,0,0
+1695974808577,2256,Delete product,200,OK,Seller 1-9,text,true,,32967,710,19,19,https://secondhand.binaracademy.org/,2233,0,1166
+1695974809993,879,Login,200,OK,Seller 1-18,text,true,,2214,886,19,19,https://secondhand.binaracademy.org/users/sign_in.json,879,0,60
+1695974809263,1659,post product,201,Created,Seller 1-5,text,true,,2416,134621,19,19,https://secondhand.binaracademy.org/products.json,1659,0,0
+1695974809525,1397,post product,201,Created,Seller 1-1,text,true,,2414,134566,19,19,https://secondhand.binaracademy.org/products.json,1397,0,0
+1695974803875,7099,Delete product,200,OK,Seller 1-14,text,true,,32961,724,19,19,https://secondhand.binaracademy.org/,6002,0,2469
+1695974810233,811,Get product,200,OK,Seller 1-10,text,true,,2282,737,19,19,https://secondhand.binaracademy.org/products/39137.json,811,0,0
+1695974810370,744,Get product,200,OK,Seller 1-20,text,true,,2280,725,19,19,https://secondhand.binaracademy.org/products/39137.json,744,0,0
+1695974799447,11708,update product,500,Internal Server Error,Seller 1-6,text,false,,380,221997,19,19,https://secondhand.binaracademy.org/products/39967.json,11708,0,0
+1695974810833,331,Login,200,OK,Seller 1-9,text,true,,2186,886,19,19,https://secondhand.binaracademy.org/users/sign_in.json,331,0,60
+1695974810923,470,List product,200,OK,Seller 1-1,text,true,,12088,780,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,470,0,0
+1695974809544,1849,post product,201,Created,Seller 1-3,text,true,,2416,134604,19,19,https://secondhand.binaracademy.org/products.json,1849,0,0
+1695974809687,1786,Delete product,200,OK,Seller 1-7,text,true,,32977,712,19,19,https://secondhand.binaracademy.org/,1771,0,1102
+1695974810923,599,List product,200,OK,Seller 1-5,text,true,,12089,782,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,599,0,0
+1695974810023,1840,Delete product,200,OK,Seller 1-2,text,true,,32967,722,19,19,https://secondhand.binaracademy.org/,1820,0,999
+1695974808953,3070,Delete product,200,OK,Seller 1-8,text,true,,32967,728,19,19,https://secondhand.binaracademy.org/,3052,0,2423
+1695974810875,1179,post product,201,Created,Seller 1-18,text,true,,2420,134601,19,19,https://secondhand.binaracademy.org/products.json,1179,0,0
+1695974811393,820,Get product,200,OK,Seller 1-1,text,true,,2270,733,19,19,https://secondhand.binaracademy.org/products/39137.json,820,0,0
+1695974811393,897,List product,200,OK,Seller 1-3,text,true,,12071,788,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,897,0,0
+1695974811164,1209,post product,201,Created,Seller 1-9,text,true,,2424,134555,19,19,https://secondhand.binaracademy.org/products.json,1209,0,0
+1695974811522,963,Get product,200,OK,Seller 1-5,text,true,,2269,741,19,19,https://secondhand.binaracademy.org/products/39137.json,963,0,0
+1695974812054,539,List product,200,OK,Seller 1-18,text,true,,12073,786,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,539,0,0
+1695974810973,1660,Login,200,OK,Seller 1-14,text,true,,2194,880,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1660,0,480
+1695974812290,653,Get product,200,OK,Seller 1-3,text,true,,2268,723,19,19,https://secondhand.binaracademy.org/products/39137.json,653,0,0
+1695974810233,2766,post product,201,Created,Seller 1-19,text,true,,2428,134548,19,19,https://secondhand.binaracademy.org/products.json,2766,0,0
+1695974811044,1989,update product,200,OK,Seller 1-10,text,true,,2412,222089,19,19,https://secondhand.binaracademy.org/products/39967.json,1988,0,0
+1695974812373,789,List product,200,OK,Seller 1-9,text,true,,12091,790,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,789,0,0
+1695974812593,656,Get product,200,OK,Seller 1-18,text,true,,2271,725,19,19,https://secondhand.binaracademy.org/products/39137.json,656,0,0
+1695974811114,2265,update product,200,OK,Seller 1-20,text,true,,2398,222017,19,19,https://secondhand.binaracademy.org/products/39967.json,2264,0,0
+1695974811863,1570,Login,200,OK,Seller 1-2,text,true,,2196,888,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1570,0,459
+1695974811473,1960,Login,200,OK,Seller 1-7,text,true,,2192,896,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1960,0,470
+1695974806892,6594,Delete product,200,OK,Seller 1-16,text,true,,32969,710,19,19,https://secondhand.binaracademy.org/,6594,0,1981
+1695974810513,3119,Delete product,200,OK,Seller 1-12,text,true,,32961,722,19,19,https://secondhand.binaracademy.org/,3096,0,2260
+1695974812213,1551,update product,200,OK,Seller 1-1,text,true,,2400,221997,19,19,https://secondhand.binaracademy.org/products/39967.json,1551,0,0
+1695974812999,1113,List product,200,OK,Seller 1-19,text,true,,12071,794,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1113,0,0
+1695974813162,1051,Get product,200,OK,Seller 1-9,text,true,,2273,743,19,19,https://secondhand.binaracademy.org/products/39137.json,1051,0,0
+1695974812951,1334,update product,500,Internal Server Error,Seller 1-3,text,false,,380,222055,19,19,https://secondhand.binaracademy.org/products/39967.json,1334,0,0
+1695974812485,1800,update product,200,OK,Seller 1-5,text,true,,2398,222033,19,19,https://secondhand.binaracademy.org/products/39967.json,1800,0,0
+1695974813486,876,Login,200,OK,Seller 1-16,text,true,,2206,888,19,19,https://secondhand.binaracademy.org/users/sign_in.json,876,0,57
+1695974811154,3322,Delete product,200,OK,Seller 1-6,text,true,,32973,724,19,19,https://secondhand.binaracademy.org/,2849,0,939
+1695974812023,2453,Login,200,OK,Seller 1-8,text,true,,2206,886,19,19,https://secondhand.binaracademy.org/users/sign_in.json,2453,0,506
+1695974804194,10450,Delete product,200,OK,Seller 1-11,text,true,,32945,718,19,19,https://secondhand.binaracademy.org/,5164,0,3450
+1695974802335,12309,post product,201,Created,Seller 1-4,text,true,,2414,134537,19,19,https://secondhand.binaracademy.org/products.json,12309,0,0
+1695974813033,1683,Delete product,200,OK,Seller 1-10,text,true,,32961,734,19,19,https://secondhand.binaracademy.org/,1665,0,790
+1695974814113,779,Get product,200,OK,Seller 1-19,text,true,,2272,723,19,19,https://secondhand.binaracademy.org/products/39137.json,779,0,0
+1695974812633,2460,post product,201,Created,Seller 1-14,text,true,,2428,134578,19,19,https://secondhand.binaracademy.org/products.json,2460,0,0
+1695974813249,1993,update product,200,OK,Seller 1-18,text,true,,2394,222035,19,19,https://secondhand.binaracademy.org/products/39967.json,1993,0,0
+1695974813434,2110,post product,201,Created,Seller 1-7,text,true,,2418,134540,19,19,https://secondhand.binaracademy.org/products.json,2110,0,0
+1695974813379,2223,Delete product,200,OK,Seller 1-20,text,true,,32973,720,19,19,https://secondhand.binaracademy.org/,2203,0,1004
+1695974814476,1166,Login,200,OK,Seller 1-6,text,true,,2208,892,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1166,0,53
+1695974814717,1196,Login,200,OK,Seller 1-10,text,true,,2208,880,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1196,0,56
+1695974813764,2223,Delete product,200,OK,Seller 1-1,text,true,,32969,722,19,19,https://secondhand.binaracademy.org/,2208,0,820
+1695974814363,1700,post product,201,Created,Seller 1-16,text,true,,2414,134599,19,19,https://secondhand.binaracademy.org/products.json,1700,0,0
+1695974814213,2081,update product,200,OK,Seller 1-9,text,true,,2394,222047,19,19,https://secondhand.binaracademy.org/products/39967.json,2081,0,0
+1695974814285,2069,Delete product,200,OK,Seller 1-5,text,true,,32963,714,19,19,https://secondhand.binaracademy.org/,2056,0,488
+1695974814643,1821,List product,200,OK,Seller 1-4,text,true,,12082,780,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1821,0,0
+1695974809452,7040,Delete product,200,OK,Seller 1-15,text,true,,32937,724,19,19,https://secondhand.binaracademy.org/,6241,0,3641
+1695974814285,2307,Delete product,200,OK,Seller 1-3,text,true,,32963,712,19,19,https://secondhand.binaracademy.org/,2294,0,918
+1695974813632,2979,Login,200,OK,Seller 1-12,text,true,,2198,912,19,19,https://secondhand.binaracademy.org/users/sign_in.json,2979,0,1691
+1695974815604,1019,Login,200,OK,Seller 1-20,text,true,,2208,892,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1019,0,70
+1695974815988,676,Login,200,OK,Seller 1-1,text,true,,2215,888,19,19,https://secondhand.binaracademy.org/users/sign_in.json,676,0,55
+1695974815094,1612,List product,200,OK,Seller 1-14,text,true,,12088,794,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1611,0,0
+1695974813433,3350,post product,201,Created,Seller 1-2,text,true,,2414,134571,19,19,https://secondhand.binaracademy.org/products.json,3350,0,0
+1695974816064,909,List product,200,OK,Seller 1-16,text,true,,12076,786,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,909,0,0
+1695974815545,1449,List product,200,OK,Seller 1-7,text,true,,12073,790,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1449,0,0
+1695974815915,1159,post product,201,Created,Seller 1-10,text,true,,2404,134631,19,19,https://secondhand.binaracademy.org/products.json,1159,0,0
+1695974814476,2806,post product,201,Created,Seller 1-8,text,true,,2424,134584,19,19,https://secondhand.binaracademy.org/products.json,2806,0,0
+1695974815244,2143,Delete product,200,OK,Seller 1-18,text,true,,32977,716,19,19,https://secondhand.binaracademy.org/,2120,0,1190
+1695974816494,978,Login,200,OK,Seller 1-15,text,true,,2210,888,19,19,https://secondhand.binaracademy.org/users/sign_in.json,978,0,60
+1695974809222,8261,Login,200,OK,Seller 1-17,text,true,,2192,872,19,19,https://secondhand.binaracademy.org/users/sign_in.json,8261,0,1481
+1695974814893,2590,update product,200,OK,Seller 1-19,text,true,,2406,222069,19,19,https://secondhand.binaracademy.org/products/39967.json,2590,0,0
+1695974816594,920,Login,200,OK,Seller 1-3,text,true,,2206,882,19,19,https://secondhand.binaracademy.org/users/sign_in.json,920,0,71
+1695974815644,1974,post product,201,Created,Seller 1-6,text,true,,2416,134592,19,19,https://secondhand.binaracademy.org/products.json,1974,0,0
+1695974816466,1240,Get product,200,OK,Seller 1-4,text,true,,2282,727,19,19,https://secondhand.binaracademy.org/products/39137.json,1240,0,0
+1695974816973,757,Get product,200,OK,Seller 1-16,text,true,,2265,721,19,19,https://secondhand.binaracademy.org/products/39137.json,757,0,0
+1695974816706,1078,Get product,200,OK,Seller 1-14,text,true,,2274,733,19,19,https://secondhand.binaracademy.org/products/39137.json,1078,0,0
+1695974817074,750,List product,200,OK,Seller 1-10,text,true,,12091,776,19,19,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,750,0,0
+1695974816355,1508,Login,200,OK,Seller 1-5,text,true,,2194,882,19,19,https://secondhand.binaracademy.org/users/sign_in.json,1508,0,460
+1695974814643,3219,Login,200,OK,Seller 1-11,text,true,,2206,896,19,19,https://secondhand.binaracademy.org/users/sign_in.json,3219,0,1459
+1695974816994,970,Get product,200,OK,Seller 1-7,text,true,,2255,725,19,19,https://secondhand.binaracademy.org/products/39137.json,970,0,0
+1695974816296,1777,Delete product,200,OK,Seller 1-9,text,true,,32969,716,19,19,https://secondhand.binaracademy.org/,1764,0,868
+1695974817388,710,Login,200,OK,Seller 1-18,text,true,,2192,896,18,18,https://secondhand.binaracademy.org/users/sign_in.json,710,0,68
+1695974816623,1530,post product,201,Created,Seller 1-20,text,true,,2412,134568,18,18,https://secondhand.binaracademy.org/products.json,1530,0,0
+1695974816664,1531,post product,201,Created,Seller 1-1,text,true,,2426,134567,18,18,https://secondhand.binaracademy.org/products.json,1531,0,0
+1695974816784,1519,List product,200,OK,Seller 1-2,text,true,,12096,780,18,18,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1519,0,0
+1695974817618,738,List product,200,OK,Seller 1-6,text,true,,12078,782,18,18,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,738,0,0
+1695974817824,541,Get product,200,OK,Seller 1-10,text,true,,2282,743,18,18,https://secondhand.binaracademy.org/products/39137.json,541,0,0
+1695974818154,348,List product,200,OK,Seller 1-20,text,true,,12082,778,18,18,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,348,0,0
+1695974816612,2191,post product,201,Created,Seller 1-12,text,true,,2420,134582,18,18,https://secondhand.binaracademy.org/products.json,2191,0,0
+1695974817472,1401,post product,201,Created,Seller 1-15,text,true,,2426,134621,18,18,https://secondhand.binaracademy.org/products.json,1401,0,0
+1695974817514,1439,post product,201,Created,Seller 1-3,text,true,,2410,134590,18,18,https://secondhand.binaracademy.org/products.json,1439,0,0
+1695974818195,998,List product,200,OK,Seller 1-1,text,true,,12067,792,18,18,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,998,0,0
+1695974817283,2039,List product,200,OK,Seller 1-8,text,true,,12075,790,18,18,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2039,0,0
+1695974817784,1572,update product,200,OK,Seller 1-14,text,true,,2396,222081,18,18,https://secondhand.binaracademy.org/products/39967.json,1572,0,0
+1695974817730,1727,update product,200,OK,Seller 1-16,text,true,,2394,222019,18,18,https://secondhand.binaracademy.org/products/39967.json,1727,0,0
+1695974817484,1990,Delete product,200,OK,Seller 1-19,text,true,,32963,728,18,18,https://secondhand.binaracademy.org/,1975,0,739
+1695974818357,1257,Get product,200,OK,Seller 1-6,text,true,,2282,723,18,18,https://secondhand.binaracademy.org/products/39137.json,1257,0,0
+1695974817707,1966,update product,200,OK,Seller 1-4,text,true,,2392,222049,18,18,https://secondhand.binaracademy.org/products/39967.json,1965,0,0
+1695974818104,1580,post product,201,Created,Seller 1-18,text,true,,2414,134570,18,18,https://secondhand.binaracademy.org/products.json,1580,0,0
+1695974818502,1220,Get product,200,OK,Seller 1-20,text,true,,2290,727,18,18,https://secondhand.binaracademy.org/products/39137.json,1220,0,0
+1695974817864,2419,post product,201,Created,Seller 1-5,text,true,,2408,134614,18,18,https://secondhand.binaracademy.org/products.json,2419,0,0
+1695974818874,1460,List product,200,OK,Seller 1-15,text,true,,12091,792,18,18,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1460,0,0
+1695974818803,1570,List product,200,OK,Seller 1-12,text,true,,12092,792,18,18,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1570,0,0
+1695974818954,1449,List product,200,OK,Seller 1-3,text,true,,12079,782,18,18,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1449,0,0
+1695974818303,2253,Get product,200,OK,Seller 1-2,text,true,,2265,741,18,18,https://secondhand.binaracademy.org/products/39137.json,2253,0,0
+1695974818365,2343,update product,200,OK,Seller 1-10,text,true,,2406,221989,18,18,https://secondhand.binaracademy.org/products/39967.json,2342,0,0
+1695974819193,1518,Get product,200,OK,Seller 1-1,text,true,,2269,719,18,18,https://secondhand.binaracademy.org/products/39137.json,1518,0,0
+1695974819475,1353,Login,200,OK,Seller 1-19,text,true,,2198,882,18,18,https://secondhand.binaracademy.org/users/sign_in.json,1353,0,48
+1695974817964,2916,update product,200,OK,Seller 1-7,text,true,,2394,221979,18,18,https://secondhand.binaracademy.org/products/39967.json,2916,0,0
+1695974819684,1269,List product,200,OK,Seller 1-18,text,true,,12071,780,18,18,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1269,0,0
+1695974817864,3150,post product,201,Created,Seller 1-11,text,true,,2420,134545,18,18,https://secondhand.binaracademy.org/products.json,3149,0,0
+1695974819323,1732,Get product,200,OK,Seller 1-8,text,true,,2277,727,18,18,https://secondhand.binaracademy.org/products/39137.json,1732,0,0
+1695974820334,743,Get product,200,OK,Seller 1-15,text,true,,2275,743,18,18,https://secondhand.binaracademy.org/products/39137.json,743,0,0
+1695974820403,771,Get product,200,OK,Seller 1-3,text,true,,2279,731,18,18,https://secondhand.binaracademy.org/products/39137.json,771,0,0
+1695974820373,947,Get product,200,OK,Seller 1-12,text,true,,2281,737,18,18,https://secondhand.binaracademy.org/products/39137.json,947,0,0
+1695974820712,883,update product,500,Internal Server Error,Seller 1-1,text,false,,380,222003,18,18,https://secondhand.binaracademy.org/products/39967.json,882,0,0
+1695974817484,4129,post product,201,Created,Seller 1-17,text,true,,2414,134615,18,18,https://secondhand.binaracademy.org/products.json,4129,0,0
+1695974819614,2129,update product,500,Internal Server Error,Seller 1-6,text,false,,380,222079,18,18,https://secondhand.binaracademy.org/products/39967.json,2129,0,0
+1695974819458,2547,Delete product,200,OK,Seller 1-16,text,true,,32969,716,18,18,https://secondhand.binaracademy.org/,2524,0,1438
+1695974820284,1770,List product,200,OK,Seller 1-5,text,true,,12092,780,18,18,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1770,0,0
+1695974820556,1538,update product,200,OK,Seller 1-2,text,true,,2418,222019,18,18,https://secondhand.binaracademy.org/products/39967.json,1538,0,0
+1695974819722,2481,update product,500,Internal Server Error,Seller 1-20,text,false,,380,222017,18,18,https://secondhand.binaracademy.org/products/39967.json,2481,0,0
+1695974820954,1229,Get product,200,OK,Seller 1-18,text,true,,2265,723,18,18,https://secondhand.binaracademy.org/products/39137.json,1229,0,0
+1695974819673,2624,Delete product,200,OK,Seller 1-4,text,true,,32971,708,18,18,https://secondhand.binaracademy.org/,2594,0,1281
+1695974820829,1913,post product,201,Created,Seller 1-19,text,true,,2428,134576,18,18,https://secondhand.binaracademy.org/products.json,1913,0,0
+1695974821078,1775,update product,500,Internal Server Error,Seller 1-15,text,false,,380,222059,18,18,https://secondhand.binaracademy.org/products/39967.json,1775,0,0
+1695974821210,1893,update product,200,OK,Seller 1-3,text,true,,2398,222083,18,18,https://secondhand.binaracademy.org/products/39967.json,1893,0,0
+1695974822005,1158,Login,200,OK,Seller 1-16,text,true,,2198,888,18,18,https://secondhand.binaracademy.org/users/sign_in.json,1158,0,50
+1695974821056,2207,update product,200,OK,Seller 1-8,text,true,,2402,222081,18,18,https://secondhand.binaracademy.org/products/39967.json,2207,0,0
+1695974822054,1272,Get product,200,OK,Seller 1-5,text,true,,2278,737,18,18,https://secondhand.binaracademy.org/products/39137.json,1272,0,0
+1695974819357,4103,Delete product,200,OK,Seller 1-14,text,true,,32975,718,18,18,https://secondhand.binaracademy.org/,4103,0,1855
+1695974822743,759,List product,200,OK,Seller 1-19,text,true,,12096,794,17,17,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,759,0,0
+1695974822298,1456,Login,200,OK,Seller 1-4,text,true,,2192,890,17,17,https://secondhand.binaracademy.org/users/sign_in.json,1456,0,445
+1695974821014,2809,List product,200,OK,Seller 1-11,text,true,,12094,786,17,17,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2809,0,0
+1695974821744,2330,Delete product,200,OK,Seller 1-6,text,true,,32989,726,17,17,https://secondhand.binaracademy.org/,2312,0,1669
+1695974823503,670,Get product,200,OK,Seller 1-19,text,true,,2282,741,17,17,https://secondhand.binaracademy.org/products/39137.json,670,0,0
+1695974821613,2817,List product,200,OK,Seller 1-17,text,true,,12086,786,17,17,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,2817,0,0
+1695974822207,2296,update product,200,OK,Seller 1-18,text,true,,2404,221979,17,17,https://secondhand.binaracademy.org/products/39967.json,2296,0,0
+1695974823164,1471,post product,201,Created,Seller 1-16,text,true,,2422,134540,17,17,https://secondhand.binaracademy.org/products.json,1471,0,0
+1695974823264,1859,Delete product,200,OK,Seller 1-8,text,true,,32941,718,17,17,https://secondhand.binaracademy.org/,1840,0,491
+1695974820880,4588,Delete product,200,OK,Seller 1-7,text,true,,32973,716,17,17,https://secondhand.binaracademy.org/,4574,0,3074
+1695974822207,3396,Delete product,200,OK,Seller 1-20,text,true,,32979,734,16,16,https://secondhand.binaracademy.org/,3396,0,1407
+1695974824431,1213,Get product,200,OK,Seller 1-17,text,true,,2259,731,15,15,https://secondhand.binaracademy.org/products/39137.json,1213,0,0
+1695974823327,2447,update product,500,Internal Server Error,Seller 1-5,text,false,,380,222085,15,15,https://secondhand.binaracademy.org/products/39967.json,2447,0,0
+1695974824074,1750,Login,200,OK,Seller 1-6,text,true,,2202,908,15,15,https://secondhand.binaracademy.org/users/sign_in.json,1750,0,461
+1695974824174,1730,update product,200,OK,Seller 1-19,text,true,,2396,222049,15,15,https://secondhand.binaracademy.org/products/39967.json,1729,0,0
+1695974824635,1278,List product,200,OK,Seller 1-16,text,true,,12076,788,15,15,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1278,0,0
+1695974825123,820,Login,200,OK,Seller 1-8,text,true,,2210,892,15,15,https://secondhand.binaracademy.org/users/sign_in.json,820,0,51
+1695974823823,2240,Get product,200,OK,Seller 1-11,text,true,,2280,739,15,15,https://secondhand.binaracademy.org/products/39137.json,2240,0,0
+1695974825913,180,Get product,200,OK,Seller 1-16,text,true,,2282,721,15,15,https://secondhand.binaracademy.org/products/39137.json,180,0,0
+1695974820708,5471,Delete product,200,OK,Seller 1-10,text,true,,32961,722,15,15,https://secondhand.binaracademy.org/,3495,0,2084
+1695974823761,2432,post product,201,Created,Seller 1-4,text,true,,2428,134603,14,14,https://secondhand.binaracademy.org/products.json,2432,0,0
+1695974823103,3171,Delete product,200,OK,Seller 1-3,text,true,,32979,714,14,14,https://secondhand.binaracademy.org/,3130,0,1700
+1695974824504,1922,Delete product,200,OK,Seller 1-18,text,true,,32943,720,14,14,https://secondhand.binaracademy.org/,1915,0,1164
+1695974825774,909,Delete product,200,OK,Seller 1-5,text,true,,32949,722,14,14,https://secondhand.binaracademy.org/,897,0,230
+1695974822854,4009,Delete product,200,OK,Seller 1-15,text,true,,32973,726,13,13,https://secondhand.binaracademy.org/,3077,0,1040
+1695974826275,823,Login,200,OK,Seller 1-3,text,true,,2190,898,13,13,https://secondhand.binaracademy.org/users/sign_in.json,823,0,58
+1695974825904,1210,Delete product,200,OK,Seller 1-19,text,true,,32979,712,13,13,https://secondhand.binaracademy.org/,1196,0,318
+1695974826094,1039,update product,200,OK,Seller 1-16,text,true,,2400,221989,12,12,https://secondhand.binaracademy.org/products/39967.json,1039,0,0
+1695974826426,762,Login,200,OK,Seller 1-18,text,true,,2190,894,12,12,https://secondhand.binaracademy.org/users/sign_in.json,762,0,60
+1695974825943,1263,post product,201,Created,Seller 1-8,text,true,,2416,134615,12,12,https://secondhand.binaracademy.org/products.json,1263,0,0
+1695974826194,1060,List product,200,OK,Seller 1-4,text,true,,12081,800,12,12,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,1060,0,0
+1695974827206,257,List product,200,OK,Seller 1-8,text,true,,12073,782,12,12,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,257,0,0
+1695974821320,6143,update product,200,OK,Seller 1-12,text,true,,2402,222075,12,12,https://secondhand.binaracademy.org/products/39967.json,6143,0,0
+1695974827254,549,Get product,200,OK,Seller 1-4,text,true,,2269,733,12,12,https://secondhand.binaracademy.org/products/39137.json,549,0,0
+1695974827463,430,Get product,200,OK,Seller 1-8,text,true,,2274,725,12,12,https://secondhand.binaracademy.org/products/39137.json,430,0,0
+1695974827099,951,post product,201,Created,Seller 1-3,text,true,,2424,134532,12,12,https://secondhand.binaracademy.org/products.json,951,0,0
+1695974827134,947,Delete product,200,OK,Seller 1-16,text,true,,32975,716,12,12,https://secondhand.binaracademy.org/,940,0,309
+1695974827188,905,post product,201,Created,Seller 1-18,text,true,,2424,134547,11,11,https://secondhand.binaracademy.org/products.json,905,0,0
+1695974828050,143,List product,200,OK,Seller 1-3,text,true,,12092,790,11,11,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,143,0,0
+1695974828093,180,List product,200,OK,Seller 1-18,text,true,,12079,790,11,11,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,180,0,0
+1695974828193,100,Get product,200,OK,Seller 1-3,text,true,,2277,737,11,11,https://secondhand.binaracademy.org/products/39137.json,100,0,0
+1695974828273,72,Get product,200,OK,Seller 1-18,text,true,,2257,731,11,11,https://secondhand.binaracademy.org/products/39137.json,72,0,0
+1695974826063,2362,update product,200,OK,Seller 1-11,text,true,,2402,222037,11,11,https://secondhand.binaracademy.org/products/39967.json,2362,0,0
+1695974827893,710,update product,500,Internal Server Error,Seller 1-8,text,false,,380,222031,11,11,https://secondhand.binaracademy.org/products/39967.json,710,0,0
+1695974826863,1884,Login,200,OK,Seller 1-15,text,true,,2184,892,11,11,https://secondhand.binaracademy.org/users/sign_in.json,1884,0,460
+1695974825824,2992,post product,201,Created,Seller 1-6,text,true,,2410,134607,11,11,https://secondhand.binaracademy.org/products.json,2992,0,0
+1695974827803,1032,update product,200,OK,Seller 1-4,text,true,,2400,222073,11,11,https://secondhand.binaracademy.org/products/39967.json,1032,0,0
+1695974828293,710,update product,200,OK,Seller 1-3,text,true,,2404,222091,11,11,https://secondhand.binaracademy.org/products/39967.json,710,0,0
+1695974825644,3717,update product,500,Internal Server Error,Seller 1-17,text,false,,380,221993,11,11,https://secondhand.binaracademy.org/products/39967.json,3716,0,0
+1695974828345,1039,update product,200,OK,Seller 1-18,text,true,,2412,222001,11,11,https://secondhand.binaracademy.org/products/39967.json,1039,0,0
+1695974828835,568,Delete product,200,OK,Seller 1-4,text,true,,32931,722,11,11,https://secondhand.binaracademy.org/,550,0,239
+1695974829003,550,Delete product,200,OK,Seller 1-3,text,true,,32943,720,10,10,https://secondhand.binaracademy.org/,526,0,141
+1695974828817,826,List product,200,OK,Seller 1-6,text,true,,12102,782,9,9,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,826,0,0
+1695974821595,8228,Delete product,200,OK,Seller 1-1,text,true,,32973,720,9,9,https://secondhand.binaracademy.org/,7548,0,4849
+1695974829361,562,Delete product,200,OK,Seller 1-17,text,true,,32971,710,9,9,https://secondhand.binaracademy.org/,535,0,212
+1695974829643,310,Get product,200,OK,Seller 1-6,text,true,,2276,747,8,8,https://secondhand.binaracademy.org/products/39137.json,310,0,0
+1695974829963,1310,update product,200,OK,Seller 1-6,text,true,,2402,222023,8,8,https://secondhand.binaracademy.org/products/39967.json,1310,0,0
+1695974829823,1690,Login,200,OK,Seller 1-1,text,true,,2210,892,8,8,https://secondhand.binaracademy.org/users/sign_in.json,1690,0,451
+1695974822094,10059,Delete product,200,OK,Seller 1-2,text,true,,32965,734,8,8,https://secondhand.binaracademy.org/,6929,0,2410
+1695974832152,138,Login,200,OK,Seller 1-2,text,true,,2198,884,8,8,https://secondhand.binaracademy.org/users/sign_in.json,138,0,61
+1695974828603,3713,Delete product,200,OK,Seller 1-8,text,true,,32949,718,8,8,https://secondhand.binaracademy.org/,3689,0,3420
+1695974832290,702,post product,201,Created,Seller 1-2,text,true,,2418,134603,7,7,https://secondhand.binaracademy.org/products.json,702,0,0
+1695974832992,142,List product,200,OK,Seller 1-2,text,true,,12106,790,7,7,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,142,0,0
+1695974833134,56,Get product,200,OK,Seller 1-2,text,true,,2269,751,7,7,https://secondhand.binaracademy.org/products/39137.json,56,0,0
+1695974831512,1698,post product,201,Created,Seller 1-1,text,true,,2436,134576,7,7,https://secondhand.binaracademy.org/products.json,1698,0,0
+1695974833211,551,List product,200,OK,Seller 1-1,text,true,,12084,802,7,7,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,551,0,0
+1695974833190,963,update product,200,OK,Seller 1-2,text,true,,2404,222083,7,7,https://secondhand.binaracademy.org/products/39967.json,962,0,0
+1695974829384,4870,Delete product,200,OK,Seller 1-18,text,true,,32967,728,7,7,https://secondhand.binaracademy.org/,3009,0,2217
+1695974834157,356,Delete product,200,OK,Seller 1-2,text,true,,32941,726,6,6,https://secondhand.binaracademy.org/,340,0,145
+1695974828748,6374,post product,201,Created,Seller 1-15,text,true,,2410,134532,6,6,https://secondhand.binaracademy.org/products.json,6374,0,0
+1695974827463,7713,Delete product,200,OK,Seller 1-12,text,true,,32971,718,6,6,https://secondhand.binaracademy.org/,2047,0,1071
+1695974831272,4410,Delete product,200,OK,Seller 1-6,text,true,,32943,718,5,5,https://secondhand.binaracademy.org/,3217,0,2601
+1695974834513,1689,Login,200,OK,Seller 1-2,text,true,,2196,892,4,4,https://secondhand.binaracademy.org/users/sign_in.json,1689,0,459
+1695974833762,2699,Get product,200,OK,Seller 1-1,text,true,,2257,729,4,4,https://secondhand.binaracademy.org/products/39137.json,2699,0,0
+1695974836462,1281,update product,200,OK,Seller 1-1,text,true,,2414,222011,4,4,https://secondhand.binaracademy.org/products/39967.json,1281,0,0
+1695974836203,1900,post product,201,Created,Seller 1-2,text,true,,2406,134607,4,4,https://secondhand.binaracademy.org/products.json,1900,0,0
+1695974838103,780,List product,200,OK,Seller 1-2,text,true,,12089,778,4,4,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,780,0,0
+1695974828447,10731,Delete product,200,OK,Seller 1-11,text,true,,32935,718,4,4,https://secondhand.binaracademy.org/,7866,0,2496
+1695974839178,125,Login,200,OK,Seller 1-11,text,true,,2190,886,4,4,https://secondhand.binaracademy.org/users/sign_in.json,125,0,68
+1695974837744,2049,Delete product,200,OK,Seller 1-1,text,true,,32943,730,4,4,https://secondhand.binaracademy.org/,2031,0,1769
+1695974839303,579,post product,201,Created,Seller 1-11,text,true,,2404,134574,3,3,https://secondhand.binaracademy.org/products.json,579,0,0
+1695974838883,1019,Get product,200,OK,Seller 1-2,text,true,,2261,741,3,3,https://secondhand.binaracademy.org/products/39137.json,1019,0,0
+1695974839882,140,List product,200,OK,Seller 1-11,text,true,,12073,776,3,3,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,140,0,0
+1695974840023,70,Get product,200,OK,Seller 1-11,text,true,,2271,725,3,3,https://secondhand.binaracademy.org/products/39137.json,70,0,0
+1695974840093,590,update product,500,Internal Server Error,Seller 1-11,text,false,,380,222005,3,3,https://secondhand.binaracademy.org/products/39967.json,590,0,0
+1695974839903,960,update product,200,OK,Seller 1-2,text,true,,2398,222015,3,3,https://secondhand.binaracademy.org/products/39967.json,960,0,0
+1695974840863,1990,Delete product,200,OK,Seller 1-2,text,true,,32943,714,3,3,https://secondhand.binaracademy.org/,1990,0,1151
+1695974840683,5150,Delete product,200,OK,Seller 1-11,text,true,,32941,722,2,2,https://secondhand.binaracademy.org/,3920,0,1220
+1695974835122,17880,List product,200,OK,Seller 1-15,text,true,,12069,782,1,1,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,17880,0,0
+1695974853003,1589,Get product,200,OK,Seller 1-15,text,true,,2269,721,1,1,https://secondhand.binaracademy.org/products/39137.json,1589,0,0
+1695974854592,3191,update product,200,OK,Seller 1-15,text,true,,2404,222013,1,1,https://secondhand.binaracademy.org/products/39967.json,3191,0,0
+1695974857782,400,Delete product,200,OK,Seller 1-15,text,true,,32939,726,1,1,https://secondhand.binaracademy.org/,379,0,159
+1695974858182,99,Login,200,OK,Seller 1-15,text,true,,2194,890,1,1,https://secondhand.binaracademy.org/users/sign_in.json,99,0,49
+1695974858282,579,post product,201,Created,Seller 1-15,text,true,,2410,134614,1,1,https://secondhand.binaracademy.org/products.json,579,0,0
+1695974858861,100,List product,200,OK,Seller 1-15,text,true,,12090,782,1,1,https://secondhand.binaracademy.org/products.json?page=1&category_id=1&user_id=76053,100,0,0
+1695974858961,70,Get product,200,OK,Seller 1-15,text,true,,2265,735,1,1,https://secondhand.binaracademy.org/products/39137.json,70,0,0
+1695974859031,922,update product,200,OK,Seller 1-15,text,true,,2392,222079,1,1,https://secondhand.binaracademy.org/products/39967.json,921,0,0
+1695974859953,1678,Delete product,200,OK,Seller 1-15,text,true,,32947,714,1,1,https://secondhand.binaracademy.org/,1179,0,559

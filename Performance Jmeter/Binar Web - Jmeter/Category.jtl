@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695877990215,405,List category,200,OK,Category 1-1,text,true,,1070,170,9,9,https://secondhand.binaracademy.org/categories.json,404,0,132
+1695877990261,359,List category,200,OK,Category 1-2,text,true,,1070,170,9,9,https://secondhand.binaracademy.org/categories.json,358,0,86
+1695877990620,51,List category ID,200,OK,Category 1-1,text,true,,729,172,10,10,https://secondhand.binaracademy.org/categories/1.json,51,0,0
+1695877990620,98,List category ID,200,OK,Category 1-2,text,true,,729,172,11,11,https://secondhand.binaracademy.org/categories/1.json,98,0,0
+1695877990363,355,List category,200,OK,Category 1-4,text,true,,1070,170,11,11,https://secondhand.binaracademy.org/categories.json,355,0,262
+1695877990671,47,List category,200,OK,Category 1-1,text,true,,1070,170,11,11,https://secondhand.binaracademy.org/categories.json,47,0,0
+1695877990466,267,List category,200,OK,Category 1-6,text,true,,1070,170,11,11,https://secondhand.binaracademy.org/categories.json,267,0,163
+1695877990311,422,List category,200,OK,Category 1-3,text,true,,1070,170,11,11,https://secondhand.binaracademy.org/categories.json,422,0,316
+1695877990719,52,List category,200,OK,Category 1-2,text,true,,1070,170,12,12,https://secondhand.binaracademy.org/categories.json,52,0,0
+1695877990719,52,List category ID,200,OK,Category 1-4,text,true,,729,172,12,12,https://secondhand.binaracademy.org/categories/1.json,52,0,0
+1695877990719,53,List category ID,200,OK,Category 1-1,text,true,,729,172,12,12,https://secondhand.binaracademy.org/categories/1.json,53,0,0
+1695877990734,58,List category ID,200,OK,Category 1-6,text,true,,729,172,12,12,https://secondhand.binaracademy.org/categories/1.json,58,0,0
+1695877990734,60,List category ID,200,OK,Category 1-3,text,true,,729,172,12,12,https://secondhand.binaracademy.org/categories/1.json,60,0,0
+1695877990772,65,List category,200,OK,Category 1-4,text,true,,1070,170,13,13,https://secondhand.binaracademy.org/categories.json,65,0,0
+1695877990772,65,List category,200,OK,Category 1-1,text,true,,1070,170,13,13,https://secondhand.binaracademy.org/categories.json,65,0,0
+1695877990772,65,List category ID,200,OK,Category 1-2,text,true,,729,172,13,13,https://secondhand.binaracademy.org/categories/1.json,65,0,0
+1695877990669,169,List category,200,OK,Category 1-10,text,true,,1070,170,13,13,https://secondhand.binaracademy.org/categories.json,169,0,104
+1695877990792,62,List category,200,OK,Category 1-6,text,true,,1070,170,13,13,https://secondhand.binaracademy.org/categories.json,62,0,0
+1695877990794,60,List category,200,OK,Category 1-3,text,true,,1070,170,13,13,https://secondhand.binaracademy.org/categories.json,60,0,0
+1695877990619,235,List category,200,OK,Category 1-9,text,true,,1070,170,13,13,https://secondhand.binaracademy.org/categories.json,235,0,154
+1695877990837,50,List category ID,200,OK,Category 1-4,text,true,,729,172,14,14,https://secondhand.binaracademy.org/categories/1.json,50,0,0
+1695877990837,50,List category ID,200,OK,Category 1-1,text,true,,729,172,14,14,https://secondhand.binaracademy.org/categories/1.json,50,0,0
+1695877990838,49,List category,200,OK,Category 1-2,text,true,,1070,170,14,14,https://secondhand.binaracademy.org/categories.json,49,0,0
+1695877990838,59,List category ID,200,OK,Category 1-10,text,true,,729,172,14,14,https://secondhand.binaracademy.org/categories/1.json,59,0,0
+1695877990765,132,List category,200,OK,Category 1-12,text,true,,1070,170,14,14,https://secondhand.binaracademy.org/categories.json,132,0,77
+1695877990854,43,List category ID,200,OK,Category 1-6,text,true,,729,172,14,14,https://secondhand.binaracademy.org/categories/1.json,43,0,0
+1695877990854,44,List category ID,200,OK,Category 1-3,text,true,,729,172,14,14,https://secondhand.binaracademy.org/categories/1.json,44,0,0
+1695877990854,58,List category ID,200,OK,Category 1-9,text,true,,729,172,14,14,https://secondhand.binaracademy.org/categories/1.json,58,0,0
+1695877990815,97,List category,200,OK,Category 1-13,text,true,,1070,170,14,14,https://secondhand.binaracademy.org/categories.json,97,0,63
+1695877990887,42,List category,200,OK,Category 1-4,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,42,0,0
+1695877990887,42,List category,200,OK,Category 1-1,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,42,0,0
+1695877990888,41,List category ID,200,OK,Category 1-2,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,41,0,0
+1695877990898,46,List category,200,OK,Category 1-3,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,46,0,0
+1695877990897,47,List category,200,OK,Category 1-10,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,47,0,0
+1695877990897,51,List category ID,200,OK,Category 1-12,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,51,0,0
+1695877990913,35,List category ID,200,OK,Category 1-13,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,35,0,0
+1695877990897,52,List category,200,OK,Category 1-6,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,52,0,0
+1695877990912,49,List category,200,OK,Category 1-9,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,49,0,0
+1695877990929,32,List category ID,200,OK,Category 1-4,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,32,0,0
+1695877990929,38,List category,200,OK,Category 1-2,text,true,,1070,170,16,16,https://secondhand.binaracademy.org/categories.json,38,0,0
+1695877990929,52,List category ID,200,OK,Category 1-1,text,true,,729,172,16,16,https://secondhand.binaracademy.org/categories/1.json,52,0,0
+1695877990949,32,List category,200,OK,Category 1-13,text,true,,1070,170,16,16,https://secondhand.binaracademy.org/categories.json,32,0,0
+1695877990944,37,List category ID,200,OK,Category 1-3,text,true,,729,172,16,16,https://secondhand.binaracademy.org/categories/1.json,37,0,0
+1695877990949,41,List category,200,OK,Category 1-12,text,true,,1070,170,16,16,https://secondhand.binaracademy.org/categories.json,41,0,0
+1695877990949,64,List category ID,200,OK,Category 1-6,text,true,,729,172,16,16,https://secondhand.binaracademy.org/categories/1.json,64,0,0
+1695877990961,52,List category,200,OK,Category 1-4,text,true,,1070,170,16,16,https://secondhand.binaracademy.org/categories.json,52,0,0
+1695877990944,69,List category ID,200,OK,Category 1-10,text,true,,729,172,16,16,https://secondhand.binaracademy.org/categories/1.json,69,0,0
+1695877990915,100,List category,200,OK,Category 1-15,text,true,,1070,170,16,16,https://secondhand.binaracademy.org/categories.json,100,0,56
+1695877990961,54,List category ID,200,OK,Category 1-9,text,true,,729,172,16,16,https://secondhand.binaracademy.org/categories/1.json,54,0,0
+1695877990982,66,List category ID,200,OK,Category 1-13,text,true,,729,172,17,17,https://secondhand.binaracademy.org/categories/1.json,66,0,0
+1695877990981,66,List category,200,OK,Category 1-1,text,true,,1070,170,17,17,https://secondhand.binaracademy.org/categories.json,66,0,0
+1695877990982,66,List category,200,OK,Category 1-3,text,true,,1070,170,17,17,https://secondhand.binaracademy.org/categories.json,66,0,0
+1695877990967,99,List category ID,200,OK,Category 1-2,text,true,,729,172,17,17,https://secondhand.binaracademy.org/categories/1.json,99,0,0
+1695877991013,53,List category ID,200,OK,Category 1-4,text,true,,729,172,17,17,https://secondhand.binaracademy.org/categories/1.json,53,0,0
+1695877991014,53,List category,200,OK,Category 1-10,text,true,,1070,170,17,17,https://secondhand.binaracademy.org/categories.json,53,0,0
+1695877990991,76,List category ID,200,OK,Category 1-12,text,true,,729,172,17,17,https://secondhand.binaracademy.org/categories/1.json,76,0,0
+1695877991013,55,List category,200,OK,Category 1-6,text,true,,1070,170,17,17,https://secondhand.binaracademy.org/categories.json,55,0,0
+1695877991015,66,List category,200,OK,Category 1-9,text,true,,1070,170,18,18,https://secondhand.binaracademy.org/categories.json,66,0,0
+1695877991015,66,List category ID,200,OK,Category 1-15,text,true,,729,172,18,18,https://secondhand.binaracademy.org/categories/1.json,66,0,0
+1695877990966,115,List category,200,OK,Category 1-16,text,true,,1070,170,18,18,https://secondhand.binaracademy.org/categories.json,115,0,58
+1695877991048,53,List category ID,200,OK,Category 1-1,text,true,,729,172,18,18,https://secondhand.binaracademy.org/categories/1.json,53,0,0
+1695877991049,53,List category ID,200,OK,Category 1-3,text,true,,729,172,18,18,https://secondhand.binaracademy.org/categories/1.json,53,0,0
+1695877991048,54,List category,200,OK,Category 1-13,text,true,,1070,170,18,18,https://secondhand.binaracademy.org/categories.json,54,0,0
+1695877991068,55,List category,200,OK,Category 1-12,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,55,0,0
+1695877991068,81,List category ID,200,OK,Category 1-6,text,true,,729,172,19,19,https://secondhand.binaracademy.org/categories/1.json,81,0,0
+1695877991067,82,List category,200,OK,Category 1-4,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,82,0,0
+1695877991066,84,List category,200,OK,Category 1-2,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,84,0,0
+1695877991081,86,List category,200,OK,Category 1-15,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,86,0,0
+1695877991102,65,List category ID,200,OK,Category 1-13,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,65,0,0
+1695877991081,86,List category ID,200,OK,Category 1-16,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,86,0,0
+1695877991102,66,List category,200,OK,Category 1-3,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,66,0,0
+1695877991068,100,List category ID,200,OK,Category 1-10,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,100,0,0
+1695877991081,87,List category ID,200,OK,Category 1-9,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,87,0,0
+1695877991102,66,List category,200,OK,Category 1-1,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,66,0,0
+1695877991123,58,List category ID,200,OK,Category 1-12,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,58,0,0
+1695877991149,32,List category,200,OK,Category 1-6,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,32,0,0
+1695877991149,62,List category ID,200,OK,Category 1-4,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,62,0,0
+1695877991150,61,List category ID,200,OK,Category 1-2,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,61,0,0
+1695877991071,140,List category,200,OK,Category 1-18,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,140,0,80
+1695877991167,72,List category ID,200,OK,Category 1-15,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,72,0,0
+1695877991167,72,List category,200,OK,Category 1-16,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,72,0,0
+1695877991168,71,List category,200,OK,Category 1-9,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,71,0,0
+1695877991168,73,List category ID,200,OK,Category 1-1,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,73,0,0
+1695877991168,73,List category,200,OK,Category 1-10,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,73,0,0
+1695877991167,74,List category,200,OK,Category 1-13,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,74,0,0
+1695877991168,80,List category ID,200,OK,Category 1-3,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,80,0,0
+1695877991181,67,List category ID,200,OK,Category 1-6,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,67,0,0
+1695877991211,37,List category,200,OK,Category 1-2,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,37,0,0
+1695877991181,80,List category,200,OK,Category 1-12,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,80,0,0
+1695877991242,67,List category,200,OK,Category 1-1,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,67,0,0
+1695877990517,792,List category,200,OK,Category 1-7,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,792,0,518
+1695877991211,99,List category ID,200,OK,Category 1-18,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,99,0,0
+1695877991211,106,List category,200,OK,Category 1-4,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,106,0,0
+1695877991242,75,List category ID,200,OK,Category 1-13,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,75,0,0
+1695877991249,69,List category,200,OK,Category 1-3,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,69,0,0
+1695877991242,79,List category ID,200,OK,Category 1-10,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,79,0,0
+1695877991248,88,List category,200,OK,Category 1-6,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,88,0,0
+1695877991239,112,List category ID,200,OK,Category 1-16,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,112,0,0
+1695877991239,112,List category ID,200,OK,Category 1-9,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,112,0,0
+1695877991261,90,List category ID,200,OK,Category 1-12,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,90,0,0
+1695877991248,103,List category ID,200,OK,Category 1-2,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,103,0,0
+1695877991239,126,List category,200,OK,Category 1-15,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,126,0,0
+1695877991311,72,List category,200,OK,Category 1-18,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,72,0,0
+1695877991317,66,List category ID,200,OK,Category 1-4,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,66,0,0
+1695877991318,65,List category ID,200,OK,Category 1-3,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,65,0,0
+1695877991309,74,List category ID,200,OK,Category 1-1,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,74,0,0
+1695877991336,57,List category ID,200,OK,Category 1-6,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,57,0,0
+1695877991322,71,List category,200,OK,Category 1-10,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,71,0,0
+1695877991317,77,List category,200,OK,Category 1-13,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,77,0,0
+1695877991352,68,List category,200,OK,Category 1-12,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,68,0,0
+1695877991352,68,List category,200,OK,Category 1-2,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,68,0,0
+1695877991352,68,List category,200,OK,Category 1-16,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,68,0,0
+1695877991365,73,List category ID,200,OK,Category 1-15,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,73,0,0
+1695877991352,88,List category,200,OK,Category 1-9,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,88,0,0
+1695877991383,57,List category,200,OK,Category 1-3,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,57,0,0
+1695877991383,58,List category ID,200,OK,Category 1-18,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,58,0,0
+1695877991383,71,List category,200,OK,Category 1-4,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,71,0,0
+1695877991383,71,List category,200,OK,Category 1-1,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,71,0,0
+1695877991393,62,List category,200,OK,Category 1-6,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,62,0,0
+1695877991394,67,List category ID,200,OK,Category 1-10,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,67,0,0
+1695877991394,68,List category ID,200,OK,Category 1-13,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,68,0,0
+1695877991421,42,List category ID,200,OK,Category 1-2,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,42,0,0
+1695877991421,60,List category ID,200,OK,Category 1-12,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,60,0,0
+1695877991421,60,List category ID,200,OK,Category 1-16,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,60,0,0
+1695877991440,55,List category ID,200,OK,Category 1-3,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,55,0,0
+1695877991439,56,List category,200,OK,Category 1-15,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,56,0,0
+1695877991440,57,List category ID,200,OK,Category 1-9,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,57,0,0
+1695877991454,57,List category ID,200,OK,Category 1-1,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,57,0,0
+1695877991441,70,List category,200,OK,Category 1-18,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,70,0,0
+1695877991455,57,List category ID,200,OK,Category 1-6,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,57,0,0
+1695877991454,58,List category ID,200,OK,Category 1-4,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,58,0,0
+1695877991464,67,List category,200,OK,Category 1-2,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,67,0,0
+1695877991481,50,List category,200,OK,Category 1-12,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,50,0,0
+1695877991463,69,List category,200,OK,Category 1-13,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,69,0,0
+1695877991462,103,List category,200,OK,Category 1-10,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,103,0,0
+1695877991481,84,List category,200,OK,Category 1-16,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,84,0,0
+1695877991496,69,List category ID,200,OK,Category 1-15,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,69,0,0
+1695877991497,70,List category,200,OK,Category 1-9,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,70,0,0
+1695877991496,72,List category,200,OK,Category 1-3,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,72,0,0
+1695877991511,59,List category,200,OK,Category 1-1,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,59,0,0
+1695877991512,61,List category ID,200,OK,Category 1-18,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,61,0,0
+1695877991512,61,List category,200,OK,Category 1-6,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,61,0,0
+1695877991310,264,List category ID,200,OK,Category 1-7,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,264,0,0
+1695877991532,54,List category ID,200,OK,Category 1-2,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,54,0,0
+1695877991512,74,List category,200,OK,Category 1-4,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,74,0,0
+1695877991532,55,List category ID,200,OK,Category 1-13,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,55,0,0
+1695877991532,55,List category ID,200,OK,Category 1-12,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,55,0,0
+1695877991565,26,List category ID,200,OK,Category 1-16,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,26,0,0
+1695877990864,750,List category,200,OK,Category 1-14,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,749,0,473
+1695877991565,49,List category ID,200,OK,Category 1-10,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,49,0,0
+1695877991566,49,List category,200,OK,Category 1-15,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,49,0,0
+1695877991568,60,List category ID,200,OK,Category 1-3,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,60,0,0
+1695877991567,77,List category ID,200,OK,Category 1-9,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,77,0,0
+1695877991570,74,List category ID,200,OK,Category 1-1,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,74,0,0
+1695877991574,70,List category,200,OK,Category 1-18,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,70,0,0
+1695877991587,58,List category ID,200,OK,Category 1-4,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,58,0,0
+1695877991574,72,List category ID,200,OK,Category 1-6,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,72,0,0
+1695877991588,58,List category,200,OK,Category 1-13,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,58,0,0
+1695877991614,54,List category,200,OK,Category 1-10,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,54,0,0
+1695877991588,80,List category,200,OK,Category 1-12,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,80,0,0
+1695877991587,81,List category,200,OK,Category 1-2,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,81,0,0
+1695877991615,82,List category ID,200,OK,Category 1-15,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,82,0,0
+1695877991629,68,List category,200,OK,Category 1-3,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,68,0,0
+1695877991591,106,List category,200,OK,Category 1-16,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,106,0,0
+1695877991645,58,List category,200,OK,Category 1-4,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,58,0,0
+1695877991644,59,List category,200,OK,Category 1-1,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,59,0,0
+1695877991644,59,List category,200,OK,Category 1-9,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,59,0,0
+1695877991646,68,List category,200,OK,Category 1-6,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,68,0,0
+1695877991668,46,List category ID,200,OK,Category 1-12,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,46,0,0
+1695877991644,70,List category ID,200,OK,Category 1-18,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,70,0,0
+1695877991646,87,List category ID,200,OK,Category 1-13,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,87,0,0
+1695877991668,65,List category ID,200,OK,Category 1-10,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,65,0,0
+1695877991668,65,List category ID,200,OK,Category 1-2,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,65,0,0
+1695877991697,60,List category ID,200,OK,Category 1-16,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,60,0,0
+1695877991703,54,List category ID,200,OK,Category 1-1,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,54,0,0
+1695877991703,54,List category ID,200,OK,Category 1-4,text,true,,729,172,20,20,https://secondhand.binaracademy.org/categories/1.json,54,0,0
+1695877991697,60,List category,200,OK,Category 1-15,text,true,,1070,170,20,20,https://secondhand.binaracademy.org/categories.json,60,0,0
+1695877991697,65,List category ID,200,OK,Category 1-3,text,true,,729,172,19,19,https://secondhand.binaracademy.org/categories/1.json,65,0,0
+1695877991717,55,List category,200,OK,Category 1-18,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,55,0,0
+1695877991717,55,List category,200,OK,Category 1-12,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,55,0,0
+1695877991717,55,List category ID,200,OK,Category 1-6,text,true,,729,172,19,19,https://secondhand.binaracademy.org/categories/1.json,55,0,0
+1695877991703,84,List category ID,200,OK,Category 1-9,text,true,,729,172,19,19,https://secondhand.binaracademy.org/categories/1.json,84,0,0
+1695877991733,54,List category,200,OK,Category 1-13,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,54,0,0
+1695877991733,72,List category,200,OK,Category 1-10,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,72,0,0
+1695877991733,72,List category,200,OK,Category 1-2,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,72,0,0
+1695877991757,68,List category,200,OK,Category 1-4,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,68,0,0
+1695877991762,63,List category,200,OK,Category 1-3,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,63,0,0
+1695877991757,68,List category,200,OK,Category 1-16,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,68,0,0
+1695877991575,319,List category,200,OK,Category 1-7,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,319,0,0
+1695877991773,122,List category,200,OK,Category 1-6,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,122,0,0
+1695877991773,122,List category ID,200,OK,Category 1-12,text,true,,729,172,19,19,https://secondhand.binaracademy.org/categories/1.json,122,0,0
+1695877991773,122,List category ID,200,OK,Category 1-18,text,true,,729,172,19,19,https://secondhand.binaracademy.org/categories/1.json,122,0,0
+1695877991805,91,List category ID,200,OK,Category 1-10,text,true,,729,172,19,19,https://secondhand.binaracademy.org/categories/1.json,91,0,0
+1695877991787,109,List category,200,OK,Category 1-9,text,true,,1070,170,19,19,https://secondhand.binaracademy.org/categories.json,109,0,0
+1695877991805,91,List category ID,200,OK,Category 1-2,text,true,,729,172,19,19,https://secondhand.binaracademy.org/categories/1.json,91,0,0
+1695877991787,110,List category ID,200,OK,Category 1-13,text,true,,729,172,19,19,https://secondhand.binaracademy.org/categories/1.json,110,0,0
+1695877991825,105,List category ID,200,OK,Category 1-4,text,true,,729,172,18,18,https://secondhand.binaracademy.org/categories/1.json,105,0,0
+1695877991825,105,List category ID,200,OK,Category 1-16,text,true,,729,172,18,18,https://secondhand.binaracademy.org/categories/1.json,105,0,0
+1695877991825,106,List category ID,200,OK,Category 1-3,text,true,,729,172,18,18,https://secondhand.binaracademy.org/categories/1.json,106,0,0
+1695877991614,334,List category ID,200,OK,Category 1-14,text,true,,729,172,16,16,https://secondhand.binaracademy.org/categories/1.json,334,0,0
+1695877991895,78,List category,200,OK,Category 1-12,text,true,,1070,170,16,16,https://secondhand.binaracademy.org/categories.json,78,0,0
+1695877991895,78,List category ID,200,OK,Category 1-6,text,true,,729,172,16,16,https://secondhand.binaracademy.org/categories/1.json,78,0,0
+1695877991896,78,List category,200,OK,Category 1-10,text,true,,1070,170,16,16,https://secondhand.binaracademy.org/categories.json,77,0,0
+1695877991895,94,List category,200,OK,Category 1-18,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,94,0,0
+1695877991897,93,List category,200,OK,Category 1-13,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,92,0,0
+1695877991896,94,List category ID,200,OK,Category 1-9,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,94,0,0
+1695877991930,81,List category,200,OK,Category 1-16,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,81,0,0
+1695877991973,62,List category ID,200,OK,Category 1-10,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,62,0,0
+1695877991973,62,List category ID,200,OK,Category 1-12,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,62,0,0
+1695877991757,337,List category ID,200,OK,Category 1-15,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,337,0,0
+1695877991989,109,List category,200,OK,Category 1-9,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,108,0,0
+1695877992035,63,List category,200,OK,Category 1-12,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,63,0,0
+1695877991989,110,List category ID,200,OK,Category 1-13,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,110,0,0
+1695877991989,125,List category ID,200,OK,Category 1-18,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,125,0,0
+1695877992035,79,List category,200,OK,Category 1-10,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,79,0,0
+1695877992011,103,List category ID,200,OK,Category 1-16,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,103,0,0
+1695877991894,303,List category ID,200,OK,Category 1-7,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,303,0,0
+1695877992099,98,List category,200,OK,Category 1-13,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,98,0,0
+1695877992098,99,List category ID,200,OK,Category 1-12,text,true,,729,172,15,15,https://secondhand.binaracademy.org/categories/1.json,99,0,0
+1695877992093,104,List category,200,OK,Category 1-15,text,true,,1070,170,15,15,https://secondhand.binaracademy.org/categories.json,104,0,0
+1695877992116,88,List category ID,200,OK,Category 1-10,text,true,,729,172,14,14,https://secondhand.binaracademy.org/categories/1.json,88,0,0
+1695877992098,106,List category ID,200,OK,Category 1-9,text,true,,729,172,14,14,https://secondhand.binaracademy.org/categories/1.json,106,0,0
+1695877992116,88,List category,200,OK,Category 1-16,text,true,,1070,170,14,14,https://secondhand.binaracademy.org/categories.json,88,0,0
+1695877992116,90,List category,200,OK,Category 1-18,text,true,,1070,170,13,13,https://secondhand.binaracademy.org/categories.json,90,0,0
+1695877991947,369,List category,200,OK,Category 1-14,text,true,,1070,170,13,13,https://secondhand.binaracademy.org/categories.json,369,0,0
+1695877992198,118,List category ID,200,OK,Category 1-15,text,true,,729,172,13,13,https://secondhand.binaracademy.org/categories/1.json,118,0,0
+1695877992197,121,List category ID,200,OK,Category 1-13,text,true,,729,172,13,13,https://secondhand.binaracademy.org/categories/1.json,121,0,0
+1695877992205,117,List category ID,200,OK,Category 1-16,text,true,,729,172,12,12,https://secondhand.binaracademy.org/categories/1.json,117,0,0
+1695877992205,118,List category,200,OK,Category 1-9,text,true,,1070,170,12,12,https://secondhand.binaracademy.org/categories.json,118,0,0
+1695877992206,117,List category ID,200,OK,Category 1-18,text,true,,729,172,12,12,https://secondhand.binaracademy.org/categories/1.json,117,0,0
+1695877992323,66,List category ID,200,OK,Category 1-9,text,true,,729,172,12,12,https://secondhand.binaracademy.org/categories/1.json,66,0,0
+1695877992318,71,List category,200,OK,Category 1-15,text,true,,1070,170,12,12,https://secondhand.binaracademy.org/categories.json,71,0,0
+1695877992323,66,List category,200,OK,Category 1-16,text,true,,1070,170,12,12,https://secondhand.binaracademy.org/categories.json,66,0,0
+1695877992323,75,List category,200,OK,Category 1-18,text,true,,1070,170,11,11,https://secondhand.binaracademy.org/categories.json,75,0,0
+1695877992389,55,List category ID,200,OK,Category 1-16,text,true,,729,172,11,11,https://secondhand.binaracademy.org/categories/1.json,55,0,0
+1695877992389,55,List category ID,200,OK,Category 1-15,text,true,,729,172,11,11,https://secondhand.binaracademy.org/categories/1.json,55,0,0
+1695877992398,46,List category ID,200,OK,Category 1-18,text,true,,729,172,11,11,https://secondhand.binaracademy.org/categories/1.json,46,0,0
+1695877992197,247,List category,200,OK,Category 1-7,text,true,,1070,170,11,11,https://secondhand.binaracademy.org/categories.json,247,0,0
+1695877992444,99,List category,200,OK,Category 1-15,text,true,,1070,170,11,11,https://secondhand.binaracademy.org/categories.json,99,0,0
+1695877992444,122,List category,200,OK,Category 1-18,text,true,,1070,170,11,11,https://secondhand.binaracademy.org/categories.json,122,0,0
+1695877992444,122,List category,200,OK,Category 1-16,text,true,,1070,170,11,11,https://secondhand.binaracademy.org/categories.json,122,0,0
+1695877992316,271,List category ID,200,OK,Category 1-14,text,true,,729,172,11,11,https://secondhand.binaracademy.org/categories/1.json,271,0,0
+1695877992543,84,List category ID,200,OK,Category 1-15,text,true,,729,172,11,11,https://secondhand.binaracademy.org/categories/1.json,84,0,0
+1695877992566,130,List category ID,200,OK,Category 1-16,text,true,,729,172,11,11,https://secondhand.binaracademy.org/categories/1.json,130,0,0
+1695877992566,130,List category ID,200,OK,Category 1-18,text,true,,729,172,11,11,https://secondhand.binaracademy.org/categories/1.json,130,0,0
+1695877992627,106,List category,200,OK,Category 1-15,text,true,,1070,170,10,10,https://secondhand.binaracademy.org/categories.json,106,0,0
+1695877990416,2318,List category,200,OK,Category 1-5,text,true,,1070,170,10,10,https://secondhand.binaracademy.org/categories.json,2318,0,613
+1695877992444,330,List category ID,200,OK,Category 1-7,text,true,,729,172,10,10,https://secondhand.binaracademy.org/categories/1.json,330,0,0
+1695877992696,150,List category,200,OK,Category 1-18,text,true,,1070,170,10,10,https://secondhand.binaracademy.org/categories.json,150,0,0
+1695877992733,119,List category ID,200,OK,Category 1-15,text,true,,729,172,10,10,https://secondhand.binaracademy.org/categories/1.json,119,0,0
+1695877990715,2162,List category,200,OK,Category 1-11,text,true,,1070,170,9,9,https://secondhand.binaracademy.org/categories.json,2162,0,1854
+1695877992587,289,List category,200,OK,Category 1-14,text,true,,1070,170,9,9,https://secondhand.binaracademy.org/categories.json,289,0,0
+1695877992846,54,List category ID,200,OK,Category 1-18,text,true,,729,172,9,9,https://secondhand.binaracademy.org/categories/1.json,54,0,0
+1695877992774,299,List category,200,OK,Category 1-7,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,299,0,0
+1695877992876,256,List category ID,200,OK,Category 1-14,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,256,0,0
+1695877992876,256,List category ID,200,OK,Category 1-11,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,256,0,0
+1695877993073,315,List category ID,200,OK,Category 1-7,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,315,0,0
+1695877990574,2833,List category,200,OK,Category 1-8,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,2833,0,1522
+1695877993132,322,List category,200,OK,Category 1-14,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,322,0,0
+1695877993388,282,List category,200,OK,Category 1-7,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,282,0,0
+1695877993407,263,List category ID,200,OK,Category 1-8,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,263,0,0
+1695877993454,258,List category ID,200,OK,Category 1-14,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,258,0,0
+1695877992733,1031,List category ID,200,OK,Category 1-5,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,1031,0,0
+1695877993670,267,List category ID,200,OK,Category 1-7,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,267,0,0
+1695877991163,2818,List category,200,OK,Category 1-20,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,2818,0,1452
+1695877993766,304,List category,200,OK,Category 1-5,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,304,0,0
+1695877993938,289,List category,200,OK,Category 1-7,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,289,0,0
+1695877993980,337,List category ID,200,OK,Category 1-20,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,337,0,0
+1695877991114,3265,List category,200,OK,Category 1-19,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,3265,0,2078
+1695877993713,776,List category,200,OK,Category 1-14,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,776,0,0
+1695877994318,277,List category,200,OK,Category 1-20,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,277,0,0
+1695877994379,247,List category ID,200,OK,Category 1-19,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,247,0,0
+1695877994595,278,List category ID,200,OK,Category 1-20,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,278,0,0
+1695877994070,895,List category ID,200,OK,Category 1-5,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,895,0,0
+1695877994626,368,List category,200,OK,Category 1-19,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,368,0,0
+1695877994227,881,List category ID,200,OK,Category 1-7,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,881,0,0
+1695877994873,264,List category,200,OK,Category 1-20,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,264,0,0
+1695877994965,270,List category,200,OK,Category 1-5,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,270,0,0
+1695877994994,281,List category ID,200,OK,Category 1-19,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,281,0,0
+1695877993133,2142,List category,200,OK,Category 1-11,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,2142,0,0
+1695877995137,276,List category ID,200,OK,Category 1-20,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,276,0,0
+1695877993670,1804,List category,200,OK,Category 1-8,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,1804,0,0
+1695877995275,253,List category ID,200,OK,Category 1-11,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,253,0,0
+1695877995235,293,List category ID,200,OK,Category 1-5,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,293,0,0
+1695877995474,286,List category ID,200,OK,Category 1-8,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,286,0,0
+1695877995529,293,List category,200,OK,Category 1-11,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,293,0,0
+1695877995108,848,List category,200,OK,Category 1-7,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,848,0,0
+1695877995760,271,List category,200,OK,Category 1-8,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,271,0,0
+1695877995822,248,List category ID,200,OK,Category 1-11,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,248,0,0
+1695877995275,1018,List category,200,OK,Category 1-19,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,1018,0,0
+1695877995413,881,List category,200,OK,Category 1-20,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,881,0,0
+1695877996031,263,List category ID,200,OK,Category 1-8,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,263,0,0
+1695877996071,256,List category,200,OK,Category 1-11,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,256,0,0
+1695877994489,1838,List category ID,200,OK,Category 1-14,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,1838,0,0
+1695877995529,867,List category,200,OK,Category 1-5,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,867,0,0
+1695877996293,251,List category ID,200,OK,Category 1-19,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,251,0,0
+1695877996294,250,List category ID,200,OK,Category 1-20,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,250,0,0
+1695877996294,282,List category,200,OK,Category 1-8,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,282,0,0
+1695877996334,332,List category ID,200,OK,Category 1-11,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,331,0,0
+1695877996334,332,List category,200,OK,Category 1-14,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,331,0,0
+1695877996544,347,List category,200,OK,Category 1-20,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,347,0,0
+1695877996544,365,List category,200,OK,Category 1-19,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,365,0,0
+1695877996666,310,List category,200,OK,Category 1-11,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,310,0,0
+1695877995956,1035,List category ID,200,OK,Category 1-7,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,1034,0,0
+1695877996909,267,List category ID,200,OK,Category 1-19,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,267,0,0
+1695877996991,300,List category,200,OK,Category 1-7,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,300,0,0
+1695877996396,921,List category ID,200,OK,Category 1-5,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,921,0,0
+1695877996666,799,List category ID,200,OK,Category 1-14,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,799,0,0
+1695877996576,925,List category ID,200,OK,Category 1-8,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,925,0,0
+1695877997291,244,List category ID,200,OK,Category 1-7,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,244,0,0
+1695877997317,264,List category,200,OK,Category 1-5,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,264,0,0
+1695877997465,290,List category,200,OK,Category 1-14,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,290,0,0
+1695877996891,864,List category ID,200,OK,Category 1-20,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,864,0,0
+1695877997501,272,List category,200,OK,Category 1-8,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,272,0,0
+1695877996976,998,List category ID,200,OK,Category 1-11,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,998,0,0
+1695877991024,6966,List category,200,OK,Category 1-17,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,6966,0,5644
+1695877997756,249,List category ID,200,OK,Category 1-14,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,249,0,0
+1695877997756,249,List category,200,OK,Category 1-20,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,249,0,0
+1695877997176,947,List category,200,OK,Category 1-19,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,947,0,0
+1695877997989,277,List category ID,200,OK,Category 1-17,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,277,0,0
+1695877997974,292,List category,200,OK,Category 1-11,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,292,0,0
+1695877998005,274,List category,200,OK,Category 1-14,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,274,0,0
+1695877997535,811,List category,200,OK,Category 1-7,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,811,0,0
+1695877997581,822,List category ID,200,OK,Category 1-5,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,822,0,0
+1695877998266,268,List category,200,OK,Category 1-17,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,268,0,0
+1695877998279,273,List category ID,200,OK,Category 1-14,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,273,0,0
+1695877997773,800,List category ID,200,OK,Category 1-8,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,800,0,0
+1695877998354,256,List category ID,200,OK,Category 1-7,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,256,0,0
+1695877998403,255,List category,200,OK,Category 1-5,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,255,0,0
+1695877998005,805,List category ID,200,OK,Category 1-20,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,805,0,0
+1695877998535,276,List category ID,200,OK,Category 1-17,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,276,0,0
+1695877998552,259,List category,200,OK,Category 1-14,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,259,0,0
+1695877998611,266,List category,200,OK,Category 1-7,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,266,0,0
+1695877998123,963,List category ID,200,OK,Category 1-19,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,963,0,0
+1695877998266,845,List category ID,200,OK,Category 1-11,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,845,0,0
+1695877998811,338,List category ID,200,OK,Category 1-14,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,338,0,0
+1695877998810,339,List category,200,OK,Category 1-20,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,339,0,0
+1695877998877,319,List category ID,200,OK,Category 1-7,text,true,,729,172,8,8,https://secondhand.binaracademy.org/categories/1.json,319,0,0
+1695877998811,385,List category,200,OK,Category 1-17,text,true,,1070,170,8,8,https://secondhand.binaracademy.org/categories.json,385,0,0
+1695877999086,296,List category,200,OK,Category 1-19,text,true,,1070,170,7,7,https://secondhand.binaracademy.org/categories.json,296,0,0
+1695877999111,277,List category,200,OK,Category 1-11,text,true,,1070,170,7,7,https://secondhand.binaracademy.org/categories.json,277,0,0
+1695877998573,918,List category,200,OK,Category 1-8,text,true,,1070,170,7,7,https://secondhand.binaracademy.org/categories.json,918,0,0
+1695877998658,833,List category ID,200,OK,Category 1-5,text,true,,729,172,7,7,https://secondhand.binaracademy.org/categories/1.json,833,0,0
+1695877999150,402,List category ID,200,OK,Category 1-20,text,true,,729,172,7,7,https://secondhand.binaracademy.org/categories/1.json,402,0,0
+1695877999196,356,List category ID,200,OK,Category 1-17,text,true,,729,172,7,7,https://secondhand.binaracademy.org/categories/1.json,356,0,0
+1695877999491,303,List category,200,OK,Category 1-5,text,true,,1070,170,7,7,https://secondhand.binaracademy.org/categories.json,303,0,0
+1695877999388,406,List category ID,200,OK,Category 1-11,text,true,,729,172,7,7,https://secondhand.binaracademy.org/categories/1.json,406,0,0
+1695877999385,409,List category ID,200,OK,Category 1-19,text,true,,729,172,7,7,https://secondhand.binaracademy.org/categories/1.json,409,0,0
+1695877999150,900,List category,200,OK,Category 1-14,text,true,,1070,170,7,7,https://secondhand.binaracademy.org/categories.json,900,0,0
+1695877999553,853,List category,200,OK,Category 1-20,text,true,,1070,170,7,7,https://secondhand.binaracademy.org/categories.json,853,0,0
+1695878000050,354,List category ID,200,OK,Category 1-14,text,true,,729,172,7,7,https://secondhand.binaracademy.org/categories/1.json,354,0,0
+1695877999553,907,List category,200,OK,Category 1-17,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,907,0,0
+1695877999491,1043,List category ID,200,OK,Category 1-8,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,1043,0,0
+1695877999794,861,List category,200,OK,Category 1-11,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,861,0,0
+1695877999794,861,List category,200,OK,Category 1-19,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,861,0,0
+1695878000534,260,List category,200,OK,Category 1-8,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,260,0,0
+1695877999794,1318,List category ID,200,OK,Category 1-5,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,1318,0,0
+1695878000794,344,List category ID,200,OK,Category 1-8,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,344,0,0
+1695878000460,980,List category ID,200,OK,Category 1-17,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,980,0,0
+1695878001138,304,List category,200,OK,Category 1-8,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,304,0,0
+1695878000655,846,List category ID,200,OK,Category 1-11,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,846,0,0
+1695878000655,880,List category ID,200,OK,Category 1-19,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,880,0,0
+1695878001442,710,List category ID,200,OK,Category 1-8,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,710,0,0
+1695878001501,651,List category,200,OK,Category 1-11,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,651,0,0
+1695878001441,711,List category,200,OK,Category 1-17,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,711,0,0
+1695878001112,1042,List category,200,OK,Category 1-5,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,1042,0,0
+1695878000407,1865,List category ID,200,OK,Category 1-20,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,1865,0,0
+1695878002153,300,List category,200,OK,Category 1-8,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,300,0,0
+1695878002154,299,List category ID,200,OK,Category 1-5,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,299,0,0
+1695878002272,289,List category,200,OK,Category 1-20,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,289,0,0
+1695878001536,1063,List category,200,OK,Category 1-19,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,1063,0,0
+1695878002453,344,List category ID,200,OK,Category 1-8,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,344,0,0
+1695878002600,275,List category ID,200,OK,Category 1-19,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,275,0,0
+1695878002797,337,List category,200,OK,Category 1-8,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,337,0,0
+1695878002453,875,List category,200,OK,Category 1-5,text,true,,1070,170,6,6,https://secondhand.binaracademy.org/categories.json,875,0,0
+1695878002153,1175,List category ID,200,OK,Category 1-17,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,1175,0,0
+1695878002561,809,List category ID,200,OK,Category 1-20,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,809,0,0
+1695878003134,275,List category ID,200,OK,Category 1-8,text,true,,729,172,6,6,https://secondhand.binaracademy.org/categories/1.json,275,0,0
+1695878003370,289,List category,200,OK,Category 1-20,text,true,,1070,170,5,5,https://secondhand.binaracademy.org/categories.json,289,0,0
+1695878003328,331,List category ID,200,OK,Category 1-5,text,true,,729,172,5,5,https://secondhand.binaracademy.org/categories/1.json,331,0,0
+1695878003659,289,List category,200,OK,Category 1-5,text,true,,1070,170,5,5,https://secondhand.binaracademy.org/categories.json,289,0,0
+1695878002153,1896,List category ID,200,OK,Category 1-11,text,true,,729,172,5,5,https://secondhand.binaracademy.org/categories/1.json,1896,0,0
+1695878002875,1449,List category,200,OK,Category 1-19,text,true,,1070,170,5,5,https://secondhand.binaracademy.org/categories.json,1449,0,0
+1695878003970,412,List category ID,200,OK,Category 1-5,text,true,,729,172,5,5,https://secondhand.binaracademy.org/categories/1.json,412,0,0
+1695878003659,775,List category ID,200,OK,Category 1-20,text,true,,729,172,4,4,https://secondhand.binaracademy.org/categories/1.json,775,0,0
+1695878003328,1164,List category,200,OK,Category 1-17,text,true,,1070,170,3,3,https://secondhand.binaracademy.org/categories.json,1164,0,0
+1695878004324,327,List category ID,200,OK,Category 1-19,text,true,,729,172,3,3,https://secondhand.binaracademy.org/categories/1.json,327,0,0
+1695878004651,448,List category,200,OK,Category 1-19,text,true,,1070,170,3,3,https://secondhand.binaracademy.org/categories.json,448,0,0
+1695878004493,1307,List category ID,200,OK,Category 1-17,text,true,,729,172,3,3,https://secondhand.binaracademy.org/categories/1.json,1307,0,0
+1695878005800,267,List category,200,OK,Category 1-17,text,true,,1070,170,3,3,https://secondhand.binaracademy.org/categories.json,267,0,0
+1695878005099,1623,List category ID,200,OK,Category 1-19,text,true,,729,172,3,3,https://secondhand.binaracademy.org/categories/1.json,1623,0,0
+1695878006068,1160,List category ID,200,OK,Category 1-17,text,true,,729,172,2,2,https://secondhand.binaracademy.org/categories/1.json,1160,0,0
+1695878007228,271,List category,200,OK,Category 1-17,text,true,,1070,170,2,2,https://secondhand.binaracademy.org/categories.json,271,0,0
+1695878007499,1060,List category ID,200,OK,Category 1-17,text,true,,729,172,2,2,https://secondhand.binaracademy.org/categories/1.json,1060,0,0
+1695878008559,1082,List category,200,OK,Category 1-17,text,true,,1070,170,2,2,https://secondhand.binaracademy.org/categories.json,1082,0,0
+1695878009641,260,List category ID,200,OK,Category 1-17,text,true,,729,172,2,2,https://secondhand.binaracademy.org/categories/1.json,260,0,0
+1695878009901,1043,List category,200,OK,Category 1-17,text,true,,1070,170,2,2,https://secondhand.binaracademy.org/categories.json,1043,0,0
+1695878010945,1134,List category ID,200,OK,Category 1-17,text,true,,729,172,2,2,https://secondhand.binaracademy.org/categories/1.json,1134,0,0
+1695878004049,12468,List category,200,OK,Category 1-11,text,true,,1070,170,1,1,https://secondhand.binaracademy.org/categories.json,12468,0,0
+1695878016517,91889,List category ID,200,OK,Category 1-11,text,true,,729,172,1,1,https://secondhand.binaracademy.org/categories/1.json,91889,0,0

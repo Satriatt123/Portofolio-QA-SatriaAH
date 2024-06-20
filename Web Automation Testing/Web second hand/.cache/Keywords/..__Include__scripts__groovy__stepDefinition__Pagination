@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "76C13577E1255609BBFE481877A52A6B",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Pagination",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

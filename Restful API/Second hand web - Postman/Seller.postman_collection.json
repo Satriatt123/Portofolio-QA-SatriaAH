@@ -1,0 +1,348 @@
+{
+	"info": {
+		"_postman_id": "adebb410-0c8b-4f3f-bb67-1143b701c04d",
+		"name": "Seller",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28620406"
+	},
+	"item": [
+		{
+			"name": "Login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1500);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"user\": {\r\n    \"email\": \"miawaug@gmail.com\",\r\n    \"password\": \"123456\"\r\n  }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base.url}}/users/sign_in.json",
+					"host": [
+						"{{base.url}}"
+					],
+					"path": [
+						"users",
+						"sign_in.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create product",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1000);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3NjA1MyIsInNjcCI6InVzZXIiLCJhdWQiOm51bGwsImlhdCI6MTY5NTc5MDQzMiwiZXhwIjoxNjk3MDAwMDMyLCJqdGkiOiI0ZGEyMTcxMy0wMjk0LTRkMzktYjc2Ni1kYzlhYTc2ZDRlYjcifQ.SNp5_rMX2s9QOXtwrXPVEWS9IXih-Jn3M49tr3SGi4g",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "product[name]",
+							"value": "kaido1111",
+							"type": "text"
+						},
+						{
+							"key": "product[price]",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "product[description]",
+							"value": "luffy gear 55555",
+							"type": "text"
+						},
+						{
+							"key": "product[status]",
+							"value": "published",
+							"type": "text"
+						},
+						{
+							"key": "product[category_id]",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "product[images][]",
+							"type": "file",
+							"src": "/C:/Users/Our/Pictures/WhatsApp Image 2022-02-23 at 16.18.00.jpeg"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{base.url}}/products.json",
+					"host": [
+						"{{base.url}}"
+					],
+					"path": [
+						"products.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List product",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1000);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{base.url}}/products.json?page=1&category_id=1&user_id=76053",
+					"host": [
+						"{{base.url}}"
+					],
+					"path": [
+						"products.json"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "category_id",
+							"value": "1"
+						},
+						{
+							"key": "user_id",
+							"value": "76053"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get product",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1000);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base.url}}/products/39137.json",
+					"host": [
+						"{{base.url}}"
+					],
+					"path": [
+						"products",
+						"39137.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update product",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1000);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "product[name]",
+							"value": "luffyyy1211",
+							"type": "text"
+						},
+						{
+							"key": "product[price]",
+							"value": "111112222",
+							"type": "text"
+						},
+						{
+							"key": "product[description]",
+							"value": "ini luffy",
+							"type": "text"
+						},
+						{
+							"key": "product[status]",
+							"value": "published",
+							"type": "text"
+						},
+						{
+							"key": "product[category_id]",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "product[images][]",
+							"type": "file",
+							"src": "/C:/Users/Our/Downloads/G E A R 5.png"
+						},
+						{
+							"key": "product[persisted_images][]",
+							"value": "",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{base.url}}/products/39178.json",
+					"host": [
+						"{{base.url}}"
+					],
+					"path": [
+						"products",
+						"39178.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(204);\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1000);\r",
+							"});\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{base.url}}/products/39180.json",
+					"host": [
+						"{{base.url}}"
+					],
+					"path": [
+						"products",
+						"39180.json"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

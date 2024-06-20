@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD
+  "keywordFileContentHash": "CCE44785123664151842588277540868",
+=======
+  "keywordFileContentHash": "FD7A898B33DBD2F6A03B4943C6FA73D8",
+>>>>>>> master
+  "keywordClasses": [
+    {
+      "name": "Hook",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

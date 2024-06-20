@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695910485430,263,Register,201,Created,Personal 1-2,text,true,,557,1556,7,7,https://market-final-project.binaracademy.org/auth/register,263,0,55
+1695910485531,197,Register,400,Bad Request,Personal 1-4,text,false,,329,1574,8,8,https://market-final-project.binaracademy.org/auth/register,196,0,53
+1695910485636,133,Register,400,Bad Request,Personal 1-6,text,false,,329,1610,8,8,https://market-final-project.binaracademy.org/auth/register,132,0,59
+1695910485675,148,Register,400,Bad Request,Personal 1-7,text,false,,329,1547,9,9,https://market-final-project.binaracademy.org/auth/register,148,0,71
+1695910485728,274,Login,201,Created,Personal 1-4,text,true,,487,279,13,13,https://market-final-project.binaracademy.org/auth/login,274,0,41
+1695910485724,278,Register,400,Bad Request,Personal 1-8,text,false,,329,1592,13,13,https://market-final-project.binaracademy.org/auth/register,278,0,54
+1695910485769,313,Login,201,Created,Personal 1-6,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,313,0,43
+1695910485774,338,Register,400,Bad Request,Personal 1-9,text,false,,329,1583,15,15,https://market-final-project.binaracademy.org/auth/register,338,0,52
+1695910485825,438,Register,400,Bad Request,Personal 1-10,text,false,,329,1538,18,18,https://market-final-project.binaracademy.org/auth/register,438,0,59
+1695910485874,389,Register,400,Bad Request,Personal 1-11,text,false,,329,1538,18,18,https://market-final-project.binaracademy.org/auth/register,389,0,50
+1695910486003,331,Login,201,Created,Personal 1-8,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,331,0,50
+1695910485924,410,Register,400,Bad Request,Personal 1-12,text,false,,329,1547,20,20,https://market-final-project.binaracademy.org/auth/register,410,0,60
+1695910486030,311,Register,400,Bad Request,Personal 1-14,text,false,,329,1529,20,20,https://market-final-project.binaracademy.org/auth/register,311,0,42
+1695910486126,226,Register,400,Bad Request,Personal 1-16,text,false,,329,1556,20,20,https://market-final-project.binaracademy.org/auth/register,226,0,58
+1695910486075,299,Register,400,Bad Request,Personal 1-15,text,false,,329,1583,20,20,https://market-final-project.binaracademy.org/auth/register,299,0,49
+1695910486226,228,Register,400,Bad Request,Personal 1-18,text,false,,329,1601,20,20,https://market-final-project.binaracademy.org/auth/register,227,0,61
+1695910486112,342,Login,201,Created,Personal 1-9,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,341,0,51
+1695910486295,178,Register,400,Bad Request,Personal 1-19,text,false,,329,1574,20,20,https://market-final-project.binaracademy.org/auth/register,178,0,49
+1695910486335,417,Login,201,Created,Personal 1-12,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,417,0,46
+1695910486324,498,Register,400,Bad Request,Personal 1-20,text,false,,329,1529,20,20,https://market-final-project.binaracademy.org/auth/register,498,0,52
+1695910486374,448,Login,201,Created,Personal 1-15,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,448,0,42
+1695910486341,562,Login,201,Created,Personal 1-14,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,562,0,53
+1695910486335,568,Register,400,Bad Request,Personal 1-8,text,false,,329,1601,20,20,https://market-final-project.binaracademy.org/auth/register,568,0,46
+1695910485824,1168,Login,201,Created,Personal 1-7,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,1168,0,482
+1695910486353,639,Login,201,Created,Personal 1-16,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,639,0,40
+1695910486454,618,Login,201,Created,Personal 1-18,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,617,0,59
+1695910486822,449,Login,201,Created,Personal 1-20,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,449,0,35
+1695910486992,279,Register,400,Bad Request,Personal 1-7,text,false,,329,1583,20,20,https://market-final-project.binaracademy.org/auth/register,279,0,50
+1695910486822,460,Register,400,Bad Request,Personal 1-15,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,460,0,50
+1695910486752,530,Register,400,Bad Request,Personal 1-12,text,false,,329,1592,20,20,https://market-final-project.binaracademy.org/auth/register,530,0,51
+1695910487026,332,Register,400,Bad Request,Personal 1-16,text,false,,329,1538,20,20,https://market-final-project.binaracademy.org/auth/register,332,0,47
+1695910486903,455,Login,201,Created,Personal 1-8,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,455,0,50
+1695910486903,455,Register,400,Bad Request,Personal 1-14,text,false,,329,1547,20,20,https://market-final-project.binaracademy.org/auth/register,455,0,50
+1695910487072,300,Register,400,Bad Request,Personal 1-18,text,false,,329,1592,20,20,https://market-final-project.binaracademy.org/auth/register,299,0,44
+1695910486175,1220,Register,400,Bad Request,Personal 1-17,text,false,,329,1529,20,20,https://market-final-project.binaracademy.org/auth/register,1220,0,489
+1695910486002,1430,Register,400,Bad Request,Personal 1-4,text,false,,329,1529,20,20,https://market-final-project.binaracademy.org/auth/register,1430,0,472
+1695910487282,220,Login,201,Created,Personal 1-12,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,220,0,50
+1695910485480,2022,Register,400,Bad Request,Personal 1-3,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,2022,0,1064
+1695910487282,300,Login,201,Created,Personal 1-15,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,299,0,51
+1695910487358,414,Login,201,Created,Personal 1-16,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,413,0,54
+1695910487502,340,Login,201,Created,Personal 1-3,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,339,0,50
+1695910487359,563,Login,201,Created,Personal 1-14,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,562,0,37
+1695910487372,620,Login,201,Created,Personal 1-18,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,620,0,41
+1695910487395,677,Login,201,Created,Personal 1-17,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,677,0,57
+1695910485975,2147,Register,400,Bad Request,Personal 1-13,text,false,,329,1601,20,20,https://market-final-project.binaracademy.org/auth/register,2147,0,1452
+1695910486082,2110,Register,400,Bad Request,Personal 1-6,text,false,,329,1601,20,20,https://market-final-project.binaracademy.org/auth/register,2110,0,490
+1695910487922,434,Register,400,Bad Request,Personal 1-14,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,433,0,36
+1695910487772,584,Register,400,Bad Request,Personal 1-16,text,false,,329,1574,20,20,https://market-final-project.binaracademy.org/auth/register,583,0,41
+1695910488072,300,Register,400,Bad Request,Personal 1-17,text,false,,329,1565,20,20,https://market-final-project.binaracademy.org/auth/register,299,0,50
+1695910487271,1141,Register,400,Bad Request,Personal 1-20,text,false,,329,1583,20,20,https://market-final-project.binaracademy.org/auth/register,1141,0,471
+1695910488122,410,Login,201,Created,Personal 1-13,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,409,0,50
+1695910487358,1227,Register,400,Bad Request,Personal 1-8,text,false,,329,1547,20,20,https://market-final-project.binaracademy.org/auth/register,1226,0,474
+1695910486264,2321,Login,201,Created,Personal 1-10,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,2320,0,1465
+1695910488192,443,Login,201,Created,Personal 1-6,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,442,0,50
+1695910488356,336,Login,201,Created,Personal 1-16,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,336,0,57
+1695910488532,286,Register,400,Bad Request,Personal 1-13,text,false,,329,1538,20,20,https://market-final-project.binaracademy.org/auth/register,286,0,54
+1695910488413,569,Login,201,Created,Personal 1-20,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,569,0,49
+1695910486264,2849,Login,201,Created,Personal 1-11,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,2849,0,2178
+1695910488585,557,Login,201,Created,Personal 1-8,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,557,0,75
+1695910488693,449,Register,400,Bad Request,Personal 1-16,text,false,,329,1547,20,20,https://market-final-project.binaracademy.org/auth/register,449,0,60
+1695910485694,3578,Login,201,Created,Personal 1-2,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,3578,0,2942
+1695910488818,525,Login,201,Created,Personal 1-13,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,525,0,44
+1695910488982,361,Register,400,Bad Request,Personal 1-20,text,false,,329,1538,20,20,https://market-final-project.binaracademy.org/auth/register,361,0,60
+1695910489143,289,Register,400,Bad Request,Personal 1-8,text,false,,329,1583,20,20,https://market-final-project.binaracademy.org/auth/register,289,0,60
+1695910489143,362,Login,201,Created,Personal 1-16,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,362,0,60
+1695910489114,391,Register,400,Bad Request,Personal 1-11,text,false,,329,1583,20,20,https://market-final-project.binaracademy.org/auth/register,391,0,75
+1695910489273,249,Register,400,Bad Request,Personal 1-2,text,false,,329,1547,20,20,https://market-final-project.binaracademy.org/auth/register,249,0,50
+1695910487502,2104,Register,400,Bad Request,Personal 1-12,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,2103,0,459
+1695910487992,1641,Register,400,Bad Request,Personal 1-18,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,1641,0,1122
+1695910487271,2391,Login,201,Created,Personal 1-7,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,2391,0,458
+1695910489432,268,Login,201,Created,Personal 1-8,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,268,0,51
+1695910486454,3260,Register,400,Bad Request,Personal 1-9,text,false,,329,1556,20,20,https://market-final-project.binaracademy.org/auth/register,3260,0,2763
+1695910485580,4152,Register,400,Bad Request,Personal 1-5,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,4152,0,3794
+1695910489527,257,Login,201,Created,Personal 1-2,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,257,0,46
+1695910489343,509,Login,201,Created,Personal 1-20,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,509,0,60
+1695910489505,439,Register,400,Bad Request,Personal 1-16,text,false,,329,1565,20,20,https://market-final-project.binaracademy.org/auth/register,439,0,55
+1695910489505,439,Login,201,Created,Personal 1-11,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,439,0,55
+1695910485375,4617,Register,400,Bad Request,Personal 1-1,text,false,,329,1538,20,20,https://market-final-project.binaracademy.org/auth/register,4616,0,4110
+1695910487433,2789,Login,201,Created,Personal 1-4,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,2789,0,2140
+1695910489714,508,Login,201,Created,Personal 1-9,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,508,0,49
+1695910489606,698,Login,201,Created,Personal 1-12,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,698,0,57
+1695910489634,733,Login,201,Created,Personal 1-18,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,733,0,49
+1695910489662,705,Register,400,Bad Request,Personal 1-7,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,705,0,39
+1695910489732,716,Login,201,Created,Personal 1-5,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,716,0,54
+1695910489853,679,Register,400,Bad Request,Personal 1-20,text,false,,329,1565,20,20,https://market-final-project.binaracademy.org/auth/register,679,0,59
+1695910489992,622,Login,201,Created,Personal 1-1,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,621,0,51
+1695910490222,529,Register,400,Bad Request,Personal 1-9,text,false,,329,1565,20,20,https://market-final-project.binaracademy.org/auth/register,528,0,53
+1695910490305,446,Register,400,Bad Request,Personal 1-12,text,false,,329,1529,20,20,https://market-final-project.binaracademy.org/auth/register,446,0,60
+1695910490368,484,Login,201,Created,Personal 1-7,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,484,0,56
+1695910488356,2496,Login,201,Created,Personal 1-14,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,2496,0,476
+1695910490614,309,Register,400,Bad Request,Personal 1-1,text,false,,329,1601,20,20,https://market-final-project.binaracademy.org/auth/register,309,0,48
+1695910490448,475,Register,400,Bad Request,Personal 1-5,text,false,,329,1556,20,20,https://market-final-project.binaracademy.org/auth/register,475,0,45
+1695910490532,481,Login,201,Created,Personal 1-20,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,481,0,45
+1695910487582,3520,Register,400,Bad Request,Personal 1-15,text,false,,329,1529,20,20,https://market-final-project.binaracademy.org/auth/register,3520,0,470
+1695910487842,3300,Register,400,Bad Request,Personal 1-3,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,3300,0,450
+1695910489785,1393,Register,400,Bad Request,Personal 1-2,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,1393,0,478
+1695910490222,1010,Register,400,Bad Request,Personal 1-4,text,false,,329,1556,20,20,https://market-final-project.binaracademy.org/auth/register,1010,0,499
+1695910490751,481,Login,201,Created,Personal 1-9,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,481,0,49
+1695910490852,447,Register,400,Bad Request,Personal 1-7,text,false,,329,1565,20,20,https://market-final-project.binaracademy.org/auth/register,447,0,54
+1695910490751,548,Login,201,Created,Personal 1-12,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,548,0,49
+1695910490852,447,Register,400,Bad Request,Personal 1-14,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,447,0,54
+1695910490368,984,Register,400,Bad Request,Personal 1-18,text,false,,329,1601,20,20,https://market-final-project.binaracademy.org/auth/register,984,0,469
+1695910490923,459,Login,201,Created,Personal 1-5,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,459,0,49
+1695910490923,529,Login,201,Created,Personal 1-1,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,529,0,41
+1695910489343,2249,Register,400,Bad Request,Personal 1-13,text,false,,329,1556,20,20,https://market-final-project.binaracademy.org/auth/register,2249,0,464
+1695910488372,3264,Login,201,Created,Personal 1-17,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,3264,0,1481
+1695910491142,511,Login,201,Created,Personal 1-3,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,511,0,37
+1695910491299,433,Login,201,Created,Personal 1-7,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,433,0,38
+1695910491102,710,Login,201,Created,Personal 1-15,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,710,0,41
+1695910491232,650,Login,201,Created,Personal 1-4,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,650,0,50
+1695910491232,721,Register,400,Bad Request,Personal 1-9,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,721,0,50
+1695910491178,775,Login,201,Created,Personal 1-2,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,775,0,55
+1695910491299,666,Register,400,Bad Request,Personal 1-12,text,false,,329,1592,20,20,https://market-final-project.binaracademy.org/auth/register,666,0,38
+1695910488585,3397,Register,400,Bad Request,Personal 1-10,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,3397,0,476
+1695910491299,753,Login,201,Created,Personal 1-14,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,753,0,54
+1695910491352,771,Login,201,Created,Personal 1-18,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,771,0,51
+1695910491453,670,Register,400,Bad Request,Personal 1-1,text,false,,329,1583,20,20,https://market-final-project.binaracademy.org/auth/register,670,0,39
+1695910488635,3524,Register,400,Bad Request,Personal 1-6,text,false,,329,1547,20,20,https://market-final-project.binaracademy.org/auth/register,3524,0,479
+1695910491653,629,Register,400,Bad Request,Personal 1-3,text,false,,329,1547,20,20,https://market-final-project.binaracademy.org/auth/register,628,0,59
+1695910491592,761,Login,201,Created,Personal 1-13,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,760,0,45
+1695910491882,480,Register,400,Bad Request,Personal 1-4,text,false,,329,1538,20,20,https://market-final-project.binaracademy.org/auth/register,480,0,50
+1695910491732,630,Register,400,Bad Request,Personal 1-7,text,false,,329,1547,20,20,https://market-final-project.binaracademy.org/auth/register,630,0,51
+1695910491953,519,Login,201,Created,Personal 1-9,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,519,0,50
+1695910489700,2772,Register,400,Bad Request,Personal 1-8,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,2772,0,1937
+1695910492123,429,Login,201,Created,Personal 1-1,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,429,0,37
+1695910491013,1540,Register,400,Bad Request,Personal 1-20,text,false,,329,1565,20,20,https://market-final-project.binaracademy.org/auth/register,1539,0,479
+1695910492052,564,Register,400,Bad Request,Personal 1-14,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,563,0,51
+1695910491953,663,Register,400,Bad Request,Personal 1-2,text,false,,329,1592,20,20,https://market-final-project.binaracademy.org/auth/register,662,0,50
+1695910491983,633,Login,201,Created,Personal 1-10,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,632,0,38
+1695910492123,517,Register,400,Bad Request,Personal 1-18,text,false,,329,1547,20,20,https://market-final-project.binaracademy.org/auth/register,517,0,49
+1695910492159,554,Login,201,Created,Personal 1-6,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,554,0,55
+1695910492282,520,Login,201,Created,Personal 1-3,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,520,0,51
+1695910492353,530,Register,400,Bad Request,Personal 1-13,text,false,,329,1529,20,20,https://market-final-project.binaracademy.org/auth/register,530,0,50
+1695910492472,491,Login,201,Created,Personal 1-8,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,490,0,50
+1695910492362,680,Login,201,Created,Personal 1-4,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,680,0,40
+1695910492963,270,Register,400,Bad Request,Personal 1-8,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,270,0,50
+1695910492616,617,Login,201,Created,Personal 1-14,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,617,0,57
+1695910492553,770,Login,201,Created,Personal 1-20,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,770,0,49
+1695910492641,751,Login,201,Created,Personal 1-18,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,750,0,52
+1695910492883,588,Login,201,Created,Personal 1-13,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,588,0,50
+1695910493042,511,Register,400,Bad Request,Personal 1-4,text,false,,329,1565,20,20,https://market-final-project.binaracademy.org/auth/register,511,0,45
+1695910489944,3658,Login,201,Created,Personal 1-16,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,3658,0,467
+1695910493323,421,Register,400,Bad Request,Personal 1-20,text,false,,329,1565,20,20,https://market-final-project.binaracademy.org/auth/register,421,0,39
+1695910493233,511,Register,400,Bad Request,Personal 1-14,text,false,,329,1583,20,20,https://market-final-project.binaracademy.org/auth/register,511,0,54
+1695910493472,290,Register,400,Bad Request,Personal 1-13,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,290,0,50
+1695910492616,1146,Register,400,Bad Request,Personal 1-10,text,false,,329,1583,20,20,https://market-final-project.binaracademy.org/auth/register,1146,0,487
+1695910493233,511,Login,201,Created,Personal 1-8,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,511,0,54
+1695910492472,1361,Register,400,Bad Request,Personal 1-9,text,false,,329,1592,20,20,https://market-final-project.binaracademy.org/auth/register,1361,0,473
+1695910492713,1261,Register,400,Bad Request,Personal 1-6,text,false,,329,1601,20,20,https://market-final-project.binaracademy.org/auth/register,1260,0,471
+1695910491637,2385,Register,400,Bad Request,Personal 1-17,text,false,,329,1574,20,20,https://market-final-project.binaracademy.org/auth/register,2385,0,466
+1695910493603,419,Register,400,Bad Request,Personal 1-16,text,false,,329,1547,20,20,https://market-final-project.binaracademy.org/auth/register,419,0,49
+1695910493762,260,Login,201,Created,Personal 1-10,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,260,0,41
+1695910493744,371,Login,201,Created,Personal 1-14,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,370,0,43
+1695910493744,430,Login,201,Created,Personal 1-20,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,429,0,43
+1695910493766,426,Register,400,Bad Request,Personal 1-8,text,false,,329,1529,20,20,https://market-final-project.binaracademy.org/auth/register,426,0,39
+1695910494022,369,Register,400,Bad Request,Personal 1-10,text,false,,329,1556,20,20,https://market-final-project.binaracademy.org/auth/register,369,0,39
+1695910493839,552,Login,201,Created,Personal 1-9,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,552,0,55
+1695910494022,450,Login,201,Created,Personal 1-16,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,450,0,39
+1695910491813,2679,Register,400,Bad Request,Personal 1-15,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,2679,0,1889
+1695910493974,578,Login,201,Created,Personal 1-6,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,578,0,70
+1695910494116,437,Register,400,Bad Request,Personal 1-14,text,false,,329,1538,20,20,https://market-final-project.binaracademy.org/auth/register,437,0,59
+1695910486473,8119,Login,201,Created,Personal 1-19,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,8119,0,5741
+1695910492553,2058,Register,400,Bad Request,Personal 1-1,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,2058,0,1491
+1695910494193,430,Login,201,Created,Personal 1-8,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,430,0,51
+1695910494393,361,Register,400,Bad Request,Personal 1-9,text,false,,329,1538,20,20,https://market-final-project.binaracademy.org/auth/register,361,0,50
+1695910494593,340,Register,400,Bad Request,Personal 1-19,text,false,,329,1592,20,20,https://market-final-project.binaracademy.org/auth/register,340,0,51
+1695910494553,380,Login,201,Created,Personal 1-14,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,380,0,41
+1695910494623,310,Register,400,Bad Request,Personal 1-8,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,310,0,50
+1695910494175,948,Register,400,Bad Request,Personal 1-20,text,false,,329,1574,20,20,https://market-final-project.binaracademy.org/auth/register,947,0,469
+1695910494755,397,Login,201,Created,Personal 1-9,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,397,0,59
+1695910493553,1658,Login,201,Created,Personal 1-4,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,1658,0,1161
+1695910494936,297,Login,201,Created,Personal 1-19,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,296,0,49
+1695910494936,378,Login,201,Created,Personal 1-8,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,377,0,68
+1695910494936,378,Register,400,Bad Request,Personal 1-14,text,false,,329,1592,20,20,https://market-final-project.binaracademy.org/auth/register,377,0,49
+1695910495213,178,Register,400,Bad Request,Personal 1-4,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,178,0,55
+1695910495233,250,Register,400,Bad Request,Personal 1-19,text,false,,329,1538,20,20,https://market-final-project.binaracademy.org/auth/register,250,0,50
+1695910492803,2729,Register,400,Bad Request,Personal 1-3,text,false,,329,1574,20,20,https://market-final-project.binaracademy.org/auth/register,2729,0,1484
+1695910495314,270,Register,400,Bad Request,Personal 1-8,text,false,,329,1592,20,20,https://market-final-project.binaracademy.org/auth/register,269,0,60
+1695910495314,349,Login,201,Created,Personal 1-14,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,349,0,60
+1695910493762,1931,Login,201,Created,Personal 1-13,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,1930,0,1470
+1695910495391,352,Login,201,Created,Personal 1-4,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,352,0,50
+1695910491966,3816,Login,201,Created,Personal 1-12,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,3816,0,1767
+1695910493392,2390,Register,400,Bad Request,Personal 1-18,text,false,,329,1583,20,20,https://market-final-project.binaracademy.org/auth/register,2390,0,484
+1695910495483,341,Login,201,Created,Personal 1-19,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,340,0,50
+1695910495533,490,Login,201,Created,Personal 1-3,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,490,0,51
+1695910491382,4671,Register,400,Bad Request,Personal 1-5,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,4670,0,2494
+1695910495784,320,Login,201,Created,Personal 1-18,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,320,0,40
+1695910495663,519,Register,400,Bad Request,Personal 1-14,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,519,0,50
+1695910495783,550,Register,400,Bad Request,Personal 1-12,text,false,,329,1538,20,20,https://market-final-project.binaracademy.org/auth/register,550,0,41
+1695910495584,749,Login,201,Created,Personal 1-8,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,749,0,49
+1695910492363,4029,Login,201,Created,Personal 1-7,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,4029,0,3200
+1695910496029,580,Register,400,Bad Request,Personal 1-3,text,false,,329,1556,20,20,https://market-final-project.binaracademy.org/auth/register,580,0,56
+1695910496105,504,Register,400,Bad Request,Personal 1-18,text,false,,329,1556,20,20,https://market-final-project.binaracademy.org/auth/register,504,0,49
+1695910496333,291,Register,400,Bad Request,Personal 1-8,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,290,0,44
+1695910494612,2101,Login,201,Created,Personal 1-1,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,2101,0,1172
+1695910496333,430,Login,201,Created,Personal 1-12,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,430,0,44
+1695910496393,370,Register,400,Bad Request,Personal 1-7,text,false,,329,1529,20,20,https://market-final-project.binaracademy.org/auth/register,370,0,50
+1695910496609,267,Login,201,Created,Personal 1-3,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,267,0,55
+1695910494393,2600,Login,201,Created,Personal 1-10,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,2600,0,1712
+1695910496763,297,Register,400,Bad Request,Personal 1-12,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,296,0,46
+1695910496713,347,Register,400,Bad Request,Personal 1-1,text,false,,329,1565,20,20,https://market-final-project.binaracademy.org/auth/register,346,0,51
+1695910496763,297,Login,201,Created,Personal 1-7,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,296,0,46
+1695910495152,1910,Register,400,Bad Request,Personal 1-9,text,false,,329,1565,20,20,https://market-final-project.binaracademy.org/auth/register,1909,0,1142
+1695910496993,210,Register,400,Bad Request,Personal 1-10,text,false,,329,1601,20,20,https://market-final-project.binaracademy.org/auth/register,210,0,50
+1695910489944,7278,Register,400,Bad Request,Personal 1-11,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,7278,0,5496
+1695910495694,1579,Register,400,Bad Request,Personal 1-13,text,false,,329,1583,20,20,https://market-final-project.binaracademy.org/auth/register,1579,0,1129
+1695910497060,343,Login,201,Created,Personal 1-1,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,343,0,42
+1695910497062,411,Login,201,Created,Personal 1-9,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,411,0,52
+1695910497060,492,Login,201,Created,Personal 1-12,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,492,0,42
+1695910494022,3550,Login,201,Created,Personal 1-17,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,3550,0,471
+1695910495123,2503,Login,201,Created,Personal 1-20,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,2503,0,1841
+1695910497203,510,Login,201,Created,Personal 1-10,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,510,0,51
+1695910496054,1779,Login,201,Created,Personal 1-5,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,1779,0,1169
+1695910497273,640,Login,201,Created,Personal 1-13,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,640,0,53
+1695910497473,440,Register,400,Bad Request,Personal 1-9,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,440,0,51
+1695910497403,580,Register,400,Bad Request,Personal 1-1,text,false,,329,1592,20,20,https://market-final-project.binaracademy.org/auth/register,580,0,51
+1695910497552,431,Register,400,Bad Request,Personal 1-12,text,false,,329,1583,20,20,https://market-final-project.binaracademy.org/auth/register,431,0,54
+1695910497573,419,Register,400,Bad Request,Personal 1-17,text,false,,329,1529,20,20,https://market-final-project.binaracademy.org/auth/register,419,0,54
+1695910494493,3560,Login,201,Created,Personal 1-15,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,3560,0,1841
+1695910497913,140,Register,400,Bad Request,Personal 1-13,text,false,,329,1610,20,20,https://market-final-project.binaracademy.org/auth/register,140,0,51
+1695910497626,427,Register,400,Bad Request,Personal 1-20,text,false,,329,1574,20,20,https://market-final-project.binaracademy.org/auth/register,427,0,57
+1695910494473,3622,Register,400,Bad Request,Personal 1-16,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,3621,0,1481
+1695910496876,1317,Register,400,Bad Request,Personal 1-3,text,false,,329,1520,20,20,https://market-final-project.binaracademy.org/auth/register,1317,0,470
+1695910498053,190,Register,400,Bad Request,Personal 1-15,text,false,,329,1538,20,20,https://market-final-project.binaracademy.org/auth/register,190,0,61
+1695910497983,260,Login,201,Created,Personal 1-12,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,260,0,53
+1695910496183,2120,Login,201,Created,Personal 1-14,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,2120,0,1163
+1695910497993,330,Login,201,Created,Personal 1-17,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,330,0,43
+1695910498053,510,Login,201,Created,Personal 1-13,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,510,0,61
+1695910498053,593,Login,201,Created,Personal 1-20,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,593,0,43
+1695910496624,2065,Login,201,Created,Personal 1-8,text,true,,487,279,20,20,https://market-final-project.binaracademy.org/auth/login,2065,0,1449
+1695910498243,600,Login,201,Created,Personal 1-15,text,true,,487,279,19,19,https://market-final-project.binaracademy.org/auth/login,600,0,45
+1695910498194,808,Login,201,Created,Personal 1-3,text,true,,487,279,19,19,https://market-final-project.binaracademy.org/auth/login,808,0,50
+1695910498095,970,Login,201,Created,Personal 1-16,text,true,,487,279,19,19,https://market-final-project.binaracademy.org/auth/login,970,0,49
+1695910498243,822,Register,400,Bad Request,Personal 1-12,text,false,,329,1556,19,19,https://market-final-project.binaracademy.org/auth/register,822,0,45
+1695910498323,755,Register,400,Bad Request,Personal 1-17,text,false,,329,1565,19,19,https://market-final-project.binaracademy.org/auth/register,755,0,50
+1695910497913,1220,Login,201,Created,Personal 1-9,text,true,,487,279,19,19,https://market-final-project.binaracademy.org/auth/login,1220,0,460
+1695910498563,599,Register,400,Bad Request,Personal 1-13,text,false,,329,1538,19,19,https://market-final-project.binaracademy.org/auth/register,599,0,50
+1695910498646,516,Register,400,Bad Request,Personal 1-20,text,false,,329,1574,19,19,https://market-final-project.binaracademy.org/auth/register,516,0,59
+1695910499003,446,Register,400,Bad Request,Personal 1-3,text,false,,329,1583,19,19,https://market-final-project.binaracademy.org/auth/register,446,0,63
+1695910499066,383,Login,201,Created,Personal 1-12,text,true,,487,279,19,19,https://market-final-project.binaracademy.org/auth/login,383,0,57
+1695910499066,383,Register,400,Bad Request,Personal 1-16,text,false,,329,1556,19,19,https://market-final-project.binaracademy.org/auth/register,383,0,57
+1695910499133,330,Register,400,Bad Request,Personal 1-9,text,false,,329,1601,19,19,https://market-final-project.binaracademy.org/auth/register,330,0,60
+1695910499161,381,Login,201,Created,Personal 1-13,text,true,,487,279,19,19,https://market-final-project.binaracademy.org/auth/login,380,0,54
+1695910499463,279,Login,201,Created,Personal 1-9,text,true,,487,279,19,19,https://market-final-project.binaracademy.org/auth/login,279,0,41
+1695910499448,364,Register,400,Bad Request,Personal 1-12,text,false,,329,1520,19,19,https://market-final-project.binaracademy.org/auth/register,364,0,44
+1695910499448,364,Login,201,Created,Personal 1-3,text,true,,487,279,19,19,https://market-final-project.binaracademy.org/auth/login,364,0,43
+1695910496609,3275,Login,201,Created,Personal 1-18,text,true,,487,279,19,19,https://market-final-project.binaracademy.org/auth/login,3275,0,1464
+1695910499448,454,Login,201,Created,Personal 1-16,text,true,,487,279,19,19,https://market-final-project.binaracademy.org/auth/login,454,0,56
+1695910499542,360,Register,400,Bad Request,Personal 1-13,text,false,,329,1592,19,19,https://market-final-project.binaracademy.org/auth/register,360,0,50
+1695910495743,4180,Register,400,Bad Request,Personal 1-4,text,false,,329,1538,19,19,https://market-final-project.binaracademy.org/auth/register,4180,0,3496
+1695910499902,201,Register,400,Bad Request,Personal 1-16,text,false,,329,1547,19,19,https://market-final-project.binaracademy.org/auth/register,201,0,39
+1695910499742,361,Register,400,Bad Request,Personal 1-9,text,false,,329,1556,19,19,https://market-final-project.binaracademy.org/auth/register,361,0,38
+1695910499883,239,Register,400,Bad Request,Personal 1-18,text,false,,329,1574,19,19,https://market-final-project.binaracademy.org/auth/register,239,0,40
+1695910499812,389,Login,201,Created,Personal 1-12,text,true,,487,279,19,19,https://market-final-project.binaracademy.org/auth/login,389,0,51
+1695910497833,2420,Register,400,Bad Request,Personal 1-5,text,false,,329,1574,18,18,https://market-final-project.binaracademy.org/auth/register,2420,0,1948
+1695910499902,370,Login,201,Created,Personal 1-13,text,true,,487,279,18,18,https://market-final-project.binaracademy.org/auth/login,370,0,39
+1695910498303,2030,Register,400,Bad Request,Personal 1-14,text,false,,329,1592,18,18,https://market-final-project.binaracademy.org/auth/register,2030,0,1490
+1695910495824,4539,Register,400,Bad Request,Personal 1-19,text,false,,329,1520,18,18,https://market-final-project.binaracademy.org/auth/register,4539,0,1480
+1695910497223,3160,Login,201,Created,Personal 1-11,text,true,,487,279,18,18,https://market-final-project.binaracademy.org/auth/login,3160,0,1467
+1695910500103,371,Login,201,Created,Personal 1-16,text,true,,487,279,18,18,https://market-final-project.binaracademy.org/auth/login,370,0,39
+1695910500103,459,Login,201,Created,Personal 1-9,text,true,,487,279,18,18,https://market-final-project.binaracademy.org/auth/login,459,0,50
+1695910498843,1770,Register,400,Bad Request,Personal 1-15,text,false,,329,1547,17,17,https://market-final-project.binaracademy.org/auth/register,1770,0,1175
+1695910497060,3603,Register,400,Bad Request,Personal 1-7,text,false,,329,1547,17,17,https://market-final-project.binaracademy.org/auth/register,3603,0,1473
+1695910499813,879,Register,400,Bad Request,Personal 1-3,text,false,,329,1538,17,17,https://market-final-project.binaracademy.org/auth/register,879,0,490
+1695910500252,460,Login,201,Created,Personal 1-5,text,true,,487,279,17,17,https://market-final-project.binaracademy.org/auth/login,460,0,51
+1695910497713,3056,Register,400,Bad Request,Personal 1-10,text,false,,329,1601,17,17,https://market-final-project.binaracademy.org/auth/register,3056,0,1131
+1695910500123,660,Login,201,Created,Personal 1-18,text,true,,487,279,17,17,https://market-final-project.binaracademy.org/auth/login,660,0,48
+1695910500332,659,Login,201,Created,Personal 1-14,text,true,,487,279,17,17,https://market-final-project.binaracademy.org/auth/login,659,0,51
+1695910500662,410,Login,201,Created,Personal 1-7,text,true,,487,279,16,16,https://market-final-project.binaracademy.org/auth/login,410,0,51
+1695910500474,665,Register,400,Bad Request,Personal 1-16,text,false,,329,1529,16,16,https://market-final-project.binaracademy.org/auth/register,665,0,56
+1695910500362,777,Login,201,Created,Personal 1-19,text,true,,487,279,16,16,https://market-final-project.binaracademy.org/auth/login,777,0,51
+1695910500382,757,Register,400,Bad Request,Personal 1-11,text,false,,329,1556,16,16,https://market-final-project.binaracademy.org/auth/register,757,0,51
+1695910500612,610,Login,201,Created,Personal 1-15,text,true,,487,279,16,16,https://market-final-project.binaracademy.org/auth/login,610,0,50
+1695910500712,590,Register,400,Bad Request,Personal 1-5,text,false,,329,1547,16,16,https://market-final-project.binaracademy.org/auth/register,590,0,56
+1695910500692,610,Login,201,Created,Personal 1-3,text,true,,487,279,16,16,https://market-final-project.binaracademy.org/auth/login,610,0,60
+1695910500768,614,Login,201,Created,Personal 1-10,text,true,,487,279,16,16,https://market-final-project.binaracademy.org/auth/login,614,0,55
+1695910500784,598,Register,400,Bad Request,Personal 1-18,text,false,,329,1592,16,16,https://market-final-project.binaracademy.org/auth/register,598,0,39
+1695910501222,279,Register,400,Bad Request,Personal 1-15,text,false,,329,1583,16,16,https://market-final-project.binaracademy.org/auth/register,279,0,51
+1695910501072,429,Register,400,Bad Request,Personal 1-7,text,false,,329,1565,16,16,https://market-final-project.binaracademy.org/auth/register,429,0,50
+1695910499161,2351,Login,201,Created,Personal 1-20,text,true,,487,279,16,16,https://market-final-project.binaracademy.org/auth/login,2351,0,484
+1695910501140,462,Login,201,Created,Personal 1-16,text,true,,487,279,16,16,https://market-final-project.binaracademy.org/auth/login,462,0,53
+1695910501302,300,Register,400,Bad Request,Personal 1-3,text,false,,329,1538,16,16,https://market-final-project.binaracademy.org/auth/register,300,0,50
+1695910501302,379,Login,201,Created,Personal 1-5,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,379,0,50
+1695910501501,258,Login,201,Created,Personal 1-7,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,257,0,51
+1695910501382,377,Register,400,Bad Request,Personal 1-10,text,false,,329,1574,15,15,https://market-final-project.binaracademy.org/auth/register,376,0,55
+1695910497983,3851,Login,201,Created,Personal 1-1,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,3851,0,470
+1695910501382,530,Login,201,Created,Personal 1-18,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,529,0,55
+1695910501501,492,Login,201,Created,Personal 1-15,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,492,0,51
+1695910499078,2965,Login,201,Created,Personal 1-17,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,2965,0,1155
+1695910501759,351,Register,400,Bad Request,Personal 1-7,text,false,,329,1610,15,15,https://market-final-project.binaracademy.org/auth/register,351,0,56
+1695910501681,429,Register,400,Bad Request,Personal 1-5,text,false,,329,1529,15,15,https://market-final-project.binaracademy.org/auth/register,429,0,51
+1695910501759,465,Login,201,Created,Personal 1-10,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,465,0,56
+1695910501833,391,Register,400,Bad Request,Personal 1-1,text,false,,329,1547,15,15,https://market-final-project.binaracademy.org/auth/register,391,0,52
+1695910501912,312,Register,400,Bad Request,Personal 1-18,text,false,,329,1574,15,15,https://market-final-project.binaracademy.org/auth/register,312,0,61
+1695910501993,249,Register,400,Bad Request,Personal 1-15,text,false,,329,1565,15,15,https://market-final-project.binaracademy.org/auth/register,249,0,49
+1695910502042,200,Register,400,Bad Request,Personal 1-17,text,false,,329,1547,15,15,https://market-final-project.binaracademy.org/auth/register,200,0,50
+1695910500272,2080,Register,400,Bad Request,Personal 1-13,text,false,,329,1547,15,15,https://market-final-project.binaracademy.org/auth/register,2080,0,1500
+1695910502110,272,Login,201,Created,Personal 1-5,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,272,0,63
+1695910502110,353,Login,201,Created,Personal 1-7,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,353,0,63
+1695910502224,318,Login,201,Created,Personal 1-1,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,318,0,44
+1695910502224,478,Login,201,Created,Personal 1-18,text,true,,487,279,15,15,https://market-final-project.binaracademy.org/auth/login,478,0,43
+1695910502224,598,Register,400,Bad Request,Personal 1-10,text,false,,329,1538,14,14,https://market-final-project.binaracademy.org/auth/register,598,0,58
+1695910501140,1703,Login,201,Created,Personal 1-11,text,true,,487,279,14,14,https://market-final-project.binaracademy.org/auth/login,1703,0,1127
+1695910502352,561,Login,201,Created,Personal 1-13,text,true,,487,279,14,14,https://market-final-project.binaracademy.org/auth/login,561,0,50
+1695910502382,531,Register,400,Bad Request,Personal 1-5,text,false,,329,1601,14,14,https://market-final-project.binaracademy.org/auth/register,531,0,50
+1695910502242,750,Login,201,Created,Personal 1-15,text,true,,487,279,13,13,https://market-final-project.binaracademy.org/auth/login,749,0,40
+1695910501140,1882,Register,400,Bad Request,Personal 1-19,text,false,,329,1529,13,13,https://market-final-project.binaracademy.org/auth/register,1882,0,1127
+1695910502463,609,Register,400,Bad Request,Personal 1-7,text,false,,329,1574,13,13,https://market-final-project.binaracademy.org/auth/register,609,0,49
+1695910502843,329,Register,400,Bad Request,Personal 1-11,text,false,,329,1520,13,13,https://market-final-project.binaracademy.org/auth/register,329,0,49
+1695910502992,180,Register,400,Bad Request,Personal 1-15,text,false,,329,1520,13,13,https://market-final-project.binaracademy.org/auth/register,180,0,51
+1695910503072,201,Login,201,Created,Personal 1-7,text,true,,487,279,13,13,https://market-final-project.binaracademy.org/auth/login,201,0,50
+1695910503172,220,Login,201,Created,Personal 1-15,text,true,,487,279,12,12,https://market-final-project.binaracademy.org/auth/login,219,0,50
+1695910502542,850,Register,400,Bad Request,Personal 1-1,text,false,,329,1547,12,12,https://market-final-project.binaracademy.org/auth/register,849,0,481
+1695910502242,1280,Login,201,Created,Personal 1-17,text,true,,487,279,12,12,https://market-final-project.binaracademy.org/auth/login,1280,0,490
+1695910503392,200,Login,201,Created,Personal 1-1,text,true,,487,279,12,12,https://market-final-project.binaracademy.org/auth/login,200,0,51
+1695910501512,2150,Register,400,Bad Request,Personal 1-20,text,false,,329,1610,12,12,https://market-final-project.binaracademy.org/auth/register,2150,0,1860
+1695910503522,190,Register,400,Bad Request,Personal 1-17,text,false,,329,1538,12,12,https://market-final-project.binaracademy.org/auth/register,189,0,50
+1695910503592,180,Register,400,Bad Request,Personal 1-1,text,false,,329,1529,12,12,https://market-final-project.binaracademy.org/auth/register,180,0,51
+1695910503662,200,Login,201,Created,Personal 1-20,text,true,,487,279,12,12,https://market-final-project.binaracademy.org/auth/login,200,0,50
+1695910501602,2331,Login,201,Created,Personal 1-3,text,true,,487,279,11,11,https://market-final-project.binaracademy.org/auth/login,2331,0,1921
+1695910503712,261,Login,201,Created,Personal 1-17,text,true,,487,279,11,11,https://market-final-project.binaracademy.org/auth/login,261,0,42
+1695910503973,290,Register,400,Bad Request,Personal 1-17,text,false,,329,1601,11,11,https://market-final-project.binaracademy.org/auth/register,289,0,68
+1695910502913,1560,Login,201,Created,Personal 1-5,text,true,,487,279,11,11,https://market-final-project.binaracademy.org/auth/login,1560,0,1165
+1695910503392,1081,Register,400,Bad Request,Personal 1-15,text,false,,329,1529,11,11,https://market-final-project.binaracademy.org/auth/register,1081,0,471
+1695910503772,853,Login,201,Created,Personal 1-1,text,true,,487,279,11,11,https://market-final-project.binaracademy.org/auth/login,852,0,491
+1695910504473,209,Login,201,Created,Personal 1-15,text,true,,487,279,11,11,https://market-final-project.binaracademy.org/auth/login,208,0,60
+1695910503933,1079,Register,400,Bad Request,Personal 1-3,text,false,,329,1547,10,10,https://market-final-project.binaracademy.org/auth/register,1079,0,490
+1695910505013,209,Login,201,Created,Personal 1-3,text,true,,487,279,10,10,https://market-final-project.binaracademy.org/auth/login,209,0,59
+1695910503172,2150,Login,201,Created,Personal 1-11,text,true,,487,279,9,9,https://market-final-project.binaracademy.org/auth/login,2150,0,1190
+1695910503022,2850,Login,201,Created,Personal 1-19,text,true,,487,279,9,9,https://market-final-project.binaracademy.org/auth/login,2850,0,2480
+1695910505872,110,Register,400,Bad Request,Personal 1-19,text,false,,329,1565,9,9,https://market-final-project.binaracademy.org/auth/register,110,0,41
+1695910505982,200,Login,201,Created,Personal 1-19,text,true,,487,279,9,9,https://market-final-project.binaracademy.org/auth/login,200,0,50
+1695910506182,120,Register,400,Bad Request,Personal 1-19,text,false,,329,1565,9,9,https://market-final-project.binaracademy.org/auth/register,119,0,50
+1695910504263,2089,Login,201,Created,Personal 1-17,text,true,,487,279,9,9,https://market-final-project.binaracademy.org/auth/login,2088,0,1139
+1695910506302,210,Login,201,Created,Personal 1-19,text,true,,487,279,9,9,https://market-final-project.binaracademy.org/auth/login,210,0,50
+1695910506352,160,Register,400,Bad Request,Personal 1-17,text,false,,329,1556,9,9,https://market-final-project.binaracademy.org/auth/register,160,0,50
+1695910506512,110,Register,400,Bad Request,Personal 1-19,text,false,,329,1556,9,9,https://market-final-project.binaracademy.org/auth/register,110,0,50
+1695910494553,12180,Register,400,Bad Request,Personal 1-6,text,false,,329,1592,9,9,https://market-final-project.binaracademy.org/auth/register,12180,0,11820
+1695910504473,2419,Register,400,Bad Request,Personal 1-5,text,false,,329,1592,9,9,https://market-final-project.binaracademy.org/auth/register,2418,0,1159
+1695910506732,199,Login,201,Created,Personal 1-6,text,true,,487,279,9,9,https://market-final-project.binaracademy.org/auth/login,199,0,51
+1695910506892,191,Login,201,Created,Personal 1-5,text,true,,487,279,9,9,https://market-final-project.binaracademy.org/auth/login,191,0,40
+1695910506931,181,Register,400,Bad Request,Personal 1-6,text,false,,329,1520,9,9,https://market-final-project.binaracademy.org/auth/register,181,0,51
+1695910507083,159,Register,400,Bad Request,Personal 1-5,text,false,,329,1547,9,9,https://market-final-project.binaracademy.org/auth/register,158,0,49
+1695910507242,190,Login,201,Created,Personal 1-5,text,true,,487,279,9,9,https://market-final-project.binaracademy.org/auth/login,190,0,50
+1695910505322,2161,Register,400,Bad Request,Personal 1-11,text,false,,329,1529,9,9,https://market-final-project.binaracademy.org/auth/register,2161,0,1846
+1695910507483,919,Login,201,Created,Personal 1-11,text,true,,487,279,9,9,https://market-final-project.binaracademy.org/auth/login,918,0,542
+1695910508402,190,Register,400,Bad Request,Personal 1-11,text,false,,329,1547,9,9,https://market-final-project.binaracademy.org/auth/register,189,0,50
+1695910507432,1695,Register,400,Bad Request,Personal 1-5,text,false,,329,1529,9,9,https://market-final-project.binaracademy.org/auth/register,1694,0,1387
+1695910507112,2121,Login,201,Created,Personal 1-6,text,true,,487,279,9,9,https://market-final-project.binaracademy.org/auth/login,2121,0,1182
+1695910509127,264,Login,201,Created,Personal 1-5,text,true,,487,279,9,9,https://market-final-project.binaracademy.org/auth/login,264,0,55
+1695910509233,189,Register,400,Bad Request,Personal 1-6,text,false,,329,1574,8,8,https://market-final-project.binaracademy.org/auth/register,188,0,53
+1695910499922,9520,Login,201,Created,Personal 1-4,text,true,,487,279,8,8,https://market-final-project.binaracademy.org/auth/login,9519,0,1492
+1695910509422,210,Login,201,Created,Personal 1-6,text,true,,487,279,8,8,https://market-final-project.binaracademy.org/auth/login,209,0,50
+1695910509442,190,Register,400,Bad Request,Personal 1-4,text,false,,329,1556,8,8,https://market-final-project.binaracademy.org/auth/register,189,0,50
+1695910508597,1135,Login,201,Created,Personal 1-11,text,true,,487,279,8,8,https://market-final-project.binaracademy.org/auth/login,1134,0,525
+1695910509632,122,Register,400,Bad Request,Personal 1-6,text,false,,329,1610,8,8,https://market-final-project.binaracademy.org/auth/register,122,0,51
+1695910509750,222,Register,400,Bad Request,Personal 1-11,text,false,,329,1565,8,8,https://market-final-project.binaracademy.org/auth/register,221,0,52
+1695910509754,218,Login,201,Created,Personal 1-6,text,true,,487,279,8,8,https://market-final-project.binaracademy.org/auth/login,217,0,48
+1695910506512,3540,Login,201,Created,Personal 1-17,text,true,,487,279,8,8,https://market-final-project.binaracademy.org/auth/login,3540,0,1513
+1695910509972,377,Register,400,Bad Request,Personal 1-6,text,false,,329,1538,8,8,https://market-final-project.binaracademy.org/auth/register,377,0,117
+1695910510053,296,Register,400,Bad Request,Personal 1-17,text,false,,329,1538,8,8,https://market-final-project.binaracademy.org/auth/register,296,0,49
+1695910509972,378,Login,201,Created,Personal 1-11,text,true,,487,279,8,8,https://market-final-project.binaracademy.org/auth/login,377,0,117
+1695910510350,192,Login,201,Created,Personal 1-17,text,true,,487,279,8,8,https://market-final-project.binaracademy.org/auth/login,191,0,52
+1695910509632,2340,Login,201,Created,Personal 1-4,text,true,,487,279,7,7,https://market-final-project.binaracademy.org/auth/login,2339,0,1754
+1695910504625,7367,Register,400,Bad Request,Personal 1-1,text,false,,329,1592,7,7,https://market-final-project.binaracademy.org/auth/register,7366,0,1167
+1695910511972,110,Register,400,Bad Request,Personal 1-4,text,false,,329,1610,7,7,https://market-final-project.binaracademy.org/auth/register,109,0,50
+1695910511992,216,Login,201,Created,Personal 1-1,text,true,,487,279,7,7,https://market-final-project.binaracademy.org/auth/login,216,0,50
+1695910512082,230,Login,201,Created,Personal 1-4,text,true,,487,279,6,6,https://market-final-project.binaracademy.org/auth/login,229,0,50
+1695910512312,128,Register,400,Bad Request,Personal 1-4,text,false,,329,1520,6,6,https://market-final-project.binaracademy.org/auth/register,128,0,51
+1695910510350,2272,Login,201,Created,Personal 1-6,text,true,,487,279,6,6,https://market-final-project.binaracademy.org/auth/login,2271,0,497
+1695910512440,202,Login,201,Created,Personal 1-4,text,true,,487,279,6,6,https://market-final-project.binaracademy.org/auth/login,202,0,47
+1695910512622,120,Register,400,Bad Request,Personal 1-6,text,false,,329,1529,5,5,https://market-final-project.binaracademy.org/auth/register,119,0,51
+1695910512742,840,Login,201,Created,Personal 1-6,text,true,,487,279,5,5,https://market-final-project.binaracademy.org/auth/login,840,0,480
+1695910506622,8120,Login,201,Created,Personal 1-19,text,true,,487,279,4,4,https://market-final-project.binaracademy.org/auth/login,8119,0,7511
+1695910514742,119,Register,400,Bad Request,Personal 1-19,text,false,,329,1538,4,4,https://market-final-project.binaracademy.org/auth/register,119,0,50
+1695910514862,210,Login,201,Created,Personal 1-19,text,true,,487,279,4,4,https://market-final-project.binaracademy.org/auth/login,210,0,60
+1695910502822,13295,Login,201,Created,Personal 1-10,text,true,,487,279,4,4,https://market-final-project.binaracademy.org/auth/login,13295,0,1152
+1695910492616,23501,Login,201,Created,Personal 1-2,text,true,,487,279,4,4,https://market-final-project.binaracademy.org/auth/login,23501,0,471
+1695910516117,235,Register,400,Bad Request,Personal 1-10,text,false,,329,1565,4,4,https://market-final-project.binaracademy.org/auth/register,235,0,113
+1695910515072,1449,Register,400,Bad Request,Personal 1-19,text,false,,329,1547,4,4,https://market-final-project.binaracademy.org/auth/register,1449,0,1155
+1695910516352,189,Login,201,Created,Personal 1-10,text,true,,487,279,4,4,https://market-final-project.binaracademy.org/auth/login,189,0,50
+1695910510350,6262,Register,400,Bad Request,Personal 1-11,text,false,,329,1538,4,4,https://market-final-project.binaracademy.org/auth/register,6262,0,497
+1695910516541,121,Register,400,Bad Request,Personal 1-10,text,false,,329,1547,4,4,https://market-final-project.binaracademy.org/auth/register,120,0,51
+1695910516612,210,Login,201,Created,Personal 1-11,text,true,,487,279,4,4,https://market-final-project.binaracademy.org/auth/login,210,0,50
+1695910516117,816,Register,400,Bad Request,Personal 1-2,text,false,,329,1592,4,4,https://market-final-project.binaracademy.org/auth/register,815,0,524
+1695910516933,229,Login,201,Created,Personal 1-2,text,true,,487,279,4,4,https://market-final-project.binaracademy.org/auth/login,228,0,50
+1695910517162,119,Register,400,Bad Request,Personal 1-2,text,false,,329,1565,4,4,https://market-final-project.binaracademy.org/auth/register,119,0,49
+1695910516522,929,Login,201,Created,Personal 1-19,text,true,,487,279,4,4,https://market-final-project.binaracademy.org/auth/login,929,0,461
+1695910517282,209,Login,201,Created,Personal 1-2,text,true,,487,279,3,3,https://market-final-project.binaracademy.org/auth/login,209,0,50
+1695910517491,121,Register,400,Bad Request,Personal 1-2,text,false,,329,1610,3,3,https://market-final-project.binaracademy.org/auth/register,121,0,52
+1695910516829,783,Register,400,Bad Request,Personal 1-11,text,false,,329,1538,3,3,https://market-final-project.binaracademy.org/auth/register,783,0,483
+1695910517613,188,Login,201,Created,Personal 1-2,text,true,,487,279,3,3,https://market-final-project.binaracademy.org/auth/login,188,0,49
+1695910517802,120,Register,400,Bad Request,Personal 1-2,text,false,,329,1538,3,3,https://market-final-project.binaracademy.org/auth/register,119,0,50
+1695910517922,209,Login,201,Created,Personal 1-2,text,true,,487,279,3,3,https://market-final-project.binaracademy.org/auth/login,209,0,60
+1695910518131,140,Register,400,Bad Request,Personal 1-2,text,false,,329,1529,3,3,https://market-final-project.binaracademy.org/auth/register,140,0,51
+1695910517613,828,Login,201,Created,Personal 1-11,text,true,,487,279,3,3,https://market-final-project.binaracademy.org/auth/login,828,0,479
+1695910518272,189,Login,201,Created,Personal 1-2,text,true,,487,279,2,2,https://market-final-project.binaracademy.org/auth/login,189,0,50
+1695910518462,120,Register,400,Bad Request,Personal 1-2,text,false,,329,1610,2,2,https://market-final-project.binaracademy.org/auth/register,120,0,53
+1695910518582,189,Login,201,Created,Personal 1-2,text,true,,487,279,2,2,https://market-final-project.binaracademy.org/auth/login,189,0,50
+1695910516662,3129,Login,201,Created,Personal 1-10,text,true,,487,279,1,1,https://market-final-project.binaracademy.org/auth/login,3129,0,2770

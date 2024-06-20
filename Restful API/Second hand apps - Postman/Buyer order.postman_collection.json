@@ -1,0 +1,259 @@
+{
+	"info": {
+		"_postman_id": "bed81601-a4ef-49a8-a3d6-6a2af9ee33c4",
+		"name": "Buyer order",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28620406"
+	},
+	"item": [
+		{
+			"name": "Login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 5500ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(5500);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "schema",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"naruto@gmail.com\",\r\n    \"password\": \"123456\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{binar.app}}/auth/login",
+					"host": [
+						"{{binar.app}}"
+					],
+					"path": [
+						"auth",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buy order",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"pm.test(\"Response time is less than 2500ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(2500);\r",
+							"});\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "body",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "access_token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5hcnV0b0BnbWFpbC5jb20iLCJpYXQiOjE2OTU4MjI0NDR9.EAlr3UmSxO2AZf4fetY9sSuZ5W2VNLO836YrK8Q5FJ0",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"product_id\": 91953,\r\n  \"bid_price\": 10022\r\n}"
+				},
+				"url": {
+					"raw": "{{binar.app}}/buyer/order",
+					"host": [
+						"{{binar.app}}"
+					],
+					"path": [
+						"buyer",
+						"order"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buyer order",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"pm.test(\"Response time is less than 2500ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(2500);\r",
+							"});\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "body",
+						"type": "text"
+					},
+					{
+						"key": "access_token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5hcnV0b0BnbWFpbC5jb20iLCJpYXQiOjE2OTU4MjI0NDR9.EAlr3UmSxO2AZf4fetY9sSuZ5W2VNLO836YrK8Q5FJ0",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{binar.app}}/buyer/order",
+					"host": [
+						"{{binar.app}}"
+					],
+					"path": [
+						"buyer",
+						"order"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buyer order ID",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"pm.test(\"Response time is less than 2500ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(2500);\r",
+							"});\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "body",
+						"type": "text"
+					},
+					{
+						"key": "access_token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5hcnV0b0BnbWFpbC5jb20iLCJpYXQiOjE2OTU4MjI0NDR9.EAlr3UmSxO2AZf4fetY9sSuZ5W2VNLO836YrK8Q5FJ0",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{binar.app}}/buyer/order/43485",
+					"host": [
+						"{{binar.app}}"
+					],
+					"path": [
+						"buyer",
+						"order",
+						"43485"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buy order ID",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"pm.test(\"Response time is less than 2500ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(2500);\r",
+							"});\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "body",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "access_token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5hcnV0b0BnbWFpbC5jb20iLCJpYXQiOjE2OTU4MjI0NDR9.EAlr3UmSxO2AZf4fetY9sSuZ5W2VNLO836YrK8Q5FJ0",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"bid_price\": 1000000\r\n}"
+				},
+				"url": {
+					"raw": "{{binar.app}}/buyer/order/43485",
+					"host": [
+						"{{binar.app}}"
+					],
+					"path": [
+						"buyer",
+						"order",
+						"43485"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

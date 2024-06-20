@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695970397180,287,Login,201,Created,Seller delete product 1-1,text,true,,499,282,6,6,https://market-final-project.binaracademy.org/auth/login,286,0,58
+1695970397240,306,Login,201,Created,Seller delete product 1-2,text,true,,499,282,8,8,https://market-final-project.binaracademy.org/auth/login,306,0,60
+1695970397285,422,Login,201,Created,Seller delete product 1-3,text,true,,499,282,11,11,https://market-final-project.binaracademy.org/auth/login,422,0,56
+1695970397337,437,Login,201,Created,Seller delete product 1-4,text,true,,499,282,12,12,https://market-final-project.binaracademy.org/auth/login,437,0,52
+1695970397533,454,Login,201,Created,Seller delete product 1-8,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,453,0,55
+1695970397583,482,Login,201,Created,Seller delete product 1-9,text,true,,499,282,18,18,https://market-final-project.binaracademy.org/auth/login,482,0,56
+1695970397635,511,Login,201,Created,Seller delete product 1-10,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,511,0,54
+1695970397683,542,Login,201,Created,Seller delete product 1-11,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,542,0,57
+1695970397733,572,Login,201,Created,Seller delete product 1-12,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,572,0,56
+1695970397782,604,Login,201,Created,Seller delete product 1-13,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,604,0,57
+1695970397546,844,Delete product,404,Not Found,Seller delete product 1-2,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,844,0,41
+1695970397706,684,Delete product,404,Not Found,Seller delete product 1-3,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,684,0,51
+1695970397773,633,Delete product,404,Not Found,Seller delete product 1-4,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,632,0,46
+1695970397932,664,Login,201,Created,Seller delete product 1-16,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,663,0,57
+1695970398031,645,Login,201,Created,Seller delete product 1-18,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,645,0,57
+1695970397834,911,Login,201,Created,Seller delete product 1-14,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,911,0,54
+1695970397882,1016,Login,201,Created,Seller delete product 1-15,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,1016,0,45
+1695970398132,855,Login,201,Created,Seller delete product 1-20,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,854,0,55
+1695970397466,1600,Delete product,200,OK,Seller delete product 1-1,text,true,,307,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1600,0,50
+1695970398390,766,Login,201,Created,Seller delete product 1-3,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,766,0,55
+1695970398390,829,Login,201,Created,Seller delete product 1-2,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,829,0,55
+1695970397987,1232,Delete product,404,Not Found,Seller delete product 1-8,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1232,0,49
+1695970398066,1155,Delete product,404,Not Found,Seller delete product 1-9,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1155,0,42
+1695970398146,1080,Delete product,404,Not Found,Seller delete product 1-10,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1080,0,40
+1695970398226,1002,Delete product,404,Not Found,Seller delete product 1-11,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1002,0,51
+1695970398387,841,Delete product,404,Not Found,Seller delete product 1-13,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,841,0,41
+1695970398596,634,Delete product,404,Not Found,Seller delete product 1-16,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,634,0,50
+1695970398898,347,Delete product,404,Not Found,Seller delete product 1-15,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,347,0,48
+1695970397982,1284,Login,201,Created,Seller delete product 1-17,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,1283,0,447
+1695970398987,322,Delete product,404,Not Found,Seller delete product 1-20,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,322,0,59
+1695970398306,1132,Delete product,404,Not Found,Seller delete product 1-12,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1132,0,440
+1695970399231,274,Login,201,Created,Seller delete product 1-16,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,274,0,40
+1695970399228,357,Login,201,Created,Seller delete product 1-11,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,357,0,57
+1695970399226,429,Login,201,Created,Seller delete product 1-10,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,429,0,45
+1695970398746,987,Delete product,404,Not Found,Seller delete product 1-14,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,987,0,460
+1695970399245,488,Login,201,Created,Seller delete product 1-15,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,488,0,45
+1695970399309,496,Login,201,Created,Seller delete product 1-20,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,496,0,47
+1695970399266,546,Delete product,404,Not Found,Seller delete product 1-17,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,546,0,60
+1695970399220,605,Delete product,404,Not Found,Seller delete product 1-2,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,605,0,47
+1695970397436,2780,Login,201,Created,Seller delete product 1-6,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,2780,0,2005
+1695970399812,524,Login,201,Created,Seller delete product 1-17,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,523,0,45
+1695970399221,1165,Login,201,Created,Seller delete product 1-9,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,1165,0,455
+1695970399826,584,Login,201,Created,Seller delete product 1-2,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,584,0,51
+1695970399585,825,Delete product,404,Not Found,Seller delete product 1-11,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,825,0,51
+1695970399506,905,Delete product,404,Not Found,Seller delete product 1-16,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,905,0,50
+1695970399733,681,Delete product,404,Not Found,Seller delete product 1-15,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,681,0,42
+1695970399806,609,Delete product,404,Not Found,Seller delete product 1-20,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,609,0,51
+1695970399656,759,Delete product,404,Not Found,Seller delete product 1-10,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,759,0,50
+1695970399067,1458,Login,201,Created,Seller delete product 1-1,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,1458,0,459
+1695970398676,1949,Delete product,404,Not Found,Seller delete product 1-18,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1949,0,1099
+1695970399228,1448,Login,201,Created,Seller delete product 1-13,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,1447,0,448
+1695970400412,293,Login,201,Created,Seller delete product 1-16,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,293,0,45
+1695970400411,534,Login,201,Created,Seller delete product 1-11,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,534,0,46
+1695970398077,2908,Login,201,Created,Seller delete product 1-19,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,2908,0,1910
+1695970400415,610,Login,201,Created,Seller delete product 1-20,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,610,0,44
+1695970399733,1322,Login,201,Created,Seller delete product 1-14,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,1322,0,453
+1695970400216,878,Delete product,404,Not Found,Seller delete product 1-6,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,878,0,50
+1695970400415,679,Login,201,Created,Seller delete product 1-10,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,679,0,62
+1695970400386,711,Delete product,404,Not Found,Seller delete product 1-9,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,711,0,53
+1695970397483,3894,Login,201,Created,Seller delete product 1-7,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,3894,0,455
+1695970400626,799,Login,201,Created,Seller delete product 1-18,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,799,0,50
+1695970400705,792,Delete product,404,Not Found,Seller delete product 1-16,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,791,0,51
+1695970400525,972,Delete product,404,Not Found,Seller delete product 1-1,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,972,0,51
+1695970400676,826,Delete product,404,Not Found,Seller delete product 1-13,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,826,0,50
+1695970401055,449,Delete product,404,Not Found,Seller delete product 1-14,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,449,0,40
+1695970401094,495,Login,201,Created,Seller delete product 1-6,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,494,0,39
+1695970400945,644,Delete product,404,Not Found,Seller delete product 1-11,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,643,0,41
+1695970400985,620,Delete product,404,Not Found,Seller delete product 1-19,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,620,0,41
+1695970401377,308,Delete product,404,Not Found,Seller delete product 1-7,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,308,0,49
+1695970401097,588,Login,201,Created,Seller delete product 1-9,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,588,0,48
+1695970401425,261,Delete product,404,Not Found,Seller delete product 1-18,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,261,0,51
+1695970401094,593,Delete product,404,Not Found,Seller delete product 1-10,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,593,0,39
+1695970399156,2549,Delete product,404,Not Found,Seller delete product 1-3,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,2549,0,1450
+1695970400336,1385,Delete product,404,Not Found,Seller delete product 1-17,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1385,0,450
+1695970401498,397,Login,201,Created,Seller delete product 1-1,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,397,0,40
+1695970399438,2497,Login,201,Created,Seller delete product 1-12,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,2497,0,1438
+1695970401589,387,Login,201,Created,Seller delete product 1-11,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,387,0,47
+1695970401502,553,Login,201,Created,Seller delete product 1-13,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,553,0,53
+1695970401497,628,Login,201,Created,Seller delete product 1-16,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,628,0,41
+1695970399220,2975,Login,201,Created,Seller delete product 1-8,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,2975,0,1096
+1695970401504,711,Login,201,Created,Seller delete product 1-14,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,711,0,51
+1695970401606,689,Login,201,Created,Seller delete product 1-19,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,689,0,48
+1695970401687,688,Login,201,Created,Seller delete product 1-10,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,688,0,49
+1695970401685,770,Login,201,Created,Seller delete product 1-7,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,770,0,51
+1695970401721,801,Login,201,Created,Seller delete product 1-17,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,801,0,51
+1695970401589,933,Delete product,404,Not Found,Seller delete product 1-6,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,933,0,47
+1695970402215,608,Delete product,404,Not Found,Seller delete product 1-14,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,608,0,50
+1695970401976,849,Delete product,404,Not Found,Seller delete product 1-11,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,849,0,49
+1695970402125,701,Delete product,404,Not Found,Seller delete product 1-16,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,700,0,50
+1695970402055,790,Delete product,404,Not Found,Seller delete product 1-13,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,790,0,37
+1695970402375,504,Delete product,404,Not Found,Seller delete product 1-10,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,504,0,50
+1695970402296,584,Delete product,404,Not Found,Seller delete product 1-19,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,584,0,49
+1695970402456,433,Delete product,404,Not Found,Seller delete product 1-7,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,432,0,50
+1695970402523,472,Delete product,404,Not Found,Seller delete product 1-17,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,471,0,55
+1695970400411,2624,Delete product,404,Not Found,Seller delete product 1-2,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,2624,0,1464
+1695970401025,2060,Delete product,404,Not Found,Seller delete product 1-20,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,2060,0,1450
+1695970402826,280,Login,201,Created,Seller delete product 1-11,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,280,0,43
+1695970402195,956,Delete product,404,Not Found,Seller delete product 1-8,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,956,0,460
+1695970401685,1500,Delete product,404,Not Found,Seller delete product 1-9,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1500,0,1091
+1695970402827,359,Login,201,Created,Seller delete product 1-16,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,359,0,42
+1695970402881,385,Login,201,Created,Seller delete product 1-19,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,385,0,46
+1695970402889,448,Login,201,Created,Seller delete product 1-7,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,447,0,57
+1695970403036,600,Login,201,Created,Seller delete product 1-2,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,600,0,51
+1695970403086,622,Login,201,Created,Seller delete product 1-20,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,622,0,50
+1695970403266,519,Delete product,404,Not Found,Seller delete product 1-19,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,519,0,50
+1695970403337,459,Delete product,404,Not Found,Seller delete product 1-7,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,459,0,37
+1695970401705,2110,Login,201,Created,Seller delete product 1-3,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,2110,0,443
+1695970400414,3561,Login,201,Created,Seller delete product 1-15,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,3561,0,2692
+1695970401935,2060,Delete product,404,Not Found,Seller delete product 1-12,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,2060,0,1430
+1695970403708,406,Delete product,404,Not Found,Seller delete product 1-20,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,406,0,39
+1695970403785,329,Login,201,Created,Seller delete product 1-19,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,329,0,52
+1695970403636,490,Delete product,404,Not Found,Seller delete product 1-2,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,490,0,51
+1695970403996,322,Login,201,Created,Seller delete product 1-12,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,322,0,40
+1695970404115,281,Login,201,Created,Seller delete product 1-20,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,281,0,52
+1695970404126,337,Login,201,Created,Seller delete product 1-2,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,336,0,41
+1695970403816,647,Delete product,404,Not Found,Seller delete product 1-3,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,646,0,50
+1695970404396,249,Delete product,404,Not Found,Seller delete product 1-20,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,249,0,50
+1695970404463,193,Delete product,404,Not Found,Seller delete product 1-2,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,193,0,53
+1695970401895,2762,Delete product,404,Not Found,Seller delete product 1-1,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,2762,0,2140
+1695970403107,1569,Delete product,404,Not Found,Seller delete product 1-11,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1568,0,1080
+1695970404645,232,Login,201,Created,Seller delete product 1-20,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,231,0,51
+1695970404115,781,Delete product,404,Not Found,Seller delete product 1-19,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,781,0,431
+1695970404656,310,Login,201,Created,Seller delete product 1-2,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,309,0,41
+1695970402995,1991,Login,201,Created,Seller delete product 1-17,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,1991,0,451
+1695970404676,370,Login,201,Created,Seller delete product 1-11,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,370,0,38
+1695970403976,1104,Delete product,404,Not Found,Seller delete product 1-15,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1104,0,441
+1695970403796,1284,Login,201,Created,Seller delete product 1-7,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,1284,0,454
+1695970404896,351,Login,201,Created,Seller delete product 1-19,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,351,0,50
+1695970401686,3639,Login,201,Created,Seller delete product 1-18,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,3639,0,1680
+1695970402846,2690,Login,201,Created,Seller delete product 1-13,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,2690,0,2141
+1695970404966,588,Delete product,404,Not Found,Seller delete product 1-2,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,588,0,51
+1695970405046,509,Delete product,404,Not Found,Seller delete product 1-11,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,508,0,51
+1695970405080,486,Delete product,404,Not Found,Seller delete product 1-7,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,486,0,35
+1695970405247,342,Delete product,404,Not Found,Seller delete product 1-19,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,341,0,49
+1695970402523,3173,Login,201,Created,Seller delete product 1-6,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,3173,0,2354
+1695970405555,191,Login,201,Created,Seller delete product 1-11,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,191,0,38
+1695970405555,271,Login,201,Created,Seller delete product 1-2,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,271,0,38
+1695970404463,1383,Login,201,Created,Seller delete product 1-3,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,1383,0,455
+1695970405696,226,Delete product,404,Not Found,Seller delete product 1-6,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,226,0,50
+1695970405746,190,Delete product,404,Not Found,Seller delete product 1-11,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,190,0,50
+1695970403186,2932,Delete product,404,Not Found,Seller delete product 1-16,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,2932,0,2490
+1695970405922,214,Login,201,Created,Seller delete product 1-6,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,214,0,55
+1695970404318,2048,Delete product,404,Not Found,Seller delete product 1-12,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,2048,0,1758
+1695970406118,328,Login,201,Created,Seller delete product 1-16,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,328,0,48
+1695970406136,310,Delete product,404,Not Found,Seller delete product 1-6,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,310,0,51
+1695970406446,190,Delete product,404,Not Found,Seller delete product 1-16,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,190,0,50
+1695970403152,3514,Login,201,Created,Seller delete product 1-8,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,3514,0,444
+1695970405080,1716,Login,201,Created,Seller delete product 1-15,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,1716,0,1086
+1695970402824,3991,Login,201,Created,Seller delete product 1-14,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,3991,0,3462
+1695970405846,969,Delete product,404,Not Found,Seller delete product 1-3,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,969,0,440
+1695970404986,1840,Delete product,404,Not Found,Seller delete product 1-17,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1840,0,1447
+1695970406636,260,Login,201,Created,Seller delete product 1-16,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,260,0,50
+1695970403186,3730,Login,201,Created,Seller delete product 1-9,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,3730,0,1761
+1695970406816,210,Login,201,Created,Seller delete product 1-3,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,210,0,50
+1695970402880,4146,Login,201,Created,Seller delete product 1-10,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,4146,0,3786
+1695970406796,230,Delete product,404,Not Found,Seller delete product 1-15,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,230,0,50
+1695970406916,177,Delete product,404,Not Found,Seller delete product 1-9,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,177,0,50
+1695970407026,280,Delete product,404,Not Found,Seller delete product 1-3,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,280,0,50
+1695970405589,1917,Login,201,Created,Seller delete product 1-19,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,1916,0,1457
+1695970407306,260,Login,201,Created,Seller delete product 1-3,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,260,0,51
+1695970404659,2967,Login,201,Created,Seller delete product 1-1,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,2967,0,2467
+1695970406896,781,Delete product,404,Not Found,Seller delete product 1-16,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,781,0,440
+1695970407678,189,Login,201,Created,Seller delete product 1-16,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,189,0,48
+1695970407026,880,Login,201,Created,Seller delete product 1-15,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,879,0,450
+1695970407867,315,Delete product,404,Not Found,Seller delete product 1-16,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,315,0,40
+1695970407906,276,Delete product,404,Not Found,Seller delete product 1-15,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,276,0,40
+1695970407506,878,Delete product,404,Not Found,Seller delete product 1-19,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,878,0,460
+1695970405326,3058,Delete product,404,Not Found,Seller delete product 1-18,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,3058,0,2561
+1695970406816,1568,Delete product,404,Not Found,Seller delete product 1-14,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1568,0,1113
+1695970408182,214,Login,201,Created,Seller delete product 1-16,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,214,0,56
+1695970406366,2050,Login,201,Created,Seller delete product 1-12,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,2050,0,1470
+1695970408182,286,Login,201,Created,Seller delete product 1-15,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,286,0,56
+1695970408384,302,Login,201,Created,Seller delete product 1-18,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,302,0,52
+1695970405566,3210,Login,201,Created,Seller delete product 1-7,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,3210,0,1461
+1695970408384,454,Login,201,Created,Seller delete product 1-19,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,454,0,41
+1695970405536,3350,Delete product,404,Not Found,Seller delete product 1-13,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,3350,0,460
+1695970408384,532,Login,201,Created,Seller delete product 1-14,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,532,0,41
+1695970408396,525,Delete product,404,Not Found,Seller delete product 1-16,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,525,0,40
+1695970408417,505,Delete product,404,Not Found,Seller delete product 1-12,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,504,0,37
+1695970408468,455,Delete product,404,Not Found,Seller delete product 1-15,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,455,0,48
+1695970405936,3025,Login,201,Created,Seller delete product 1-11,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,3025,0,2481
+1695970404877,4239,Delete product,404,Not Found,Seller delete product 1-20,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,4239,0,3459
+1695970407026,2095,Delete product,404,Not Found,Seller delete product 1-10,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,2094,0,1443
+1695970408838,365,Delete product,404,Not Found,Seller delete product 1-19,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,365,0,49
+1695970408686,535,Delete product,404,Not Found,Seller delete product 1-18,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,535,0,51
+1695970406446,2871,Login,201,Created,Seller delete product 1-6,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,2870,0,2160
+1695970408921,396,Login,201,Created,Seller delete product 1-16,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,395,0,41
+1695970409122,287,Login,201,Created,Seller delete product 1-10,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,287,0,44
+1695970407626,1792,Delete product,404,Not Found,Seller delete product 1-1,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,1791,0,1151
+1695970408923,563,Login,201,Created,Seller delete product 1-15,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,563,0,53
+1695970409117,440,Login,201,Created,Seller delete product 1-20,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,439,0,49
+1695970408916,641,Delete product,404,Not Found,Seller delete product 1-14,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,640,0,46
+1695970408962,614,Delete product,404,Not Found,Seller delete product 1-11,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,614,0,44
+1695970409222,624,Login,201,Created,Seller delete product 1-18,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,624,0,65
+1695970409418,500,Login,201,Created,Seller delete product 1-1,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,499,0,49
+1695970409557,432,Login,201,Created,Seller delete product 1-14,text,true,,499,282,20,20,https://market-final-project.binaracademy.org/auth/login,432,0,49
+1695970409409,580,Delete product,404,Not Found,Seller delete product 1-10,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,580,0,58
+1695970409317,675,Delete product,404,Not Found,Seller delete product 1-16,text,false,,327,386,20,20,https://market-final-project.binaracademy.org/seller/product/92048,674,0,59
+1695970409557,437,Delete product,404,Not Found,Seller delete product 1-20,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,436,0,49
+1695970409317,678,Delete product,404,Not Found,Seller delete product 1-6,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,678,0,43
+1695970405826,4370,Delete product,404,Not Found,Seller delete product 1-2,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,4370,0,1451
+1695970408922,1274,Login,201,Created,Seller delete product 1-12,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,1274,0,438
+1695970409203,1213,Login,201,Created,Seller delete product 1-19,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,1213,0,453
+1695970409994,452,Login,201,Created,Seller delete product 1-20,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,451,0,36
+1695970397387,13109,Login,201,Created,Seller delete product 1-5,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,13109,0,12535
+1695970409846,665,Delete product,404,Not Found,Seller delete product 1-18,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,664,0,52
+1695970409989,522,Delete product,404,Not Found,Seller delete product 1-14,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,521,0,42
+1695970409995,516,Login,201,Created,Seller delete product 1-6,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,515,0,51
+1695970409918,599,Delete product,404,Not Found,Seller delete product 1-1,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,599,0,53
+1695970407093,3457,Login,201,Created,Seller delete product 1-9,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,3456,0,1773
+1695970407566,3001,Delete product,404,Not Found,Seller delete product 1-3,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,3000,0,1140
+1695970406826,3741,Login,201,Created,Seller delete product 1-17,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,3741,0,1103
+1695970408776,1937,Delete product,404,Not Found,Seller delete product 1-7,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,1937,0,1096
+1695970410197,529,Login,201,Created,Seller delete product 1-2,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,529,0,51
+1695970409576,1210,Login,201,Created,Seller delete product 1-11,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,1210,0,431
+1695970410511,455,Login,201,Created,Seller delete product 1-14,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,454,0,40
+1695970408886,2120,Login,201,Created,Seller delete product 1-13,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,2120,0,1460
+1695970410517,519,Login,201,Created,Seller delete product 1-1,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,519,0,49
+1695970409989,1097,Login,201,Created,Seller delete product 1-10,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,1097,0,457
+1695970410567,559,Login,201,Created,Seller delete product 1-3,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,559,0,49
+1695970410197,930,Delete product,404,Not Found,Seller delete product 1-12,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,929,0,51
+1695970410446,681,Delete product,404,Not Found,Seller delete product 1-20,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,680,0,50
+1695970410417,711,Delete product,404,Not Found,Seller delete product 1-19,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,711,0,49
+1695970410511,618,Delete product,404,Not Found,Seller delete product 1-6,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,617,0,40
+1695970410550,581,Delete product,404,Not Found,Seller delete product 1-9,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,581,0,47
+1695970410713,623,Login,201,Created,Seller delete product 1-7,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,623,0,54
+1695970410511,1085,Login,201,Created,Seller delete product 1-18,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,1085,0,426
+1695970411127,469,Login,201,Created,Seller delete product 1-20,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,469,0,38
+1695970411129,547,Login,201,Created,Seller delete product 1-19,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,547,0,47
+1695970411127,639,Login,201,Created,Seller delete product 1-12,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,639,0,39
+1695970411129,707,Login,201,Created,Seller delete product 1-6,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,707,0,37
+1695970411037,803,Delete product,404,Not Found,Seller delete product 1-1,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,803,0,34
+1695970410966,874,Delete product,404,Not Found,Seller delete product 1-14,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,874,0,41
+1695970411006,836,Delete product,404,Not Found,Seller delete product 1-13,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,836,0,50
+1695970410787,1057,Delete product,404,Not Found,Seller delete product 1-11,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,1057,0,49
+1695970411086,766,Delete product,404,Not Found,Seller delete product 1-10,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,766,0,41
+1695970410726,1330,Delete product,404,Not Found,Seller delete product 1-2,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,1330,0,430
+1695970411841,295,Login,201,Created,Seller delete product 1-14,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,295,0,42
+1695970411842,369,Login,201,Created,Seller delete product 1-13,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,368,0,55
+1695970411596,615,Delete product,404,Not Found,Seller delete product 1-18,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,615,0,51
+1695970411336,875,Delete product,404,Not Found,Seller delete product 1-7,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,875,0,50
+1695970411676,537,Delete product,404,Not Found,Seller delete product 1-19,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,536,0,50
+1695970411766,447,Delete product,404,Not Found,Seller delete product 1-12,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,447,0,41
+1695970411839,387,Delete product,404,Not Found,Seller delete product 1-6,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,387,0,44
+1695970411131,1124,Login,201,Created,Seller delete product 1-9,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,1124,0,435
+1695970412213,306,Login,201,Created,Seller delete product 1-19,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,306,0,42
+1695970412214,452,Login,201,Created,Seller delete product 1-12,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,452,0,52
+1695970412211,547,Login,201,Created,Seller delete product 1-18,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,547,0,55
+1695970411844,952,Login,201,Created,Seller delete product 1-11,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,952,0,449
+1695970412136,689,Delete product,404,Not Found,Seller delete product 1-14,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,689,0,51
+1695970412211,617,Delete product,404,Not Found,Seller delete product 1-13,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,617,0,44
+1695970412255,576,Delete product,404,Not Found,Seller delete product 1-9,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,576,0,51
+1695970410496,2370,Delete product,404,Not Found,Seller delete product 1-5,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,2370,0,1460
+1695970411126,1906,Delete product,404,Not Found,Seller delete product 1-3,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,1906,0,1085
+1695970411852,1180,Login,201,Created,Seller delete product 1-10,text,true,,499,282,19,19,https://market-final-project.binaracademy.org/auth/login,1180,0,441
+1695970412519,514,Delete product,404,Not Found,Seller delete product 1-19,text,false,,327,386,19,19,https://market-final-project.binaracademy.org/seller/product/92048,514,0,48
+1695970412796,250,Delete product,404,Not Found,Seller delete product 1-11,text,false,,327,386,18,18,https://market-final-project.binaracademy.org/seller/product/92048,250,0,52
+1695970410567,2547,Delete product,404,Not Found,Seller delete product 1-17,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,2547,0,440
+1695970412831,295,Login,201,Created,Seller delete product 1-9,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,295,0,56
+1695970412829,387,Login,201,Created,Seller delete product 1-13,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,387,0,42
+1695970412825,471,Login,201,Created,Seller delete product 1-14,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,471,0,42
+1695970412866,500,Login,201,Created,Seller delete product 1-5,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,499,0,52
+1695970411596,1880,Delete product,404,Not Found,Seller delete product 1-20,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,1880,0,1101
+1695970413032,554,Login,201,Created,Seller delete product 1-3,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,554,0,54
+1695970413126,460,Delete product,404,Not Found,Seller delete product 1-9,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,460,0,60
+1695970413115,546,Login,201,Created,Seller delete product 1-17,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,546,0,51
+1695970413216,445,Delete product,404,Not Found,Seller delete product 1-13,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,445,0,50
+1695970413476,271,Login,201,Created,Seller delete product 1-20,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,271,0,50
+1695970413366,459,Delete product,404,Not Found,Seller delete product 1-5,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,459,0,50
+1695970413296,540,Delete product,404,Not Found,Seller delete product 1-14,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,539,0,50
+1695970411841,2195,Login,201,Created,Seller delete product 1-1,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,2194,0,1475
+1695970413825,291,Login,201,Created,Seller delete product 1-5,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,291,0,51
+1695970413586,620,Login,201,Created,Seller delete product 1-9,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,619,0,51
+1695970412226,2007,Login,201,Created,Seller delete product 1-6,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,2007,0,1450
+1695970412211,2095,Login,201,Created,Seller delete product 1-7,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,2094,0,455
+1695970413661,687,Delete product,404,Not Found,Seller delete product 1-17,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,687,0,55
+1695970413836,512,Login,201,Created,Seller delete product 1-14,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,512,0,40
+1695970413586,763,Delete product,404,Not Found,Seller delete product 1-3,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,763,0,51
+1695970412056,2430,Login,201,Created,Seller delete product 1-2,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,2430,0,1692
+1695970414036,581,Delete product,404,Not Found,Seller delete product 1-1,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,580,0,50
+1695970409486,5150,Delete product,404,Not Found,Seller delete product 1-15,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,5150,0,1431
+1695970414116,590,Delete product,404,Not Found,Seller delete product 1-5,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,589,0,50
+1695970414348,428,Login,201,Created,Seller delete product 1-17,text,true,,499,282,17,17,https://market-final-project.binaracademy.org/auth/login,428,0,57
+1695970414206,570,Delete product,404,Not Found,Seller delete product 1-9,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,570,0,53
+1695970414233,545,Delete product,404,Not Found,Seller delete product 1-6,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,545,0,53
+1695970414306,474,Delete product,404,Not Found,Seller delete product 1-7,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,474,0,43
+1695970414348,433,Delete product,404,Not Found,Seller delete product 1-14,text,false,,327,386,17,17,https://market-final-project.binaracademy.org/seller/product/92048,432,0,57
+1695970414486,310,Delete product,404,Not Found,Seller delete product 1-2,text,false,,327,386,16,16,https://market-final-project.binaracademy.org/seller/product/92048,310,0,55
+1695970413747,1079,Delete product,404,Not Found,Seller delete product 1-20,text,false,,327,386,16,16,https://market-final-project.binaracademy.org/seller/product/92048,1079,0,441
+1695970413661,1245,Login,201,Created,Seller delete product 1-13,text,true,,499,282,15,15,https://market-final-project.binaracademy.org/auth/login,1245,0,443
+1695970414617,328,Login,201,Created,Seller delete product 1-1,text,true,,499,282,15,15,https://market-final-project.binaracademy.org/auth/login,328,0,51
+1695970413032,1935,Delete product,404,Not Found,Seller delete product 1-10,text,false,,327,386,15,15,https://market-final-project.binaracademy.org/seller/product/92048,1935,0,1455
+1695970414636,390,Login,201,Created,Seller delete product 1-15,text,true,,499,282,15,15,https://market-final-project.binaracademy.org/auth/login,389,0,59
+1695970414776,400,Login,201,Created,Seller delete product 1-9,text,true,,499,282,15,15,https://market-final-project.binaracademy.org/auth/login,399,0,43
+1695970414778,475,Login,201,Created,Seller delete product 1-6,text,true,,499,282,15,15,https://market-final-project.binaracademy.org/auth/login,475,0,41
+1695970414776,477,Delete product,404,Not Found,Seller delete product 1-17,text,false,,327,386,15,15,https://market-final-project.binaracademy.org/seller/product/92048,477,0,34
+1695970414350,955,Login,201,Created,Seller delete product 1-3,text,true,,499,282,15,15,https://market-final-project.binaracademy.org/auth/login,955,0,460
+1695970414967,498,Login,201,Created,Seller delete product 1-10,text,true,,499,282,15,15,https://market-final-project.binaracademy.org/auth/login,498,0,41
+1695970415253,293,Login,201,Created,Seller delete product 1-17,text,true,,499,282,15,15,https://market-final-project.binaracademy.org/auth/login,293,0,37
+1695970414796,820,Login,201,Created,Seller delete product 1-2,text,true,,499,282,15,15,https://market-final-project.binaracademy.org/auth/login,819,0,39
+1695970414946,829,Delete product,404,Not Found,Seller delete product 1-1,text,false,,327,386,15,15,https://market-final-project.binaracademy.org/seller/product/92048,829,0,40
+1695970415253,523,Delete product,404,Not Found,Seller delete product 1-6,text,false,,327,386,15,15,https://market-final-project.binaracademy.org/seller/product/92048,523,0,37
+1695970415306,472,Delete product,404,Not Found,Seller delete product 1-3,text,false,,327,386,15,15,https://market-final-project.binaracademy.org/seller/product/92048,471,0,40
+1695970415176,621,Delete product,404,Not Found,Seller delete product 1-9,text,false,,327,386,15,15,https://market-final-project.binaracademy.org/seller/product/92048,620,0,60
+1695970412666,3150,Delete product,404,Not Found,Seller delete product 1-12,text,false,,327,386,15,15,https://market-final-project.binaracademy.org/seller/product/92048,3150,0,1470
+1695970415466,441,Delete product,404,Not Found,Seller delete product 1-10,text,false,,327,386,15,15,https://market-final-project.binaracademy.org/seller/product/92048,440,0,50
+1695970415546,363,Delete product,404,Not Found,Seller delete product 1-17,text,false,,327,386,15,15,https://market-final-project.binaracademy.org/seller/product/92048,363,0,40
+1695970415616,310,Delete product,404,Not Found,Seller delete product 1-2,text,false,,327,386,15,15,https://market-final-project.binaracademy.org/seller/product/92048,310,0,50
+1695970414780,1196,Login,201,Created,Seller delete product 1-7,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,1196,0,436
+1695970414906,1090,Delete product,404,Not Found,Seller delete product 1-13,text,false,,327,386,14,14,https://market-final-project.binaracademy.org/seller/product/92048,1089,0,440
+1695970415816,220,Login,201,Created,Seller delete product 1-12,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,220,0,50
+1695970415775,331,Login,201,Created,Seller delete product 1-1,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,330,0,42
+1695970415026,1096,Delete product,404,Not Found,Seller delete product 1-15,text,false,,327,386,14,14,https://market-final-project.binaracademy.org/seller/product/92048,1096,0,440
+1695970414706,1430,Login,201,Created,Seller delete product 1-5,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,1429,0,440
+1695970416036,173,Delete product,404,Not Found,Seller delete product 1-12,text,false,,327,386,14,14,https://market-final-project.binaracademy.org/seller/product/92048,173,0,50
+1695970412758,3498,Delete product,404,Not Found,Seller delete product 1-18,text,false,,327,386,14,14,https://market-final-project.binaracademy.org/seller/product/92048,3498,0,459
+1695970415996,290,Login,201,Created,Seller delete product 1-13,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,290,0,40
+1695970416106,270,Delete product,404,Not Found,Seller delete product 1-1,text,false,,327,386,14,14,https://market-final-project.binaracademy.org/seller/product/92048,269,0,50
+1695970415907,469,Login,201,Created,Seller delete product 1-10,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,468,0,49
+1695970416136,360,Delete product,404,Not Found,Seller delete product 1-5,text,false,,327,386,14,14,https://market-final-project.binaracademy.org/seller/product/92048,359,0,50
+1695970416209,457,Login,201,Created,Seller delete product 1-12,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,457,0,48
+1695970416256,563,Login,201,Created,Seller delete product 1-18,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,563,0,51
+1695970415909,1047,Login,201,Created,Seller delete product 1-17,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,1046,0,447
+1695970416666,404,Delete product,404,Not Found,Seller delete product 1-12,text,false,,327,386,14,14,https://market-final-project.binaracademy.org/seller/product/92048,403,0,56
+1695970416819,251,Delete product,404,Not Found,Seller delete product 1-18,text,false,,327,386,14,14,https://market-final-project.binaracademy.org/seller/product/92048,250,0,48
+1695970416122,1074,Login,201,Created,Seller delete product 1-15,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,1073,0,444
+1695970416286,990,Delete product,404,Not Found,Seller delete product 1-13,text,false,,327,386,14,14,https://market-final-project.binaracademy.org/seller/product/92048,989,0,452
+1695970416376,900,Login,201,Created,Seller delete product 1-1,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,899,0,460
+1695970417070,236,Login,201,Created,Seller delete product 1-18,text,true,,499,282,14,14,https://market-final-project.binaracademy.org/auth/login,235,0,46
+1695970417276,149,Delete product,404,Not Found,Seller delete product 1-1,text,false,,327,386,14,14,https://market-final-project.binaracademy.org/seller/product/92048,149,0,50
+1695970417306,239,Delete product,404,Not Found,Seller delete product 1-18,text,false,,327,386,13,13,https://market-final-project.binaracademy.org/seller/product/92048,239,0,36
+1695970415778,1907,Login,201,Created,Seller delete product 1-3,text,true,,499,282,13,13,https://market-final-project.binaracademy.org/auth/login,1907,0,438
+1695970398406,19339,Login,201,Created,Seller delete product 1-4,text,true,,499,282,13,13,https://market-final-project.binaracademy.org/auth/login,19338,0,18935
+1695970417544,251,Login,201,Created,Seller delete product 1-18,text,true,,499,282,13,13,https://market-final-project.binaracademy.org/auth/login,251,0,51
+1695970417070,796,Login,201,Created,Seller delete product 1-12,text,true,,499,282,13,13,https://market-final-project.binaracademy.org/auth/login,795,0,456
+1695970417685,218,Delete product,404,Not Found,Seller delete product 1-3,text,false,,327,386,13,13,https://market-final-project.binaracademy.org/seller/product/92048,217,0,35
+1695970417745,236,Delete product,404,Not Found,Seller delete product 1-4,text,false,,327,386,12,12,https://market-final-project.binaracademy.org/seller/product/92048,236,0,50
+1695970417795,197,Delete product,404,Not Found,Seller delete product 1-18,text,false,,327,386,12,12,https://market-final-project.binaracademy.org/seller/product/92048,196,0,50
+1695970417196,809,Delete product,404,Not Found,Seller delete product 1-15,text,false,,327,386,11,11,https://market-final-project.binaracademy.org/seller/product/92048,809,0,450
+1695970417865,299,Delete product,404,Not Found,Seller delete product 1-12,text,false,,327,386,11,11,https://market-final-project.binaracademy.org/seller/product/92048,298,0,52
+1695970418005,284,Login,201,Created,Seller delete product 1-15,text,true,,499,282,10,10,https://market-final-project.binaracademy.org/auth/login,283,0,51
+1695970416496,1869,Login,201,Created,Seller delete product 1-5,text,true,,499,282,10,10,https://market-final-project.binaracademy.org/auth/login,1869,0,1442
+1695970416376,2129,Delete product,404,Not Found,Seller delete product 1-10,text,false,,327,386,10,10,https://market-final-project.binaracademy.org/seller/product/92048,2129,0,460
+1695970418365,139,Delete product,404,Not Found,Seller delete product 1-5,text,false,,327,386,10,10,https://market-final-project.binaracademy.org/seller/product/92048,139,0,51
+1695970415797,2739,Login,201,Created,Seller delete product 1-9,text,true,,499,282,9,9,https://market-final-project.binaracademy.org/auth/login,2739,0,1099
+1695970418504,210,Login,201,Created,Seller delete product 1-5,text,true,,499,282,9,9,https://market-final-project.binaracademy.org/auth/login,210,0,51
+1695970415776,3069,Login,201,Created,Seller delete product 1-6,text,true,,499,282,9,9,https://market-final-project.binaracademy.org/auth/login,3069,0,2450
+1695970418715,169,Delete product,404,Not Found,Seller delete product 1-5,text,false,,327,386,9,9,https://market-final-project.binaracademy.org/seller/product/92048,169,0,51
+1695970418885,205,Login,201,Created,Seller delete product 1-5,text,true,,499,282,9,9,https://market-final-project.binaracademy.org/auth/login,205,0,51
+1695970419090,125,Delete product,404,Not Found,Seller delete product 1-5,text,false,,327,386,9,9,https://market-final-project.binaracademy.org/seller/product/92048,124,0,55
+1695970417276,2110,Login,201,Created,Seller delete product 1-13,text,true,,499,282,9,9,https://market-final-project.binaracademy.org/auth/login,2110,0,445
+1695970419385,223,Delete product,404,Not Found,Seller delete product 1-13,text,false,,327,386,9,9,https://market-final-project.binaracademy.org/seller/product/92048,223,0,50
+1695970419215,780,Login,201,Created,Seller delete product 1-5,text,true,,499,282,8,8,https://market-final-project.binaracademy.org/auth/login,779,0,440
+1695970415976,4080,Delete product,404,Not Found,Seller delete product 1-7,text,false,,327,386,8,8,https://market-final-project.binaracademy.org/seller/product/92048,4080,0,3447
+1695970419995,129,Delete product,404,Not Found,Seller delete product 1-5,text,false,,327,386,8,8,https://market-final-project.binaracademy.org/seller/product/92048,129,0,61
+1695970420125,200,Login,201,Created,Seller delete product 1-5,text,true,,499,282,8,8,https://market-final-project.binaracademy.org/auth/login,200,0,50
+1695970418289,2136,Delete product,404,Not Found,Seller delete product 1-15,text,false,,327,386,8,8,https://market-final-project.binaracademy.org/seller/product/92048,2136,0,446
+1695970420325,114,Delete product,404,Not Found,Seller delete product 1-5,text,false,,327,386,7,7,https://market-final-project.binaracademy.org/seller/product/92048,114,0,51
+1695970418535,1920,Delete product,404,Not Found,Seller delete product 1-9,text,false,,327,386,7,7,https://market-final-project.binaracademy.org/seller/product/92048,1920,0,460
+1695970417981,3104,Login,201,Created,Seller delete product 1-4,text,true,,499,282,6,6,https://market-final-project.binaracademy.org/auth/login,3104,0,1442
+1695970421085,110,Delete product,404,Not Found,Seller delete product 1-4,text,false,,327,386,6,6,https://market-final-project.binaracademy.org/seller/product/92048,110,0,41
+1695970406666,14640,Delete product,404,Not Found,Seller delete product 1-8,text,false,,327,386,6,6,https://market-final-project.binaracademy.org/seller/product/92048,14640,0,12721
+1695970421305,208,Login,201,Created,Seller delete product 1-8,text,true,,499,282,6,6,https://market-final-project.binaracademy.org/auth/login,208,0,52
+1695970421514,121,Delete product,404,Not Found,Seller delete product 1-8,text,false,,327,386,6,6,https://market-final-project.binaracademy.org/seller/product/92048,121,0,51
+1695970421635,303,Login,201,Created,Seller delete product 1-8,text,true,,499,282,6,6,https://market-final-project.binaracademy.org/auth/login,303,0,50
+1695970421195,800,Login,201,Created,Seller delete product 1-4,text,true,,499,282,6,6,https://market-final-project.binaracademy.org/auth/login,800,0,452
+1695970418845,3204,Delete product,404,Not Found,Seller delete product 1-6,text,false,,327,386,6,6,https://market-final-project.binaracademy.org/seller/product/92048,3203,0,2840
+1695970421938,124,Delete product,404,Not Found,Seller delete product 1-8,text,false,,327,386,5,5,https://market-final-project.binaracademy.org/seller/product/92048,124,0,57
+1695970421995,107,Delete product,404,Not Found,Seller delete product 1-4,text,false,,327,386,5,5,https://market-final-project.binaracademy.org/seller/product/92048,107,0,50
+1695970420056,2059,Login,201,Created,Seller delete product 1-7,text,true,,499,282,5,5,https://market-final-project.binaracademy.org/auth/login,2059,0,451
+1695970422063,221,Login,201,Created,Seller delete product 1-8,text,true,,499,282,5,5,https://market-final-project.binaracademy.org/auth/login,221,0,53
+1695970422116,289,Delete product,404,Not Found,Seller delete product 1-7,text,false,,327,386,5,5,https://market-final-project.binaracademy.org/seller/product/92048,288,0,76
+1695970422102,303,Login,201,Created,Seller delete product 1-4,text,true,,499,282,5,5,https://market-final-project.binaracademy.org/auth/login,302,0,64
+1695970422285,166,Delete product,404,Not Found,Seller delete product 1-8,text,false,,327,386,5,5,https://market-final-project.binaracademy.org/seller/product/92048,165,0,93
+1695970422405,280,Login,201,Created,Seller delete product 1-7,text,true,,499,282,5,5,https://market-final-project.binaracademy.org/auth/login,280,0,80
+1695970416956,5760,Delete product,404,Not Found,Seller delete product 1-17,text,false,,327,386,5,5,https://market-final-project.binaracademy.org/seller/product/92048,5760,0,450
+1695970422451,315,Login,201,Created,Seller delete product 1-8,text,true,,499,282,5,5,https://market-final-project.binaracademy.org/auth/login,314,0,52
+1695970422405,361,Delete product,404,Not Found,Seller delete product 1-4,text,false,,327,386,5,5,https://market-final-project.binaracademy.org/seller/product/92048,360,0,80
+1695970422686,140,Delete product,404,Not Found,Seller delete product 1-7,text,false,,327,386,5,5,https://market-final-project.binaracademy.org/seller/product/92048,139,0,50
+1695970422717,199,Login,201,Created,Seller delete product 1-17,text,true,,499,282,4,4,https://market-final-project.binaracademy.org/auth/login,199,0,39
+1695970422767,290,Delete product,404,Not Found,Seller delete product 1-8,text,false,,327,386,4,4,https://market-final-project.binaracademy.org/seller/product/92048,290,0,42
+1695970422767,290,Login,201,Created,Seller delete product 1-4,text,true,,499,282,4,4,https://market-final-project.binaracademy.org/auth/login,290,0,42
+1695970423058,228,Delete product,404,Not Found,Seller delete product 1-4,text,false,,327,386,4,4,https://market-final-project.binaracademy.org/seller/product/92048,228,0,49
+1695970423057,229,Login,201,Created,Seller delete product 1-8,text,true,,499,282,4,4,https://market-final-project.binaracademy.org/auth/login,229,0,50
+1695970423286,189,Login,201,Created,Seller delete product 1-4,text,true,,499,282,4,4,https://market-final-project.binaracademy.org/auth/login,189,0,50
+1695970423476,107,Delete product,404,Not Found,Seller delete product 1-4,text,false,,327,386,4,4,https://market-final-project.binaracademy.org/seller/product/92048,107,0,53
+1695970422917,770,Delete product,404,Not Found,Seller delete product 1-17,text,false,,327,386,4,4,https://market-final-project.binaracademy.org/seller/product/92048,769,0,450
+1695970420440,4428,Login,201,Created,Seller delete product 1-5,text,true,,499,282,3,3,https://market-final-project.binaracademy.org/auth/login,4427,0,3811
+1695970424869,176,Delete product,404,Not Found,Seller delete product 1-5,text,false,,327,386,3,3,https://market-final-project.binaracademy.org/seller/product/92048,176,0,50
+1695970423286,1810,Delete product,404,Not Found,Seller delete product 1-8,text,false,,327,386,2,2,https://market-final-project.binaracademy.org/seller/product/92048,1810,0,451
+1695970425099,197,Login,201,Created,Seller delete product 1-8,text,true,,499,282,2,2,https://market-final-project.binaracademy.org/auth/login,197,0,57
+1695970425296,960,Delete product,404,Not Found,Seller delete product 1-8,text,false,,327,386,2,2,https://market-final-project.binaracademy.org/seller/product/92048,960,0,450
+1695970426257,189,Login,201,Created,Seller delete product 1-8,text,true,,499,282,2,2,https://market-final-project.binaracademy.org/auth/login,189,0,49
+1695970426446,120,Delete product,404,Not Found,Seller delete product 1-8,text,false,,327,386,2,2,https://market-final-project.binaracademy.org/seller/product/92048,119,0,50
+1695970423584,8862,Login,201,Created,Seller delete product 1-4,text,true,,499,282,1,1,https://market-final-project.binaracademy.org/auth/login,8861,0,1279
+1695970432445,120,Delete product,404,Not Found,Seller delete product 1-4,text,false,,327,386,1,1,https://market-final-project.binaracademy.org/seller/product/92048,119,0,50
+1695970432565,190,Login,201,Created,Seller delete product 1-4,text,true,,499,282,1,1,https://market-final-project.binaracademy.org/auth/login,190,0,50
+1695970432768,997,Delete product,404,Not Found,Seller delete product 1-4,text,false,,327,386,1,1,https://market-final-project.binaracademy.org/seller/product/92048,996,0,437
+1695970433765,201,Login,201,Created,Seller delete product 1-4,text,true,,499,282,1,1,https://market-final-project.binaracademy.org/auth/login,201,0,53
+1695970433966,2998,Delete product,404,Not Found,Seller delete product 1-4,text,false,,327,386,1,1,https://market-final-project.binaracademy.org/seller/product/92048,2998,0,2469
